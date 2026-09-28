@@ -31,14 +31,7 @@
       "url": "https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/"
     }
   ],
-  "relatedVisas": [
-    "non-o-retirement",
-    "non-oa",
-    "non-o-family",
-    "dtv",
-    "non-b-business",
-    "non-ed"
-  ],
+  "relatedVisas": ["non-o-retirement", "non-oa", "non-o-family", "dtv", "non-b-business", "non-ed"],
   "todo": [
     "TODO(verify): TM30 fine amounts. Samut Prakan Immigration says house owners face a fine of up to 2,000 THB and hotel managers 4,000 to 8,000 THB; offices commonly charge less for a first late report.",
     "TODO(verify): whether a new TM30 is required after domestic trips (practice varies by office) versus only after returning from abroad."

@@ -1,5 +1,11 @@
-import { PURPOSES, type Purpose } from "@tve/content/schema";
-import { FUNDS_BANDS, STAY_OPTIONS, type FinderInput, type FundsBandId, type StayOptionId } from "./finder";
+import { PURPOSES, type Purpose } from "@tve/content/locales";
+import {
+  FUNDS_BANDS,
+  STAY_OPTIONS,
+  type FinderInput,
+  type FundsBandId,
+  type StayOptionId,
+} from "./finder";
 
 /** Wizard answers as stored in the URL query string (shareable results). */
 export interface FinderAnswers {

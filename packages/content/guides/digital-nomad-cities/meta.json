@@ -40,11 +40,7 @@
       "url": "https://image.mfa.go.th/mfa/0/wdW3FTtVMc/2026-05-22/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3_ver._eng.pdf"
     }
   ],
-  "relatedVisas": [
-    "dtv",
-    "ltr",
-    "visa-exemption"
-  ],
+  "relatedVisas": ["dtv", "ltr", "visa-exemption"],
   "todo": [
     "TODO(verify): tax residency threshold wording: the Revenue Code (Section 41) says 180 days or more in a calendar year; the Revenue Department English page says 'more than 180 days'. Confirm with a Thai tax adviser.",
     "TODO(verify): status of Revenue Department Instructions Por. 161/2566 and Por. 162/2566 (still in force as of September 2026 per law-firm reports; a proposed remittance exemption window was not law). Re-check every quarter.",

@@ -67,12 +67,7 @@
       "url": "https://washingtondc.thaiembassy.org/en/page/advice-on-thailand-visa-overstay-regulations"
     }
   ],
-  "relatedVisas": [
-    "visa-exemption",
-    "dtv",
-    "tourist-tr",
-    "non-b-business"
-  ],
+  "relatedVisas": ["visa-exemption", "dtv", "tourist-tr", "non-b-business"],
   "todo": [
     "TODO(verify): land-border entry cap under the visa exemption (reported as 2 per calendar year, with exceptions for some neighbouring countries) and whether a 30-day extension of an exemption stay is still available after 15 September 2026.",
     "TODO(verify): extension-of-stay fee of 1,900 THB (bangkok.immigration.go.th fee page returned 403 when checked; figure from embassy/secondary sources).",

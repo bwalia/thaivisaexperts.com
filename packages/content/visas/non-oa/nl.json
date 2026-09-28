@@ -1,0 +1,102 @@
+{
+  "name": "Non-Immigrant O-A Visa (Long Stay)",
+  "shortName": "Non-O-A",
+  "summary": "Een long-stay visum van 1 jaar met meerdere binnenkomsten voor mensen van 50 jaar en ouder, dat je aanvraagt vanuit je eigen land. Je hebt 800.000 THB of 65.000 THB per maand nodig, een verklaring omtrent het gedrag, een medische verklaring en een ziektekostenverzekering. Elke binnenkomst geeft je tot een jaar verblijf in Thailand.",
+  "seoTitle": "Thailand O-A Long Stay visum: verzekering, geld en VOG",
+  "seoDescription": "Het Non-Immigrant O-A visum voor 50-plussers: 800.000 THB of 65.000 THB per maand, verplichte ziektekostenverzekering, verklaring omtrent het gedrag en medische verklaring, kosten en aanvragen.",
+  "validity": "Het visum is 1 jaar geldig, met meerdere binnenkomsten. Elke binnenkomst geeft je tot 1 jaar verblijf, dus als je vlak voordat het visum verloopt het land inreist, kun je bijna 2 jaar blijven.",
+  "extendableDetail": "Ja. Je kunt je verblijf telkens met 1 jaar verlengen bij een Thais immigratiekantoor, op basis van pensionering (formulier TM7, kosten 1.900 THB). Je moet nog steeds aan de financiële eisen voldoen, en van O-A-houders wordt ook een Thaise ziektekostenverzekering gevraagd.",
+  "feeNote": "5.000 THB volgens het Thaise tarievenoverzicht voor een Non-Immigrant visum met meerdere binnenkomsten. Ambassades rekenen dit af in lokale valuta. Verlengingen in Thailand kosten 1.900 THB per keer.",
+  "financialRequirement": "Minimaal 800.000 THB op een bankrekening, een maandinkomen van minimaal 65.000 THB, of (bij sommige ambassades) spaargeld plus jaarinkomen van samen 800.000 THB. Meestal worden bankafschriften van de laatste 3 maanden gevraagd.",
+  "processingTime": "Dat hangt af van de ambassade. Sommige noemen minimaal 15 werkdagen. Reken extra tijd om eerst de verklaring omtrent het gedrag, de medische verklaring en het verzekeringsformulier te regelen.",
+  "keyRequirements": [
+    "Je bent 50 jaar of ouder op de dag dat je aanvraagt.",
+    "Je vraagt aan in het land van je nationaliteit of waar je permanent verblijf hebt.",
+    "Je hebt 800.000 THB aan spaargeld of 65.000 THB per maand aan inkomen.",
+    "Je hebt een ziektekostenverzekering die voldoet aan de Thaise regels (de e-Visa-site vraagt om een dekking van minimaal USD 100.000 of 3.000.000 THB).",
+    "Je hebt een blanco strafblad en geen verboden ziekten.",
+    "Je werkt niet in Thailand. Werk in welke vorm dan ook is niet toegestaan."
+  ],
+  "documents": [
+    "Paspoort dat lang genoeg geldig is voor je verblijf (sommige ambassades vragen 18 maanden)",
+    "Recente pasfoto (maximaal 6 maanden oud)",
+    "Bewijs van permanent verblijf in het land waar je aanvraagt",
+    "Bankafschriften van de laatste 3 maanden met minimaal 800.000 THB, of bewijs van 65.000 THB maandinkomen",
+    "Verklaring omtrent het gedrag uit het land van je nationaliteit of verblijf",
+    "Medische verklaring van maximaal 3 maanden oud waaruit blijkt dat je geen verboden ziekten hebt",
+    "Foreign Insurance Certificate-formulier, ingevuld en gestempeld door je verzekeraar (via longstay.tgia.org)",
+    "Ziektekostenverzekering die je hele verblijf dekt"
+  ],
+  "howToApply": [
+    {
+      "step": "Vraag je verklaring omtrent het gedrag aan",
+      "detail": "Vraag een verklaring omtrent het gedrag aan in het land van je nationaliteit of verblijf. Sommige ambassades willen dat deze notarieel gelegaliseerd is, dus check dat eerst."
+    },
+    {
+      "step": "Ga naar een arts",
+      "detail": "Laat een medische verklaring opstellen waaruit blijkt dat je geen van de ziekten hebt die in de Thaise Ministerial Regulation No. 14 staan. Die mag bij je aanvraag niet ouder zijn dan 3 maanden."
+    },
+    {
+      "step": "Regel een ziektekostenverzekering",
+      "detail": "Sluit een polis af die aan de Thaise regels voldoet en vraag je verzekeraar het Foreign Insurance Certificate-formulier van longstay.tgia.org in te vullen en te stempelen."
+    },
+    {
+      "step": "Vraag aan via de e-Visa-site",
+      "detail": "Vraag aan op thaievisa.go.th en kies Long-stay (O-A). Upload alle documenten en betaal de kosten."
+    },
+    {
+      "step": "Reis Thailand in",
+      "detail": "Vul in de 3 dagen voor aankomst de gratis TDAC in. Elke binnenkomst geeft je tot 1 jaar verblijf."
+    },
+    {
+      "step": "Blijf aan de regels voldoen",
+      "detail": "Meld je elke 90 dagen, vraag een re-entry permit aan voordat je vertrekt als je je verblijf wilt behouden, en verleng bij immigratie voordat je verblijfsvergunning afloopt."
+    }
+  ],
+  "bestFor": [
+    "Gepensioneerden van 50+ die vanaf de dag van aankomst een volledig jaar willen",
+    "Mensen die vaak Thailand in- en uitreizen (meerdere binnenkomsten)",
+    "Iedereen die het papierwerk liever thuis afrondt voordat hij of zij verhuist"
+  ],
+  "notFor": [
+    "Iedereen onder de 50",
+    "Mensen die geen betaalbare ziektekostenverzekering kunnen krijgen, bijvoorbeeld door leeftijd of bestaande aandoeningen",
+    "Mensen die in Thailand willen werken",
+    "Iedereen die niet woont in het land waar hij of zij zou aanvragen"
+  ],
+  "commonMistakes": [
+    "Een verzekering afsluiten die niet de vereiste dekking heeft, of het Foreign Insurance Certificate-formulier niet laten stempelen",
+    "De medische verklaring of verklaring omtrent het gedrag ouder laten worden dan de ambassade toestaat",
+    "Aanvragen buiten het land van je nationaliteit of permanent verblijf",
+    "Thailand verlaten zonder re-entry permit na een verlenging, waardoor die vervalt",
+    "De 90-dagenmelding van je adres vergeten"
+  ],
+  "faqs": [
+    {
+      "q": "Wat is het verschil tussen het O-A en een Non-O retirement visum?",
+      "a": "Het O-A geeft je meteen tot een jaar en staat meerdere binnenkomsten toe, maar je moet het vanuit het buitenland aanvragen met een verklaring omtrent het gedrag, medische verklaring en ziektekostenverzekering. Het Non-O geeft je 90 dagen, waarna je in Thailand verlengt tot een jaar, en een ziektekostenverzekering is niet verplicht."
+    },
+    {
+      "q": "Hoeveel dekking moet mijn ziektekostenverzekering hebben?",
+      "a": "De officiële e-Visa-site vraagt om een ziektekostenverzekering van een Thaise of buitenlandse verzekeraar met een dekking van minimaal USD 100.000 of 3.000.000 THB. Sommige consulaten noemen nog 40.000 THB voor poliklinische en 400.000 THB voor klinische zorg. Check dit bij de ambassade die je aanvraag behandelt."
+    },
+    {
+      "q": "Mag ik een buitenlandse verzekeraar gebruiken?",
+      "a": "Ja, voor het visum, zolang de verzekeraar het Foreign Insurance Certificate-formulier invult en stempelt. Voor verlengingen in Thailand vraagt immigratie meestal om een polis van een Thaise verzekeraar."
+    },
+    {
+      "q": "Kan ik langer dan een jaar blijven?",
+      "a": "Ja. Reis opnieuw in voordat het visum verloopt voor nog een jaar, of verleng je verblijf bij een immigratiekantoor telkens met 1 jaar."
+    },
+    {
+      "q": "Moet het geld in Thailand staan?",
+      "a": "Niet voor het visum zelf. Bankafschriften van je eigen bank zijn prima. Voor verlengingen in Thailand moet het geld op een Thaise bankrekening staan."
+    },
+    {
+      "q": "Mag ik werken?",
+      "a": "Nee. Werk in welke vorm dan ook is verboden met het O-A."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -106,3 +106,16 @@ describe("messages", () => {
 describe("images", () => {
   it("ids are unique", () => expect(imageIds.size).toBe(images.length));
 });
+
+describe("todo docs", () => {
+  it("docs/CONTENT-TODO.md and docs/TRANSLATION-TODO.md are up to date (run pnpm --filter @tve/content todo)", async () => {
+    const { readFileSync } = await import("node:fs");
+    const { join } = await import("node:path");
+    // @ts-expect-error — plain JS module
+    const { buildDocs } = await import("../scripts/todo-docs.mjs");
+    const d = buildDocs();
+    const docs = join(__dirname, "../../../docs");
+    expect(readFileSync(join(docs, "CONTENT-TODO.md"), "utf8")).toBe(d.content);
+    expect(readFileSync(join(docs, "TRANSLATION-TODO.md"), "utf8")).toBe(d.translation);
+  });
+});

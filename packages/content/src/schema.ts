@@ -1,9 +1,8 @@
 import { z } from "zod";
 
-/** Supported locales. English is the source of truth. */
-export const LOCALES = ["en", "fr", "nl", "th"] as const;
-export type Locale = (typeof LOCALES)[number];
-export const DEFAULT_LOCALE: Locale = "en";
+import { PURPOSES, VISA_CATEGORIES, type Locale } from "./locales";
+
+export { LOCALES, DEFAULT_LOCALE, PURPOSES, VISA_CATEGORIES, type Locale } from "./locales";
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "Expected YYYY-MM-DD");
 
@@ -16,30 +15,9 @@ export const LocalizedString = z.object({
 });
 export type LocalizedString = z.infer<typeof LocalizedString>;
 
-export const VISA_CATEGORIES = [
-  "short-stay",
-  "long-stay",
-  "work-business",
-  "study-training",
-  "retirement",
-  "family",
-] as const;
 export const VisaCategory = z.enum(VISA_CATEGORIES);
 export type VisaCategory = z.infer<typeof VisaCategory>;
 
-export const PURPOSES = [
-  "holiday",
-  "muay-thai",
-  "remote-work",
-  "business-meeting",
-  "work",
-  "study",
-  "retire",
-  "family",
-  "wellness",
-  "cooking-course",
-  "invest",
-] as const;
 export const Purpose = z.enum(PURPOSES);
 export type Purpose = z.infer<typeof Purpose>;
 

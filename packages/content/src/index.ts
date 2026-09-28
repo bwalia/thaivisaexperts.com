@@ -45,12 +45,33 @@ const facts = Object.fromEntries(
   Object.entries(visaFiles).map(([slug, e]) => [slug, VisaFacts.parse(e.meta)]),
 ) as Record<string, VisaFacts>;
 
+/** Display order: short stays first, then long-stay, work, study, retirement, family. Unlisted slugs go last. */
+export const VISA_ORDER = [
+  "visa-exemption",
+  "visa-on-arrival",
+  "tourist-tr",
+  "dtv",
+  "non-ed",
+  "non-b-business",
+  "ltr",
+  "smart",
+  "non-o-retirement",
+  "non-oa",
+  "non-o-family",
+  "thailand-privilege",
+];
+
+const rank = (slug: string) => {
+  const i = VISA_ORDER.indexOf(slug);
+  return i === -1 ? VISA_ORDER.length : i;
+};
+
 export function getVisaSlugs(): string[] {
-  return Object.keys(facts);
+  return Object.keys(facts).sort((a, b) => rank(a) - rank(b) || a.localeCompare(b));
 }
 
 export function getAllVisaFacts(): VisaFacts[] {
-  return Object.values(facts);
+  return getVisaSlugs().map((s) => facts[s]!);
 }
 
 export function getVisa(slug: string, locale: Locale): Visa | undefined {

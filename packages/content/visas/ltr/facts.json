@@ -54,7 +54,14 @@
       "url": "https://visa.boi.go.th/login"
     }
   ],
-  "relatedVisas": ["smart", "thailand-privilege", "dtv", "non-oa", "non-o-retirement", "non-b-business"],
+  "relatedVisas": [
+    "smart",
+    "thailand-privilege",
+    "dtv",
+    "non-oa",
+    "non-o-retirement",
+    "non-b-business"
+  ],
   "todo": [
     "TODO(verify): minFundsTHB 1,320,000 is the lowest income threshold (USD 40,000 a year, for Work-from-Thailand or Highly Skilled applicants with a master's degree or higher) converted at an approximate 33 THB per USD. Update if the rate moves significantly.",
     "TODO(verify): The January 2025 Cabinet amendment was reported to extend dependants to parents with no limit on numbers; ltr.boi.go.th still says a maximum of 4 dependants (spouse and children under 20).",

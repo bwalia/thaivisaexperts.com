@@ -1,0 +1,97 @@
+{
+  "title": "Politique de confidentialité",
+  "summary": "Thai Visa Experts est un site web d'information statique. Vous n'avez pas besoin de compte, nous ne vendons pas de données et nous collectons le moins possible. La présente politique explique la faible quantité de données concernées lorsque vous consultez le site, enregistrez des préférences ou nous contactez, ainsi que vos droits au titre du RGPD et de la PDPA thaïlandaise.",
+  "seoTitle": "Politique de confidentialité",
+  "seoDescription": "Comment Thai Visa Experts traite vos données : pas de compte, pas de cookies de suivi, des préférences stockées uniquement sur votre appareil, et vos droits au titre du RGPD et de la PDPA thaïlandaise.",
+  "sections": [
+    {
+      "heading": "Qui nous sommes et comment nous contacter",
+      "paragraphs": [
+        "La présente politique s'applique à thaivisaexperts.com, un site web d'information indépendant sur les visas thaïlandais (« nous »). Nous sommes responsables des données personnelles décrites ici. Pour toute question ou demande relative à la confidentialité, écrivez à hello@thaivisaexperts.com.",
+        "Nous ne vendons, ne louons ni n'échangeons de données personnelles, et nous ne les utilisons pas à des fins publicitaires."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Ce que nous collectons, et pourquoi",
+      "paragraphs": [
+        "Le site est constitué de pages statiques. Il n'y a ni comptes utilisateurs, ni identifiants de connexion, ni commentaires, ni paiements, et nous ne demandons jamais d'informations de passeport."
+      ],
+      "list": [
+        "Journaux du serveur et du CDN : lorsque vous chargez une page ou une image, notre hébergeur et notre réseau de diffusion d'images (CDN) enregistrent automatiquement des données techniques telles que votre adresse IP, le type de navigateur, la page demandée et l'heure. Ces journaux assurent la sécurité et le bon fonctionnement du site, ne sont conservés que pendant une courte période par ces prestataires et ne servent pas à établir votre profil.",
+        "Formulaire de contact (s'il est activé) : si vous nous écrivez via le formulaire de contact, votre nom, votre adresse e-mail et votre message transitent par Formspree, un prestataire tiers de traitement de formulaires, puis sont remis dans notre boîte de réception. Nous les utilisons uniquement pour vous répondre. Vous pouvez aussi nous écrire directement par e-mail.",
+        "E-mails que vous nous envoyez : nous conservons votre message uniquement le temps nécessaire pour vous répondre et assurer le suivi éventuel, puis nous le supprimons.",
+        "Mesure d'audience (si elle est activée) : nous pouvons utiliser un service de mesure d'audience respectueux de la vie privée, comme Plausible ou Umami. Ces outils n'utilisent pas de cookies, ne vous suivent pas d'un site à l'autre et ne stockent pas de données personnelles ; ils comptabilisent de manière agrégée les visites, les pages et les pays, afin que nous sachions quels guides sont utiles."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Données stockées uniquement sur votre appareil",
+      "paragraphs": [
+        "Certaines fonctionnalités mémorisent vos choix grâce au localStorage de votre navigateur. Ces données restent sur votre appareil. Elles ne nous sont jamais transmises, et vous pouvez les effacer à tout moment via les paramètres de votre navigateur."
+      ],
+      "list": [
+        "Cases cochées : les éléments que vous avez cochés dans les listes de documents.",
+        "Langue : la dernière langue que vous avez choisie.",
+        "Thème : votre préférence pour l'affichage clair ou sombre."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Nous n'utilisons pas de cookies publicitaires ni de cookies de suivi, et si la mesure d'audience est activée, elle fonctionne sans cookies. Comme nous ne stockons sur votre appareil que des préférences strictement nécessaires, nous n'affichons pas de bandeau cookies. Si cela venait à changer, nous mettrions à jour la présente politique et vous demanderions votre consentement lorsque la loi l'exige."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Base légale, partage et transferts internationaux",
+      "paragraphs": [
+        "Nous traitons les journaux du serveur et les statistiques d'audience agrégées sur la base de notre intérêt légitime à exploiter un site web sûr et utile. Nous traitons les messages de contact afin de répondre à votre demande, ce qui relève également d'un intérêt légitime, ou d'une démarche que vous nous avez demandé d'effectuer.",
+        "Nous ne partageons des données qu'avec les prestataires de services qui assurent le fonctionnement du site : notre hébergeur et notre CDN, le prestataire de traitement de formulaires (Formspree) si le formulaire de contact est activé, et le prestataire de mesure d'audience si la mesure d'audience est activée. Ils agissent pour notre compte et peuvent traiter des données en dehors de votre pays, y compris aux États-Unis. Lorsque le RGPD s'applique, ces transferts reposent sur des garanties appropriées, telles que les clauses contractuelles types de la Commission européenne ou une décision d'adéquation.",
+        "Nous pouvons divulguer des données si la loi l'exige, par exemple en réponse à une décision de justice valable."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Vos droits au titre du RGPD (UE, EEE et Royaume-Uni)",
+      "paragraphs": [
+        "Si vous vous trouvez dans l'Union européenne, l'Espace économique européen ou au Royaume-Uni, le Règlement général sur la protection des données (RGPD, ou UK GDPR) vous confère les droits suivants sur les données personnelles que nous détenons à votre sujet. Pour exercer l'un de ces droits, écrivez à hello@thaivisaexperts.com. Nous vous répondrons dans un délai d'un mois."
+      ],
+      "list": [
+        "Accès : demander une copie des données personnelles que nous détenons à votre sujet.",
+        "Rectification : nous demander de corriger des données inexactes.",
+        "Effacement : nous demander de supprimer vos données.",
+        "Limitation : nous demander de limiter l'utilisation de vos données.",
+        "Opposition : vous opposer à un traitement fondé sur nos intérêts légitimes.",
+        "Portabilité : recevoir les données que vous nous avez fournies dans un format courant et lisible par machine.",
+        "Réclamation : introduire une réclamation auprès de votre autorité nationale de protection des données. Nous vous serions reconnaissants de nous donner d'abord la possibilité de résoudre le problème."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Vos droits au titre de la PDPA thaïlandaise",
+      "paragraphs": [
+        "Si vous vous trouvez en Thaïlande, la loi sur la protection des données personnelles B.E. 2562 (2019) (Personal Data Protection Act, PDPA) vous confère des droits similaires : accéder à vos données et en obtenir une copie, les faire rectifier, effacer ou limiter, vous opposer à leur traitement, bénéficier de la portabilité des données et retirer votre consentement lorsque le traitement repose sur le consentement. Vous pouvez également introduire une réclamation auprès du Personal Data Protection Committee (PDPC, Comité de protection des données personnelles). Contactez-nous à hello@thaivisaexperts.com pour exercer ces droits."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Sécurité, enfants et modifications",
+      "paragraphs": [
+        "Le site est servi en HTTPS, et nous limitons au minimum les données que nous détenons. Aucun système n'étant parfaitement sûr, merci de ne pas nous envoyer de documents sensibles tels que des scans de passeport ou des relevés bancaires. Nous n'en avons pas besoin et ne les demanderons pas.",
+        "Le site ne s'adresse pas aux enfants de moins de 16 ans, et nous ne collectons pas sciemment leurs données.",
+        "Nous pouvons mettre à jour la présente politique lorsque nos services évoluent. La date de « dernière vérification » en haut de la page indique quand elle a été revue pour la dernière fois."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

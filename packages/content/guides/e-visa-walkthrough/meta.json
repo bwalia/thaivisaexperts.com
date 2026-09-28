@@ -40,12 +40,7 @@
       "url": "https://consular.mfa.go.th/"
     }
   ],
-  "relatedVisas": [
-    "tourist-tr",
-    "dtv",
-    "non-b-business",
-    "non-ed"
-  ],
+  "relatedVisas": ["tourist-tr", "dtv", "non-b-business", "non-ed"],
   "todo": [
     "TODO(verify): processing time and the earliest/latest application window differ by embassy (Vienna: opens 90 days before arrival, decision within 30 working days; Islamabad: about 14 working days). Re-check the example figures before each review.",
     "TODO(verify): whether a printed e-Visa is still required at check-in varies by embassy (the Islamabad notice says printed copy only). Confirm whether a general rule exists."

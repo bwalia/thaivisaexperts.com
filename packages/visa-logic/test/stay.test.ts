@@ -30,7 +30,11 @@ describe("ninetyDayReports", () => {
   it("lists each report with its filing window", () => {
     const r = ninetyDayReports("2026-01-01", lastDayOfStay("2026-01-01", 365));
     expect(r.map((x) => x.due)).toEqual(["2026-04-01", "2026-06-30", "2026-09-28", "2026-12-27"]);
-    expect(r[0]).toEqual({ due: "2026-04-01", windowOpens: "2026-03-17", windowCloses: "2026-04-08" });
+    expect(r[0]).toEqual({
+      due: "2026-04-01",
+      windowOpens: "2026-03-17",
+      windowCloses: "2026-04-08",
+    });
   });
 });
 

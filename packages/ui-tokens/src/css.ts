@@ -12,7 +12,9 @@ function colorVars(mode: keyof typeof colors, indent: string) {
 export function renderCss(): string {
   const scale = [
     ...Object.entries(space).map(([k, v]) => `  --tve-space-${k}: ${v / 16}rem;`),
-    ...Object.entries(radius).map(([k, v]) => `  --tve-radius-${k}: ${v === 9999 ? "9999px" : `${v / 16}rem`};`),
+    ...Object.entries(radius).map(
+      ([k, v]) => `  --tve-radius-${k}: ${v === 9999 ? "9999px" : `${v / 16}rem`};`,
+    ),
     ...Object.entries(shadow).map(([k, v]) => `  --tve-shadow-${k}: ${v};`),
     `  --tve-duration-fast: ${motion.durationFast}ms;`,
     `  --tve-duration: ${motion.duration}ms;`,

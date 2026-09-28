@@ -1,9 +1,7 @@
 {
   "slug": "non-oa",
   "category": "retirement",
-  "purposes": [
-    "retire"
-  ],
+  "purposes": ["retire"],
   "maxStayDays": 365,
   "extendable": true,
   "extensionDays": 365,
@@ -74,12 +72,7 @@
       "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
     }
   ],
-  "relatedVisas": [
-    "non-o-retirement",
-    "thailand-privilege",
-    "ltr",
-    "non-o-family"
-  ],
+  "relatedVisas": ["non-o-retirement", "thailand-privilege", "ltr", "non-o-family"],
   "todo": [
     "TODO(verify): insurance amounts differ between sources. The e-Visa site asks for at least USD 100,000 / 3,000,000 THB; some consulates (e.g. Chicago) still list 40,000 THB outpatient / 400,000 THB inpatient. Confirm the current figure.",
     "TODO(verify): insurance rule for in-country extensions of an O-A stay (TGIA lists 40,000 THB outpatient / 400,000 THB inpatient from a Thai insurer).",

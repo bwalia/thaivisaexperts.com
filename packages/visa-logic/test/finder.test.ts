@@ -53,12 +53,16 @@ describe("findVisas", () => {
   });
 
   it("recommends DTV for a 6-month remote-work stay with enough funds", () => {
-    const s = slugs(input({ purpose: "remote-work", stayDays: 180, remoteWork: true, funds: "500k-800k" }));
+    const s = slugs(
+      input({ purpose: "remote-work", stayDays: 180, remoteWork: true, funds: "500k-800k" }),
+    );
     expect(s[0]).toBe("dtv");
   });
 
   it("excludes DTV when funds are below the minimum", () => {
-    const s = slugs(input({ purpose: "remote-work", stayDays: 180, remoteWork: true, funds: "under-100k" }));
+    const s = slugs(
+      input({ purpose: "remote-work", stayDays: 180, remoteWork: true, funds: "under-100k" }),
+    );
     expect(s).not.toContain("dtv");
   });
 
@@ -73,8 +77,12 @@ describe("findVisas", () => {
   });
 
   it("requires the minimum age for retirement", () => {
-    expect(slugs(input({ purpose: "retire", stayDays: 365, age: 45, funds: "800k-3m" }))).not.toContain("non-o-retirement");
-    expect(slugs(input({ purpose: "retire", stayDays: 365, age: 60, funds: "800k-3m" }))[0]).toBe("non-o-retirement");
+    expect(
+      slugs(input({ purpose: "retire", stayDays: 365, age: 45, funds: "800k-3m" })),
+    ).not.toContain("non-o-retirement");
+    expect(slugs(input({ purpose: "retire", stayDays: 365, age: 60, funds: "800k-3m" }))[0]).toBe(
+      "non-o-retirement",
+    );
   });
 
   it("only returns work-permit visas for local employment", () => {
@@ -95,17 +103,42 @@ describe("findVisas", () => {
 
 describe("query string round-trip", () => {
   it("parses and serialises answers", () => {
-    const p = new URLSearchParams("nationality=gb&purpose=muay-thai&stay=up-to-180&remote=no&funds=500k-800k");
+    const p = new URLSearchParams(
+      "nationality=gb&purpose=muay-thai&stay=up-to-180&remote=no&funds=500k-800k",
+    );
     const a = answersFromParams(p);
-    expect(a).toEqual({ nationality: "GB", purpose: "muay-thai", stay: "up-to-180", remote: false, funds: "500k-800k", age: null });
+    expect(a).toEqual({
+      nationality: "GB",
+      purpose: "muay-thai",
+      stay: "up-to-180",
+      remote: false,
+      funds: "500k-800k",
+      age: null,
+    });
     expect(answersFromParams(answersToParams(a))).toEqual(a);
   });
   it("ignores invalid values", () => {
-    const a = answersFromParams(new URLSearchParams("nationality=GBR&purpose=spy&stay=forever&age=5"));
-    expect(a).toEqual({ nationality: null, purpose: null, stay: null, remote: null, funds: null, age: null });
+    const a = answersFromParams(
+      new URLSearchParams("nationality=GBR&purpose=spy&stay=forever&age=5"),
+    );
+    expect(a).toEqual({
+      nationality: null,
+      purpose: null,
+      stay: null,
+      remote: null,
+      funds: null,
+      age: null,
+    });
   });
   it("requires age only for retirement", () => {
-    const base = { nationality: "GB", purpose: "retire", stay: "up-to-365", remote: false, funds: null, age: null } as const;
+    const base = {
+      nationality: "GB",
+      purpose: "retire",
+      stay: "up-to-365",
+      remote: false,
+      funds: null,
+      age: null,
+    } as const;
     expect(toFinderInput(base)).toBeNull();
     expect(toFinderInput({ ...base, age: 55 })?.stayDays).toBe(365);
     expect(toFinderInput({ ...base, purpose: "holiday" })).not.toBeNull();

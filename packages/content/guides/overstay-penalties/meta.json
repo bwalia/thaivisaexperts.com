@@ -31,12 +31,7 @@
       "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
     }
   ],
-  "relatedVisas": [
-    "visa-exemption",
-    "tourist-tr",
-    "visa-on-arrival",
-    "dtv"
-  ],
+  "relatedVisas": ["visa-exemption", "tourist-tr", "visa-on-arrival", "dtv"],
   "todo": [
     "TODO(verify): the Washington embassy page (updated 2023) says overstays of a few hours may be waived at the officer's discretion. Confirm this is still current practice."
   ]

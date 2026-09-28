@@ -22,12 +22,7 @@
       "url": "https://berlin.thaiembassy.org/de/page/thailand-digital-arrival-card-tdac-verpflichtend-a?menu=6800a4f24a0eb00df74dc473"
     }
   ],
-  "relatedVisas": [
-    "visa-exemption",
-    "visa-on-arrival",
-    "tourist-tr",
-    "dtv"
-  ],
+  "relatedVisas": ["visa-exemption", "visa-on-arrival", "tourist-tr", "dtv"],
   "todo": [
     "TODO(verify): whether a TDAC can be submitted on the day of arrival itself (the official notice says information must be submitted \"3 days in advance of their arrival date\").",
     "TODO(verify): whether long-term residents re-entering with an extension and re-entry permit must submit a TDAC every time (the official notice says all foreigners)."

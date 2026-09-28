@@ -1,0 +1,59 @@
+{
+  "title": "Avertissement",
+  "summary": "Thai Visa Experts est un site web d'information indépendant. Nous ne sommes ni le gouvernement thaïlandais, ni le Bureau de l'immigration, ni une ambassade, et nos pages constituent des informations générales, et non des conseils juridiques. Vérifiez toujours les règles auprès des sources officielles avant de voyager.",
+  "seoTitle": "Avertissement : site indépendant, non officiel",
+  "seoDescription": "Thai Visa Experts n'est affilié ni au gouvernement royal thaïlandais, ni au Bureau de l'immigration, ni à aucune ambassade. Nos informations sont d'ordre général et ne constituent pas des conseils juridiques.",
+  "sections": [
+    {
+      "heading": "Nous ne sommes pas un site gouvernemental",
+      "paragraphs": [
+        "Thai Visa Experts est indépendant. Nous ne sommes ni affiliés au gouvernement royal thaïlandais, au ministère des Affaires étrangères, au Bureau de l'immigration, au Board of Investment, à Thailand Privilege ou à une quelconque ambassade ou un quelconque consulat royal de Thaïlande, ni approuvés par eux, ni n'agissons pour leur compte.",
+        "Seules les autorités thaïlandaises peuvent délivrer des visas et décider qui peut entrer ou séjourner en Thaïlande. Les agents d'immigration disposent d'un pouvoir d'appréciation à la frontière, et le fait de détenir le bon visa ne garantit pas l'entrée."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Des informations générales, pas des conseils juridiques",
+      "paragraphs": [
+        "Nos pages expliquent les règles en termes généraux pour vous aider à comprendre vos options. Elles ne constituent pas des conseils juridiques, en matière d'immigration ou fiscaux, et ne peuvent pas couvrir toutes les situations personnelles. Si votre cas est complexe, par exemple en raison d'un dépassement de séjour passé, d'un casier judiciaire, d'un changement de statut ou d'une question fiscale, adressez-vous à un avocat ou à un conseiller fiscal qualifié, ou contactez directement l'autorité compétente."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Vérifiez toujours auprès des sources officielles",
+      "paragraphs": [
+        "Avant de faire une demande, de payer ou de réserver un voyage, vérifiez les règles en vigueur sur les sites officiels. Chacune de nos pages renvoie vers les sources que nous avons utilisées."
+      ],
+      "list": [
+        "Portail e-Visa thaïlandais : thaievisa.go.th",
+        "Ministère des Affaires étrangères, Département des affaires consulaires : consular.mfa.go.th",
+        "Bureau de l'immigration : immigration.go.th",
+        "Thailand Digital Arrival Card : tdac.immigration.go.th",
+        "Le site web de l'ambassade ou du consulat royal de Thaïlande qui traite votre demande"
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Les règles changent",
+      "paragraphs": [
+        "Les règles, frais et régimes d'entrée thaïlandais en matière de visas changent souvent, parfois dans de brefs délais. Par exemple, la durée de séjour sans visa pour de nombreuses nationalités est passée de 60 à 30 jours le 15 septembre 2026. Chaque page affiche une date de « dernière vérification ». Des informations exactes à cette date peuvent être obsolètes au moment où vous les lisez, et les ambassades peuvent fixer leurs propres exigences."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Nous ne demandons jamais d'informations de passeport ni de paiement de visa",
+      "paragraphs": [
+        "Nous ne traitons pas de demandes de visa. Nous ne vous demanderons jamais votre numéro de passeport, des scans de passeport, des relevés bancaires ni de paiement pour un visa, la TDAC ou tout autre service public. Toute personne qui vous contacte en se présentant comme Thai Visa Experts et vous demande ces éléments n'est pas nous. Merci de le signaler à hello@thaivisaexperts.com.",
+        "Ne payez les frais de visa que via thaievisa.go.th ou selon les instructions de votre ambassade de Thaïlande. La TDAC est gratuite."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

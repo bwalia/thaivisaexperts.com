@@ -72,12 +72,7 @@ export interface FinderData {
  * Purposes a short-stay visa can cover for a short trip even if not its headline purpose.
  * Business meetings are excluded: since 15 Sep 2026 visa-free entry is for tourism only.
  */
-const SHORT_STAY_PURPOSES: Purpose[] = [
-  "holiday",
-  "muay-thai",
-  "wellness",
-  "cooking-course",
-];
+const SHORT_STAY_PURPOSES: Purpose[] = ["holiday", "muay-thai", "wellness", "cooking-course"];
 
 type Evaluation = { score: number; reasons: Reason[]; warnings: Reason[] } | null;
 
@@ -140,8 +135,7 @@ function evaluate(v: VisaFacts, input: FinderInput, country: Country | undefined
   }
 
   // Length of stay. Nationality-specific stay beats the visa default for exemption/VoA.
-  const perEntry =
-    v.eligibility !== "all" && country?.stayDays ? country.stayDays : v.maxStayDays;
+  const perEntry = v.eligibility !== "all" && country?.stayDays ? country.stayDays : v.maxStayDays;
   if (perEntry === null) {
     score += 20; // long-validity visa without a fixed per-entry limit
   } else if (input.stayDays <= perEntry) {
@@ -183,7 +177,13 @@ export function findVisas(input: FinderInput, data: FinderData): FinderResult[] 
   for (const v of data.visas) {
     const e = evaluate(v, input, country);
     if (!e) continue;
-    results.push({ slug: v.slug, score: e.score, fit: "possible", reasons: e.reasons, warnings: e.warnings });
+    results.push({
+      slug: v.slug,
+      score: e.score,
+      fit: "possible",
+      reasons: e.reasons,
+      warnings: e.warnings,
+    });
   }
   results.sort((a, b) => b.score - a.score || a.slug.localeCompare(b.slug));
   results.forEach((r, i) => {

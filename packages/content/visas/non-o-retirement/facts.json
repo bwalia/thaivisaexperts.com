@@ -1,9 +1,7 @@
 {
   "slug": "non-o-retirement",
   "category": "retirement",
-  "purposes": [
-    "retire"
-  ],
+  "purposes": ["retire"],
   "maxStayDays": 90,
   "extendable": true,
   "extensionDays": 365,
@@ -56,12 +54,7 @@
       "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
     }
   ],
-  "relatedVisas": [
-    "non-oa",
-    "non-o-family",
-    "thailand-privilege",
-    "ltr"
-  ],
+  "relatedVisas": ["non-oa", "non-o-family", "thailand-privilege", "ltr"],
   "todo": [
     "TODO(verify): seasoning of the 800,000 THB for a retirement extension. The widely applied rule is 2 months before the first extension and 3 months before each later one, then 400,000 THB kept at all times; Samut Prakan Immigration lists 3 months. Confirm against the current Immigration Bureau order.",
     "TODO(verify): whether each embassy still issues income letters for the 65,000 THB route, and what immigration offices accept instead (e.g. 12 months of transfers from abroad).",

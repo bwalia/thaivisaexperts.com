@@ -49,12 +49,7 @@
       "url": "https://www.immigration.go.th/"
     }
   ],
-  "relatedVisas": [
-    "dtv",
-    "non-ed",
-    "visa-exemption",
-    "tourist-tr"
-  ],
+  "relatedVisas": ["dtv", "non-ed", "visa-exemption", "tourist-tr"],
   "todo": [
     "TODO(verify): DTV fee of 10,000 THB and its local-currency equivalent per embassy (official DTV page did not render when checked).",
     "TODO(verify): DTV changes from 31 August 2026 (proof of permanent residence in the country where you apply; criminal record certificate) are reported by several law firms; confirm on an embassy or thaievisa.go.th page.",

@@ -1,0 +1,97 @@
+{
+  "title": "Privacybeleid",
+  "summary": "Thai Visa Experts is een statische informatiewebsite. Je hebt geen account nodig, we verkopen geen gegevens en we verzamelen zo weinig mogelijk. Dit beleid legt uit om welke kleine hoeveelheid gegevens het gaat wanneer je de site leest, voorkeuren opslaat of contact met ons opneemt, en wat je rechten zijn onder de AVG (GDPR) en de Thaise PDPA.",
+  "seoTitle": "Privacybeleid",
+  "seoDescription": "Hoe Thai Visa Experts met je gegevens omgaat: geen accounts, geen trackingcookies, voorkeuren alleen lokaal op je apparaat, en je rechten onder de AVG (GDPR) en de Thaise PDPA.",
+  "sections": [
+    {
+      "heading": "Wie we zijn en hoe je ons bereikt",
+      "paragraphs": [
+        "Dit beleid geldt voor thaivisaexperts.com, een onafhankelijke informatiewebsite over Thaise visa (\"we\", \"ons\"). Wij zijn verantwoordelijk voor de persoonsgegevens die hier worden beschreven. Voor elke vraag of elk verzoek over privacy kun je mailen naar hello@thaivisaexperts.com.",
+        "We verkopen, verhuren en verhandelen geen persoonsgegevens, en we gebruiken ze niet voor advertenties."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Wat we verzamelen, en waarom",
+      "paragraphs": [
+        "De site bestaat uit statische pagina's. Er zijn geen gebruikersaccounts, logins, reacties of betalingen, en we vragen nooit om paspoortgegevens."
+      ],
+      "list": [
+        "Server- en CDN-logs: wanneer je een pagina of afbeelding laadt, registreren onze hostingprovider en ons netwerk voor het leveren van afbeeldingen (CDN) automatisch technische gegevens, zoals je IP-adres, browsertype, de opgevraagde pagina en het tijdstip. Deze logs houden de site veilig en werkend, worden door die providers maar korte tijd bewaard en worden niet gebruikt om een profiel van je op te stellen.",
+        "Contactformulier (indien ingeschakeld): als je ons via het contactformulier schrijft, worden je naam, e-mailadres en bericht verstuurd via Formspree, een externe formulierverwerker, en afgeleverd in onze inbox. We gebruiken ze alleen om je te antwoorden. Je kunt ons in plaats daarvan ook rechtstreeks mailen.",
+        "E-mails die je ons stuurt: we bewaren je bericht alleen zolang we het nodig hebben om je te antwoorden en eventuele vervolgvragen af te handelen, en verwijderen het daarna.",
+        "Analyse (indien ingeschakeld): we kunnen een privacyvriendelijke analysedienst gebruiken, zoals Plausible of Umami. Deze tools gebruiken geen cookies, volgen je niet over websites heen en slaan geen persoonsgegevens op; ze tellen bezoeken, pagina's en landen op geaggregeerd niveau, zodat we weten welke gidsen nuttig zijn."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Gegevens die alleen op je apparaat worden opgeslagen",
+      "paragraphs": [
+        "Sommige functies onthouden je keuzes via de localStorage van je browser. Deze gegevens blijven op je apparaat. Ze worden nooit naar ons verstuurd, en je kunt ze op elk moment wissen via je browserinstellingen."
+      ],
+      "list": [
+        "Vinkjes in checklists: welke onderdelen je hebt aangevinkt in documentchecklists.",
+        "Taal: de taal die je het laatst hebt gekozen.",
+        "Thema: of je de voorkeur geeft aan het lichte of donkere ontwerp."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "We gebruiken geen advertentie- of trackingcookies, en als analyse is ingeschakeld, werkt die zonder cookies. Omdat we alleen strikt noodzakelijke voorkeuren op je apparaat opslaan, tonen we geen cookiebanner. Verandert dit ooit, dan werken we dit beleid bij en vragen we om je toestemming waar de wet dat vereist."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Rechtsgrond, delen en internationale doorgifte",
+      "paragraphs": [
+        "We verwerken serverlogs en geaggregeerde analysegegevens op basis van ons gerechtvaardigd belang bij het runnen van een veilige, nuttige website. We verwerken contactberichten om je verzoek te beantwoorden, wat eveneens een gerechtvaardigd belang is, of een stap die je ons hebt gevraagd te zetten.",
+        "We delen gegevens alleen met de dienstverleners die de site laten werken: onze hostingprovider en CDN, de formulierverwerker (Formspree) als het contactformulier is ingeschakeld, en de analyseprovider als analyse is ingeschakeld. Zij handelen namens ons en kunnen gegevens buiten jouw land verwerken, ook in de Verenigde Staten. Waar de AVG (GDPR) van toepassing is, berust zo'n doorgifte op passende waarborgen, zoals de standaardcontractbepalingen (Standard Contractual Clauses) van de Europese Commissie of een adequaatheidsbesluit.",
+        "We kunnen gegevens bekendmaken als de wet dat vereist, bijvoorbeeld naar aanleiding van een geldig rechterlijk bevel."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Je rechten onder de AVG (EU, EER en VK)",
+      "paragraphs": [
+        "Ben je in de Europese Unie, de Europese Economische Ruimte of het Verenigd Koninkrijk, dan geeft de Algemene Verordening Gegevensbescherming (AVG, in het Engels GDPR, of de UK GDPR) je de volgende rechten over persoonsgegevens die we over je hebben. Wil je een van deze rechten uitoefenen, mail dan naar hello@thaivisaexperts.com. We antwoorden binnen een maand."
+      ],
+      "list": [
+        "Inzage: vraag om een kopie van de persoonsgegevens die we over je hebben.",
+        "Rectificatie: vraag ons onjuiste gegevens te corrigeren.",
+        "Wissing: vraag ons je gegevens te verwijderen.",
+        "Beperking: vraag ons te beperken hoe we je gegevens gebruiken.",
+        "Bezwaar: maak bezwaar tegen verwerking op basis van onze gerechtvaardigde belangen.",
+        "Overdraagbaarheid: ontvang de gegevens die je ons hebt gegeven in een gangbaar, machineleesbaar formaat.",
+        "Klacht: dien een klacht in bij je nationale toezichthouder voor gegevensbescherming. We stellen het op prijs als we eerst de kans krijgen het probleem op te lossen."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Je rechten onder de Thaise PDPA",
+      "paragraphs": [
+        "Ben je in Thailand, dan geeft de Personal Data Protection Act B.E. 2562 (2019) (PDPA, de Thaise wet op de bescherming van persoonsgegevens) je vergelijkbare rechten: om je gegevens in te zien en er een kopie van te krijgen, om ze te laten corrigeren, verwijderen of beperken, om bezwaar te maken tegen de verwerking, op overdraagbaarheid van gegevens, en om toestemming in te trekken waar de verwerking op toestemming is gebaseerd. Je kunt ook een klacht indienen bij het Personal Data Protection Committee (PDPC). Neem contact met ons op via hello@thaivisaexperts.com om deze rechten uit te oefenen."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Beveiliging, kinderen en wijzigingen",
+      "paragraphs": [
+        "De site wordt via HTTPS aangeboden, en we houden de gegevens die we bewaren tot een minimum beperkt. Geen enkel systeem is volledig veilig, dus stuur ons alsjeblieft geen gevoelige documenten zoals paspoortscans of bankafschriften. We hebben ze niet nodig en zullen er niet om vragen.",
+        "De site is niet gericht op kinderen jonger dan 16 jaar, en we verzamelen niet bewust hun gegevens.",
+        "We kunnen dit beleid bijwerken wanneer onze diensten veranderen. De datum \"laatst gecontroleerd\" bovenaan de pagina laat zien wanneer het voor het laatst is herzien."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}
