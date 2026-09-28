@@ -1,0 +1,72 @@
+{
+  "slug": "tourist-tr",
+  "category": "short-stay",
+  "purposes": ["holiday"],
+  "maxStayDays": 60,
+  "extendable": true,
+  "extensionDays": 30,
+  "entries": "single",
+  "validityMonths": 3,
+  "feeTHB": 1000,
+  "minFundsTHB": 20000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": true,
+  "lastVerified": "2026-09-28",
+  "heroImage": "bangkok-temple",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thai e-Visa official website",
+        "fr": "Site officiel e-Visa thaïlandais",
+        "nl": "Officiële Thaise e-Visa-website",
+        "th": "เว็บไซต์ e-Visa ทางการของไทย"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Washington: tourist visa",
+        "fr": "Ambassade royale de Thaïlande à Washington : visa touristique",
+        "nl": "Koninklijke Thaise ambassade Washington: toeristenvisum",
+        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: วีซ่าท่องเที่ยว"
+      },
+      "url": "https://washingtondc.thaiembassy.org/en/page/trsingle-entry"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy London: multiple-entry tourist visa (METV)",
+        "fr": "Ambassade royale de Thaïlande à Londres : visa touristique à entrées multiples (METV)",
+        "nl": "Koninklijke Thaise ambassade Londen: toeristenvisum voor meerdere binnenkomsten (METV)",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: วีซ่าท่องเที่ยวหลายครั้ง (METV)"
+      },
+      "url": "https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Oslo: tourist visa",
+        "fr": "Ambassade royale de Thaïlande à Oslo : visa touristique",
+        "nl": "Koninklijke Thaise ambassade Oslo: toeristenvisum",
+        "th": "สถานเอกอัครราชทูต ณ กรุงออสโล: วีซ่าท่องเที่ยว"
+      },
+      "url": "https://oslo.thaiembassy.org/en/page/tourist-visa?menu=60b4c9c5ba2e442f78688be2"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC) official website",
+        "fr": "Site officiel de la Thailand Digital Arrival Card (TDAC)",
+        "nl": "Officiële website Thailand Digital Arrival Card (TDAC)",
+        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    }
+  ],
+  "relatedVisas": ["visa-exemption", "dtv", "visa-on-arrival", "non-o-family"],
+  "todo": [
+    "TODO(verify): The 1,000 THB (single) and 5,000 THB (METV) base fees are charged in local currency and differ by embassy (e.g. USD 40 / USD 200 in Washington, NOK 400 / NOK 2,000 in Oslo, GBP 30 in London). Confirm the THB base amounts on an official MFA fee schedule.",
+    "TODO(verify): Which embassies currently offer the METV through the e-Visa system; availability varies by mission.",
+    "TODO(verify): Bank-statement period differs by embassy (Washington asks for 3 months; others ask only for a current balance)."
+  ]
+}

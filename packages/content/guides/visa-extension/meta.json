@@ -1,0 +1,67 @@
+{
+  "slug": "visa-extension",
+  "lastVerified": "2026-09-28",
+  "heroImage": "passport-documents",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: immigration fees",
+        "fr": "Immigration de Samut Prakan : frais d'immigration",
+        "nl": "Immigratie Samut Prakan: immigratiekosten",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
+    },
+    {
+      "label": {
+        "en": "Royal Gazette, 31 August 2026: 30-day visa exemption list (from 15 September 2026)",
+        "fr": "Journal officiel (Royal Gazette), 31 août 2026 : liste d'exemption de visa de 30 jours (dès le 15 septembre 2026)",
+        "nl": "Royal Gazette, 31 augustus 2026: lijst visumvrijstelling 30 dagen (vanaf 15 september 2026)",
+        "th": "ราชกิจจานุเบกษา 31 สิงหาคม 2569: รายชื่อประเทศได้รับยกเว้นการตรวจลงตรา 30 วัน (ตั้งแต่ 15 กันยายน 2569)"
+      },
+      "url": "https://ratchakitcha.soc.go.th/documents/128703.pdf"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy, London: Destination Thailand Visa (DTV)",
+        "fr": "Ambassade royale de Thaïlande à Londres : Destination Thailand Visa (DTV)",
+        "nl": "Koninklijke Thaise Ambassade Londen: Destination Thailand Visa (DTV)",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: Destination Thailand Visa (DTV)"
+      },
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: documents for a retirement extension of stay",
+        "fr": "Immigration de Samut Prakan : documents pour une prolongation de séjour retraite",
+        "nl": "Immigratie Samut Prakan: documenten voor een verlenging op basis van pensioen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีเกษียณอายุ"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-retirement-visa/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: documents for an extension to support a Thai wife",
+        "fr": "Immigration de Samut Prakan : documents pour une prolongation avec une épouse thaïlandaise",
+        "nl": "Immigratie Samut Prakan: documenten voor een verlenging bij een Thaise echtgenote",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอุปการะภรรยาไทย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-support-thai-wife/"
+    }
+  ],
+  "relatedVisas": [
+    "visa-exemption",
+    "tourist-tr",
+    "dtv",
+    "non-o-retirement",
+    "non-o-family",
+    "non-b-business",
+    "non-ed",
+    "visa-on-arrival"
+  ],
+  "todo": [
+    "TODO(verify): 30-day extension for visa-exempt entries after the 15 September 2026 change to a 30-day exemption (reported by news sources citing the Royal Gazette; confirm with the Immigration Bureau).",
+    "TODO(verify): whether visa-on-arrival stays can be extended, and by how long.",
+    "TODO(verify): the 30-day extension for Tourist (TR) visa holders under Immigration Bureau Order 327/2557."
+  ]
+}

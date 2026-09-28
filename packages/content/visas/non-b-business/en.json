@@ -1,0 +1,112 @@
+{
+  "name": "Non-Immigrant B Visa (Business and Employment)",
+  "shortName": "Non-Immigrant B",
+  "summary": "The Non-Immigrant B visa is the standard visa for working for a Thai company or doing business in Thailand. You enter for up to 90 days, your employer applies for your work permit, and you then extend your stay for up to one year at a time. It is not needed for short business meetings, but you do need it (plus a work permit) to take a job in Thailand.",
+  "seoTitle": "Thailand Non-B Business Visa and Work Permit Guide (2026)",
+  "seoDescription": "How the Thai Non-Immigrant B visa and work permit work: fees, documents, the employer's role, the 4:1 Thai staff rule, 2 million THB capital, and meetings versus working.",
+  "validity": "Single entry: valid 3 months from issue, with a stay of up to 90 days. Multiple entry: valid 1 year, with up to 90 days per entry.",
+  "extendableDetail": "Once your work permit is approved, your employer supports a one-year extension of stay at the immigration office, renewable every year while you keep the job. The company must meet the immigration criteria (see below). Without a work permit you can't extend on business grounds.",
+  "feeNote": "The Ministry of Foreign Affairs lists 2,000 THB for a single-entry visa (valid 3 months) and 5,000 THB for a multiple-entry visa (valid 1 year). Embassies abroad charge the equivalent in local currency, paid online by card through the e-Visa system. The fee is not refundable. Work permit and extension fees are separate.",
+  "financialRequirement": "The MFA asks for evidence of adequate funds of 20,000 THB per person or 40,000 THB per family. Some embassies ask for recent bank statements from your home country as well. For the one-year extension, your salary must meet the immigration minimum for your nationality: 50,000 THB a month for Europe (except Russia), Australia, Canada, Japan and the USA.",
+  "processingTime": "Processing times vary by embassy and are shown on each embassy's e-Visa page. Apply well ahead of travel. The work permit approval (WP3) has to be in place before you apply for an employment visa, and that step alone can take weeks.",
+  "keyRequirements": [
+    "A passport valid for at least 6 months",
+    "A Thai employer or business partner that invites you and provides company documents",
+    "For employment: the WP3 approval letter from the Ministry of Labour, obtained by your employer",
+    "Evidence of funds: 20,000 THB per person or 40,000 THB per family",
+    "For the one-year extension: a work permit, a salary at or above the immigration minimum, and a company that meets the capital and Thai staff rules"
+  ],
+  "documents": [
+    "Passport biodata page (at least 6 months' validity)",
+    "Recent passport photo (4 x 6 cm, taken within the last 6 months)",
+    "Completed e-Visa application form",
+    "Proof of funds, such as recent bank statements",
+    "Employment: WP3 approval letter from the Ministry of Labour",
+    "Employment: employment contract or letter from the Thai employer",
+    "Thai company documents: company registration certificate, list of shareholders, business licence, recent financial statements and tax returns",
+    "Business visits: letter from your own company explaining the trip and your role",
+    "Business visits: invitation and correspondence from your Thai business partner",
+    "Proof that you live legally in the country where you apply (some embassies)"
+  ],
+  "howToApply": [
+    {
+      "step": "Get a job offer or business invitation",
+      "detail": "A Thai company has to hire you or invite you. For a job, agree your role and salary first: immigration checks the salary against a minimum for your nationality when you extend."
+    },
+    {
+      "step": "Your employer gets the WP3 approval",
+      "detail": "The employer applies to the Department of Employment for approval to hire you. Since 13 October 2025 this goes through the online e-WorkPermit system. The approval letter (WP3) is what the embassy wants to see."
+    },
+    {
+      "step": "Apply for the Non-B visa online",
+      "detail": "Apply through thaievisa.go.th (or at the embassy if your country isn't on the e-Visa system yet). Upload the documents, pay by card and wait for the approval email. Print the approved e-Visa."
+    },
+    {
+      "step": "Enter Thailand and collect the work permit",
+      "detail": "You enter on a stay of up to 90 days. Don't start work until the work permit is issued. For non-BOI employers using e-WorkPermit, a temporary work permit document has been issued since 1 July 2026 while the card is being produced."
+    },
+    {
+      "step": "Extend your stay for one year",
+      "detail": "Before your 90 days run out, apply at the immigration office with your work permit and company documents. The standard extension fee is 1,900 THB. Your employer handles the TM30 address notification, the report your landlord or hotel files."
+    },
+    {
+      "step": "Keep your status valid",
+      "detail": "Report your address every 90 days, get a re-entry permit before you travel abroad, and renew the extension and work permit every year. If you leave the job, your permission to stay ends."
+    }
+  ],
+  "bestFor": [
+    "Employees hired by a Thai company",
+    "Business owners and directors of a Thai company",
+    "Foreign staff seconded to a Thai branch, regional office or representative office",
+    "Business travellers who need repeat trips and prefer a visa over the exemption"
+  ],
+  "notFor": [
+    "Remote workers with a foreign employer or clients (look at the DTV or LTR instead)",
+    "People attending a single meeting, conference or trade fair (the visa exemption usually covers this)",
+    "Startup founders or highly skilled professionals who qualify for the SMART or LTR visa, which come with lighter rules",
+    "Anyone who wants to work before the work permit is issued"
+  ],
+  "commonMistakes": [
+    "Starting work before the work permit is issued. Working without a permit can lead to a fine, deportation and a ban.",
+    "Assuming a business visa lets you work. It doesn't; the work permit is what authorises the work.",
+    "Joining a small company that can't meet the 2 million THB capital or 4 Thai staff rule, so the one-year extension is refused.",
+    "Leaving Thailand without a re-entry permit, which cancels your extension of stay.",
+    "Doing a paid job for a Thai client while on a tourist visa or visa exemption."
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a Non-B visa to attend business meetings in Thailand?",
+      "a": "Usually not. Under the 2018 amendment to the foreign worker law, organising or attending a meeting, conference, training, workshop or seminar isn't treated as work that needs a permit, and most visitors do this on the visa exemption. Selling to customers, delivering a project, or doing hands-on work for a Thai company is work and needs a work permit."
+    },
+    {
+      "q": "What is the difference between the visa and the work permit?",
+      "a": "The Non-B visa lets you enter and stay. The work permit, issued by the Department of Employment, lets you work in a specific job for a specific employer. You need both. The visa alone doesn't allow you to work."
+    },
+    {
+      "q": "What does my employer have to do?",
+      "a": "The employer applies for approval to hire you (WP3), supplies company documents for your visa and extension, applies for your work permit, registers you for tax and social security, and files notifications with the authorities. It also has to meet the immigration rules on capital and Thai staff."
+    },
+    {
+      "q": "What is the 4:1 Thai staff rule?",
+      "a": "For a one-year extension based on employment, Immigration Bureau Order 327/2557 expects the company to employ four permanent Thai staff for each foreign employee and to have at least 2 million THB paid-up capital per foreigner. Representative offices, regional offices and branches of foreign companies have lighter rules (1 Thai per foreigner). BOI-promoted companies and LTR holders are outside this ratio."
+    },
+    {
+      "q": "Is there a minimum salary?",
+      "a": "Yes, for the extension. The immigration table sets 50,000 THB a month for Europe (except Russia), Australia, Canada, Japan and the USA; 45,000 THB for South Korea, Singapore, Taiwan and Hong Kong; 35,000 THB for most other Asian countries, South America, Eastern Europe, Russia and South Africa; and 25,000 THB for Africa (except South Africa), Cambodia, Laos, Myanmar and Vietnam."
+    },
+    {
+      "q": "Can I work remotely for my home company on a Non-B visa?",
+      "a": "The Non-B is tied to a Thai employer or business. If you only work remotely for a foreign company or clients, the Destination Thailand Visa (DTV) or the LTR Work-from-Thailand category fits better."
+    },
+    {
+      "q": "Can my family come with me?",
+      "a": "Your spouse and children can usually apply for a Non-Immigrant O visa as your dependants, based on your work permit and extension. Dependants can't work unless they get their own work permit."
+    },
+    {
+      "q": "What happens if I lose or leave my job?",
+      "a": "Your work permit is cancelled and your extension of stay ends. Immigration normally gives you a short period to leave or change status, so talk to immigration straight away."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

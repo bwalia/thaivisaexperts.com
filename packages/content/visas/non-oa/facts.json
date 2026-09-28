@@ -1,0 +1,89 @@
+{
+  "slug": "non-oa",
+  "category": "retirement",
+  "purposes": [
+    "retire"
+  ],
+  "maxStayDays": 365,
+  "extendable": true,
+  "extensionDays": 365,
+  "entries": "multiple",
+  "validityMonths": 12,
+  "feeTHB": 5000,
+  "minFundsTHB": 800000,
+  "minAge": 50,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "retirement-beach",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thailand e-Visa (Ministry of Foreign Affairs): Long Stay Visas (O-A, O-X)",
+        "fr": "e-Visa Thaïlande (ministère des Affaires étrangères) : visas long séjour (O-A, O-X)",
+        "nl": "Thailand e-Visa (ministerie van Buitenlandse Zaken): long-stayvisa (O-A, O-X)",
+        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าพำนักระยะยาว (O-A, O-X)"
+      },
+      "url": "https://www.thaievisa.go.th/visa/long-stay-visa"
+    },
+    {
+      "label": {
+        "en": "Ministry of Foreign Affairs of Thailand: Non-Immigrant Visa O-A",
+        "fr": "Ministère des Affaires étrangères de Thaïlande : visa Non-Immigrant O-A",
+        "nl": "Ministerie van Buitenlandse Zaken van Thailand: Non-Immigrant visum O-A",
+        "th": "กระทรวงการต่างประเทศ: การตรวจลงตราประเภทคนอยู่ชั่วคราว O-A"
+      },
+      "url": "https://www.mfa.go.th/en/page/non-immigrant-visa-o-a?menu=5e1ff71bc4281a00c812e8e2"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Consulate-General, Los Angeles: Non-Immigrant O retirement, O-A and O-X",
+        "fr": "Consulat général royal de Thaïlande à Los Angeles : Non-Immigrant O retraite, O-A et O-X",
+        "nl": "Koninklijk Thais Consulaat-Generaal Los Angeles: Non-Immigrant O pensioen, O-A en O-X",
+        "th": "สถานกงสุลใหญ่ ณ นครลอสแอนเจลิส: วีซ่า Non-Immigrant O เพื่อการเกษียณ, O-A และ O-X"
+      },
+      "url": "https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-retirement"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Consulate-General, Chicago: Non-Immigrant Long Stay Visa (O-A/O-X)",
+        "fr": "Consulat général royal de Thaïlande à Chicago : visa long séjour Non-Immigrant (O-A/O-X)",
+        "nl": "Koninklijk Thais Consulaat-Generaal Chicago: Non-Immigrant long-stayvisum (O-A/O-X)",
+        "th": "สถานกงสุลใหญ่ ณ นครชิคาโก: วีซ่าพำนักระยะยาว Non-Immigrant (O-A/O-X)"
+      },
+      "url": "https://cgchicago.thaiembassy.org/en/page/visa-oaox"
+    },
+    {
+      "label": {
+        "en": "Thai General Insurance Association: O-A long-stay health insurance guidelines",
+        "fr": "Association thaïlandaise des assureurs : règles d'assurance santé pour le visa O-A",
+        "nl": "Thai General Insurance Association: richtlijnen zorgverzekering voor het O-A-visum",
+        "th": "สมาคมประกันวินาศภัยไทย: แนวทางประกันสุขภาพสำหรับวีซ่า O-A"
+      },
+      "url": "https://longstay.tgia.org/guidelineoa"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: immigration fees",
+        "fr": "Immigration de Samut Prakan : frais d'immigration",
+        "nl": "Immigratie Samut Prakan: immigratiekosten",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
+    }
+  ],
+  "relatedVisas": [
+    "non-o-retirement",
+    "thailand-privilege",
+    "ltr",
+    "non-o-family"
+  ],
+  "todo": [
+    "TODO(verify): insurance amounts differ between sources. The e-Visa site asks for at least USD 100,000 / 3,000,000 THB; some consulates (e.g. Chicago) still list 40,000 THB outpatient / 400,000 THB inpatient. Confirm the current figure.",
+    "TODO(verify): insurance rule for in-country extensions of an O-A stay (TGIA lists 40,000 THB outpatient / 400,000 THB inpatient from a Thai insurer).",
+    "TODO(verify): whether the police certificate and medical certificate must be notarised/legalised at every embassy, and the passport validity rule (the older MFA page says 18 months).",
+    "TODO(verify): whether the O-A allows the savings/income combination route at every embassy (MFA page says yes; e-Visa list mentions only savings or income)."
+  ]
+}

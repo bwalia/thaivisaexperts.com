@@ -1,0 +1,65 @@
+{
+  "slug": "non-ed",
+  "category": "study-training",
+  "purposes": ["study", "muay-thai"],
+  "maxStayDays": 90,
+  "extendable": true,
+  "extensionDays": 90,
+  "entries": "single",
+  "validityMonths": 3,
+  "feeTHB": 2000,
+  "minFundsTHB": null,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "muay-thai-training",
+  "officialSources": [
+    {
+      "label": {
+        "en": "MFA: Non-Immigrant ED visa requirements (PDF)",
+        "fr": "MAE : conditions du visa Non-Immigrant ED (PDF)",
+        "nl": "MFA: voorwaarden Non-Immigrant ED-visum (pdf)",
+        "th": "กระทรวงการต่างประเทศ: เงื่อนไขวีซ่า Non-Immigrant ED (PDF)"
+      },
+      "url": "https://image.mfa.go.th/mfa/0/RzaiZWKBzF/consular/Visa/6.Non-Immigrant_(ED)_Studying_Visas.pdf"
+    },
+    {
+      "label": {
+        "en": "Thailand e-Visa (official application portal)",
+        "fr": "Thailand e-Visa (portail officiel de demande)",
+        "nl": "Thailand e-Visa (officieel aanvraagportaal)",
+        "th": "Thailand e-Visa (ระบบยื่นขอวีซ่าออนไลน์อย่างเป็นทางการ)"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy London: Non-Immigrant visas",
+        "fr": "Ambassade royale de Thaïlande à Londres : visas Non-Immigrant",
+        "nl": "Koninklijke Thaise ambassade Londen: Non-Immigrant-visa",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: วีซ่า Non-Immigrant"
+      },
+      "url": "https://london.thaiembassy.org/en/publicservice/84508-non-immigrant-visas"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Pretoria: Non-Immigrant ED visa",
+        "fr": "Ambassade royale de Thaïlande à Pretoria : visa Non-Immigrant ED",
+        "nl": "Koninklijke Thaise ambassade Pretoria: Non-Immigrant ED-visum",
+        "th": "สถานเอกอัครราชทูต ณ กรุงพริทอเรีย: วีซ่า Non-Immigrant ED"
+      },
+      "url": "https://pretoria.thaiembassy.org/en/page/non-immigrant-ed-study-visa?menu=62abbe80e3197852ca53e6b3"
+    }
+  ],
+  "relatedVisas": ["dtv", "tourist-tr", "visa-exemption", "non-b-business"],
+  "todo": [
+    "TODO(verify): Funds requirement varies by embassy (the Tokyo MFA sheet asks for 30,000 THB held for 3 months); minFundsTHB left null.",
+    "TODO(verify): Fee 2,000 THB single entry / 5,000 THB multiple entry is from embassy pages; confirm on the e-Visa fee table for your country.",
+    "TODO(verify): Extension rules (90 days per extension, maximum 1 year in total for non-formal schools such as language and Muay Thai schools) come from an English translation of Immigration Bureau Order 327/2557.",
+    "TODO(verify): Whether an in-country change of status to ED is accepted (text says it is discretionary and differs by office).",
+    "TODO(verify): The 2025-2026 enforcement campaign against ED visa misuse (monthly school reports, revocations) is reported by secondary sources only."
+  ]
+}

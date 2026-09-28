@@ -1,0 +1,64 @@
+{
+  "slug": "smart",
+  "category": "work-business",
+  "purposes": ["work", "invest"],
+  "maxStayDays": 730,
+  "extendable": true,
+  "extensionDays": null,
+  "entries": "multiple",
+  "validityMonths": 24,
+  "feeTHB": 10000,
+  "minFundsTHB": 600000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": true,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "coworking-laptop",
+  "officialSources": [
+    {
+      "label": {
+        "en": "BOI Announcement Por 5/2568: SMART Visa criteria (Feb 2025)",
+        "fr": "Annonce BOI Por 5/2568 : critères du visa SMART (févr. 2025)",
+        "nl": "BOI-bekendmaking Por 5/2568: criteria SMART-visum (feb. 2025)",
+        "th": "ประกาศ BOI ที่ ป. 5/2568: หลักเกณฑ์วีซ่า SMART (ก.พ. 2568)"
+      },
+      "url": "https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf"
+    },
+    {
+      "label": {
+        "en": "BOI SMART Visa: frequently asked questions",
+        "fr": "BOI visa SMART : questions fréquentes",
+        "nl": "BOI SMART-visum: veelgestelde vragen",
+        "th": "BOI วีซ่า SMART: คำถามที่พบบ่อย"
+      },
+      "url": "https://smart-visa.boi.go.th/smart/pages/faq-en.html"
+    },
+    {
+      "label": {
+        "en": "BOI SMART Visa: managing your visa",
+        "fr": "BOI visa SMART : gérer votre visa",
+        "nl": "BOI SMART-visum: je visum beheren",
+        "th": "BOI วีซ่า SMART: การดูแลสถานะวีซ่า"
+      },
+      "url": "https://smart-visa.boi.go.th/smart/pages/how-to-manage.html"
+    },
+    {
+      "label": {
+        "en": "BOI: LTR Visa (replaces SMART T, I and E)",
+        "fr": "BOI : visa LTR (remplace SMART T, I et E)",
+        "nl": "BOI: LTR-visum (vervangt SMART T, I en E)",
+        "th": "BOI: วีซ่า LTR (แทน SMART T, I และ E)"
+      },
+      "url": "https://ltr.boi.go.th/"
+    }
+  ],
+  "relatedVisas": ["ltr", "non-b-business", "dtv"],
+  "todo": [
+    "TODO(verify): Minimum health insurance cover for SMART S is not stated in Announcement Por 5/2568 ('coverage for the entire period of stay').",
+    "TODO(verify): Length of each renewal (extensionDays) and total maximum period for SMART S are not stated in the 2025 announcement; the older FAQ mentions 6-month, 1-year and 2-year options.",
+    "TODO(verify): What happens to existing SMART T, I and E holders when their visa expires (assumed to keep their status until expiry, then move to the LTR).",
+    "TODO(verify): Fee of 10,000 THB per year of permission is from the SMART FAQ and management page; embassy fees abroad may differ."
+  ]
+}

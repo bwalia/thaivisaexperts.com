@@ -1,0 +1,103 @@
+{
+  "name": "Tourist visa (TR)",
+  "shortName": "Tourist visa",
+  "summary": "The standard tourist visa you apply for online through the official Thai e-Visa system before you travel. The single-entry TR lets you stay up to 60 days, plus one 30-day extension at immigration, so up to 90 days in total. Since visa-free stays dropped to 30 days in September 2026, it is the simplest way to get two or three months. The multiple-entry tourist visa (METV) still exists at many embassies: valid 6 months, with up to 60 days per entry.",
+  "seoTitle": "Thailand tourist visa (TR) 2026: 60 days + 30, e-Visa fee, METV",
+  "seoDescription": "How to get a Thailand tourist visa through the e-Visa system: 60-day stay, 30-day extension, fees by embassy, 20,000 THB funds, documents, the METV and common mistakes.",
+  "validity": "Single entry (TR): valid 3 months from issue, so you must enter within that time. Each entry allows up to 60 days. METV: valid 6 months, unlimited entries, up to 60 days per entry.",
+  "extendableDetail": "Once in Thailand you can extend each 60-day stay by up to 30 days at an immigration office (form TM.7, 1,900 THB), at the officer's discretion. With a METV you can also leave and re-enter before the visa expires for a fresh 60-day stay.",
+  "feeNote": "The base fee is 1,000 THB for a single entry and 5,000 THB for a METV, but you pay in the local currency of the embassy that handles your e-Visa, for example USD 40 / USD 200 in the US, GBP 30 in the UK and NOK 400 / NOK 2,000 in Norway. Fees are non-refundable.",
+  "financialRequirement": "Show at least 20,000 THB per person or 40,000 THB per family. Some embassies ask for a current balance only; others (for example Washington) want 3 months of statements. The METV asks for more financial evidence (and often proof of employment or income); the amount is set by each embassy, so check its page.",
+  "processingTime": "Varies by embassy. Many say to allow up to 14 working days, and the Washington embassy advises applying at least 30 days before departure. Don't apply more than 3 months ahead, because the visa's validity starts on the day it is issued.",
+  "keyRequirements": [
+    "Apply online at thaievisa.go.th before you travel, through the embassy that covers the country where you live",
+    "Passport valid for at least 6 months with two blank pages",
+    "Proof of funds of at least 20,000 THB per person (40,000 THB per family)",
+    "Onward or return flight booking and accommodation for your stay",
+    "Tourism, family visits or medical treatment only; no work of any kind",
+    "Submit the TDAC within 3 days before each arrival"
+  ],
+  "documents": [
+    "Passport bio page scan (valid 6+ months)",
+    "Recent passport-style photo taken within the last 6 months",
+    "Flight booking to Thailand (and out, or onward)",
+    "Hotel bookings or an invitation letter with your Thai address",
+    "Recent bank statement in your name showing at least 20,000 THB equivalent",
+    "Proof of residence in the country where you apply (e.g. residence card, visa or utility bill) if you are not a citizen",
+    "For minors: birth certificate and parents' consent letter",
+    "For METV: proof of employment or income as required by your embassy"
+  ],
+  "howToApply": [
+    {
+      "step": "Pick the right embassy",
+      "detail": "On thaievisa.go.th, choose the country where you live. The e-Visa is handled by the Thai embassy or consulate responsible for that country."
+    },
+    {
+      "step": "Create an account and choose the visa",
+      "detail": "Select 'Tourist Visa' and then single entry or multiple entry (METV), depending on what your embassy offers."
+    },
+    {
+      "step": "Upload documents",
+      "detail": "Upload clear PDFs or JPGs of your passport, photo, bookings and bank statement. Blurry or cropped files are the most common reason for delays."
+    },
+    {
+      "step": "Pay the fee",
+      "detail": "Pay online in local currency. Some embassies only start processing after payment clears."
+    },
+    {
+      "step": "Wait for approval",
+      "detail": "You'll get an email when the e-Visa is approved. Print it or save it; airlines and immigration may ask to see it."
+    },
+    {
+      "step": "Travel and fill in the TDAC",
+      "detail": "Submit the Thailand Digital Arrival Card within 3 days before arrival. Enter Thailand before the visa's 'enter before' date."
+    }
+  ],
+  "bestFor": [
+    "Holidays of 1 to 3 months",
+    "Nationalities who can't enter visa-free",
+    "Travellers who used to rely on the 60-day exemption",
+    "Frequent visitors over six months (METV)"
+  ],
+  "notFor": [
+    "Remote work or long stays of 6 months or more (look at the DTV)",
+    "Business meetings or any work (use a Non-Immigrant B visa)",
+    "Short trips under 30 days if your passport is visa-exempt"
+  ],
+  "commonMistakes": [
+    "Applying too early. The visa's 3-month validity starts on the day it's issued, not the day you arrive.",
+    "Applying through the wrong embassy. You must apply where you legally live, not where you're passing through.",
+    "Uploading a bank statement with no name or date on it.",
+    "Believing the visa gives 90 days on arrival. You get 60 days; the extra 30 need an extension at immigration.",
+    "Using third-party 'visa agent' sites that look official. The only official site is thaievisa.go.th.",
+    "Letting a METV expire while abroad, expecting to re-enter on it."
+  ],
+  "faqs": [
+    {
+      "q": "How long can I stay on a Thai tourist visa?",
+      "a": "Up to 60 days per entry. You can then apply once for a 30-day extension at an immigration office in Thailand for 1,900 THB, so up to 90 days in total per entry."
+    },
+    {
+      "q": "Is the multiple-entry tourist visa (METV) discontinued?",
+      "a": "No. The METV still exists: it is valid for 6 months and allows up to 60 days per entry. Not every embassy offers it through the e-Visa system, and it usually asks for more financial evidence than the single-entry visa, so check your embassy's page."
+    },
+    {
+      "q": "Do I need a tourist visa if my passport is visa-exempt?",
+      "a": "Only if you want to stay longer than your exemption allows. Since 15 September 2026 most visa-exempt travellers get 30 days, extendable by 30. If you want 60 days from the start, or up to 90 days, a tourist visa is the cleaner option."
+    },
+    {
+      "q": "Can I apply for the tourist visa at the airport or while I'm in another country?",
+      "a": "No. You apply online before travelling, through the Thai embassy covering the country where you live. If you're a temporary visitor somewhere else, that embassy may refuse your application."
+    },
+    {
+      "q": "How much money do I need to show?",
+      "a": "At least 20,000 THB per person or 40,000 THB per family for a single-entry visa. How many months of statements you need varies by embassy, and the METV asks for more."
+    },
+    {
+      "q": "Can I work remotely on a tourist visa?",
+      "a": "No. Tourist visas don't allow any work. The Destination Thailand Visa (DTV) is the visa designed for remote workers."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

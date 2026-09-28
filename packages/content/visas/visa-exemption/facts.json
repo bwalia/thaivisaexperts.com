@@ -1,0 +1,82 @@
+{
+  "slug": "visa-exemption",
+  "category": "short-stay",
+  "purposes": ["holiday"],
+  "maxStayDays": 30,
+  "extendable": true,
+  "extensionDays": 30,
+  "entries": "n/a",
+  "validityMonths": null,
+  "feeTHB": 0,
+  "minFundsTHB": null,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "exempt-countries",
+  "popular": true,
+  "lastVerified": "2026-09-28",
+  "heroImage": "phi-phi-beach",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thai Department of Consular Affairs: 2026 visa exemption summary",
+        "fr": "Département des affaires consulaires thaïlandais : résumé 2026 de l'exemption de visa",
+        "nl": "Thaise afdeling Consulaire Zaken: overzicht visumvrijstelling 2026",
+        "th": "กรมการกงสุล: สรุปมาตรการยกเว้นการตรวจลงตรา ปี 2569"
+      },
+      "url": "https://consular.mfa.go.th/th/content/1-9-69-00"
+    },
+    {
+      "label": {
+        "en": "Thai Ministry of Foreign Affairs press briefing, 3 September 2026",
+        "fr": "Point presse du ministère thaïlandais des Affaires étrangères, 3 septembre 2026",
+        "nl": "Persbriefing Thais ministerie van Buitenlandse Zaken, 3 september 2026",
+        "th": "สรุปแถลงข่าวกระทรวงการต่างประเทศ 3 กันยายน 2569"
+      },
+      "url": "https://www.mfa.go.th/en/content/pb-summary-03092026-en"
+    },
+    {
+      "label": {
+        "en": "Tourism Authority of Thailand: new 30-day and 15-day exemption rules",
+        "fr": "Office du tourisme de Thaïlande : nouvelles règles d'exemption de 30 et 15 jours",
+        "nl": "Thaise Verkeersbureau: nieuwe vrijstellingsregels van 30 en 15 dagen",
+        "th": "การท่องเที่ยวแห่งประเทศไทย: มาตรการยกเว้นการตรวจลงตรา 30 วันและ 15 วันใหม่"
+      },
+      "url": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/"
+    },
+    {
+      "label": {
+        "en": "Thai Ministry of Foreign Affairs: bilateral visa exemption agreements",
+        "fr": "Ministère thaïlandais des Affaires étrangères : accords bilatéraux d'exemption de visa",
+        "nl": "Thais ministerie van Buitenlandse Zaken: bilaterale visumvrijstellingsakkoorden",
+        "th": "กระทรวงการต่างประเทศ: ความตกลงยกเว้นการตรวจลงตราทวิภาคี"
+      },
+      "url": "https://image.mfa.go.th/mfa/0/zE6021nSnu/0303/Bilat_Ordinary.pdf"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy London: revision of the visa exemption scheme",
+        "fr": "Ambassade royale de Thaïlande à Londres : révision du régime d'exemption de visa",
+        "nl": "Koninklijke Thaise ambassade Londen: herziening visumvrijstelling",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: การทบทวนมาตรการยกเว้นการตรวจลงตรา"
+      },
+      "url": "https://london.thaiembassy.org/en/content/revision-of-thailand-s-visa-0926"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC) official website",
+        "fr": "Site officiel de la Thailand Digital Arrival Card (TDAC)",
+        "nl": "Officiële website Thailand Digital Arrival Card (TDAC)",
+        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    }
+  ],
+  "relatedVisas": ["tourist-tr", "dtv", "visa-on-arrival", "non-b-business"],
+  "todo": [
+    "TODO(verify): Land-border limit. TAT and the Royal Gazette summary say visa-exempt entries through land borders are limited to two per calendar year (not for Malaysia, Brunei, Indonesia, Singapore); the Royal Thai Embassy London wording says 'only twice within a calendar year' without mentioning land borders. Confirm whether air entries count.",
+    "TODO(verify): Whether the 30-day extension (1,900 THB) also applies to the 15-day exemption for Mauritius and Seychelles and to bilateral-agreement stays.",
+    "TODO(verify): Minimum funds on arrival. Immigration may ask for 20,000 THB per person / 40,000 THB per family; no fixed figure published for the 2026 scheme, so minFundsTHB is null.",
+    "TODO(verify): Whether Urgent Work Permit notifications are still possible after visa-exempt entry (Fragomen says yes; other advisers say pending Department of Employment clarification)."
+  ]
+}

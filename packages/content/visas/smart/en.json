@@ -1,0 +1,103 @@
+{
+  "name": "SMART Visa (Startup)",
+  "shortName": "SMART",
+  "summary": "The SMART visa is a Board of Investment (BOI) visa that now covers only startup founders (SMART S) and their families (SMART O). The former Talent (T), Investor (I) and Executive (E) categories closed in 2025, and those applicants are now directed to the Long-Term Resident (LTR) visa. SMART S holders can work for their certified startup without a separate work permit.",
+  "seoTitle": "Thailand SMART Visa 2026: Startup (SMART S) Requirements",
+  "seoDescription": "The Thai SMART visa after the 2025 reform: only SMART S for startup founders and SMART O for dependants remain. Deposit, certification, fees, and why T, I and E moved to the LTR.",
+  "validity": "SMART S is granted for up to 2 years at a time, multiple entry, as long as your startup stays certified.",
+  "extendableDetail": "You renew your BOI qualification endorsement at least 60 days before your SMART visa expires, then extend at the Thailand Investment and Expat Services Center (TIESC) in Bangkok. The fee is 10,000 THB for each year of permission.",
+  "feeNote": "10,000 THB for each year of permission, paid at immigration or the embassy. A 2-year permission therefore costs 20,000 THB.",
+  "financialRequirement": "At least 600,000 THB (or the equivalent) in a bank account in Thailand or your home country, held for at least 3 months before you apply. Add 180,000 THB per spouse or child who comes with you, also held for 3 months.",
+  "processingTime": "The BOI reviews the qualification endorsement first; timing depends on the certifying agency and how complete your file is. After endorsement you get the visa at a Thai embassy or at the TIESC in Bangkok. No fixed official processing time is published.",
+  "keyRequirements": [
+    "A startup business already set up in Thailand in a BOI targeted industry",
+    "Startup certification from a relevant government agency such as the National Innovation Agency (NIA) or the Digital Economy Promotion Agency (depa)",
+    "You hold at least 25% of the registered capital or are a director of the startup",
+    "A bank deposit of at least 600,000 THB held for 3 months, plus 180,000 THB per dependant",
+    "Health insurance for your whole stay, covering you and your family",
+    "No prohibited characteristics under Thai immigration law"
+  ],
+  "documents": [
+    "Passport biodata page",
+    "Recent passport photo",
+    "Startup certification letter from the relevant agency (for example NIA or depa)",
+    "Company registration documents and shareholder list showing your 25% stake or director position",
+    "Bank statements showing 600,000 THB held for at least 3 months",
+    "Extra bank evidence of 180,000 THB per dependant, held for 3 months",
+    "Health insurance certificate covering your full stay",
+    "Marriage certificate and children's birth certificates for SMART O dependants",
+    "Business plan or description of your startup and its targeted industry"
+  ],
+  "howToApply": [
+    {
+      "step": "Get your startup certified",
+      "detail": "Set up the company in Thailand and get certification as a startup in a targeted industry from an agency such as the NIA or depa."
+    },
+    {
+      "step": "Apply to the BOI for qualification endorsement",
+      "detail": "Submit your application online through the SMART Visa system with your certification, company documents, bank statements and insurance."
+    },
+    {
+      "step": "Get the SMART visa",
+      "detail": "Once endorsed, collect the visa at a Thai embassy or consulate abroad or at the TIESC in Bangkok and pay 10,000 THB per year of permission."
+    },
+    {
+      "step": "Start working for your startup",
+      "detail": "SMART S holders can work for their certified startup without a separate work permit. Tell the SMART Visa Unit in writing before you change your role or take on extra work."
+    },
+    {
+      "step": "Report every year",
+      "detail": "Report your address to immigration once a year and send a status report to the SMART Visa Unit each September. Get a re-entry permit before you travel abroad."
+    },
+    {
+      "step": "Renew in good time",
+      "detail": "Apply to renew the endorsement at least 60 days before your SMART visa expires, then extend at the TIESC."
+    }
+  ],
+  "bestFor": [
+    "Founders and directors of a certified Thai startup in a targeted industry",
+    "Startup founders who want to work in their own company without a separate work permit",
+    "Founders who want to bring a spouse or children, who can then work too"
+  ],
+  "notFor": [
+    "Salaried specialists, executives and investors (the old SMART T, E and I routes are closed; look at the LTR)",
+    "Remote workers for foreign companies (look at the DTV or LTR)",
+    "Founders of ordinary small businesses that aren't certified startups (look at the Non-B visa)",
+    "Anyone who can't keep 600,000 THB in the bank for 3 months"
+  ],
+  "commonMistakes": [
+    "Following old guides that describe SMART T, I and E with their salary and investment thresholds. These categories closed in 2025.",
+    "Applying before the startup is certified by a government agency.",
+    "Moving the 600,000 THB deposit around less than 3 months before applying.",
+    "Changing your job or adding work without telling the SMART Visa Unit.",
+    "Missing the September status report or leaving Thailand without a re-entry permit."
+  ],
+  "faqs": [
+    {
+      "q": "Do the SMART T, I and E categories still exist?",
+      "a": "No, not for new applicants. On 13 January 2025 the Cabinet decided to keep SMART only for startup entrepreneurs, to avoid overlap with the LTR. The BOI's announcement of 18 February 2025 lists only startup founders and their spouse and children. Talent, investor and executive applicants now use the LTR visa."
+    },
+    {
+      "q": "Is SMART O still available?",
+      "a": "Yes, as the dependant visa. The lawful spouse and children of a SMART S holder can apply. The spouse may work, but only within the same limits as the main holder."
+    },
+    {
+      "q": "Do I need a work permit on a SMART visa?",
+      "a": "No. SMART S holders may work for their certified startup without a work permit for as long as their permission to stay lasts, in jobs not reserved for Thai nationals. You must ask for additional certification if your work changes."
+    },
+    {
+      "q": "How much money do I need?",
+      "a": "600,000 THB (or the equivalent) in a bank account in Thailand or your home country, held for at least 3 months before you apply, plus 180,000 THB for each spouse or child."
+    },
+    {
+      "q": "Who certifies my startup?",
+      "a": "A relevant Thai government agency, such as the National Innovation Agency (NIA) or the Digital Economy Promotion Agency (depa). The business must be in one of the BOI's targeted industries."
+    },
+    {
+      "q": "Do I have to do 90-day reports?",
+      "a": "No. SMART holders report their address to immigration once a year instead, and file a yearly status report with the SMART Visa Unit in September."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

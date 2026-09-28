@@ -1,0 +1,63 @@
+{
+  "slug": "visa-on-arrival",
+  "category": "short-stay",
+  "purposes": ["holiday"],
+  "maxStayDays": 15,
+  "extendable": true,
+  "extensionDays": null,
+  "entries": "single",
+  "validityMonths": null,
+  "feeTHB": 2000,
+  "minFundsTHB": 10000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "voa-countries",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "airport-arrivals",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thai Department of Consular Affairs: 2026 visa exemption and VoA summary",
+        "fr": "Département des affaires consulaires thaïlandais : résumé 2026 exemption de visa et VoA",
+        "nl": "Thaise afdeling Consulaire Zaken: overzicht visumvrijstelling en VoA 2026",
+        "th": "กรมการกงสุล: สรุปมาตรการยกเว้นการตรวจลงตราและ VoA ปี 2569"
+      },
+      "url": "https://consular.mfa.go.th/th/content/1-9-69-00"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Moscow: revision of exemption and VoA schemes",
+        "fr": "Ambassade royale de Thaïlande à Moscou : révision des régimes d'exemption et de VoA",
+        "nl": "Koninklijke Thaise ambassade Moskou: herziening vrijstelling en VoA",
+        "th": "สถานเอกอัครราชทูต ณ กรุงมอสโก: การทบทวนมาตรการยกเว้นการตรวจลงตราและ VoA"
+      },
+      "url": "https://moscow.thaiembassy.org/en/publicservice/revision-of-thailand-s-visa-exemption-and-visa-on-arrival-schemes"
+    },
+    {
+      "label": {
+        "en": "Tourism Authority of Thailand: 2026 exemption and VoA rules",
+        "fr": "Office du tourisme de Thaïlande : règles 2026 d'exemption et de VoA",
+        "nl": "Thaise Verkeersbureau: regels 2026 voor vrijstelling en VoA",
+        "th": "การท่องเที่ยวแห่งประเทศไทย: มาตรการยกเว้นการตรวจลงตราและ VoA ปี 2569"
+      },
+      "url": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC) official website",
+        "fr": "Site officiel de la Thailand Digital Arrival Card (TDAC)",
+        "nl": "Officiële website Thailand Digital Arrival Card (TDAC)",
+        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    }
+  ],
+  "relatedVisas": ["tourist-tr", "visa-exemption", "dtv"],
+  "todo": [
+    "TODO(verify): Length and fee of a VoA extension under the 2026 rules. Historically immigration allowed up to 7 extra days for 1,900 THB at the officer's discretion; extensionDays is null until confirmed.",
+    "TODO(verify): Current list of designated VoA checkpoints (airports and land borders) under the 2026 notification.",
+    "TODO(verify): Whether the VoA land-border / frequency limits apply to Azerbaijan, Belarus and Serbia nationals."
+  ]
+}

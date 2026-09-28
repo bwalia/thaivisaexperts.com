@@ -1,0 +1,72 @@
+{
+  "slug": "non-b-business",
+  "category": "work-business",
+  "purposes": ["business-meeting", "work"],
+  "maxStayDays": 90,
+  "extendable": true,
+  "extensionDays": 365,
+  "entries": "single",
+  "validityMonths": 3,
+  "feeTHB": 2000,
+  "minFundsTHB": 20000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": true,
+  "eligibility": "all",
+  "popular": true,
+  "lastVerified": "2026-09-28",
+  "heroImage": "business-district",
+  "officialSources": [
+    {
+      "label": {
+        "en": "MFA: Non-Immigrant Visa B (business and work)",
+        "fr": "MAE : visa Non-Immigrant B (affaires et travail)",
+        "nl": "MFA: Non-Immigrant B-visum (zaken en werk)",
+        "th": "กระทรวงการต่างประเทศ: วีซ่า Non-Immigrant B (ธุรกิจและการทำงาน)"
+      },
+      "url": "https://www.mfa.go.th/en/publicservice/non-immigrant-visa-b-for-business-and-work"
+    },
+    {
+      "label": {
+        "en": "Thailand e-Visa (official application portal)",
+        "fr": "Thailand e-Visa (portail officiel de demande)",
+        "nl": "Thailand e-Visa (officieel aanvraagportaal)",
+        "th": "Thailand e-Visa (ระบบยื่นขอวีซ่าออนไลน์อย่างเป็นทางการ)"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Department of Employment: e-WorkPermit",
+        "fr": "Département de l'emploi : e-WorkPermit",
+        "nl": "Department of Employment: e-WorkPermit",
+        "th": "กรมการจัดหางาน: ระบบ e-WorkPermit"
+      },
+      "url": "https://eworkpermit.doe.go.th/"
+    },
+    {
+      "label": {
+        "en": "Ministry of Labour: e-WorkPermit launch (13 October 2025)",
+        "fr": "Ministère du Travail : lancement d'e-WorkPermit (13 octobre 2025)",
+        "nl": "Ministerie van Arbeid: lancering e-WorkPermit (13 oktober 2025)",
+        "th": "กระทรวงแรงงาน: เปิดระบบ e-WorkPermit (13 ตุลาคม 2568)"
+      },
+      "url": "https://www.mol.go.th/en/news/labour-minister-launches-e-workpermit-online-system-for-foreign-worker-registration-24-hour-nationwide-service-begins-october-13"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy London: Non-Immigrant visas",
+        "fr": "Ambassade royale de Thaïlande à Londres : visas Non-Immigrant",
+        "nl": "Koninklijke Thaise ambassade Londen: Non-Immigrant-visa",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: วีซ่า Non-Immigrant"
+      },
+      "url": "https://london.thaiembassy.org/en/publicservice/84508-non-immigrant-visas"
+    }
+  ],
+  "relatedVisas": ["visa-exemption", "ltr", "smart", "dtv", "non-o-family"],
+  "todo": [
+    "TODO(verify): The 4 Thai employees per foreigner ratio, 2 million THB paid-up capital and minimum salary table come from Immigration Bureau Order 327/2557 (English translation only; immigration.go.th returned 403). Confirm the order has not been replaced.",
+    "TODO(verify): Processing times differ by embassy; no single official figure was found.",
+    "TODO(verify): Grace period to leave or change status after a work permit is cancelled (text says 'a short period'); no official figure found."
+  ]
+}

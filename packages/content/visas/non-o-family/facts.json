@@ -1,0 +1,71 @@
+{
+  "slug": "non-o-family",
+  "category": "family",
+  "purposes": [
+    "family"
+  ],
+  "maxStayDays": 90,
+  "extendable": true,
+  "extensionDays": 365,
+  "entries": "single",
+  "validityMonths": 3,
+  "feeTHB": 2000,
+  "minFundsTHB": 400000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": true,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "family-thailand",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thailand e-Visa (Ministry of Foreign Affairs): Staying with Family visas (Non-Immigrant O)",
+        "fr": "e-Visa Thaïlande (ministère des Affaires étrangères) : visas pour séjourner en famille (Non-Immigrant O)",
+        "nl": "Thailand e-Visa (ministerie van Buitenlandse Zaken): visa om bij familie te verblijven (Non-Immigrant O)",
+        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าเพื่อพำนักกับครอบครัว (Non-Immigrant O)"
+      },
+      "url": "https://www.thaievisa.go.th/visa/non-immigrant-o"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: documents for an extension to support a Thai wife",
+        "fr": "Immigration de Samut Prakan : documents pour une prolongation avec une épouse thaïlandaise",
+        "nl": "Immigratie Samut Prakan: documenten voor een verlenging bij een Thaise echtgenote",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอุปการะภรรยาไทย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-support-thai-wife/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: documents for an extension to stay with a Thai husband",
+        "fr": "Immigration de Samut Prakan : documents pour une prolongation avec un époux thaïlandais",
+        "nl": "Immigratie Samut Prakan: documenten voor een verlenging bij een Thaise echtgenoot",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอยู่กับสามีไทย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-stay-with-thai-husband/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: immigration fees",
+        "fr": "Immigration de Samut Prakan : frais d'immigration",
+        "nl": "Immigratie Samut Prakan: immigratiekosten",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
+    }
+  ],
+  "relatedVisas": [
+    "non-o-retirement",
+    "non-oa",
+    "non-b-business",
+    "dtv"
+  ],
+  "todo": [
+    "TODO(verify): the 400,000 THB seasoning period for a marriage extension (Samut Prakan lists 2 months before applying) and whether any balance must be kept after approval.",
+    "TODO(verify): home visits and the 30-day \"under consideration\" stamp for marriage extensions. Practice varies by office.",
+    "TODO(verify): the same 400,000 THB / 40,000 THB rule for an extension to support a Thai child.",
+    "TODO(verify): feeTHB 2,000 is the Thai fee schedule for a single-entry Non-Immigrant visa; embassies charge the equivalent in local currency and some issue multiple-entry Non-O visas."
+  ]
+}

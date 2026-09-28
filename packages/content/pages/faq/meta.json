@@ -1,0 +1,82 @@
+{
+  "slug": "faq",
+  "lastVerified": "2026-09-28",
+  "heroImage": null,
+  "officialSources": [
+    {
+      "label": {
+        "en": "Ministry of Foreign Affairs: summary of the 2026 visa exemption and VoA revision",
+        "fr": "Ministère des Affaires étrangères : résumé de la révision 2026 de l'exemption de visa et du VoA",
+        "nl": "Ministerie van Buitenlandse Zaken: overzicht herziening visumvrijstelling en VoA 2026",
+        "th": "กระทรวงการต่างประเทศ: สรุปการปรับปรุงมาตรการยกเว้นการตรวจลงตราและ VoA ปี 2569"
+      },
+      "url": "https://image.mfa.go.th/mfa/0/wdW3FTtVMc/2026-05-22/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3_ver._eng.pdf"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Moscow: revision of the visa exemption and VoA schemes (from 15 September 2026)",
+        "fr": "Ambassade royale de Thaïlande à Moscou : révision de l'exemption de visa et du VoA (à partir du 15 septembre 2026)",
+        "nl": "Koninklijke Thaise Ambassade Moskou: herziening visumvrijstelling en VoA (vanaf 15 september 2026)",
+        "th": "สถานเอกอัครราชทูต ณ กรุงมอสโก: การปรับปรุงมาตรการยกเว้นการตรวจลงตราและ VoA (ตั้งแต่ 15 กันยายน 2569)"
+      },
+      "url": "https://moscow.thaiembassy.org/en/publicservice/revision-of-thailand-s-visa-exemption-and-visa-on-arrival-schemes"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC), official and free",
+        "fr": "Thailand Digital Arrival Card (TDAC), site officiel et gratuit",
+        "nl": "Thailand Digital Arrival Card (TDAC), officieel en gratis",
+        "th": "บัตรขาเข้าดิจิทัล (TDAC) เว็บไซต์ทางการ ไม่มีค่าใช้จ่าย"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    },
+    {
+      "label": {
+        "en": "Thailand e-Visa official website (Ministry of Foreign Affairs)",
+        "fr": "Site officiel de l'e-Visa thaïlandais (ministère des Affaires étrangères)",
+        "nl": "Officiële website Thailand e-Visa (ministerie van Buitenlandse Zaken)",
+        "th": "เว็บไซต์ทางการ Thailand e-Visa (กระทรวงการต่างประเทศ)"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Destination Thailand Visa (DTV) on the official e-Visa site",
+        "fr": "Destination Thailand Visa (DTV) sur le site officiel e-Visa",
+        "nl": "Destination Thailand Visa (DTV) op de officiële e-Visa-site",
+        "th": "Destination Thailand Visa (DTV) บนเว็บไซต์ e-Visa ทางการ"
+      },
+      "url": "https://www.thaievisa.go.th/visa/dtv-visa"
+    },
+    {
+      "label": {
+        "en": "Immigration Bureau of Thailand",
+        "fr": "Bureau de l'immigration de Thaïlande",
+        "nl": "Immigratiedienst van Thailand",
+        "th": "สำนักงานตรวจคนเข้าเมือง"
+      },
+      "url": "https://www.immigration.go.th/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Washington, D.C.: advice on overstay regulations",
+        "fr": "Ambassade royale de Thaïlande à Washington : règles sur le dépassement de séjour",
+        "nl": "Koninklijke Thaise Ambassade Washington: regels over overschrijding van verblijf",
+        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: ข้อแนะนำเรื่องการอยู่เกินกำหนด"
+      },
+      "url": "https://washingtondc.thaiembassy.org/en/page/advice-on-thailand-visa-overstay-regulations"
+    }
+  ],
+  "relatedVisas": [
+    "visa-exemption",
+    "dtv",
+    "tourist-tr",
+    "non-b-business"
+  ],
+  "todo": [
+    "TODO(verify): land-border entry cap under the visa exemption (reported as 2 per calendar year, with exceptions for some neighbouring countries) and whether a 30-day extension of an exemption stay is still available after 15 September 2026.",
+    "TODO(verify): extension-of-stay fee of 1,900 THB (bangkok.immigration.go.th fee page returned 403 when checked; figure from embassy/secondary sources).",
+    "TODO(verify): overstay fine of 500 THB per day up to 20,000 THB and the re-entry ban tiers for longer overstays.",
+    "TODO(verify): Tourist Visa 60 days + 30-day extension and DTV extension of up to 180 days per entry."
+  ]
+}

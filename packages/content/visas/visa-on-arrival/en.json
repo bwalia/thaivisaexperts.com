@@ -1,0 +1,92 @@
+{
+  "name": "Visa on Arrival (VoA)",
+  "shortName": "Visa on Arrival",
+  "summary": "A 15-day tourist visa you buy at the airport or a designated border checkpoint for 2,000 THB. Since 15 September 2026 only three nationalities can use it: Azerbaijan, Belarus and Serbia. Everyone else either enters visa-free or needs a visa before travelling. India, China, Taiwan, Saudi Arabia and many former VoA countries have moved to visa exemption or a bilateral agreement, while others, such as Mexico, Uzbekistan and Armenia, now need an e-Visa.",
+  "seoTitle": "Thailand Visa on Arrival 2026: 3 countries, 15 days, 2,000 THB",
+  "seoDescription": "From 15 September 2026 Thailand's Visa on Arrival is only for Azerbaijan, Belarus and Serbia. Fee, 15-day stay, documents, funds and what former VoA countries must do now.",
+  "validity": "Single entry. You may stay up to 15 days from the day you arrive (the arrival day counts as day 1).",
+  "extendableDetail": "Immigration offices have historically allowed a short extension of a VoA stay (often up to 7 days, 1,900 THB) at the officer's discretion. Don't count on it: if you need longer than 15 days, get a tourist visa (TR) before you travel.",
+  "feeNote": "2,000 THB, paid in Thai baht cash at the VoA counter. Fees are non-refundable. Bring exact cash; exchange counters and ATMs are usually before the VoA desk but queues can be long.",
+  "financialRequirement": "Show at least 10,000 THB per person or 20,000 THB per family in cash or equivalent.",
+  "processingTime": "Issued at the counter on arrival, usually within 30 to 60 minutes, but queues at Suvarnabhumi and Don Mueang can be longer at peak times.",
+  "keyRequirements": [
+    "A passport of Azerbaijan, Belarus or Serbia, valid for at least 6 months",
+    "Tourism only; no work of any kind",
+    "Arrival through a designated VoA checkpoint (main international airports and selected land borders)",
+    "A confirmed ticket leaving Thailand within 15 days",
+    "Cash for the 2,000 THB fee plus proof of at least 10,000 THB per person (20,000 THB per family)",
+    "A completed Thailand Digital Arrival Card (TDAC)"
+  ],
+  "documents": [
+    "Passport valid for at least 6 months with a blank page",
+    "Completed VoA application form (available at the counter)",
+    "One recent passport photo, 4 x 6 cm",
+    "Confirmed return or onward ticket within 15 days",
+    "Hotel booking or address in Thailand for your stay",
+    "2,000 THB in cash for the fee",
+    "Proof of funds: at least 10,000 THB per person or 20,000 THB per family",
+    "TDAC confirmation QR code"
+  ],
+  "howToApply": [
+    {
+      "step": "Check you're eligible",
+      "detail": "Only Azerbaijani, Belarusian and Serbian passport holders can get a VoA from 15 September 2026. Other nationalities should check the exemption list or apply for an e-Visa."
+    },
+    {
+      "step": "Prepare before you fly",
+      "detail": "Book a ticket out within 15 days, bring a passport photo, the fee in Thai baht cash and proof of funds, and submit your TDAC within 3 days before arrival."
+    },
+    {
+      "step": "Go to the VoA counter",
+      "detail": "After landing, follow the 'Visa on Arrival' signs before the immigration line. Hand in the form, photo, passport and fee."
+    },
+    {
+      "step": "Pass immigration",
+      "detail": "Take your passport with the VoA sticker to the immigration counter for your entry stamp. Check the permitted-stay date."
+    }
+  ],
+  "bestFor": [
+    "Short holidays of up to two weeks for Azerbaijani, Belarusian and Serbian travellers",
+    "Last-minute trips where there is no time to apply for an e-Visa"
+  ],
+  "notFor": [
+    "Trips longer than 15 days (apply for a tourist visa instead)",
+    "Nationalities other than Azerbaijan, Belarus and Serbia",
+    "Business, work or remote work"
+  ],
+  "commonMistakes": [
+    "Relying on an old VoA list. Until September 2026 about 31 countries were eligible; now it is only three.",
+    "Arriving without Thai baht cash for the fee.",
+    "Forgetting a passport photo, which slows everything down.",
+    "Booking a return flight after day 15.",
+    "Entering at a land border that doesn't issue VoA."
+  ],
+  "faqs": [
+    {
+      "q": "Which countries can get a Visa on Arrival in Thailand now?",
+      "a": "From 15 September 2026 only Azerbaijan, Belarus and Serbia. The previous list of about 31 countries no longer applies."
+    },
+    {
+      "q": "I'm Indian. Do I still need a Visa on Arrival?",
+      "a": "No. From 15 September 2026, Indian passport holders are on the 30-day visa exemption list for tourism, so you can enter without a visa. Fill in the TDAC before arrival."
+    },
+    {
+      "q": "I'm from a former VoA country like Mexico, Uzbekistan or Armenia. What do I need?",
+      "a": "These nationalities now need a visa before travelling. Apply for a tourist visa (TR) through the official Thai e-Visa website at least 2 to 4 weeks before your trip."
+    },
+    {
+      "q": "How much is the Visa on Arrival fee?",
+      "a": "2,000 THB, paid in cash in Thai baht at the VoA counter. It is non-refundable."
+    },
+    {
+      "q": "Can I extend a Visa on Arrival?",
+      "a": "Sometimes, for a few days, at the officer's discretion at an immigration office. It isn't guaranteed. If you already know you'll stay longer than 15 days, get a tourist visa before you travel."
+    },
+    {
+      "q": "Do I need the TDAC with a Visa on Arrival?",
+      "a": "Yes. All foreign arrivals must submit the Thailand Digital Arrival Card online within 3 days before arrival. It's free on tdac.immigration.go.th."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

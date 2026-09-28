@@ -1,0 +1,97 @@
+{
+  "title": "Privacy policy",
+  "summary": "Thai Visa Experts is a static information website. You don't need an account, we don't sell data, and we collect as little as possible. This policy explains the small amount of data involved when you read the site, save preferences or contact us, and your rights under the GDPR and Thailand's PDPA.",
+  "seoTitle": "Privacy Policy",
+  "seoDescription": "How Thai Visa Experts handles your data: no accounts, no tracking cookies, local preferences only on your device, and your rights under the GDPR and Thailand's PDPA.",
+  "sections": [
+    {
+      "heading": "Who we are and how to reach us",
+      "paragraphs": [
+        "This policy covers thaivisaexperts.com, an independent information website about Thai visas (\"we\", \"us\"). We are responsible for the personal data described here. For any privacy question or request, email hello@thaivisaexperts.com.",
+        "We don't sell, rent or trade personal data, and we don't use it for advertising."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "What we collect, and why",
+      "paragraphs": [
+        "The site is built as static pages. There are no user accounts, logins, comments or payments, and we never ask for passport details."
+      ],
+      "list": [
+        "Server and CDN logs: when you load a page or image, our hosting provider and image delivery network (CDN) automatically record technical data such as your IP address, browser type, the page requested and the time. These logs keep the site secure and working, are kept only for a short period by those providers, and are not used to profile you.",
+        "Contact form (if enabled): if you write to us through the contact form, your name, email address and message are sent through Formspree, a third-party form processor, and delivered to our inbox. We use them only to reply to you. You can also email us directly instead.",
+        "Emails you send us: we keep your message only as long as we need it to answer you and deal with any follow-up, then delete it.",
+        "Analytics (if enabled): we may use a privacy-friendly analytics service such as Plausible or Umami. These tools don't use cookies, don't track you across websites and don't store personal data; they count visits, pages and countries in aggregate so we know which guides are useful."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Data stored only on your device",
+      "paragraphs": [
+        "Some features remember your choices using your browser's localStorage. This data stays on your device. It is never sent to us, and you can clear it at any time through your browser settings."
+      ],
+      "list": [
+        "Checklist ticks: which items you have ticked on document checklists.",
+        "Language: the language you last chose.",
+        "Theme: whether you prefer the light or dark design."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "We don't use advertising or tracking cookies, and if analytics is enabled it works without cookies. Because we only store strictly necessary preferences on your device, we don't show a cookie banner. If this ever changes, we will update this policy and ask for your consent where the law requires it."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Legal basis, sharing and international transfers",
+      "paragraphs": [
+        "We process server logs and aggregate analytics on the basis of our legitimate interest in running a secure, useful website. We process contact messages to answer your request, which is also a legitimate interest, or a step you asked us to take.",
+        "We share data only with the service providers that make the site work: our hosting provider and CDN, the form processor (Formspree) if the contact form is enabled, and the analytics provider if analytics is enabled. They act on our behalf and may process data outside your country, including in the United States. Where the GDPR applies, such transfers rely on appropriate safeguards, such as the European Commission's Standard Contractual Clauses or an adequacy decision.",
+        "We may disclose data if the law requires it, for example in response to a valid court order."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Your rights under the GDPR (EU, EEA and UK)",
+      "paragraphs": [
+        "If you are in the European Union, the European Economic Area or the United Kingdom, the General Data Protection Regulation (GDPR, or UK GDPR) gives you the following rights over personal data we hold about you. To use any of them, email hello@thaivisaexperts.com. We will reply within one month."
+      ],
+      "list": [
+        "Access: ask for a copy of the personal data we hold about you.",
+        "Rectification: ask us to correct inaccurate data.",
+        "Erasure: ask us to delete your data.",
+        "Restriction: ask us to limit how we use your data.",
+        "Objection: object to processing based on our legitimate interests.",
+        "Portability: receive data you gave us in a common, machine-readable format.",
+        "Complaint: lodge a complaint with your national data protection authority. We'd appreciate the chance to fix the problem first."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Your rights under Thailand's PDPA",
+      "paragraphs": [
+        "If you are in Thailand, the Personal Data Protection Act B.E. 2562 (2019) (PDPA) gives you similar rights: to access and obtain a copy of your data, to have it corrected, deleted or restricted, to object to its processing, to data portability, and to withdraw consent where processing is based on consent. You can also complain to the Personal Data Protection Committee (PDPC). Contact us at hello@thaivisaexperts.com to use these rights."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Security, children and changes",
+      "paragraphs": [
+        "The site is served over HTTPS, and we keep the data we hold to a minimum. No system is perfectly secure, so please don't send us sensitive documents such as passport scans or bank statements. We don't need them and won't ask for them.",
+        "The site is not aimed at children under 16, and we don't knowingly collect their data.",
+        "We may update this policy when our services change. The \"last verified\" date at the top of the page shows when it was last reviewed."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "ltr",
+  "category": "long-stay",
+  "purposes": ["remote-work", "work", "retire", "invest"],
+  "maxStayDays": 1825,
+  "extendable": true,
+  "extensionDays": 1825,
+  "entries": "multiple",
+  "validityMonths": 120,
+  "feeTHB": 50000,
+  "minFundsTHB": 1320000,
+  "minAge": null,
+  "remoteWorkAllowed": true,
+  "localWorkAllowed": true,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "bangkok-skyline",
+  "officialSources": [
+    {
+      "label": {
+        "en": "BOI: LTR Visa official website",
+        "fr": "BOI : site officiel du visa LTR",
+        "nl": "BOI: officiële website LTR-visum",
+        "th": "BOI: เว็บไซต์ทางการวีซ่า LTR"
+      },
+      "url": "https://ltr.boi.go.th/"
+    },
+    {
+      "label": {
+        "en": "BOI: LTR application timeline",
+        "fr": "BOI : délais de la demande LTR",
+        "nl": "BOI: tijdlijn LTR-aanvraag",
+        "th": "BOI: ขั้นตอนและระยะเวลาการยื่นขอ LTR"
+      },
+      "url": "https://ltr.boi.go.th/page/application-timeline.html"
+    },
+    {
+      "label": {
+        "en": "BOI: LTR required documents",
+        "fr": "BOI : documents requis pour le LTR",
+        "nl": "BOI: benodigde documenten LTR",
+        "th": "BOI: เอกสารที่ต้องใช้สำหรับ LTR"
+      },
+      "url": "https://ltr.boi.go.th/page/required-documents.html"
+    },
+    {
+      "label": {
+        "en": "BOI: LTR online application system",
+        "fr": "BOI : système de demande en ligne LTR",
+        "nl": "BOI: online aanvraagsysteem LTR",
+        "th": "BOI: ระบบยื่นคำขอ LTR ออนไลน์"
+      },
+      "url": "https://visa.boi.go.th/login"
+    }
+  ],
+  "relatedVisas": ["smart", "thailand-privilege", "dtv", "non-oa", "non-o-retirement", "non-b-business"],
+  "todo": [
+    "TODO(verify): minFundsTHB 1,320,000 is the lowest income threshold (USD 40,000 a year, for Work-from-Thailand or Highly Skilled applicants with a master's degree or higher) converted at an approximate 33 THB per USD. Update if the rate moves significantly.",
+    "TODO(verify): The January 2025 Cabinet amendment was reported to extend dependants to parents with no limit on numbers; ltr.boi.go.th still says a maximum of 4 dependants (spouse and children under 20).",
+    "TODO(verify): Visa fee paid at embassies abroad or via e-Visa is the local equivalent and may differ from 50,000 THB.",
+    "TODO(verify): Income period: ltr.boi.go.th says 'average personal income in the past two years'; some secondary sources describe a shorter period after the 2025 amendments."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Visa exemption (visa-free entry)",
+  "shortName": "Visa exemption",
+  "summary": "If your passport is on Thailand's exemption list, you can fly in without a visa and stay up to 30 days for tourism. Since 15 September 2026 the old 60-day visa-free stay has ended for everyone. Some countries get a different stay under a bilateral agreement: 90 days for Argentina, Brazil, Chile, Peru and South Korea, 30 days for China, Russia, Vietnam and others, 14 days for Cambodia and Myanmar, and 15 days for Mauritius and Seychelles. You can usually add one 30-day extension at an immigration office.",
+  "seoTitle": "Thailand visa exemption 2026: 30 days visa-free (60-day stay ended)",
+  "seoDescription": "Thailand cut visa-free stays from 60 to 30 days on 15 September 2026. Check if your passport qualifies, how to extend by 30 days, the land-border limit and the TDAC.",
+  "validity": "No visa is issued. You get a permission-to-stay stamp on arrival: 30 days for most eligible countries (tourism only), 90 days for Argentina, Brazil, Chile, Peru and South Korea, 14 days for Cambodia and Myanmar, and 15 days for Mauritius and Seychelles. The day you arrive counts as day 1.",
+  "extendableDetail": "You can apply once for an extension of up to 30 days at an immigration office in Thailand (form TM.7, fee 1,900 THB). Apply before your stamp expires. The extension is at the officer's discretion, not a right.",
+  "feeNote": "Entry is free. An extension at immigration costs 1,900 THB.",
+  "financialRequirement": "No fixed amount is published for the 2026 scheme, but immigration officers can ask you to show you have enough money for your stay. Carry proof of about 20,000 THB per person (40,000 THB per family) in cash or cards, which is the long-standing guideline.",
+  "processingTime": "Nothing to apply for in advance except the TDAC, which takes about 10 minutes online and must be submitted within 3 days before you arrive.",
+  "keyRequirements": [
+    "A passport from a country on the exemption list or with a bilateral agreement, valid for at least 6 months on arrival",
+    "Tourism only: since 15 September 2026 the 30-day exemption does not cover business meetings or work",
+    "A completed Thailand Digital Arrival Card (TDAC), submitted online within 3 days before arrival",
+    "A return or onward ticket leaving Thailand within your permitted stay",
+    "Land-border entries on exemption are generally limited to two per calendar year (not for Malaysia, Brunei, Indonesia or Singapore passports)"
+  ],
+  "documents": [
+    "Passport valid for at least 6 months, with a blank page for the entry stamp",
+    "TDAC confirmation with QR code (screenshot or printout)",
+    "Return or onward flight booking within your permitted stay",
+    "Hotel booking or address where you will stay",
+    "Proof of funds you can show if asked (cash, bank card or recent bank statement)",
+    "For an extension: form TM.7, one passport photo (4 x 6 cm), passport copies and 1,900 THB in cash",
+    "For an extension: proof of your address in Thailand (hotel booking or TM30 receipt, the address notification your host files)"
+  ],
+  "howToApply": [
+    {
+      "step": "Check your passport is on the list",
+      "detail": "Look up your nationality in our country checker. If you are not on the exemption or bilateral list, you need a visa before you fly."
+    },
+    {
+      "step": "Book a ticket out",
+      "detail": "Airlines and immigration can ask for a return or onward ticket within 30 days (or your bilateral stay). An extension is not guaranteed, so plan your exit within the first stay."
+    },
+    {
+      "step": "Fill in the TDAC",
+      "detail": "Complete the Thailand Digital Arrival Card at tdac.immigration.go.th within 3 days before arrival. It is free. Save the QR code."
+    },
+    {
+      "step": "Arrive and get stamped",
+      "detail": "Show your passport, TDAC and, if asked, your onward ticket and funds. Check the date on your stamp before leaving the counter."
+    },
+    {
+      "step": "Extend if you need more time",
+      "detail": "Before your stamp expires, go to the immigration office for your area with a TM.7 form, photo, passport copies and 1,900 THB. You can get up to 30 more days."
+    }
+  ],
+  "bestFor": [
+    "Holidays of up to a month",
+    "Short trips of up to 60 days if you extend once at immigration",
+    "Travellers from Argentina, Brazil, Chile, Peru or South Korea (90 days under bilateral agreements)"
+  ],
+  "notFor": [
+    "Any kind of work, including business meetings (use a Non-Immigrant B visa)",
+    "Remote work or long stays (look at the DTV)",
+    "Anyone planning repeated land-border 'visa runs'",
+    "Nationals not on the exemption list, who need a tourist visa"
+  ],
+  "commonMistakes": [
+    "Assuming you still get 60 days. The 60-day scheme ended on 15 September 2026; most people now get 30.",
+    "Forgetting the TDAC. You can be delayed at the airport without it.",
+    "Booking a flight out after day 30 and hoping for an extension. Airlines may refuse boarding without an onward ticket inside your permitted stay.",
+    "Using the exemption for business meetings. Since September 2026 it is for tourism only.",
+    "Counting days wrong. Your arrival day is day 1, and overstaying costs 500 THB per day and can lead to a ban.",
+    "Doing border runs by land. Land entries on exemption are capped at two per calendar year for most nationalities."
+  ],
+  "faqs": [
+    {
+      "q": "Is the 60-day visa-free stay still available?",
+      "a": "No. The 60-day scheme that started in July 2024 ended on 15 September 2026. If you entered before that date, you can stay until the date on your stamp. Anyone entering on or after 15 September 2026 gets the new stay for their nationality, usually 30 days."
+    },
+    {
+      "q": "Can I extend the 30-day visa exemption?",
+      "a": "Yes, usually once, by up to 30 days at a Thai immigration office. The fee is 1,900 THB and the decision is at the officer's discretion. Apply a few days before your stamp expires."
+    },
+    {
+      "q": "Which countries get 90 days?",
+      "a": "Argentina, Brazil, Chile, Peru and South Korea, under bilateral agreements with Thailand. These agreements were not changed by the 2026 reform."
+    },
+    {
+      "q": "Do I still need to fill in the TDAC if I don't need a visa?",
+      "a": "Yes. Every foreign visitor, including visa-exempt travellers, must submit the Thailand Digital Arrival Card online within 3 days before arrival. It is free on the official site tdac.immigration.go.th; avoid paid lookalike sites."
+    },
+    {
+      "q": "Can I enter visa-free as many times as I want?",
+      "a": "Not by land. Visa-exempt entries through land borders are generally limited to two per calendar year (Malaysia, Brunei, Indonesia and Singapore nationals are not limited). Officers can also refuse entry to people who appear to live in Thailand on back-to-back exemptions. If you visit often, get a tourist visa or a DTV."
+    },
+    {
+      "q": "Can I work remotely on a visa exemption?",
+      "a": "No. The exemption is for tourism only. If you want to work remotely from Thailand for foreign clients or an employer, the Destination Thailand Visa (DTV) is designed for that."
+    },
+    {
+      "q": "My country lost visa-free entry. What now?",
+      "a": "On 15 September 2026, 21 nationalities, including Mexico, Colombia, Morocco, Sri Lanka, Uzbekistan, Monaco and Andorra, lost visa-free entry. Apply for a tourist visa (TR) online through the Thai e-Visa system before you travel, at least 2 to 4 weeks ahead."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

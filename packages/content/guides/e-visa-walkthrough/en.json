@@ -1,0 +1,117 @@
+{
+  "title": "How to apply on the official Thai e-Visa portal: a step-by-step walkthrough",
+  "summary": "Almost every Thai visa is now applied for online at thaievisa.go.th, the Ministry of Foreign Affairs portal. This walkthrough takes you from creating an account to downloading your approved visa, with realistic timings and a warning about the lookalike sites that charge you for nothing.",
+  "seoTitle": "Thai e-Visa Application Step by Step (thaievisa.go.th)",
+  "seoDescription": "Create an account, pick the right embassy, upload documents, pay and track your Thai e-Visa on the official thaievisa.go.th portal. Plus how to spot fake e-Visa sites.",
+  "sections": [
+    {
+      "heading": "Before you start: do you need a visa at all?",
+      "paragraphs": [
+        "Many nationalities can visit Thailand for a short holiday without a visa. From 15 September 2026, citizens of 54 countries and territories, including the UK, the US, Australia, Canada and most of the EU, get a 30-day visa exemption for tourism. A few nationalities get 15 days, some have bilateral agreements, and a small group can get a Visa on Arrival.",
+        "If you plan to stay longer, study, train, work remotely, do business or join family, you need a visa, and that means the e-Visa portal. Check your nationality on our country checker or the Ministry of Foreign Affairs summary before you begin."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Get your documents ready",
+      "paragraphs": [
+        "The portal asks you to upload everything as files, so scan or photograph your documents first. The exact list depends on the visa type and the embassy, but most applications need the items below. Documents must be in English or Thai, or come with a translation."
+      ],
+      "list": [
+        "Passport biodata page. Your passport should be valid for at least 6 months from your travel date.",
+        "A recent photo, taken within the last 6 months (JPG, usually up to 3 MB).",
+        "Proof of where you live now, such as a residence permit, utility bill or rental contract. This decides which embassy you apply to.",
+        "Travel plans: a flight booking and your first accommodation.",
+        "Proof of funds, usually recent bank statements.",
+        "Visa-specific papers: for example a school or camp acceptance letter for a DTV or ED visa, or a company letter for a Non-Immigrant B visa."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Step by step on thaievisa.go.th",
+      "paragraphs": [
+        "The official portal follows six stages: create an account, fill in the form, upload documents, pay, wait for processing and receive the visa by email. Here is what each one looks like in practice."
+      ],
+      "list": [
+        "Go to www.thaievisa.go.th (check the address carefully) and click \"Create Account\" at the top right. Choose \"Individual\", fill in your details and set a password.",
+        "Open the activation email and click the link. It should arrive within 30 minutes; check your spam folder. If it doesn't arrive, sign in and use the resend button.",
+        "Sign in and click \"Apply for new visa\" on the dashboard.",
+        "Check your eligibility: enter your passport nationality, your country of permanent residence or current location, and the Thai embassy or consulate you will submit to. Then choose your passport type, purpose of visit, visa type and number of entries.",
+        "Applicant information: upload your passport biodata page and photo, then complete your profile, travel document, address and employment details.",
+        "Travel information: enter your planned arrival date, flight and address in Thailand.",
+        "Supporting documents: upload each required file in the right slot. Blurry, cropped or password-protected files are a common reason for delays.",
+        "Review the application under \"Ready to Submit\". Once you are happy, tick it and click \"Proceed to Payment\". You can pay for several applications to the same embassy at once, for example for your family.",
+        "Pay the fee. Most embassies take card payment online through the portal; a few ask you to pay in person. Fees are not refunded, even if you made a mistake or the visa is refused.",
+        "Track progress under \"Check Status\". When the visa is approved you get an email, and you can download the e-Visa from your account."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Choosing the right embassy",
+      "paragraphs": [
+        "You apply to the Thai embassy or consulate responsible for the country where you live, not simply your nationality. A French citizen living in the Netherlands applies to the embassy in The Hague and uploads proof of Dutch residence. Most embassies also expect you to be physically in that country while the application is processed.",
+        "You cannot apply for a new visa through the portal while you are inside Thailand. If you are already in Thailand, talk to the Immigration Bureau about an extension or change of status instead.",
+        "Each embassy can add its own requirements: bank-statement periods, minimum balances, extra forms or translation rules. Always read the page of the embassy you picked, not a generic checklist."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "How long it takes",
+      "paragraphs": [
+        "Processing times depend on the embassy and the season. Some missions quote about 14 working days after payment; the embassy in Vienna, for example, allows up to 30 working days, plus another 15 if it asks for more documents. Applications usually open around 90 days before your arrival date.",
+        "Plan to apply at least one month before you fly, and longer around Christmas, Songkran (mid-April) and summer. Don't book non-refundable travel you can't afford to lose until the visa is approved."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "After approval",
+      "paragraphs": [
+        "Download the e-Visa PDF and check every detail against your passport: name, passport number, visa type and dates. If something is wrong, contact the embassy straight away.",
+        "Some embassies ask you to carry a printed copy for check-in and arrival, and airlines may ask to see it. Carrying a paper copy as well as a digital one is the safe choice. Before you fly, also complete the free Thailand Digital Arrival Card (TDAC) within three days of arrival at tdac.immigration.go.th."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Watch out for fake e-Visa websites",
+      "paragraphs": [
+        "Lookalike websites copy the design and wording of the official portal, buy search ads, and charge a \"service\" or \"priority\" fee for a form you can fill in yourself. Some simply collect passport scans and card details. Thai embassies stress that anyone can apply on their own, with no agent needed."
+      ],
+      "list": [
+        "The only official e-Visa portal is thaievisa.go.th. Government sites in Thailand end in .go.th, and embassy sites are usually on thaiembassy.org or a domain the embassy itself links to.",
+        "Type the address yourself or follow a link from your embassy's website. Don't click search ads.",
+        "Names containing \"Royal Thai Embassy\" or \"official\" prove nothing. Check the domain.",
+        "Nobody can speed up or guarantee a visa for extra money. Report anyone who says they can to your embassy.",
+        "Never send passport copies, bank statements or selfies to strangers on social media or messaging apps."
+      ],
+      "ordered": false
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Thai e-Visa free?",
+      "a": "No. You pay the normal government visa fee for your visa type through the portal or as your embassy instructs. The portal itself charges no extra service fee, so any site that adds one is not the official portal."
+    },
+    {
+      "q": "Can I apply for someone else?",
+      "a": "Yes. One account can hold applications for you and your family members, and you can pay for several applications to the same embassy together. You can also use a representative, but the embassy is not responsible for mistakes they make."
+    },
+    {
+      "q": "Can I get a refund if I made a mistake?",
+      "a": "No. Visa fees are not refundable. If you submitted the wrong visa type or embassy, you usually have to apply again and pay again, so check everything before you pay."
+    },
+    {
+      "q": "Can I apply while I'm already in Thailand?",
+      "a": "No. The e-Visa portal is for applicants outside Thailand. Inside the country, extensions and changes of status are handled by the Immigration Bureau."
+    },
+    {
+      "q": "What happens if I upload a fake document?",
+      "a": "The application is refused and you may be banned from future visas or from entering Thailand. Upload genuine bookings and statements only."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}
