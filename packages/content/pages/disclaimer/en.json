@@ -1,0 +1,59 @@
+{
+  "title": "Disclaimer",
+  "summary": "Thai Visa Experts is an independent information website. We are not the Thai government, the Immigration Bureau or an embassy, and our pages are general guidance, not legal advice. Always confirm the rules with the official sources before you travel.",
+  "seoTitle": "Disclaimer: Independent, Not Official",
+  "seoDescription": "Thai Visa Experts is not affiliated with the Royal Thai Government, the Immigration Bureau or any embassy. Our information is general guidance, not legal advice.",
+  "sections": [
+    {
+      "heading": "We are not a government website",
+      "paragraphs": [
+        "Thai Visa Experts is independent. We are not affiliated with, endorsed by or acting for the Royal Thai Government, the Ministry of Foreign Affairs, the Immigration Bureau, the Board of Investment, Thailand Privilege or any Royal Thai Embassy or Consulate.",
+        "Only the Thai authorities can issue visas and decide who may enter or stay in Thailand. Immigration officers have discretion at the border, and having the right visa does not guarantee entry."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "General guidance, not legal advice",
+      "paragraphs": [
+        "Our pages explain the rules in general terms to help you understand your options. They are not legal, immigration or tax advice, and they can't cover every personal situation. If your case is complicated, for example because of a past overstay, a criminal record, a change of status or a tax question, talk to a qualified lawyer or tax adviser, or contact the relevant authority directly."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Always confirm with official sources",
+      "paragraphs": [
+        "Before you apply, pay or book travel, check the current rules on the official sites. Each of our pages links to the sources we used."
+      ],
+      "list": [
+        "Thai e-Visa portal: thaievisa.go.th",
+        "Ministry of Foreign Affairs, Department of Consular Affairs: consular.mfa.go.th",
+        "Immigration Bureau: immigration.go.th",
+        "Thailand Digital Arrival Card: tdac.immigration.go.th",
+        "The website of the Royal Thai Embassy or Consulate handling your application"
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Rules change",
+      "paragraphs": [
+        "Thai visa rules, fees and entry schemes change often, sometimes at short notice. For example, the visa-free stay for many nationalities changed from 60 to 30 days on 15 September 2026. Each page shows a \"last verified\" date. Information that was correct on that date may be out of date when you read it, and embassies can set their own requirements."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "We never ask for passport details or visa payments",
+      "paragraphs": [
+        "We do not process visa applications. We will never ask you for your passport number, passport scans, bank statements or payment for a visa, TDAC or any other government service. Anyone who contacts you claiming to be from Thai Visa Experts and asks for these is not us. Please report it to hello@thaivisaexperts.com.",
+        "Pay visa fees only through thaievisa.go.th or as your Thai embassy instructs. The TDAC is free."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

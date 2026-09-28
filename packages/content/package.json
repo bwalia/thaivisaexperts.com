@@ -1,0 +1,34 @@
+{
+  "name": "@tve/content",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema": "./src/schema.ts",
+    "./messages/*": "./messages/*",
+    "./locales": "./src/locales.ts"
+  },
+  "scripts": {
+    "gen": "node scripts/generate-registry.mjs",
+    "pretest": "node scripts/generate-registry.mjs",
+    "test": "vitest run",
+    "pretypecheck": "node scripts/generate-registry.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit",
+    "todo": "node scripts/todo-docs.mjs",
+    "postinstall": "node scripts/generate-registry.mjs",
+    "check": "node scripts/generate-registry.mjs && tsx scripts/check-en.ts"
+  },
+  "dependencies": {
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "vitest": "^5.0.2",
+    "@types/node": "^24",
+    "tsx": "^4"
+  }
+}

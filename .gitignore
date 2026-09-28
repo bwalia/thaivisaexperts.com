@@ -5,3 +5,14 @@ node_modules/
 .env*
 !.env.example
 .serena/project.local.yml
+out/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+next-env.d.ts
+packages/content/src/generated/
+apps/web/public/images/_w/
+apps/web/public/images/_og/
+.serena/

@@ -1,0 +1,102 @@
+{
+  "name": "Non-Immigrant O-A Visa (Long Stay)",
+  "shortName": "Non-O-A",
+  "summary": "A 1-year, multiple-entry long-stay visa for people aged 50 and over, applied for from your home country. You need 800,000 THB or 65,000 THB a month, a police check, a medical certificate and health insurance. Each entry gives you up to a year in Thailand.",
+  "seoTitle": "Thailand O-A Long Stay Visa: Insurance, Funds, Police Check",
+  "seoDescription": "The Non-Immigrant O-A visa for over-50s: 800,000 THB or 65,000 THB a month, mandatory health insurance, police and medical certificates, fees and how to apply.",
+  "validity": "The visa is valid for 1 year, with multiple entries. Each entry gives you up to 1 year of stay, so entering just before the visa expires can give you close to 2 years.",
+  "extendableDetail": "Yes. You can extend your stay by 1 year at a time at a Thai immigration office, based on retirement (form TM7, fee 1,900 THB). You must still meet the money rules, and O-A holders are also asked for Thai health insurance.",
+  "feeNote": "5,000 THB on the Thai fee schedule for a multiple-entry Non-Immigrant visa. Embassies charge it in local currency. Extensions in Thailand cost 1,900 THB each.",
+  "financialRequirement": "At least 800,000 THB in a bank account, a monthly income of at least 65,000 THB, or (at some embassies) savings plus yearly income adding up to 800,000 THB. Bank statements for the last 3 months are usually asked for.",
+  "processingTime": "It depends on the embassy. Some quote at least 15 working days. Allow extra time to get the police check, medical certificate and insurance form ready first.",
+  "keyRequirements": [
+    "You are 50 or older on the day you apply.",
+    "You apply in your country of nationality or where you have permanent residence.",
+    "You have 800,000 THB in savings or 65,000 THB a month in income.",
+    "You have health insurance that meets Thai rules (the e-Visa site asks for cover of at least USD 100,000 or 3,000,000 THB).",
+    "You have a clean criminal record and no prohibited diseases.",
+    "You don't work in Thailand. Employment of any kind is not allowed."
+  ],
+  "documents": [
+    "Passport valid for long enough to cover your stay (some embassies ask for 18 months)",
+    "Recent passport-style photo (taken within the last 6 months)",
+    "Proof of permanent residence in the country where you apply",
+    "Bank statements for the last 3 months showing at least 800,000 THB, or proof of 65,000 THB monthly income",
+    "Criminal record certificate from your country of nationality or residence",
+    "Medical certificate issued within the last 3 months showing no prohibited diseases",
+    "Foreign Insurance Certificate form, completed and stamped by your insurer (from longstay.tgia.org)",
+    "Health insurance policy covering your whole stay"
+  ],
+  "howToApply": [
+    {
+      "step": "Get your police check",
+      "detail": "Order a criminal record certificate from your country of nationality or residence. Some embassies want it notarised, so check first."
+    },
+    {
+      "step": "See a doctor",
+      "detail": "Get a medical certificate showing none of the diseases listed in Thai Ministerial Regulation No. 14. It should be less than 3 months old when you apply."
+    },
+    {
+      "step": "Arrange health insurance",
+      "detail": "Buy a policy that meets Thai rules and ask your insurer to complete and stamp the Foreign Insurance Certificate form from longstay.tgia.org."
+    },
+    {
+      "step": "Apply on the e-Visa site",
+      "detail": "Apply on thaievisa.go.th, choosing Long-stay (O-A). Upload all documents and pay the fee."
+    },
+    {
+      "step": "Enter Thailand",
+      "detail": "Fill in the free TDAC in the 3 days before you arrive. Each entry gives you up to 1 year."
+    },
+    {
+      "step": "Stay compliant",
+      "detail": "Report every 90 days, get a re-entry permit before leaving if you want to keep your stay, and extend at immigration before your permission runs out."
+    }
+  ],
+  "bestFor": [
+    "Retirees aged 50+ who want a full year from the day they land",
+    "People who travel in and out of Thailand often (multiple entries)",
+    "Anyone who prefers to finish the paperwork at home before moving"
+  ],
+  "notFor": [
+    "Anyone under 50",
+    "People who can't get affordable health insurance, for example because of age or pre-existing conditions",
+    "People who want to work in Thailand",
+    "Anyone not living in the country where they would apply"
+  ],
+  "commonMistakes": [
+    "Buying insurance that doesn't meet the required cover, or not getting the Foreign Insurance Certificate form stamped",
+    "Letting the medical or police certificate get older than the embassy allows",
+    "Applying outside your country of nationality or permanent residence",
+    "Leaving Thailand without a re-entry permit after an extension, which cancels it",
+    "Forgetting the 90-day address report"
+  ],
+  "faqs": [
+    {
+      "q": "How is the O-A different from a Non-O retirement visa?",
+      "a": "The O-A gives you up to a year straight away and allows multiple entries, but you must apply from abroad with a police check, medical certificate and health insurance. The Non-O gives you 90 days, then you extend to a year inside Thailand, and health insurance isn't required."
+    },
+    {
+      "q": "How much health insurance do I need?",
+      "a": "The official e-Visa site asks for health insurance from a Thai or foreign insurer with cover of at least USD 100,000 or 3,000,000 THB. Some consulates still list 40,000 THB outpatient and 400,000 THB inpatient cover. Check with the embassy that handles your application."
+    },
+    {
+      "q": "Can I use a foreign insurer?",
+      "a": "Yes, for the visa, as long as the insurer fills in and stamps the Foreign Insurance Certificate form. For extensions inside Thailand, immigration generally asks for a policy from a Thai insurer."
+    },
+    {
+      "q": "Can I stay longer than a year?",
+      "a": "Yes. Enter again before the visa expires for another year, or extend your stay at an immigration office by 1 year at a time."
+    },
+    {
+      "q": "Does the money need to be in Thailand?",
+      "a": "Not for the visa itself. Bank statements from your home bank are fine. For extensions inside Thailand, the money must be in a Thai bank account."
+    },
+    {
+      "q": "Can I work?",
+      "a": "No. Employment of any kind is prohibited on the O-A."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

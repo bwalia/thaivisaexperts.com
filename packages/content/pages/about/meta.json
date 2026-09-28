@@ -1,0 +1,45 @@
+{
+  "slug": "about",
+  "lastVerified": "2026-09-28",
+  "heroImage": "bangkok-skyline",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Ministry of Foreign Affairs, Department of Consular Affairs",
+        "fr": "Ministère des Affaires étrangères, département des affaires consulaires",
+        "nl": "Ministerie van Buitenlandse Zaken, afdeling Consulaire Zaken",
+        "th": "กรมการกงสุล กระทรวงการต่างประเทศ"
+      },
+      "url": "https://consular.mfa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Thailand e-Visa official website (Ministry of Foreign Affairs)",
+        "fr": "Site officiel de l'e-Visa thaïlandais (ministère des Affaires étrangères)",
+        "nl": "Officiële website Thailand e-Visa (ministerie van Buitenlandse Zaken)",
+        "th": "เว็บไซต์ทางการ Thailand e-Visa (กระทรวงการต่างประเทศ)"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Immigration Bureau of Thailand",
+        "fr": "Bureau de l'immigration de Thaïlande",
+        "nl": "Immigratiedienst van Thailand",
+        "th": "สำนักงานตรวจคนเข้าเมือง"
+      },
+      "url": "https://www.immigration.go.th/"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC), official and free",
+        "fr": "Thailand Digital Arrival Card (TDAC), site officiel et gratuit",
+        "nl": "Thailand Digital Arrival Card (TDAC), officieel en gratis",
+        "th": "บัตรขาเข้าดิจิทัล (TDAC) เว็บไซต์ทางการ ไม่มีค่าใช้จ่าย"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    }
+  ],
+  "relatedVisas": [],
+  "todo": []
+}

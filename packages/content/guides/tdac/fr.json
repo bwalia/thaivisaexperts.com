@@ -1,0 +1,98 @@
+{
+  "title": "Thailand Digital Arrival Card (TDAC) : comment la remplir gratuitement",
+  "summary": "Tout étranger entrant en Thaïlande doit soumettre en ligne la Thailand Digital Arrival Card (TDAC, carte d'arrivée numérique) dans les 3 jours précédant son arrivée. Elle a remplacé la carte papier TM6 le 1er mai 2025. Elle est gratuite sur le site officiel, tdac.immigration.go.th. Les sites qui vous font payer ne sont pas le gouvernement.",
+  "seoTitle": "TDAC Thaïlande : carte d'arrivée numérique gratuite, règle des 3 jours et sites frauduleux",
+  "seoDescription": "Qui doit remplir la Thailand Digital Arrival Card, quand la soumettre, le seul site officiel (tdac.immigration.go.th) et comment éviter les sites payants qui l'imitent.",
+  "sections": [
+    {
+      "heading": "Qu'est-ce que la TDAC ?",
+      "paragraphs": [
+        "La TDAC est un formulaire d'arrivée en ligne géré par le Bureau de l'immigration thaïlandais avec le ministère de la Santé publique. Elle a remplacé la carte d'arrivée papier TM6 à partir du 1er mai 2025.",
+        "Ce n'est pas un visa. Elle enregistre seulement qui vous êtes, comment vous arrivez et où vous séjournerez. Il vous faut toujours le bon visa ou une exemption de visa pour entrer."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Qui doit la remplir",
+      "paragraphs": [
+        "Tous les étrangers entrant en Thaïlande ont besoin d'une TDAC, que vous arriviez par avion, par voie terrestre ou par mer. Cela inclut les titulaires de visas de long séjour et de prolongations."
+      ],
+      "list": [
+        "Pas nécessaire : les passagers en transit ou en correspondance qui ne passent pas le contrôle de l'immigration thaïlandaise.",
+        "Pas nécessaire : les personnes qui entrent avec un Border Pass (laissez-passer frontalier).",
+        "Pas nécessaire : les ressortissants thaïlandais."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Quand la soumettre",
+      "paragraphs": [
+        "Soumettez-la dans les 3 jours précédant votre date d'arrivée. Si vous la soumettez trop tôt, le système ne l'acceptera pas. Le plus simple est de la soumettre un ou deux jours avant votre vol.",
+        "Si vos projets changent, vous pouvez modifier votre TDAC sur le site officiel avant votre arrivée."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Comment la remplir",
+      "paragraphs": [],
+      "list": [
+        "Rendez-vous sur tdac.immigration.go.th. Vérifiez bien l'adresse : elle se termine par .go.th.",
+        "Saisissez les informations de votre passeport exactement comme elles y sont imprimées, en anglais.",
+        "Ajoutez votre numéro de vol ou de véhicule, votre date d'arrivée et votre lieu d'embarquement.",
+        "Indiquez votre première adresse en Thaïlande, par exemple votre hôtel.",
+        "Remplissez la courte déclaration de santé sur les pays que vous avez visités récemment.",
+        "Soumettez le formulaire, puis enregistrez ou faites une capture d'écran de la confirmation avec son QR code et son numéro. L'immigration peut demander à la voir."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Méfiez-vous des sites frauduleux",
+      "paragraphs": [
+        "De nombreux sites web et annonces payantes sur les moteurs de recherche imitent l'apparence du site officiel et font payer des frais, parfois présentés comme un traitement « urgent » ou « express ». La TDAC officielle est gratuite. Il n'existe pas de procédure accélérée payante.",
+        "Avant de saisir la moindre information, vérifiez que l'adresse est exactement tdac.immigration.go.th. Si un site vous demande un paiement par carte, fermez-le."
+      ],
+      "list": [
+        "Gratuit : tdac.immigration.go.th, le seul site officiel.",
+        "Signal d'alerte : tout frais, « frais de service » ou « traitement urgent ».",
+        "Signal d'alerte : un nom de domaine qui ne se termine pas par .go.th.",
+        "Signal d'alerte : aucun nom ni adresse d'entreprise clairement indiqués sur le site."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "En cas de problème",
+      "paragraphs": [
+        "Si vous avez oublié de la soumettre, vous pouvez généralement encore le faire sur votre téléphone avant d'arriver au contrôle des passeports. Gardez à portée de main votre passeport, les détails de votre vol et votre première adresse.",
+        "Si vous avez déjà payé un site d'imitation, contactez l'émetteur de votre carte pour demander un remboursement. Vérifiez ensuite que vous disposez bien d'un vrai numéro de TDAC délivré par le site officiel."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [
+    {
+      "q": "La TDAC est-elle payante ?",
+      "a": "Non. Elle est gratuite sur le site officiel. Quiconque vous fait payer est une entreprise privée, pas le gouvernement thaïlandais."
+    },
+    {
+      "q": "La TDAC est-elle un visa ?",
+      "a": "Non. C'est seulement une carte d'arrivée. Il vous faut toujours un visa ou une exemption de visa."
+    },
+    {
+      "q": "J'habite en Thaïlande. En ai-je quand même besoin ?",
+      "a": "L'avis officiel indique que tous les étrangers doivent la soumettre : remplissez-la donc à chaque retour, même avec un visa de long séjour et un re-entry permit (permis de retour)."
+    },
+    {
+      "q": "Les enfants ont-ils besoin de leur propre TDAC ?",
+      "a": "Oui. Chaque voyageur en a besoin. Le site officiel vous permet d'ajouter vos compagnons de voyage dans une seule demande groupée."
+    },
+    {
+      "q": "Je fais seulement une correspondance à Bangkok. En ai-je besoin ?",
+      "a": "Non, si vous restez en zone de transit et ne passez pas l'immigration thaïlandaise."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "non-o-retirement",
+  "category": "retirement",
+  "purposes": ["retire"],
+  "maxStayDays": 90,
+  "extendable": true,
+  "extensionDays": 365,
+  "entries": "single",
+  "validityMonths": 3,
+  "feeTHB": 2000,
+  "minFundsTHB": 800000,
+  "minAge": 50,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "retirement-beach",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thailand e-Visa (Ministry of Foreign Affairs): retirement and long-stay visas",
+        "fr": "e-Visa Thaïlande (ministère des Affaires étrangères) : visas retraite et long séjour",
+        "nl": "Thailand e-Visa (ministerie van Buitenlandse Zaken): pensioen- en long-stayvisa",
+        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าผู้เกษียณอายุและวีซ่าพำนักระยะยาว"
+      },
+      "url": "https://www.thaievisa.go.th/visa/retirement"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Consulate-General, Los Angeles: Non-Immigrant O retirement, O-A and O-X",
+        "fr": "Consulat général royal de Thaïlande à Los Angeles : Non-Immigrant O retraite, O-A et O-X",
+        "nl": "Koninklijk Thais Consulaat-Generaal Los Angeles: Non-Immigrant O pensioen, O-A en O-X",
+        "th": "สถานกงสุลใหญ่ ณ นครลอสแอนเจลิส: วีซ่า Non-Immigrant O เพื่อการเกษียณ, O-A และ O-X"
+      },
+      "url": "https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-retirement"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: documents for a retirement extension of stay",
+        "fr": "Immigration de Samut Prakan : documents pour une prolongation de séjour retraite",
+        "nl": "Immigratie Samut Prakan: documenten voor een verlenging op basis van pensioen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีเกษียณอายุ"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-retirement-visa/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: immigration fees",
+        "fr": "Immigration de Samut Prakan : frais d'immigration",
+        "nl": "Immigratie Samut Prakan: immigratiekosten",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
+    }
+  ],
+  "relatedVisas": ["non-oa", "non-o-family", "thailand-privilege", "ltr"],
+  "todo": [
+    "TODO(verify): seasoning of the 800,000 THB for a retirement extension. The widely applied rule is 2 months before the first extension and 3 months before each later one, then 400,000 THB kept at all times; Samut Prakan Immigration lists 3 months. Confirm against the current Immigration Bureau order.",
+    "TODO(verify): whether each embassy still issues income letters for the 65,000 THB route, and what immigration offices accept instead (e.g. 12 months of transfers from abroad).",
+    "TODO(verify): how early before the current permission ends an office accepts a retirement extension application (commonly up to 30 days).",
+    "TODO(verify): feeTHB 2,000 is the Thai fee schedule for a single-entry Non-Immigrant visa; embassies charge the equivalent in local currency and some offer a multiple-entry version."
+  ]
+}

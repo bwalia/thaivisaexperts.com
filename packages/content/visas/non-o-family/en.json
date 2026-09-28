@@ -1,0 +1,106 @@
+{
+  "name": "Non-Immigrant O Visa (Thai Spouse or Family) and 1-Year Marriage Extension",
+  "shortName": "Non-O Family",
+  "summary": "For people married to a Thai citizen or with Thai children. You enter on a 90-day Non-Immigrant O visa, then extend to 1 year at a Thai immigration office by showing 400,000 THB in a Thai bank or 40,000 THB a month in income, plus your marriage and family documents. You may work, but only with a work permit.",
+  "seoTitle": "Thai Marriage Visa (Non-O): 400,000 THB Rule and 1-Year Extension",
+  "seoDescription": "How the Non-Immigrant O visa for Thai spouses and parents of Thai children works: 400,000 THB or 40,000 THB a month, the home visit, documents and fees.",
+  "validity": "The visa is valid for 3 months for a single entry and gives you up to 90 days in Thailand. A marriage or family extension then gives you up to 1 year at a time.",
+  "extendableDetail": "Yes. Before your 90 days end, apply at your local immigration office for a 1-year extension based on marriage to a Thai citizen or supporting a Thai child (form TM7, fee 1,900 THB). You can renew every year.",
+  "feeNote": "2,000 THB on the Thai fee schedule for a single entry, charged in local currency by embassies. Each 1-year extension costs 1,900 THB.",
+  "financialRequirement": "At least 400,000 THB in a bank account or a monthly income of at least 40,000 THB. For the 1-year extension the savings must be in a Thai bank account in your name, usually for 2 months before you apply.",
+  "processingTime": "Processing for the visa depends on the embassy. Marriage extensions often take longer than other extensions: you may get a 30-day \"under consideration\" stamp while officers check your marriage, sometimes with a home visit.",
+  "keyRequirements": [
+    "You are legally married to a Thai citizen, or you are the parent of a Thai child.",
+    "You have 400,000 THB in savings or 40,000 THB a month in income.",
+    "Your marriage is registered in Thailand (Kor Ror 2), or a foreign marriage is certified and registered at a Thai district office (Kor Ror 22).",
+    "You and your spouse or child live together at the address you give immigration.",
+    "You need a work permit before you start any job."
+  ],
+  "documents": [
+    "Passport valid for at least 6 months",
+    "Recent passport-style photo (taken within the last 6 months)",
+    "Bank statements for the last 3 months showing at least 400,000 THB, or proof of 40,000 THB monthly income",
+    "Marriage certificate, or your child's birth certificate",
+    "Your Thai spouse's ID card and house registration book (tabien baan)",
+    "For the extension: form TM7, 4x6 cm photos and copies of your passport pages",
+    "For the extension: a letter from your Thai bank confirming the balance, plus your bank book",
+    "For the extension: a map to your home and family photos taken together at the house",
+    "Birth certificates of your children, if you have any"
+  ],
+  "howToApply": [
+    {
+      "step": "Register your marriage",
+      "detail": "If you married abroad, have the certificate translated and certified, then register it at a Thai district office (amphur) to get a Kor Ror 22."
+    },
+    {
+      "step": "Apply for the Non-O visa",
+      "detail": "Apply on thaievisa.go.th under \"To stay with Thai family\". Upload proof of funds, your spouse's ID and proof of your relationship."
+    },
+    {
+      "step": "Enter Thailand",
+      "detail": "Fill in the free TDAC in the 3 days before you arrive. You get up to 90 days."
+    },
+    {
+      "step": "Prepare the money",
+      "detail": "Keep at least 400,000 THB in a Thai account in your name for the required period, or get proof of 40,000 THB monthly income."
+    },
+    {
+      "step": "Apply for the 1-year extension together",
+      "detail": "Go to the immigration office with your Thai spouse, both sets of documents, photos and 1,900 THB. Officers may interview you both."
+    },
+    {
+      "step": "Expect a follow-up",
+      "detail": "You may get a 30-day \"under consideration\" stamp and a home visit. Return on the date given to collect the full 1-year extension."
+    }
+  ],
+  "bestFor": [
+    "People married to a Thai citizen",
+    "Foreign parents of Thai children",
+    "Spouses who want to work in Thailand later with a work permit",
+    "Anyone for whom 400,000 THB is easier than the 800,000 THB retirement route"
+  ],
+  "notFor": [
+    "Couples who aren't legally married (the relationship must be registered)",
+    "Families of non-Thai residents (there's a separate Non-O category for that)",
+    "Anyone expecting to work without a work permit"
+  ],
+  "commonMistakes": [
+    "Not registering a foreign marriage in Thailand before the extension",
+    "Going to the extension appointment without your Thai spouse",
+    "Too few family photos, or photos that don't show your home",
+    "Starting a job before the work permit is issued",
+    "Leaving Thailand without a re-entry permit"
+  ],
+  "faqs": [
+    {
+      "q": "How much money do I need?",
+      "a": "At least 400,000 THB in savings or 40,000 THB a month in income. For the extension, the savings must be in a Thai bank account in your name."
+    },
+    {
+      "q": "Can I work on this visa?",
+      "a": "Yes, but only after you get a work permit. The marriage extension lets you live in Thailand, and a Thai employer can then apply for your work permit."
+    },
+    {
+      "q": "Does my Thai spouse need to come to the immigration office?",
+      "a": "Usually yes. Offices normally want to see both of you and may interview you together."
+    },
+    {
+      "q": "Will immigration visit our home?",
+      "a": "They might. Officers can check that you live together at the address you gave. Keep a map and photos of your home ready."
+    },
+    {
+      "q": "Can I use this if we married abroad?",
+      "a": "Yes, once the marriage is registered at a Thai district office. You then get a Kor Ror 22 to show immigration."
+    },
+    {
+      "q": "What if we divorce?",
+      "a": "The extension is based on the marriage. If it ends, you need to switch to another visa or leave. Ask your immigration office about your options."
+    },
+    {
+      "q": "Can I extend based on my Thai child instead?",
+      "a": "Yes. Parents who support a Thai child can extend on that basis, with the child's birth certificate and proof of funds."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

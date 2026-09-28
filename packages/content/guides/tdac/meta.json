@@ -1,0 +1,30 @@
+{
+  "slug": "tdac",
+  "lastVerified": "2026-09-28",
+  "heroImage": "airport-arrivals",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Immigration Bureau: Thailand Digital Arrival Card (official, free)",
+        "fr": "Bureau de l'immigration : Thailand Digital Arrival Card (site officiel, gratuit)",
+        "nl": "Immigratiebureau: Thailand Digital Arrival Card (officieel, gratis)",
+        "th": "สำนักงานตรวจคนเข้าเมือง: บัตรขาเข้าดิจิทัล TDAC (ทางการ ไม่มีค่าใช้จ่าย)"
+      },
+      "url": "https://tdac.immigration.go.th/arrival-card/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy, Berlin: TDAC mandatory from 1 May 2025",
+        "fr": "Ambassade royale de Thaïlande à Berlin : TDAC obligatoire depuis le 1er mai 2025",
+        "nl": "Koninklijke Thaise Ambassade Berlijn: TDAC verplicht sinds 1 mei 2025",
+        "th": "สถานเอกอัครราชทูต ณ กรุงเบอร์ลิน: TDAC บังคับใช้ตั้งแต่ 1 พฤษภาคม 2568"
+      },
+      "url": "https://berlin.thaiembassy.org/de/page/thailand-digital-arrival-card-tdac-verpflichtend-a?menu=6800a4f24a0eb00df74dc473"
+    }
+  ],
+  "relatedVisas": ["visa-exemption", "visa-on-arrival", "tourist-tr", "dtv"],
+  "todo": [
+    "TODO(verify): whether a TDAC can be submitted on the day of arrival itself (the official notice says information must be submitted \"3 days in advance of their arrival date\").",
+    "TODO(verify): whether long-term residents re-entering with an extension and re-entry permit must submit a TDAC every time (the official notice says all foreigners)."
+  ]
+}

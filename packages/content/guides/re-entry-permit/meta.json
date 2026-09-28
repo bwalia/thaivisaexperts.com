@@ -1,0 +1,30 @@
+{
+  "slug": "re-entry-permit",
+  "lastVerified": "2026-09-28",
+  "heroImage": "airport-arrivals",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: immigration fees",
+        "fr": "Immigration de Samut Prakan : frais d'immigration",
+        "nl": "Immigratie Samut Prakan: immigratiekosten",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: frequently asked questions",
+        "fr": "Immigration de Samut Prakan : questions fréquentes",
+        "nl": "Immigratie Samut Prakan: veelgestelde vragen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
+    }
+  ],
+  "relatedVisas": ["non-o-retirement", "non-oa", "non-o-family", "non-b-business", "non-ed", "dtv"],
+  "todo": [
+    "TODO(verify): which international airports currently run a re-entry permit counter before departure passport control, and their hours.",
+    "TODO(verify): whether a multiple-entry DTV holder who has extended their stay needs a re-entry permit to keep the extension."
+  ]
+}

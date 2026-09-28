@@ -1,0 +1,51 @@
+{
+  "slug": "digital-nomad-cities",
+  "lastVerified": "2026-09-28",
+  "heroImage": "chiang-mai-old-city",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Destination Thailand Visa (DTV) on the official e-Visa site",
+        "fr": "Destination Thailand Visa (DTV) sur le site officiel e-Visa",
+        "nl": "Destination Thailand Visa (DTV) op de officiële e-Visa-site",
+        "th": "Destination Thailand Visa (DTV) บนเว็บไซต์ e-Visa ทางการ"
+      },
+      "url": "https://www.thaievisa.go.th/visa/dtv-visa"
+    },
+    {
+      "label": {
+        "en": "Long-Term Resident (LTR) visa, Board of Investment",
+        "fr": "Visa Long-Term Resident (LTR), Board of Investment",
+        "nl": "Long-Term Resident (LTR)-visum, Board of Investment",
+        "th": "วีซ่าผู้พำนักระยะยาว (LTR) สำนักงานคณะกรรมการส่งเสริมการลงทุน"
+      },
+      "url": "https://ltr.boi.go.th/"
+    },
+    {
+      "label": {
+        "en": "Revenue Department: personal income tax (residence and foreign income)",
+        "fr": "Revenue Department : impôt sur le revenu des personnes physiques (résidence et revenus étrangers)",
+        "nl": "Revenue Department: inkomstenbelasting (fiscale woonplaats en buitenlands inkomen)",
+        "th": "กรมสรรพากร: ภาษีเงินได้บุคคลธรรมดา (ผู้อยู่ในประเทศไทยและเงินได้จากต่างประเทศ)"
+      },
+      "url": "https://www.rd.go.th/english/6045.html"
+    },
+    {
+      "label": {
+        "en": "Ministry of Foreign Affairs: summary of the 2026 visa exemption and VoA revision",
+        "fr": "Ministère des Affaires étrangères : résumé de la révision 2026 de l'exemption de visa et du VoA",
+        "nl": "Ministerie van Buitenlandse Zaken: overzicht herziening visumvrijstelling en VoA 2026",
+        "th": "กระทรวงการต่างประเทศ: สรุปการปรับปรุงมาตรการยกเว้นการตรวจลงตราและ VoA ปี 2569"
+      },
+      "url": "https://image.mfa.go.th/mfa/0/wdW3FTtVMc/2026-05-22/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3_ver._eng.pdf"
+    }
+  ],
+  "relatedVisas": ["dtv", "ltr", "visa-exemption"],
+  "todo": [
+    "TODO(verify): tax residency threshold wording: the Revenue Code (Section 41) says 180 days or more in a calendar year; the Revenue Department English page says 'more than 180 days'. Confirm with a Thai tax adviser.",
+    "TODO(verify): status of Revenue Department Instructions Por. 161/2566 and Por. 162/2566 (still in force as of September 2026 per law-firm reports; a proposed remittance exemption window was not law). Re-check every quarter.",
+    "TODO(verify): cost-of-living ranges per city are editorial estimates, not official figures; re-check yearly.",
+    "TODO(verify): LTR Work-from-Thailand Professional thresholds (USD 80,000 average income over 2 years, or USD 40,000 with a master's degree) and employer criteria after the 2025 BOI revisions.",
+    "TODO(verify): LTR visa fee of 50,000 THB and the foreign-income tax exemption for the Work-from-Thailand Professional category (confirm on ltr.boi.go.th)."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "90-day-reporting",
+  "lastVerified": "2026-09-28",
+  "heroImage": "passport-documents",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: notification of staying over 90 days",
+        "fr": "Immigration de Samut Prakan : déclaration de séjour de plus de 90 jours",
+        "nl": "Immigratie Samut Prakan: melding van verblijf langer dan 90 dagen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: การแจ้งอยู่เกิน 90 วัน"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/"
+    },
+    {
+      "label": {
+        "en": "Immigration Bureau: online 90-day notification (TM47)",
+        "fr": "Bureau de l'immigration : déclaration des 90 jours en ligne (TM47)",
+        "nl": "Immigratiebureau: online 90-dagenmelding (TM47)",
+        "th": "สำนักงานตรวจคนเข้าเมือง: การแจ้งอยู่เกิน 90 วันออนไลน์ (ตม.47)"
+      },
+      "url": "https://tm47.immigration.go.th/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: frequently asked questions",
+        "fr": "Immigration de Samut Prakan : questions fréquentes",
+        "nl": "Immigratie Samut Prakan: veelgestelde vragen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
+    }
+  ],
+  "relatedVisas": [
+    "non-o-retirement",
+    "non-oa",
+    "non-o-family",
+    "non-b-business",
+    "non-ed",
+    "dtv",
+    "ltr"
+  ],
+  "todo": [
+    "TODO(verify): the exact filing window for online reports on tm47.immigration.go.th (commonly 15 days before to 7 days after the due date) and whether a first report must be made in person.",
+    "TODO(verify): LTR holders report once a year instead of every 90 days."
+  ]
+}

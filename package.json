@@ -1,0 +1,23 @@
+{
+  "name": "thaivisaexperts",
+  "private": true,
+  "packageManager": "pnpm@12.6.0",
+  "scripts": {
+    "dev": "turbo run dev --filter=@tve/web",
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test:e2e": "pnpm --filter @tve/web test:e2e"
+  },
+  "devDependencies": {
+    "prettier": "^3",
+    "turbo": "^2.11.5",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

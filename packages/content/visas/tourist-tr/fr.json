@@ -1,0 +1,103 @@
+{
+  "name": "Visa touristique (Tourist visa, TR)",
+  "shortName": "Visa touristique",
+  "summary": "Le visa touristique standard, à demander en ligne via le système officiel e-Visa thaïlandais avant votre départ. Le TR à entrée unique vous permet de séjourner jusqu'à 60 jours, plus une prolongation de 30 jours auprès de l'immigration, soit jusqu'à 90 jours au total. Depuis que les séjours sans visa sont passés à 30 jours en septembre 2026, c'est la solution la plus simple pour rester deux ou trois mois. Le visa touristique à entrées multiples (METV) existe toujours dans de nombreuses ambassades : il est valable 6 mois, avec jusqu'à 60 jours par entrée.",
+  "seoTitle": "Visa touristique Thaïlande (TR) 2026 : 60 jours + 30, frais e-Visa et METV",
+  "seoDescription": "Comment obtenir un visa touristique pour la Thaïlande via l'e-Visa : séjour de 60 jours, prolongation de 30 jours, frais selon l'ambassade, 20 000 THB de fonds, documents, METV et erreurs à éviter.",
+  "validity": "Entrée unique (TR) : valable 3 mois à compter de la délivrance, vous devez donc entrer dans ce délai. Chaque entrée permet un séjour de 60 jours maximum. METV : valable 6 mois, entrées illimitées, jusqu'à 60 jours par entrée.",
+  "extendableDetail": "Une fois en Thaïlande, vous pouvez prolonger chaque séjour de 60 jours de 30 jours maximum dans un bureau de l'immigration (formulaire TM.7, 1 900 THB), à la discrétion de l'agent. Avec un METV, vous pouvez aussi sortir du pays et y revenir avant l'expiration du visa pour obtenir un nouveau séjour de 60 jours.",
+  "feeNote": "Les frais de base sont de 1 000 THB pour une entrée unique et de 5 000 THB pour un METV, mais vous payez dans la devise locale de l'ambassade qui traite votre e-Visa, par exemple 40 USD / 200 USD aux États-Unis, 30 GBP au Royaume-Uni et 400 NOK / 2 000 NOK en Norvège. Les frais ne sont pas remboursables.",
+  "financialRequirement": "Justifiez d'au moins 20 000 THB par personne ou 40 000 THB par famille. Certaines ambassades demandent seulement un solde actuel ; d'autres (par exemple Washington) exigent 3 mois de relevés. Le METV demande davantage de justificatifs financiers (et souvent une preuve d'emploi ou de revenus) ; le montant est fixé par chaque ambassade, consultez donc sa page.",
+  "processingTime": "Variable selon l'ambassade. Beaucoup indiquent de prévoir jusqu'à 14 jours ouvrables, et l'ambassade de Washington conseille de déposer la demande au moins 30 jours avant le départ. Ne faites pas la demande plus de 3 mois à l'avance, car la validité du visa commence le jour de sa délivrance.",
+  "keyRequirements": [
+    "Faire la demande en ligne sur thaievisa.go.th avant le voyage, auprès de l'ambassade compétente pour votre pays de résidence",
+    "Passeport valable au moins 6 mois avec deux pages vierges",
+    "Justificatif de fonds d'au moins 20 000 THB par personne (40 000 THB par famille)",
+    "Réservation d'un vol retour ou de continuation et hébergement pour votre séjour",
+    "Tourisme, visites familiales ou soins médicaux uniquement ; aucun travail d'aucune sorte",
+    "Remplir la TDAC dans les 3 jours précédant chaque arrivée"
+  ],
+  "documents": [
+    "Scan de la page d'identité du passeport (valable 6 mois ou plus)",
+    "Photo d'identité récente, prise au cours des 6 derniers mois",
+    "Réservation de vol vers la Thaïlande (et de sortie ou de continuation)",
+    "Réservations d'hôtel ou lettre d'invitation avec votre adresse en Thaïlande",
+    "Relevé bancaire récent à votre nom montrant l'équivalent d'au moins 20 000 THB",
+    "Justificatif de résidence dans le pays où vous déposez la demande (par ex. titre de séjour, visa ou facture de services) si vous n'en êtes pas citoyen",
+    "Pour les mineurs : acte de naissance et lettre de consentement des parents",
+    "Pour le METV : justificatif d'emploi ou de revenus selon les exigences de votre ambassade"
+  ],
+  "howToApply": [
+    {
+      "step": "Choisir la bonne ambassade",
+      "detail": "Sur thaievisa.go.th, sélectionnez votre pays de résidence. L'e-Visa est traité par l'ambassade ou le consulat de Thaïlande compétent pour ce pays."
+    },
+    {
+      "step": "Créer un compte et choisir le visa",
+      "detail": "Sélectionnez « Tourist Visa », puis l'entrée unique ou les entrées multiples (METV), selon ce que propose votre ambassade."
+    },
+    {
+      "step": "Téléverser les documents",
+      "detail": "Téléversez des PDF ou JPG nets de votre passeport, de votre photo, de vos réservations et de votre relevé bancaire. Les fichiers flous ou rognés sont la cause de retard la plus fréquente."
+    },
+    {
+      "step": "Payer les frais",
+      "detail": "Payez en ligne dans la devise locale. Certaines ambassades ne commencent le traitement qu'une fois le paiement validé."
+    },
+    {
+      "step": "Attendre l'approbation",
+      "detail": "Vous recevrez un e-mail lorsque l'e-Visa sera approuvé. Imprimez-le ou enregistrez-le ; les compagnies aériennes et l'immigration peuvent demander à le voir."
+    },
+    {
+      "step": "Voyager et remplir la TDAC",
+      "detail": "Soumettez la Thailand Digital Arrival Card (carte d'arrivée numérique) dans les 3 jours précédant votre arrivée. Entrez en Thaïlande avant la date « enter before » indiquée sur le visa."
+    }
+  ],
+  "bestFor": [
+    "Vacances de 1 à 3 mois",
+    "Nationalités qui ne peuvent pas entrer sans visa",
+    "Voyageurs qui comptaient auparavant sur l'exemption de 60 jours",
+    "Visiteurs fréquents sur six mois (METV)"
+  ],
+  "notFor": [
+    "Le télétravail ou les longs séjours de 6 mois ou plus (voyez plutôt le DTV)",
+    "Les réunions d'affaires ou toute forme de travail (utilisez un visa Non-Immigrant B)",
+    "Les courts séjours de moins de 30 jours si votre passeport est exempté de visa"
+  ],
+  "commonMistakes": [
+    "Faire la demande trop tôt. La validité de 3 mois du visa commence le jour de sa délivrance, pas le jour de votre arrivée.",
+    "Passer par la mauvaise ambassade. Vous devez faire la demande là où vous résidez légalement, pas dans un pays de transit.",
+    "Téléverser un relevé bancaire sans nom ni date.",
+    "Croire que le visa donne 90 jours à l'arrivée. Vous obtenez 60 jours ; les 30 jours supplémentaires nécessitent une prolongation auprès de l'immigration.",
+    "Utiliser des sites d'« agents de visa » tiers qui ont l'air officiels. Le seul site officiel est thaievisa.go.th.",
+    "Laisser un METV expirer pendant que vous êtes à l'étranger en comptant l'utiliser pour revenir."
+  ],
+  "faqs": [
+    {
+      "q": "Combien de temps puis-je rester avec un visa touristique thaïlandais ?",
+      "a": "Jusqu'à 60 jours par entrée. Vous pouvez ensuite demander une fois une prolongation de 30 jours dans un bureau de l'immigration en Thaïlande pour 1 900 THB, soit jusqu'à 90 jours au total par entrée."
+    },
+    {
+      "q": "Le visa touristique à entrées multiples (METV) a-t-il été supprimé ?",
+      "a": "Non. Le METV existe toujours : il est valable 6 mois et permet jusqu'à 60 jours par entrée. Toutes les ambassades ne le proposent pas via le système e-Visa, et il demande généralement davantage de justificatifs financiers que le visa à entrée unique ; consultez donc la page de votre ambassade."
+    },
+    {
+      "q": "Ai-je besoin d'un visa touristique si mon passeport est exempté de visa ?",
+      "a": "Seulement si vous souhaitez rester plus longtemps que ne le permet votre exemption. Depuis le 15 septembre 2026, la plupart des voyageurs exemptés de visa obtiennent 30 jours, prolongeables de 30 jours. Si vous voulez 60 jours dès le départ, ou jusqu'à 90 jours, le visa touristique est l'option la plus simple."
+    },
+    {
+      "q": "Puis-je demander le visa touristique à l'aéroport ou depuis un autre pays ?",
+      "a": "Non. Vous faites la demande en ligne avant de voyager, auprès de l'ambassade de Thaïlande compétente pour votre pays de résidence. Si vous n'êtes que de passage ailleurs, l'ambassade de ce pays peut refuser votre demande."
+    },
+    {
+      "q": "Quel montant dois-je justifier ?",
+      "a": "Au moins 20 000 THB par personne ou 40 000 THB par famille pour un visa à entrée unique. Le nombre de mois de relevés exigé varie selon l'ambassade, et le METV en demande davantage."
+    },
+    {
+      "q": "Puis-je télétravailler avec un visa touristique ?",
+      "a": "Non. Les visas touristiques n'autorisent aucun travail. Le Destination Thailand Visa (DTV) est le visa conçu pour les télétravailleurs."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

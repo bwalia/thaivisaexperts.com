@@ -1,0 +1,48 @@
+{
+  "slug": "e-visa-walkthrough",
+  "lastVerified": "2026-09-28",
+  "heroImage": "passport-documents",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thailand e-Visa official website (Ministry of Foreign Affairs)",
+        "fr": "Site officiel de l'e-Visa thaïlandais (ministère des Affaires étrangères)",
+        "nl": "Officiële website Thailand e-Visa (ministerie van Buitenlandse Zaken)",
+        "th": "เว็บไซต์ทางการ Thailand e-Visa (กระทรวงการต่างประเทศ)"
+      },
+      "url": "https://www.thaievisa.go.th/"
+    },
+    {
+      "label": {
+        "en": "Guide to Thailand e-Visa application (official English manual)",
+        "fr": "Guide de demande d'e-Visa thaïlandais (manuel officiel en anglais)",
+        "nl": "Handleiding Thailand e-Visa-aanvraag (officiële Engelse handleiding)",
+        "th": "คู่มือการยื่นขอ Thailand e-Visa (ฉบับภาษาอังกฤษอย่างเป็นทางการ)"
+      },
+      "url": "https://www.thaievisa.go.th/static/English-Manual.pdf"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Vienna: e-Visa application platform",
+        "fr": "Ambassade royale de Thaïlande à Vienne : plateforme e-Visa",
+        "nl": "Koninklijke Thaise Ambassade Wenen: e-Visa-platform",
+        "th": "สถานเอกอัครราชทูต ณ กรุงเวียนนา: ระบบ e-Visa"
+      },
+      "url": "https://www.thaiembassy.at/en/e-visa.html"
+    },
+    {
+      "label": {
+        "en": "Ministry of Foreign Affairs, Department of Consular Affairs",
+        "fr": "Ministère des Affaires étrangères, département des affaires consulaires",
+        "nl": "Ministerie van Buitenlandse Zaken, afdeling Consulaire Zaken",
+        "th": "กรมการกงสุล กระทรวงการต่างประเทศ"
+      },
+      "url": "https://consular.mfa.go.th/"
+    }
+  ],
+  "relatedVisas": ["tourist-tr", "dtv", "non-b-business", "non-ed"],
+  "todo": [
+    "TODO(verify): processing time and the earliest/latest application window differ by embassy (Vienna: opens 90 days before arrival, decision within 30 working days; Islamabad: about 14 working days). Re-check the example figures before each review.",
+    "TODO(verify): whether a printed e-Visa is still required at check-in varies by embassy (the Islamabad notice says printed copy only). Confirm whether a general rule exists."
+  ]
+}

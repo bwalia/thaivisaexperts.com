@@ -1,0 +1,39 @@
+{
+  "slug": "tm30",
+  "lastVerified": "2026-09-28",
+  "heroImage": "passport-documents",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Immigration Bureau: online residence notification (TM30)",
+        "fr": "Bureau de l'immigration : déclaration de résidence en ligne (TM30)",
+        "nl": "Immigratiebureau: online verblijfsmelding (TM30)",
+        "th": "สำนักงานตรวจคนเข้าเมือง: การแจ้งที่พักออนไลน์ (ตม.30)"
+      },
+      "url": "https://tm30.immigration.go.th/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: frequently asked questions",
+        "fr": "Immigration de Samut Prakan : questions fréquentes",
+        "nl": "Immigratie Samut Prakan: veelgestelde vragen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: notification of staying over 90 days",
+        "fr": "Immigration de Samut Prakan : déclaration de séjour de plus de 90 jours",
+        "nl": "Immigratie Samut Prakan: melding van verblijf langer dan 90 dagen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: การแจ้งอยู่เกิน 90 วัน"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/"
+    }
+  ],
+  "relatedVisas": ["non-o-retirement", "non-oa", "non-o-family", "dtv", "non-b-business", "non-ed"],
+  "todo": [
+    "TODO(verify): TM30 fine amounts. Samut Prakan Immigration says house owners face a fine of up to 2,000 THB and hotel managers 4,000 to 8,000 THB; offices commonly charge less for a first late report.",
+    "TODO(verify): whether a new TM30 is required after domestic trips (practice varies by office) versus only after returning from abroad."
+  ]
+}

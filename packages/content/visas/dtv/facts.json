@@ -1,0 +1,74 @@
+{
+  "slug": "dtv",
+  "category": "long-stay",
+  "purposes": ["remote-work", "muay-thai", "cooking-course", "wellness"],
+  "maxStayDays": 180,
+  "extendable": true,
+  "extensionDays": 180,
+  "entries": "multiple",
+  "validityMonths": 60,
+  "feeTHB": 10000,
+  "minFundsTHB": 500000,
+  "minAge": 20,
+  "remoteWorkAllowed": true,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": true,
+  "lastVerified": "2026-09-28",
+  "heroImage": "coworking-laptop",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thai e-Visa official website: Destination Thailand Visa",
+        "fr": "Site officiel e-Visa thaïlandais : Destination Thailand Visa",
+        "nl": "Officiële Thaise e-Visa-website: Destination Thailand Visa",
+        "th": "เว็บไซต์ e-Visa ทางการของไทย: Destination Thailand Visa"
+      },
+      "url": "https://www.thaievisa.go.th/visa/dtv-visa"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy London: Destination Thailand Visa",
+        "fr": "Ambassade royale de Thaïlande à Londres : Destination Thailand Visa",
+        "nl": "Koninklijke Thaise ambassade Londen: Destination Thailand Visa",
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: Destination Thailand Visa"
+      },
+      "url": "https://london.thaiembassy.org/en/page/destination-thailand-visa"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Washington: Destination Thailand Visa",
+        "fr": "Ambassade royale de Thaïlande à Washington : Destination Thailand Visa",
+        "nl": "Koninklijke Thaise ambassade Washington: Destination Thailand Visa",
+        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: Destination Thailand Visa"
+      },
+      "url": "https://washingtondc.thaiembassy.org/en/page/dtv-visa"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Helsinki: Destination Thailand Visa",
+        "fr": "Ambassade royale de Thaïlande à Helsinki : Destination Thailand Visa",
+        "nl": "Koninklijke Thaise ambassade Helsinki: Destination Thailand Visa",
+        "th": "สถานเอกอัครราชทูต ณ กรุงเฮลซิงกิ: Destination Thailand Visa"
+      },
+      "url": "https://helsinki.thaiembassy.org/en/publicservice/destination-thailand-visa-dtv"
+    },
+    {
+      "label": {
+        "en": "Thailand Digital Arrival Card (TDAC) official website",
+        "fr": "Site officiel de la Thailand Digital Arrival Card (TDAC)",
+        "nl": "Officiële website Thailand Digital Arrival Card (TDAC)",
+        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)"
+      },
+      "url": "https://tdac.immigration.go.th/"
+    }
+  ],
+  "relatedVisas": ["tourist-tr", "ltr", "non-ed", "thailand-privilege", "visa-exemption"],
+  "todo": [
+    "TODO(verify): Local-currency fees vary by embassy (GBP 300 London, USD 400 Washington, EUR 350 Helsinki); confirm the 10,000 THB base fee on an official MFA fee schedule.",
+    "TODO(verify): Whether Thai massage and wellness/spa courses are on the official list of qualifying soft-power activities, or accepted case by case by embassies.",
+    "TODO(verify): Bank-statement period for the 500,000 THB funds differs by embassy (Washington: 3 months; others only an ending balance).",
+    "TODO(verify): Fee and exact procedure for the 180-day in-country extension (assumed standard 1,900 THB TM.7 extension).",
+    "TODO(verify): Validity window for the police clearance certificate differs by embassy (6 months London, 3 months Washington)."
+  ]
+}

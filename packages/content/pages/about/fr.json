@@ -1,0 +1,62 @@
+{
+  "title": "À propos de Thai Visa Experts",
+  "summary": "Thai Visa Experts est un service d'information indépendant qui explique les visas thaïlandais en termes simples. Nous ne sommes ni un cabinet d'avocats, ni une agence de visas, ni un organisme public. Nous lisons les règles officielles pour que vous puissiez comprendre vos options, puis nous vous renvoyons vers les sources officielles pour faire votre demande.",
+  "seoTitle": "Qui sommes-nous : un guide indépendant des visas pour la Thaïlande",
+  "seoDescription": "Qui se cache derrière Thai Visa Experts, comment nous recherchons et vérifions chaque page visa auprès des sources officielles du gouvernement thaïlandais, et comment nos traductions sont relues.",
+  "sections": [
+    {
+      "heading": "Qui nous sommes",
+      "paragraphs": [
+        "Thai Visa Experts est un site web indépendant destiné aux personnes qui prévoient un séjour en Thaïlande : vacanciers, élèves de Muay Thai, digital nomads, voyageurs d'affaires, retraités et familles. Nous expliquons à quoi sert chaque visa, qui peut l'obtenir, ce qu'il coûte et comment le demander, en anglais, en français, en néerlandais et en thaï.",
+        "Nous ne sommes pas un cabinet d'avocats et nous ne donnons pas de conseils juridiques. Nous ne sommes pas une agence de visas : nous ne déposons pas de demandes, n'encaissons aucun paiement pour des visas et ne vous demandons pas les informations de votre passeport. Et nous n'avons aucun lien avec le gouvernement royal thaïlandais, le Bureau de l'immigration ou une quelconque ambassade de Thaïlande. Seules ces autorités peuvent accorder un visa ou décider de la manière dont les règles s'appliquent à vous."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "D'où viennent nos informations",
+      "paragraphs": [
+        "Chaque montant de frais, nombre de jours, exigence de ressources et limite d'âge figurant sur ce site est vérifié auprès d'une source officielle. Nous citons ces sources sur chaque page pour que vous puissiez les vérifier vous-même."
+      ],
+      "list": [
+        "Le portail officiel e-Visa thaïlandais (thaievisa.go.th) et le ministère des Affaires étrangères (mfa.go.th, consular.mfa.go.th).",
+        "Le Bureau de l'immigration (immigration.go.th) et le site officiel de la TDAC (tdac.immigration.go.th).",
+        "Les sites des ambassades et consulats royaux de Thaïlande, qui publient souvent leurs propres listes de documents et leurs frais.",
+        "Le Board of Investment (boi.go.th, ltr.boi.go.th, smart-visa.boi.go.th) pour les visas LTR et SMART, et Thailand Privilege pour le visa Privilege.",
+        "Le Revenue Department (rd.go.th), l'administration fiscale, pour les questions d'impôts.",
+        "Les articles de presse et les notes de cabinets d'avocats nous aident à repérer tôt les changements, mais nous ne publions un chiffre qu'une fois que nous pouvons le rattacher à une source officielle. Lorsque ce n'est pas possible, nous le disons et vous invitons à vérifier auprès de votre ambassade."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Les dates de « dernière vérification »",
+      "paragraphs": [
+        "Chaque page visa et chaque guide affiche une date de « dernière vérification » : le jour où nous avons contrôlé ses informations pour la dernière fois auprès des sources officielles. Les règles thaïlandaises en matière de visas changent souvent, parfois avec seulement quelques semaines de préavis : cette date vous indique donc à quel point l'information est récente.",
+        "Lorsqu'une règle change, nous mettons la page à jour, actualisons la date et, pour les changements importants, publions un avis en haut du site. Si la date d'une page est ancienne, ou si vous êtes sur le point de prendre une décision importante, vérifiez auprès de la source officielle indiquée sur cette page."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Comment nous traduisons",
+      "paragraphs": [
+        "L'anglais est notre langue source. Chaque page est d'abord rédigée et vérifiée en anglais, puis traduite en français, en néerlandais et en thaï. Les chiffres, comme les frais et les nombres de jours, proviennent d'un fichier de données commun : ils sont donc toujours identiques dans toutes les langues.",
+        "Les traductions sont signalées comme traductions automatiques jusqu'à leur relecture par un locuteur natif. Chaque traduction indique aussi la version anglaise dont elle est issue, afin que nous sachions quand elle doit être mise à jour. Si la page anglaise et une traduction venaient à diverger, la page anglaise fait foi."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Corrections et commentaires",
+      "paragraphs": [
+        "Si vous remarquez une erreur, un lien cassé ou une règle qui a changé, merci de nous l'écrire à hello@thaivisaexperts.com. Indiquez la page concernée et, si possible, un lien vers la source officielle. Nous lisons chaque message et corrigeons rapidement les erreurs confirmées.",
+        "Nous ne pouvons pas répondre aux questions portant sur des situations individuelles ni vérifier vos documents. Pour cela, contactez l'ambassade de Thaïlande qui traite votre demande ou le Bureau de l'immigration."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

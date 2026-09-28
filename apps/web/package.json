@@ -1,0 +1,40 @@
+{
+  "name": "@tve/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/prepare.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/prepare.mjs",
+    "build": "next build",
+    "start": "serve out -l 4321",
+    "typecheck": "node scripts/prepare.mjs && tsc --noEmit",
+    "lint": "eslint .",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.19.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.6",
+    "postcss": "^8.5.28",
+    "serve": "^14.2.6",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@tve/content": "workspace:*",
+    "@tve/ui-tokens": "workspace:*",
+    "@tve/visa-logic": "workspace:*",
+    "lucide-react": "^1.48.0",
+    "next": "^16.3.6",
+    "next-intl": "^4.14.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

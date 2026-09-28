@@ -1,0 +1,83 @@
+{
+  "title": "TM30 en Thaïlande : la notification d'adresse faite par votre propriétaire",
+  "summary": "Le TM30 est l'avis que votre propriétaire, votre hôtel ou votre hôte doit envoyer à l'immigration dans les 24 heures suivant l'arrivée d'un étranger qui vient y séjourner. Les hôtels s'en chargent automatiquement. Dans un appartement ou une maison en location, assurez-vous que votre propriétaire le fait, car de nombreux bureaux demandent le reçu lorsque vous prolongez votre séjour.",
+  "seoTitle": "TM30 Thaïlande : qui le déclare, la règle des 24 heures et les amendes",
+  "seoDescription": "Ce qu'est la notification de résidence TM30, qui doit la faire et quand, comment la déposer en ligne sur tm30.immigration.go.th, et pourquoi le reçu vous est utile pour les prolongations.",
+  "sections": [
+    {
+      "heading": "Qu'est-ce que le TM30 ?",
+      "paragraphs": [
+        "Le TM30 est le formulaire qui sert à informer l'immigration qu'un étranger séjourne à une adresse. Cette obligation découle de l'article 38 de la loi thaïlandaise sur l'immigration (Immigration Act).",
+        "L'obligation incombe au propriétaire du logement, au bailleur ou au gérant de l'hôtel, pas à vous. Mais c'est vous qui en subissez les conséquences si elle n'est pas remplie."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Qui doit le déclarer",
+      "paragraphs": [],
+      "list": [
+        "Les hôtels, guesthouses et appartements avec services : ils le font pour chaque client.",
+        "Les propriétaires d'appartements et de maisons : ils le font lorsque vous emménagez.",
+        "Un conjoint ou un membre de la famille thaïlandais propriétaire de la maison où vous vivez.",
+        "Si vous êtes vous-même propriétaire ou locataire du logement, vous pouvez être considéré comme le « house master » (chef de maison) et devoir faire la déclaration pour vous-même."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Dans quel délai",
+      "paragraphs": [
+        "Dans les 24 heures suivant l'arrivée de l'étranger à l'adresse. Cela inclut l'emménagement et le retour après un voyage à l'étranger. Certains bureaux attendent aussi une nouvelle déclaration après des déplacements à l'intérieur du pays : renseignez-vous auprès de votre bureau local."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Comment le déclarer",
+      "paragraphs": [],
+      "list": [
+        "En ligne sur tm30.immigration.go.th, après la création d'un compte par le propriétaire du logement.",
+        "Sur place au bureau d'immigration local, avec la carte d'identité ou le passeport du propriétaire, le livret de résidence (house book) et une copie de votre passeport.",
+        "Les hôtels font la déclaration via leur propre système."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Pourquoi c'est important pour vous",
+      "paragraphs": [
+        "De nombreux bureaux d'immigration demandent le reçu TM30 lorsque vous demandez une prolongation de séjour ou faites votre déclaration des 90 jours. S'il n'existe aucun enregistrement, on peut vous renvoyer jusqu'à ce que votre propriétaire fasse la déclaration et paie l'éventuelle amende.",
+        "Conservez une photo de chaque reçu avec vos documents de passeport."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Amendes",
+      "paragraphs": [
+        "Selon l'immigration de Samut Prakan, un propriétaire qui ne fait pas la déclaration encourt une amende pouvant aller jusqu'à 2 000 THB, et les gérants d'hôtel de 4 000 à 8 000 THB. L'amende est à la charge du propriétaire, pas du locataire étranger."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Le TM30, c'est à moi ou à mon propriétaire de le faire ?",
+      "a": "À votre propriétaire, ou à l'hôtel. Mais vous avez besoin du reçu : demandez-le lorsque vous emménagez."
+    },
+    {
+      "q": "Faut-il un nouveau TM30 après des vacances à l'étranger ?",
+      "a": "Oui. Vous arrivez de nouveau à l'adresse, donc une nouvelle notification doit être faite dans les 24 heures."
+    },
+    {
+      "q": "Le TM30 est-il la même chose que la déclaration des 90 jours ?",
+      "a": "Non. Le TM30 enregistre l'endroit où vous séjournez à votre arrivée. La déclaration des 90 jours est votre propre notification, tous les 90 jours."
+    },
+    {
+      "q": "Mon propriétaire refuse de faire la déclaration. Que puis-je faire ?",
+      "a": "Rendez-vous à votre bureau d'immigration local avec votre contrat de location. On pourra vous expliquer vos options, qui peuvent inclure de faire la déclaration vous-même."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

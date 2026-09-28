@@ -1,0 +1,62 @@
+{
+  "title": "About Thai Visa Experts",
+  "summary": "Thai Visa Experts is an independent information service that explains Thai visas in plain language. We are not a law firm, a visa agent or a government agency. We read the official rules so you can understand your options, then we point you back to the official sources to apply.",
+  "seoTitle": "About Us: Independent Thai Visa Guide",
+  "seoDescription": "Who is behind Thai Visa Experts, how we research and check every visa page against official Thai government sources, and how our translations are reviewed.",
+  "sections": [
+    {
+      "heading": "Who we are",
+      "paragraphs": [
+        "Thai Visa Experts is an independent website for people planning time in Thailand: holidaymakers, Muay Thai students, digital nomads, business travellers, retirees and families. We explain what each visa is for, who can get it, what it costs and how to apply, in English, French, Dutch and Thai.",
+        "We are not a law firm and we don't give legal advice. We are not a visa agent: we don't submit applications, take payments for visas or ask for your passport details. And we are not connected to the Royal Thai Government, the Immigration Bureau or any Thai embassy. Only those authorities can grant a visa or decide how the rules apply to you."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Where our information comes from",
+      "paragraphs": [
+        "Every fee, day count, funds requirement and age limit on this site is checked against an official source. We cite those sources on each page so you can check them yourself."
+      ],
+      "list": [
+        "The official Thai e-Visa portal (thaievisa.go.th) and the Ministry of Foreign Affairs (mfa.go.th, consular.mfa.go.th).",
+        "The Immigration Bureau (immigration.go.th) and the official TDAC site (tdac.immigration.go.th).",
+        "Royal Thai Embassy and Consulate websites, which often publish their own checklists and fees.",
+        "The Board of Investment (boi.go.th, ltr.boi.go.th, smart-visa.boi.go.th) for the LTR and SMART visas, and Thailand Privilege for the Privilege visa.",
+        "The Revenue Department (rd.go.th) for tax questions.",
+        "News reports and law-firm updates help us spot changes early, but we only publish a figure once we can trace it to an official source. When we can't, we say so and tell you to check with your embassy."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "\"Last verified\" dates",
+      "paragraphs": [
+        "Each visa page and guide shows a \"last verified\" date: the day we last checked its facts against the official sources. Thai visa rules change often, sometimes with only a few weeks' notice, so the date tells you how fresh the information is.",
+        "When a rule changes we update the page, reset the date and, for big changes, post a notice at the top of the site. If a page's date is old, or you're about to make an important decision, confirm with the official source linked on that page."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "How we translate",
+      "paragraphs": [
+        "English is our source language. Every page is written and checked in English first, then translated into French, Dutch and Thai. Numbers such as fees and days come from one shared data file, so they are always the same in every language.",
+        "Translations are marked as machine-translated until a native speaker has reviewed them. Each translation also records which English version it was based on, so we can see when it needs updating. If the English page and a translation ever disagree, the English page is the reference."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Corrections and feedback",
+      "paragraphs": [
+        "If you spot a mistake, a broken link or a rule that has changed, please tell us at hello@thaivisaexperts.com. Include the page and, if you can, a link to the official source. We read every message and correct confirmed errors quickly.",
+        "We can't answer questions about individual cases or check your documents. For that, contact the Thai embassy handling your application or the Immigration Bureau."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "source"
+}

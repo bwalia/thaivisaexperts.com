@@ -1,0 +1,103 @@
+{
+  "name": "Tourist visa (TR)",
+  "shortName": "Toeristenvisum",
+  "summary": "Het standaard toeristenvisum (Tourist visa, TR) vraag je vóór vertrek online aan via het officiële Thaise e-Visa-systeem. Met de TR voor één binnenkomst mag je maximaal 60 dagen blijven, plus één verlenging van 30 dagen bij immigratie, dus in totaal maximaal 90 dagen. Sinds het visumvrije verblijf in september 2026 is teruggebracht naar 30 dagen, is dit de eenvoudigste manier om twee of drie maanden te blijven. Het toeristenvisum voor meerdere binnenkomsten (METV) bestaat nog steeds bij veel ambassades: 6 maanden geldig, met maximaal 60 dagen per binnenkomst.",
+  "seoTitle": "Toeristenvisum Thailand (TR) 2026: 60 + 30 dagen, kosten e-Visa en METV",
+  "seoDescription": "Zo krijg je een toeristenvisum voor Thailand via het e-Visa-systeem: 60 dagen verblijf, 30 dagen verlenging, kosten per ambassade, 20.000 THB aan middelen, documenten, de METV en veelgemaakte fouten.",
+  "validity": "Eén binnenkomst (TR): 3 maanden geldig vanaf afgifte, dus je moet binnen die periode Thailand inreizen. Elke binnenkomst geeft maximaal 60 dagen verblijf. METV: 6 maanden geldig, onbeperkt aantal binnenkomsten, maximaal 60 dagen per binnenkomst.",
+  "extendableDetail": "Eenmaal in Thailand kun je elk verblijf van 60 dagen met maximaal 30 dagen verlengen bij een immigratiekantoor (formulier TM.7, 1.900 THB), naar oordeel van de ambtenaar. Met een METV kun je ook vóór het verlopen van het visum het land uit en weer in reizen voor een nieuw verblijf van 60 dagen.",
+  "feeNote": "De basisprijs is 1.000 THB voor één binnenkomst en 5.000 THB voor een METV, maar je betaalt in de lokale valuta van de ambassade die je e-Visa behandelt, bijvoorbeeld USD 40 / USD 200 in de VS, GBP 30 in het VK en NOK 400 / NOK 2.000 in Noorwegen. Kosten worden niet terugbetaald.",
+  "financialRequirement": "Toon minimaal 20.000 THB per persoon of 40.000 THB per gezin aan. Sommige ambassades vragen alleen om een actueel saldo; andere (bijvoorbeeld Washington) willen afschriften van 3 maanden. Voor de METV is meer financieel bewijs nodig (en vaak bewijs van werk of inkomen); het bedrag wordt per ambassade bepaald, dus check hun pagina.",
+  "processingTime": "Verschilt per ambassade. Veel ambassades adviseren om tot 14 werkdagen te rekenen, en de ambassade in Washington raadt aan minstens 30 dagen voor vertrek aan te vragen. Vraag niet meer dan 3 maanden van tevoren aan, want de geldigheid van het visum begint op de dag van afgifte.",
+  "keyRequirements": [
+    "Vraag vóór vertrek online aan op thaievisa.go.th, via de ambassade die verantwoordelijk is voor het land waar je woont",
+    "Paspoort minimaal 6 maanden geldig met twee lege pagina's",
+    "Bewijs van middelen van minimaal 20.000 THB per persoon (40.000 THB per gezin)",
+    "Boeking van een vlucht terug of verder en accommodatie voor je verblijf",
+    "Alleen voor toerisme, familiebezoek of medische behandeling; geen enkele vorm van werk",
+    "Dien de TDAC in binnen 3 dagen vóór elke aankomst"
+  ],
+  "documents": [
+    "Scan van de persoonsgegevenspagina van je paspoort (6+ maanden geldig)",
+    "Recente pasfoto, gemaakt in de afgelopen 6 maanden",
+    "Vluchtboeking naar Thailand (en terug of verder)",
+    "Hotelboekingen of een uitnodigingsbrief met je Thaise adres",
+    "Recent bankafschrift op jouw naam met minimaal het equivalent van 20.000 THB",
+    "Bewijs van verblijf in het land waar je aanvraagt (bijv. verblijfsvergunning, visum of energierekening) als je geen staatsburger bent",
+    "Voor minderjarigen: geboorteakte en toestemmingsbrief van de ouders",
+    "Voor de METV: bewijs van werk of inkomen zoals vereist door je ambassade"
+  ],
+  "howToApply": [
+    {
+      "step": "Kies de juiste ambassade",
+      "detail": "Kies op thaievisa.go.th het land waar je woont. Het e-Visa wordt behandeld door de Thaise ambassade of het consulaat dat voor dat land verantwoordelijk is."
+    },
+    {
+      "step": "Maak een account aan en kies het visum",
+      "detail": "Selecteer 'Tourist Visa' en daarna één binnenkomst of meerdere binnenkomsten (METV), afhankelijk van wat je ambassade aanbiedt."
+    },
+    {
+      "step": "Upload je documenten",
+      "detail": "Upload duidelijke pdf's of jpg's van je paspoort, foto, boekingen en bankafschrift. Wazige of bijgesneden bestanden zijn de meest voorkomende oorzaak van vertraging."
+    },
+    {
+      "step": "Betaal de kosten",
+      "detail": "Betaal online in de lokale valuta. Sommige ambassades beginnen pas met de behandeling als de betaling is verwerkt."
+    },
+    {
+      "step": "Wacht op goedkeuring",
+      "detail": "Je krijgt een e-mail zodra het e-Visa is goedgekeurd. Print het of sla het op; luchtvaartmaatschappijen en immigratie kunnen erom vragen."
+    },
+    {
+      "step": "Reis af en vul de TDAC in",
+      "detail": "Dien de Thailand Digital Arrival Card (digitale aankomstkaart) in binnen 3 dagen vóór aankomst. Reis Thailand in vóór de 'enter before'-datum van het visum."
+    }
+  ],
+  "bestFor": [
+    "Vakanties van 1 tot 3 maanden",
+    "Nationaliteiten die niet visumvrij mogen inreizen",
+    "Reizigers die voorheen gebruikmaakten van de visumvrijstelling van 60 dagen",
+    "Mensen die binnen zes maanden vaak naar Thailand reizen (METV)"
+  ],
+  "notFor": [
+    "Werken op afstand of lange verblijven van 6 maanden of meer (bekijk de DTV)",
+    "Zakelijke afspraken of welk werk dan ook (gebruik een Non-Immigrant B-visum)",
+    "Korte reizen van minder dan 30 dagen als je paspoort visumvrij is"
+  ],
+  "commonMistakes": [
+    "Te vroeg aanvragen. De geldigheid van 3 maanden begint op de dag van afgifte, niet op de dag dat je aankomt.",
+    "Aanvragen via de verkeerde ambassade. Je moet aanvragen waar je legaal woont, niet waar je doorheen reist.",
+    "Een bankafschrift uploaden zonder naam of datum.",
+    "Denken dat het visum je bij aankomst 90 dagen geeft. Je krijgt 60 dagen; voor de extra 30 is een verlenging bij immigratie nodig.",
+    "Websites van externe 'visumbureaus' gebruiken die er officieel uitzien. De enige officiële site is thaievisa.go.th.",
+    "Een METV laten verlopen terwijl je in het buitenland bent en verwachten dat je er nog mee kunt inreizen."
+  ],
+  "faqs": [
+    {
+      "q": "Hoelang mag ik blijven met een Thais toeristenvisum?",
+      "a": "Maximaal 60 dagen per binnenkomst. Daarna kun je eenmalig een verlenging van 30 dagen aanvragen bij een immigratiekantoor in Thailand voor 1.900 THB, dus in totaal maximaal 90 dagen per binnenkomst."
+    },
+    {
+      "q": "Is het toeristenvisum voor meerdere binnenkomsten (METV) afgeschaft?",
+      "a": "Nee. De METV bestaat nog: hij is 6 maanden geldig en geeft maximaal 60 dagen per binnenkomst. Niet elke ambassade biedt hem aan via het e-Visa-systeem, en meestal wordt er meer financieel bewijs gevraagd dan voor het visum voor één binnenkomst, dus check de pagina van je ambassade."
+    },
+    {
+      "q": "Heb ik een toeristenvisum nodig als mijn paspoort visumvrij is?",
+      "a": "Alleen als je langer wilt blijven dan je vrijstelling toestaat. Sinds 15 september 2026 krijgen de meeste visumvrije reizigers 30 dagen, te verlengen met 30. Wil je vanaf het begin 60 dagen, of maximaal 90 dagen, dan is een toeristenvisum de handigste optie."
+    },
+    {
+      "q": "Kan ik het toeristenvisum op het vliegveld aanvragen, of terwijl ik in een ander land ben?",
+      "a": "Nee. Je vraagt vóór vertrek online aan, via de Thaise ambassade die verantwoordelijk is voor het land waar je woont. Ben je ergens anders tijdelijk op bezoek, dan kan die ambassade je aanvraag weigeren."
+    },
+    {
+      "q": "Hoeveel geld moet ik kunnen aantonen?",
+      "a": "Minimaal 20.000 THB per persoon of 40.000 THB per gezin voor een visum voor één binnenkomst. Hoeveel maanden aan afschriften je nodig hebt, verschilt per ambassade, en voor de METV wordt meer gevraagd."
+    },
+    {
+      "q": "Mag ik op afstand werken met een toeristenvisum?",
+      "a": "Nee. Met een toeristenvisum mag je geen enkel werk doen. Het Destination Thailand Visa (DTV) is het visum dat bedoeld is voor remote workers."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -1,0 +1,1049 @@
+{
+  "lastVerified": "2026-09-28",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thai Department of Consular Affairs: 2026 visa exemption and VoA summary",
+        "fr": "Département des affaires consulaires thaïlandais : résumé 2026 exemption de visa et VoA",
+        "nl": "Thaise afdeling Consulaire Zaken: overzicht visumvrijstelling en VoA 2026",
+        "th": "กรมการกงสุล: สรุปมาตรการยกเว้นการตรวจลงตราและ VoA ปี 2569"
+      },
+      "url": "https://consular.mfa.go.th/th/content/1-9-69-00"
+    },
+    {
+      "label": {
+        "en": "Thai Ministry of Foreign Affairs: bilateral visa exemption agreements (ordinary passports)",
+        "fr": "Ministère thaïlandais des Affaires étrangères : accords bilatéraux d'exemption de visa (passeports ordinaires)",
+        "nl": "Thais ministerie van Buitenlandse Zaken: bilaterale visumvrijstellingsakkoorden (gewone paspoorten)",
+        "th": "กระทรวงการต่างประเทศ: ความตกลงยกเว้นการตรวจลงตราทวิภาคี (หนังสือเดินทางธรรมดา)"
+      },
+      "url": "https://image.mfa.go.th/mfa/0/zE6021nSnu/0303/Bilat_Ordinary.pdf"
+    },
+    {
+      "label": {
+        "en": "Thai Ministry of Foreign Affairs press briefing, 3 September 2026",
+        "fr": "Point presse du ministère thaïlandais des Affaires étrangères, 3 septembre 2026",
+        "nl": "Persbriefing Thais ministerie van Buitenlandse Zaken, 3 september 2026",
+        "th": "สรุปแถลงข่าวกระทรวงการต่างประเทศ 3 กันยายน 2569"
+      },
+      "url": "https://www.mfa.go.th/en/content/pb-summary-03092026-en"
+    },
+    {
+      "label": {
+        "en": "Tourism Authority of Thailand: new 30-day and 15-day exemption rules",
+        "fr": "Office du tourisme de Thaïlande : nouvelles règles d'exemption de 30 et 15 jours",
+        "nl": "Thaise Verkeersbureau: nieuwe vrijstellingsregels van 30 en 15 dagen",
+        "th": "การท่องเที่ยวแห่งประเทศไทย: มาตรการยกเว้นการตรวจลงตรา 30 วันและ 15 วันใหม่"
+      },
+      "url": "https://www.tatnews.org/2026/09/thailand-introduces-new-30-day-and-15-day-visa-exemption-rules-from-15-september/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy Moscow: revision of exemption and VoA schemes",
+        "fr": "Ambassade royale de Thaïlande à Moscou : révision des régimes d'exemption et de VoA",
+        "nl": "Koninklijke Thaise ambassade Moskou: herziening vrijstelling en VoA",
+        "th": "สถานเอกอัครราชทูต ณ กรุงมอสโก: การทบทวนมาตรการยกเว้นการตรวจลงตราและ VoA"
+      },
+      "url": "https://moscow.thaiembassy.org/en/publicservice/revision-of-thailand-s-visa-exemption-and-visa-on-arrival-schemes"
+    }
+  ],
+  "todo": [
+    "TODO(verify): Final country lists taken from the Royal Gazette notices of 31 August 2026 as reported by TAT, MFA and embassy pages; the consular.mfa.go.th summary is an image, so cross-check the 60-country 30-day list against it.",
+    "TODO(verify): Myanmar (MM) 14-day bilateral exemption applies only at international airports.",
+    "TODO(verify): Taiwan (TW), Hong Kong (HK), Macao (MO), Kosovo (XK) and Palestine (PS) are territories/partially recognised; confirm the site's country picker handles them. Kosovo lost exemption on 15 September 2026.",
+    "TODO(verify): Vatican City (VA) and Palestine (PS) are not on any published list; marked visa-required.",
+    "TODO(verify): Rules for diplomatic/official passports and for holders of bilateral-agreement passports differ; this file covers ordinary passports only."
+  ],
+  "countries": [
+    {
+      "code": "AF",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AL",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "DZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AR",
+      "status": "exempt",
+      "stayDays": 90
+    },
+    {
+      "code": "AM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "AU",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "AT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "AZ",
+      "status": "voa",
+      "stayDays": 15
+    },
+    {
+      "code": "BS",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BH",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "BD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BB",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BY",
+      "status": "voa",
+      "stayDays": 15
+    },
+    {
+      "code": "BE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "BZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BJ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "BO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BR",
+      "status": "exempt",
+      "stayDays": 90
+    },
+    {
+      "code": "BN",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "BG",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "BF",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "BI",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CV",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KH",
+      "status": "exempt",
+      "stayDays": 14
+    },
+    {
+      "code": "CM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "CF",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CL",
+      "status": "exempt",
+      "stayDays": 90
+    },
+    {
+      "code": "CN",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "CO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CI",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "HR",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "CU",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "CY",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "CZ",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "DK",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "DJ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "DM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "DO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "EC",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "EG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SV",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GQ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ER",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "EE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ET",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "FJ",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "FI",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "FR",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "GA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "DE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "GH",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GR",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "GD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GT",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GN",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "GY",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "HT",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "HN",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "HU",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "IS",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "IN",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "ID",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "IR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "IQ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "IE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "IL",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "IT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "JM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "JP",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "JO",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "KZ",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "KE",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KI",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KP",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KR",
+      "status": "exempt",
+      "stayDays": 90
+    },
+    {
+      "code": "KW",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "KG",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LV",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LB",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "LS",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "LR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "LY",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "LI",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LU",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "MG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MY",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "MV",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "ML",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "MH",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MU",
+      "status": "exempt",
+      "stayDays": 15
+    },
+    {
+      "code": "MX",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "FM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MC",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MN",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "ME",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MM",
+      "status": "exempt",
+      "stayDays": 14
+    },
+    {
+      "code": "NA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NP",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NL",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "NZ",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "NI",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NE",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "MK",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "NO",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "OM",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "PK",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PY",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PE",
+      "status": "exempt",
+      "stayDays": 90
+    },
+    {
+      "code": "PH",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "PL",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "PT",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "QA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "RO",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "RU",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "RW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "KN",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "LC",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "VC",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "WS",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ST",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SN",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "RS",
+      "status": "voa",
+      "stayDays": 15
+    },
+    {
+      "code": "SC",
+      "status": "exempt",
+      "stayDays": 15
+    },
+    {
+      "code": "SL",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SG",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SK",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SI",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SB",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ZA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SS",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ES",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "LK",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SD",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SR",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "SE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "CH",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "SY",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TJ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TL",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "TG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TO",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TT",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TN",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TR",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "TM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TV",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "UG",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "UA",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "AE",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "GB",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "US",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "UY",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "UZ",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "VU",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "VE",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "VN",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "YE",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ZM",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "ZW",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "VA",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "PS",
+      "status": "visa-required",
+      "stayDays": null
+    },
+    {
+      "code": "TW",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "HK",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "MO",
+      "status": "exempt",
+      "stayDays": 30
+    },
+    {
+      "code": "XK",
+      "status": "visa-required",
+      "stayDays": null
+    }
+  ]
+}

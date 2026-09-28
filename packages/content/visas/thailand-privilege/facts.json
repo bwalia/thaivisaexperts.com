@@ -1,0 +1,55 @@
+{
+  "slug": "thailand-privilege",
+  "category": "long-stay",
+  "purposes": ["holiday", "retire", "invest"],
+  "maxStayDays": 365,
+  "extendable": true,
+  "extensionDays": 365,
+  "entries": "multiple",
+  "validityMonths": 60,
+  "feeTHB": 900000,
+  "minFundsTHB": 900000,
+  "minAge": null,
+  "remoteWorkAllowed": false,
+  "localWorkAllowed": false,
+  "eligibility": "all",
+  "popular": false,
+  "lastVerified": "2026-09-28",
+  "heroImage": "koh-samui-beach",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Thailand Privilege: official membership site",
+        "fr": "Thailand Privilege : site officiel des adhésions",
+        "nl": "Thailand Privilege: officiële lidmaatschapssite",
+        "th": "Thailand Privilege: เว็บไซต์ทางการของสมาชิก"
+      },
+      "url": "https://www.thailandprivilege.co.th/home"
+    },
+    {
+      "label": {
+        "en": "Thailand Privilege: stay extension rules",
+        "fr": "Thailand Privilege : règles de prolongation de séjour",
+        "nl": "Thailand Privilege: regels voor verlenging van verblijf",
+        "th": "Thailand Privilege: ระเบียบการขยายระยะเวลาพำนัก"
+      },
+      "url": "https://www.thailandprivilege.co.th/why-thailand/stay-extension"
+    },
+    {
+      "label": {
+        "en": "Thailand Privilege: comparison with the DTV",
+        "fr": "Thailand Privilege : comparaison avec le DTV",
+        "nl": "Thailand Privilege: vergelijking met de DTV",
+        "th": "Thailand Privilege: เปรียบเทียบกับวีซ่า DTV"
+      },
+      "url": "https://www.thailandprivilege.co.th/why-thailand/advantage-of-thailand-privilege-card-over-dtv"
+    }
+  ],
+  "relatedVisas": ["ltr", "dtv", "non-oa", "non-o-retirement", "tourist-tr"],
+  "todo": [
+    "TODO(verify): Bronze (650,000 THB, 5 years) is still listed on thailandprivilege.co.th, but agents report applications close on 30 September 2026. feeTHB and minFundsTHB use Gold (900,000 THB, 5 years) as the entry tier from 1 October 2026. Recheck after that date.",
+    "TODO(verify): Next Member (family) prices: the official site advertises a 750,000 THB promotion; standard prices reported as 1,000,000 / 1,500,000 / 2,000,000 THB for Platinum / Diamond / Reserve. Confirm current terms and end date.",
+    "TODO(verify): Background-check processing time (reported as 1 to 3 months) is not stated on the official site.",
+    "TODO(verify): Stay per entry of 1 year is from Thailand Privilege pages; confirm how it is stamped at immigration."
+  ]
+}

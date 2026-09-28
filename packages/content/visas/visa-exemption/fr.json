@@ -1,0 +1,101 @@
+{
+  "name": "Exemption de visa (entrée sans visa)",
+  "shortName": "Exemption de visa",
+  "summary": "Si votre passeport figure sur la liste d'exemption de la Thaïlande, vous pouvez arriver en avion sans visa et séjourner jusqu'à 30 jours pour du tourisme. Depuis le 15 septembre 2026, l'ancien séjour de 60 jours sans visa a pris fin pour tout le monde. Certains pays bénéficient d'une durée différente en vertu d'un accord bilatéral : 90 jours pour l'Argentine, le Brésil, le Chili, le Pérou et la Corée du Sud, 30 jours pour la Chine, la Russie, le Vietnam et d'autres, 14 jours pour le Cambodge et le Myanmar, et 15 jours pour Maurice et les Seychelles. Vous pouvez généralement ajouter une prolongation de 30 jours dans un bureau de l'immigration.",
+  "seoTitle": "Exemption de visa Thaïlande 2026 : 30 jours sans visa (fin des 60 jours)",
+  "seoDescription": "La Thaïlande a réduit les séjours sans visa de 60 à 30 jours le 15 septembre 2026. Vérifiez si votre passeport est éligible, comment prolonger de 30 jours, la limite aux frontières terrestres et la TDAC.",
+  "validity": "Aucun visa n'est délivré. Vous recevez à l'arrivée un tampon d'autorisation de séjour : 30 jours pour la plupart des pays éligibles (tourisme uniquement), 90 jours pour l'Argentine, le Brésil, le Chili, le Pérou et la Corée du Sud, 14 jours pour le Cambodge et le Myanmar, et 15 jours pour Maurice et les Seychelles. Le jour de votre arrivée compte comme le jour 1.",
+  "extendableDetail": "Vous pouvez demander une seule fois une prolongation de 30 jours maximum dans un bureau de l'immigration en Thaïlande (formulaire TM.7, frais de 1 900 THB). Faites la demande avant l'expiration de votre tampon. La prolongation est laissée à la discrétion de l'agent ; ce n'est pas un droit.",
+  "feeNote": "L'entrée est gratuite. Une prolongation auprès de l'immigration coûte 1 900 THB.",
+  "financialRequirement": "Aucun montant fixe n'est publié pour le dispositif de 2026, mais les agents de l'immigration peuvent vous demander de prouver que vous disposez de fonds suffisants pour votre séjour. Prévoyez un justificatif d'environ 20 000 THB par personne (40 000 THB par famille) en espèces ou par carte, ce qui correspond à la règle appliquée de longue date.",
+  "processingTime": "Rien à demander à l'avance, à l'exception de la TDAC, qui se remplit en ligne en 10 minutes environ et doit être soumise dans les 3 jours précédant votre arrivée.",
+  "keyRequirements": [
+    "Un passeport d'un pays figurant sur la liste d'exemption ou lié par un accord bilatéral, valable au moins 6 mois à l'arrivée",
+    "Tourisme uniquement : depuis le 15 septembre 2026, l'exemption de 30 jours ne couvre ni les réunions d'affaires ni le travail",
+    "Une Thailand Digital Arrival Card (TDAC, carte d'arrivée numérique) remplie et soumise en ligne dans les 3 jours précédant l'arrivée",
+    "Un billet retour ou de continuation quittant la Thaïlande pendant la durée de séjour autorisée",
+    "Les entrées par voie terrestre sous exemption sont généralement limitées à deux par année civile (sauf pour les passeports de Malaisie, Brunei, Indonésie ou Singapour)"
+  ],
+  "documents": [
+    "Passeport valable au moins 6 mois, avec une page vierge pour le tampon d'entrée",
+    "Confirmation de la TDAC avec QR code (capture d'écran ou impression)",
+    "Réservation d'un vol retour ou de continuation pendant votre séjour autorisé",
+    "Réservation d'hôtel ou adresse où vous logerez",
+    "Justificatif de fonds à présenter sur demande (espèces, carte bancaire ou relevé bancaire récent)",
+    "Pour une prolongation : formulaire TM.7, une photo d'identité (4 x 6 cm), des copies du passeport et 1 900 THB en espèces",
+    "Pour une prolongation : justificatif de votre adresse en Thaïlande (réservation d'hôtel ou reçu TM30, la déclaration d'adresse effectuée par votre hébergeur)"
+  ],
+  "howToApply": [
+    {
+      "step": "Vérifier que votre passeport figure sur la liste",
+      "detail": "Recherchez votre nationalité dans notre outil de vérification par pays. Si vous ne figurez ni sur la liste d'exemption ni sur la liste bilatérale, vous devez obtenir un visa avant de partir."
+    },
+    {
+      "step": "Réserver un billet de sortie",
+      "detail": "Les compagnies aériennes et l'immigration peuvent demander un billet retour ou de continuation dans les 30 jours (ou dans la durée de votre séjour bilatéral). Une prolongation n'est pas garantie : prévoyez donc votre départ pendant le premier séjour."
+    },
+    {
+      "step": "Remplir la TDAC",
+      "detail": "Complétez la Thailand Digital Arrival Card sur tdac.immigration.go.th dans les 3 jours précédant votre arrivée. C'est gratuit. Enregistrez le QR code."
+    },
+    {
+      "step": "Arriver et obtenir le tampon",
+      "detail": "Présentez votre passeport, votre TDAC et, si on vous le demande, votre billet de sortie et vos justificatifs de fonds. Vérifiez la date inscrite sur votre tampon avant de quitter le guichet."
+    },
+    {
+      "step": "Prolonger si vous avez besoin de plus de temps",
+      "detail": "Avant l'expiration de votre tampon, rendez-vous au bureau de l'immigration de votre secteur avec un formulaire TM.7, une photo, des copies du passeport et 1 900 THB. Vous pouvez obtenir jusqu'à 30 jours supplémentaires."
+    }
+  ],
+  "bestFor": [
+    "Les vacances d'un mois maximum",
+    "Les séjours courts jusqu'à 60 jours si vous prolongez une fois auprès de l'immigration",
+    "Les voyageurs d'Argentine, du Brésil, du Chili, du Pérou ou de Corée du Sud (90 jours grâce aux accords bilatéraux)"
+  ],
+  "notFor": [
+    "Toute forme de travail, y compris les réunions d'affaires (utilisez un visa Non-Immigrant B)",
+    "Le télétravail ou les longs séjours (voyez plutôt le DTV)",
+    "Les personnes qui prévoient des « visa runs » répétés par la frontière terrestre",
+    "Les ressortissants absents de la liste d'exemption, qui ont besoin d'un visa touristique"
+  ],
+  "commonMistakes": [
+    "Penser que vous obtenez encore 60 jours. Le dispositif de 60 jours a pris fin le 15 septembre 2026 ; la plupart des voyageurs obtiennent désormais 30 jours.",
+    "Oublier la TDAC. Sans elle, vous risquez d'être retardé à l'aéroport.",
+    "Réserver un vol de sortie après le jour 30 en espérant une prolongation. Les compagnies aériennes peuvent refuser l'embarquement sans billet de sortie compris dans votre séjour autorisé.",
+    "Utiliser l'exemption pour des réunions d'affaires. Depuis septembre 2026, elle est réservée au tourisme.",
+    "Mal compter les jours. Le jour d'arrivée est le jour 1, et un dépassement de séjour coûte 500 THB par jour et peut entraîner une interdiction de territoire.",
+    "Faire des allers-retours par la frontière terrestre. Les entrées terrestres sous exemption sont plafonnées à deux par année civile pour la plupart des nationalités."
+  ],
+  "faqs": [
+    {
+      "q": "Le séjour de 60 jours sans visa existe-t-il encore ?",
+      "a": "Non. Le dispositif de 60 jours lancé en juillet 2024 a pris fin le 15 septembre 2026. Si vous êtes entré avant cette date, vous pouvez rester jusqu'à la date indiquée sur votre tampon. Toute personne entrant à partir du 15 septembre 2026 obtient la nouvelle durée prévue pour sa nationalité, généralement 30 jours."
+    },
+    {
+      "q": "Puis-je prolonger l'exemption de visa de 30 jours ?",
+      "a": "Oui, généralement une fois, de 30 jours maximum, dans un bureau de l'immigration thaïlandaise. Les frais sont de 1 900 THB et la décision relève de la discrétion de l'agent. Faites la demande quelques jours avant l'expiration de votre tampon."
+    },
+    {
+      "q": "Quels pays obtiennent 90 jours ?",
+      "a": "L'Argentine, le Brésil, le Chili, le Pérou et la Corée du Sud, en vertu d'accords bilatéraux avec la Thaïlande. Ces accords n'ont pas été modifiés par la réforme de 2026."
+    },
+    {
+      "q": "Dois-je quand même remplir la TDAC si je n'ai pas besoin de visa ?",
+      "a": "Oui. Tous les visiteurs étrangers, y compris ceux exemptés de visa, doivent soumettre la Thailand Digital Arrival Card en ligne dans les 3 jours précédant leur arrivée. Elle est gratuite sur le site officiel tdac.immigration.go.th ; évitez les sites payants qui l'imitent."
+    },
+    {
+      "q": "Puis-je entrer sans visa autant de fois que je le souhaite ?",
+      "a": "Pas par voie terrestre. Les entrées sans visa par les frontières terrestres sont généralement limitées à deux par année civile (les ressortissants de Malaisie, Brunei, Indonésie et Singapour ne sont pas concernés). Les agents peuvent aussi refuser l'entrée aux personnes qui semblent vivre en Thaïlande en enchaînant les exemptions. Si vous venez souvent, prenez un visa touristique ou un DTV."
+    },
+    {
+      "q": "Puis-je télétravailler sous exemption de visa ?",
+      "a": "Non. L'exemption est réservée au tourisme. Si vous souhaitez travailler à distance depuis la Thaïlande pour des clients ou un employeur étrangers, le Destination Thailand Visa (DTV) est conçu pour cela."
+    },
+    {
+      "q": "Mon pays a perdu l'entrée sans visa. Que faire ?",
+      "a": "Le 15 septembre 2026, 21 nationalités, dont le Mexique, la Colombie, le Maroc, le Sri Lanka, l'Ouzbékistan, Monaco et Andorre, ont perdu l'entrée sans visa. Demandez un visa touristique (TR) en ligne via le système e-Visa thaïlandais avant votre voyage, au moins 2 à 4 semaines à l'avance."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

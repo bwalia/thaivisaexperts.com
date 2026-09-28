@@ -1,0 +1,101 @@
+{
+  "name": "Visa exemption (visumvrije inreis)",
+  "shortName": "Visumvrijstelling",
+  "summary": "Staat je paspoort op de vrijstellingslijst van Thailand, dan kun je zonder visum invliegen en maximaal 30 dagen blijven voor toerisme. Sinds 15 september 2026 is het oude visumvrije verblijf van 60 dagen voor iedereen afgeschaft. Sommige landen krijgen een andere verblijfsduur op grond van een bilaterale overeenkomst: 90 dagen voor Argentinië, Brazilië, Chili, Peru en Zuid-Korea, 30 dagen voor China, Rusland, Vietnam en andere landen, 14 dagen voor Cambodja en Myanmar, en 15 dagen voor Mauritius en de Seychellen. Meestal kun je één keer 30 dagen verlengen bij een immigratiekantoor.",
+  "seoTitle": "Visumvrij naar Thailand 2026: 30 dagen (verblijf van 60 dagen afgeschaft)",
+  "seoDescription": "Thailand heeft het visumvrije verblijf op 15 september 2026 verkort van 60 naar 30 dagen. Check of je paspoort in aanmerking komt, hoe je met 30 dagen verlengt, de limiet voor landgrenzen en de TDAC.",
+  "validity": "Er wordt geen visum afgegeven. Bij aankomst krijg je een stempel met toestemming tot verblijf: 30 dagen voor de meeste landen die in aanmerking komen (alleen toerisme), 90 dagen voor Argentinië, Brazilië, Chili, Peru en Zuid-Korea, 14 dagen voor Cambodja en Myanmar, en 15 dagen voor Mauritius en de Seychellen. De dag van aankomst telt als dag 1.",
+  "extendableDetail": "Je kunt eenmalig een verlenging van maximaal 30 dagen aanvragen bij een immigratiekantoor in Thailand (formulier TM.7, kosten 1.900 THB). Vraag aan vóórdat je stempel verloopt. De verlenging is ter beoordeling van de ambtenaar en geen recht.",
+  "feeNote": "Inreizen is gratis. Een verlenging bij immigratie kost 1.900 THB.",
+  "financialRequirement": "Voor de regeling van 2026 is geen vast bedrag gepubliceerd, maar immigratieambtenaren kunnen je vragen aan te tonen dat je genoeg geld hebt voor je verblijf. Neem bewijs mee van ongeveer 20.000 THB per persoon (40.000 THB per gezin) in contanten of op kaarten; dat is de richtlijn die al lang geldt.",
+  "processingTime": "Je hoeft vooraf niets aan te vragen behalve de TDAC. Die vul je in ongeveer 10 minuten online in en moet binnen 3 dagen vóór aankomst zijn ingediend.",
+  "keyRequirements": [
+    "Een paspoort van een land op de vrijstellingslijst of met een bilaterale overeenkomst, bij aankomst minimaal 6 maanden geldig",
+    "Alleen toerisme: sinds 15 september 2026 geldt de vrijstelling van 30 dagen niet voor zakelijke afspraken of werk",
+    "Een ingevulde Thailand Digital Arrival Card (TDAC), online ingediend binnen 3 dagen vóór aankomst",
+    "Een ticket terug of verder waarmee je Thailand binnen je toegestane verblijf verlaat",
+    "Inreizen over land met vrijstelling is doorgaans beperkt tot twee keer per kalenderjaar (niet voor paspoorten van Maleisië, Brunei, Indonesië of Singapore)"
+  ],
+  "documents": [
+    "Paspoort dat minimaal 6 maanden geldig is, met een lege pagina voor het inreisstempel",
+    "TDAC-bevestiging met QR-code (screenshot of print)",
+    "Boeking van een vlucht terug of verder binnen je toegestane verblijf",
+    "Hotelboeking of adres waar je verblijft",
+    "Bewijs van middelen dat je kunt tonen als erom gevraagd wordt (contant geld, bankpas of recent bankafschrift)",
+    "Voor een verlenging: formulier TM.7, één pasfoto (4 x 6 cm), kopieën van je paspoort en 1.900 THB contant",
+    "Voor een verlenging: bewijs van je adres in Thailand (hotelboeking of TM30-ontvangstbewijs, de adresmelding die je gastheer indient)"
+  ],
+  "howToApply": [
+    {
+      "step": "Check of je paspoort op de lijst staat",
+      "detail": "Zoek je nationaliteit op in onze landencheck. Sta je niet op de vrijstellings- of bilaterale lijst, dan heb je een visum nodig voordat je vliegt."
+    },
+    {
+      "step": "Boek een ticket het land uit",
+      "detail": "Luchtvaartmaatschappijen en immigratie kunnen vragen om een ticket terug of verder binnen 30 dagen (of je bilaterale verblijfsduur). Een verlenging is niet gegarandeerd, dus plan je vertrek binnen het eerste verblijf."
+    },
+    {
+      "step": "Vul de TDAC in",
+      "detail": "Vul de Thailand Digital Arrival Card in op tdac.immigration.go.th binnen 3 dagen vóór aankomst. Het is gratis. Bewaar de QR-code."
+    },
+    {
+      "step": "Kom aan en laat je paspoort stempelen",
+      "detail": "Laat je paspoort, TDAC en, als erom gevraagd wordt, je ticket verder en je middelen zien. Controleer de datum op je stempel voordat je bij de balie weggaat."
+    },
+    {
+      "step": "Verleng als je meer tijd nodig hebt",
+      "detail": "Ga vóórdat je stempel verloopt naar het immigratiekantoor in je regio met een TM.7-formulier, pasfoto, kopieën van je paspoort en 1.900 THB. Je kunt maximaal 30 dagen extra krijgen."
+    }
+  ],
+  "bestFor": [
+    "Vakanties tot een maand",
+    "Korte reizen tot 60 dagen als je één keer verlengt bij immigratie",
+    "Reizigers uit Argentinië, Brazilië, Chili, Peru of Zuid-Korea (90 dagen dankzij bilaterale overeenkomsten)"
+  ],
+  "notFor": [
+    "Welk werk dan ook, inclusief zakelijke afspraken (gebruik een Non-Immigrant B-visum)",
+    "Werken op afstand of lange verblijven (bekijk de DTV)",
+    "Iedereen die herhaaldelijk 'visa runs' over land wil doen",
+    "Nationaliteiten die niet op de vrijstellingslijst staan en een toeristenvisum nodig hebben"
+  ],
+  "commonMistakes": [
+    "Aannemen dat je nog steeds 60 dagen krijgt. De regeling van 60 dagen is op 15 september 2026 gestopt; de meeste mensen krijgen nu 30 dagen.",
+    "De TDAC vergeten. Zonder TDAC kun je op het vliegveld vertraging oplopen.",
+    "Een vlucht het land uit boeken na dag 30 en hopen op een verlenging. Luchtvaartmaatschappijen kunnen je weigeren aan boord zonder ticket verder binnen je toegestane verblijf.",
+    "De vrijstelling gebruiken voor zakelijke afspraken. Sinds september 2026 geldt die alleen voor toerisme.",
+    "Verkeerd dagen tellen. Je aankomstdag is dag 1, en te lang blijven (overstay) kost 500 THB per dag en kan leiden tot een inreisverbod.",
+    "Border runs over land doen. Inreizen over land met vrijstelling is voor de meeste nationaliteiten beperkt tot twee keer per kalenderjaar."
+  ],
+  "faqs": [
+    {
+      "q": "Bestaat het visumvrije verblijf van 60 dagen nog?",
+      "a": "Nee. De regeling van 60 dagen die in juli 2024 begon, is op 15 september 2026 gestopt. Ben je vóór die datum ingereisd, dan mag je blijven tot de datum op je stempel. Iedereen die op of na 15 september 2026 inreist, krijgt de nieuwe verblijfsduur voor zijn nationaliteit, meestal 30 dagen."
+    },
+    {
+      "q": "Kan ik de visumvrijstelling van 30 dagen verlengen?",
+      "a": "Ja, meestal één keer, met maximaal 30 dagen bij een Thais immigratiekantoor. De kosten zijn 1.900 THB en de beslissing ligt bij de ambtenaar. Vraag een paar dagen voordat je stempel verloopt aan."
+    },
+    {
+      "q": "Welke landen krijgen 90 dagen?",
+      "a": "Argentinië, Brazilië, Chili, Peru en Zuid-Korea, op grond van bilaterale overeenkomsten met Thailand. Deze overeenkomsten zijn door de hervorming van 2026 niet veranderd."
+    },
+    {
+      "q": "Moet ik de TDAC ook invullen als ik geen visum nodig heb?",
+      "a": "Ja. Elke buitenlandse bezoeker, ook visumvrije reizigers, moet de Thailand Digital Arrival Card binnen 3 dagen vóór aankomst online indienen. Dat is gratis op de officiële site tdac.immigration.go.th; vermijd betaalde nepsites die erop lijken."
+    },
+    {
+      "q": "Mag ik zo vaak als ik wil visumvrij inreizen?",
+      "a": "Niet over land. Visumvrij inreizen via landgrenzen is doorgaans beperkt tot twee keer per kalenderjaar (voor inwoners van Maleisië, Brunei, Indonesië en Singapore geldt geen limiet). Ambtenaren kunnen ook de toegang weigeren aan mensen die met opeenvolgende vrijstellingen in Thailand lijken te wonen. Kom je vaak, neem dan een toeristenvisum of een DTV."
+    },
+    {
+      "q": "Mag ik op afstand werken met een visumvrijstelling?",
+      "a": "Nee. De vrijstelling is alleen voor toerisme. Wil je vanuit Thailand op afstand werken voor buitenlandse klanten of een werkgever, dan is het Destination Thailand Visa (DTV) daarvoor bedoeld."
+    },
+    {
+      "q": "Mijn land heeft visumvrije inreis verloren. Wat nu?",
+      "a": "Op 15 september 2026 verloren 21 nationaliteiten, waaronder Mexico, Colombia, Marokko, Sri Lanka, Oezbekistan, Monaco en Andorra, hun visumvrije inreis. Vraag vóór vertrek online een toeristenvisum (TR) aan via het Thaise e-Visa-systeem, minstens 2 tot 4 weken van tevoren."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

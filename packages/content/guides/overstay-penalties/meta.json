@@ -1,0 +1,38 @@
+{
+  "slug": "overstay-penalties",
+  "lastVerified": "2026-09-28",
+  "heroImage": "airport-arrivals",
+  "officialSources": [
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: warning of overstay in Thailand",
+        "fr": "Immigration de Samut Prakan : avertissement sur le dépassement de séjour",
+        "nl": "Immigratie Samut Prakan: waarschuwing over overstay in Thailand",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำเตือนเรื่องการอยู่เกินกำหนด"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/warning-of-overstay-in-thailand/"
+    },
+    {
+      "label": {
+        "en": "Royal Thai Embassy, Washington D.C.: advice on overstay regulations",
+        "fr": "Ambassade royale de Thaïlande à Washington : conseils sur le dépassement de séjour",
+        "nl": "Koninklijke Thaise Ambassade Washington: advies over overstayregels",
+        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: คำแนะนำเรื่องการอยู่เกินกำหนด"
+      },
+      "url": "https://washingtondc.thaiembassy.org/en/page/advice-on-thailand-visa-overstay-regulations"
+    },
+    {
+      "label": {
+        "en": "Samut Prakan Immigration: frequently asked questions",
+        "fr": "Immigration de Samut Prakan : questions fréquentes",
+        "nl": "Immigratie Samut Prakan: veelgestelde vragen",
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย"
+      },
+      "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
+    }
+  ],
+  "relatedVisas": ["visa-exemption", "tourist-tr", "visa-on-arrival", "dtv"],
+  "todo": [
+    "TODO(verify): the Washington embassy page (updated 2023) says overstays of a few hours may be waived at the officer's discretion. Confirm this is still current practice."
+  ]
+}
