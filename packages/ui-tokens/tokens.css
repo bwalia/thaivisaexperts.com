@@ -1,0 +1,85 @@
+/* AUTO-GENERATED from packages/ui-tokens/src/index.ts. Run `pnpm --filter @tve/ui-tokens build:css`. */
+:root {
+  color-scheme: light;
+  --tve-background: #F0F9FF;
+  --tve-surface: #FFFFFF;
+  --tve-foreground: #0C4A6E;
+  --tve-muted: #E8F2F8;
+  --tve-muted-foreground: #475569;
+  --tve-border: #BAE6FD;
+  --tve-primary: #0EA5E9;
+  --tve-on-primary: #0F172A;
+  --tve-primary-strong: #0369A1;
+  --tve-secondary: #38BDF8;
+  --tve-accent: #C2410C;
+  --tve-on-accent: #FFFFFF;
+  --tve-success: #047857;
+  --tve-warning: #B45309;
+  --tve-destructive: #DC2626;
+  --tve-on-destructive: #FFFFFF;
+  --tve-ring: #0369A1;
+  --tve-space-xs: 0.25rem;
+  --tve-space-sm: 0.5rem;
+  --tve-space-md: 1rem;
+  --tve-space-lg: 1.5rem;
+  --tve-space-xl: 2rem;
+  --tve-space-2xl: 3rem;
+  --tve-space-3xl: 4rem;
+  --tve-radius-sm: 0.375rem;
+  --tve-radius-md: 0.5rem;
+  --tve-radius-lg: 0.75rem;
+  --tve-radius-xl: 1rem;
+  --tve-radius-full: 9999px;
+  --tve-shadow-sm: 0 1px 2px rgba(12,74,110,0.06);
+  --tve-shadow-md: 0 4px 12px rgba(12,74,110,0.08);
+  --tve-shadow-lg: 0 10px 24px rgba(12,74,110,0.10);
+  --tve-shadow-xl: 0 20px 40px rgba(12,74,110,0.14);
+  --tve-duration-fast: 150ms;
+  --tve-duration: 200ms;
+  --tve-duration-slow: 300ms;
+  --tve-easing: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --tve-background: #0B1220;
+    --tve-surface: #111A2E;
+    --tve-foreground: #E2E8F0;
+    --tve-muted: #1E293B;
+    --tve-muted-foreground: #A3B1C6;
+    --tve-border: #1E3A5F;
+    --tve-primary: #38BDF8;
+    --tve-on-primary: #0B1220;
+    --tve-primary-strong: #7DD3FC;
+    --tve-secondary: #0EA5E9;
+    --tve-accent: #FB923C;
+    --tve-on-accent: #0B1220;
+    --tve-success: #34D399;
+    --tve-warning: #FBBF24;
+    --tve-destructive: #F87171;
+    --tve-on-destructive: #0B1220;
+    --tve-ring: #7DD3FC;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --tve-background: #0B1220;
+  --tve-surface: #111A2E;
+  --tve-foreground: #E2E8F0;
+  --tve-muted: #1E293B;
+  --tve-muted-foreground: #A3B1C6;
+  --tve-border: #1E3A5F;
+  --tve-primary: #38BDF8;
+  --tve-on-primary: #0B1220;
+  --tve-primary-strong: #7DD3FC;
+  --tve-secondary: #0EA5E9;
+  --tve-accent: #FB923C;
+  --tve-on-accent: #0B1220;
+  --tve-success: #34D399;
+  --tve-warning: #FBBF24;
+  --tve-destructive: #F87171;
+  --tve-on-destructive: #0B1220;
+  --tve-ring: #7DD3FC;
+}
