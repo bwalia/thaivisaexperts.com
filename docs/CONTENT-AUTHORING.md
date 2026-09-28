@@ -64,3 +64,9 @@ Reference images by id only. Available ids (see `images.json`):
 `family-thailand`, `university-campus`, `thai-massage`.
 
 To swap in your own photos, see `docs/IMAGES.md`.
+
+## TODO lists
+
+`docs/CONTENT-TODO.md` and `docs/TRANSLATION-TODO.md` are generated from the content files
+(`todo` arrays, `reviewStatus`, `translatedFrom`). Regenerate them with `pnpm --filter @tve/content todo`.
+CI fails if they are out of date.
