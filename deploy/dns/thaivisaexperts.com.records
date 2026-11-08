@@ -7,5 +7,8 @@
 # custom domain. The apex CNAME is served by Cloudflare CNAME flattening, and
 # Pages redirects www to the apex. Keep proxied=false (grey cloud) or the Pages
 # TLS certificate cannot issue.
+#
+# NOT here: MX/SPF/DKIM for Cloudflare Email Routing (hello@ forwarding).
+# Cloudflare manages and locks those records itself.
 thaivisaexperts.com          CNAME  bwalia.github.io   false
 www.thaivisaexperts.com      CNAME  bwalia.github.io   false

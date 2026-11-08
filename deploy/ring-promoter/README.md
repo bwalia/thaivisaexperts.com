@@ -45,6 +45,12 @@ A/AAAA records such as the old Wix ones).
 
 Keep both records grey-clouded (unproxied), or GitHub Pages cannot issue the TLS certificate.
 
+**Email:** `hello@thaivisaexperts.com` forwards to `workstationsols@gmail.com` via
+Cloudflare Email Routing (dashboard: zone → Email → Email Routing). Cloudflare owns and
+locks the MX, SPF (`v=spf1 include:_spf.mx.cloudflare.net ~all`) and DKIM
+(`cf2024-1._domainkey`) records. Do not add them to the records file, and change the
+destination in the dashboard.
+
 ## Files
 
 | File                                        | What it is                                                   |
