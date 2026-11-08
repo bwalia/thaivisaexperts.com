@@ -4,9 +4,9 @@ The site is a static Next.js export on **GitHub Pages**, released through
 [Ring Promoter](https://rp.workstation.co.uk/?app=thaivisaexperts) (`workstation-ring-promoter`
 on k3s1). This follows the same setup as the vyltzero / nebuladb marketing sites.
 
-| Ring   | URL                          | How it gets there                                |
-| ------ | ---------------------------- | ------------------------------------------------ |
-| `prod` | https://thaivisaexperts.com/ | Seeded automatically when CI passes on `main`    |
+| Ring   | URL                          | How it gets there                             |
+| ------ | ---------------------------- | --------------------------------------------- |
+| `prod` | https://thaivisaexperts.com/ | Seeded automatically when CI passes on `main` |
 
 `www.thaivisaexperts.com` redirects to the apex (GitHub Pages does this because
 `apps/web/public/CNAME` names the apex).
@@ -47,14 +47,14 @@ Keep both records grey-clouded (unproxied), or GitHub Pages cannot issue the TLS
 
 ## Files
 
-| File                                          | What it is                                                   |
-| --------------------------------------------- | ------------------------------------------------------------ |
-| `deploy/ring-promoter/thaivisaexperts.yaml`   | The RP app (`deployer: github`, one `prod` ring)             |
-| `.github/workflows/pages.yml`                 | Build + publish to Pages (dispatched by RP)                  |
-| `.github/workflows/seed-ring-promoter.yml`    | Seeds RP after CI on `main`; falls back to a direct dispatch |
-| `.github/workflows/dns.yml`                   | Applies the Cloudflare records                               |
-| `deploy/dns/thaivisaexperts.com.records`      | Cloudflare records                                           |
-| `apps/web/public/CNAME`                       | GitHub Pages custom domain                                   |
+| File                                        | What it is                                                   |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| `deploy/ring-promoter/thaivisaexperts.yaml` | The RP app (`deployer: github`, one `prod` ring)             |
+| `.github/workflows/pages.yml`               | Build + publish to Pages (dispatched by RP)                  |
+| `.github/workflows/seed-ring-promoter.yml`  | Seeds RP after CI on `main`; falls back to a direct dispatch |
+| `.github/workflows/dns.yml`                 | Applies the Cloudflare records                               |
+| `deploy/dns/thaivisaexperts.com.records`    | Cloudflare records                                           |
+| `apps/web/public/CNAME`                     | GitHub Pages custom domain                                   |
 
 ## One-time setup (done 2026-11-08)
 
@@ -70,5 +70,5 @@ Keep both records grey-clouded (unproxied), or GitHub Pages cannot issue the TLS
 
 - **Ship:** merge to `main`. CI passes, then RP deploys and checks the version.
 - **Roll back:** Rollback on the `prod` ring in the RP UI (redeploys the previous SHA).
-- **Manual deploy of a specific commit:** Actions → *Seed Ring Promoter* → Run workflow → `VERSION=<sha>`.
+- **Manual deploy of a specific commit:** Actions → _Seed Ring Promoter_ → Run workflow → `VERSION=<sha>`.
 - **Check what's live:** `curl -s https://thaivisaexperts.com/version.json`
