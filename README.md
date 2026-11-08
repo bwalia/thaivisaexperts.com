@@ -59,20 +59,14 @@ Read `docs/CONTENT-AUTHORING.md`. In short:
 
 ## Deploying
 
-The site is a fully static export (`apps/web/out`), so it deploys unchanged to either host.
+Live at **https://thaivisaexperts.com/** on GitHub Pages, released through
+[Ring Promoter](https://rp.workstation.co.uk/?app=thaivisaexperts). Merging to `main` runs CI;
+when it passes, `seed-ring-promoter.yml` seeds the `prod` ring, which dispatches `pages.yml` and
+waits until `/version.json` reports the new commit. DNS (Cloudflare) is managed from
+`deploy/dns/thaivisaexperts.com.records`. Full details: `deploy/ring-promoter/README.md`.
 
-**Vercel**
-
-- Import the repo and set **Root Directory** to `apps/web`. The framework preset is Next.js, and Vercel runs the `build` script (the `prebuild` step runs automatically).
-- Install command: `pnpm install` (Vercel detects the pnpm workspace).
-- Headers come from `apps/web/vercel.json`.
-
-**Cloudflare Pages**
-
-- Build command: `pnpm install --frozen-lockfile && pnpm build`
-- Build output directory: `apps/web/out`
-- Environment: `NODE_VERSION=24`
-- Headers come from `apps/web/public/_headers`, and `404.html` is served automatically.
+The export is plain static files (`apps/web/out`), so it also deploys unchanged to Vercel or
+Cloudflare Pages (`apps/web/vercel.json` and `apps/web/public/_headers` hold their headers).
 
 Optional build-time variables (contact form, analytics, site URL, expert-help CTA) are listed in `apps/web/.env.example`. Analytics is off by default and cookieless when enabled.
 

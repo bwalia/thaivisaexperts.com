@@ -1,0 +1,11 @@
+# Cloudflare DNS for thaivisaexperts.com — applied by .github/workflows/dns.yml
+# (idempotent upsert via scripts/cloudflare-dns.sh). Replaces the old Wix records.
+#
+# name                       type   content            proxied
+#
+# GitHub Pages (pages.yml) serves the apex; apps/web/public/CNAME holds the
+# custom domain. The apex CNAME is served by Cloudflare CNAME flattening, and
+# Pages redirects www to the apex. Keep proxied=false (grey cloud) or the Pages
+# TLS certificate cannot issue.
+thaivisaexperts.com          CNAME  bwalia.github.io   false
+www.thaivisaexperts.com      CNAME  bwalia.github.io   false

@@ -286,5 +286,37 @@
     "creditUrl": "https://www.pexels.com/@petemiller/",
     "sourceUrl": "https://www.pexels.com/photo/traditional-thai-massage-therapy-session-in-chiang-mai-34920471/",
     "licence": "Pexels License"
+  },
+  {
+    "id": "grilled-prawns",
+    "src": "/images/grilled-prawns.webp",
+    "width": 1920,
+    "height": 1280,
+    "alt": {
+      "en": "Giant river prawns grilling over hot charcoal at a Thai seafood stall",
+      "fr": "Grosses crevettes de rivière grillées sur des braises à un stand de fruits de mer thaïlandais",
+      "nl": "Grote riviergarnalen op gloeiende houtskool bij een Thaise visstal",
+      "th": "กุ้งแม่น้ำตัวโตย่างบนเตาถ่านที่ร้านอาหารทะเลไทย"
+    },
+    "credit": "Thai Visa Experts",
+    "creditUrl": "https://thaivisaexperts.com/about/",
+    "sourceUrl": "https://thaivisaexperts.com/about/",
+    "licence": "Owner"
+  },
+  {
+    "id": "longtail-boat-traveller",
+    "src": "/images/longtail-boat-traveller.webp",
+    "width": 1254,
+    "height": 837,
+    "alt": {
+      "en": "Traveller in a sun hat relaxing on the bow of a longtail boat among limestone cliffs and turquoise water",
+      "fr": "Voyageuse au chapeau de paille se détendant à la proue d’un bateau longue-queue entre falaises calcaires et eau turquoise",
+      "nl": "Reiziger met zonnehoed ontspant op de boeg van een longtailboot tussen kalksteenrotsen en turquoise water",
+      "th": "นักท่องเที่ยวสวมหมวกนั่งพักบนหัวเรือหางยาว ท่ามกลางหน้าผาหินปูนและน้ำทะเลสีเทอร์ควอยซ์"
+    },
+    "credit": "Thai Visa Experts",
+    "creditUrl": "https://thaivisaexperts.com/about/",
+    "sourceUrl": "https://thaivisaexperts.com/about/",
+    "licence": "Owner"
   }
 ]
