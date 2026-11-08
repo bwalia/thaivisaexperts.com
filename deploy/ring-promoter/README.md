@@ -4,9 +4,9 @@ The site is a static Next.js export on **GitHub Pages**, released through
 [Ring Promoter](https://rp.workstation.co.uk/?app=thaivisaexperts) (`workstation-ring-promoter`
 on k3s1). This follows the same setup as the vyltzero / nebuladb marketing sites.
 
-| Ring   | URL                          | How it gets there                             |
-| ------ | ---------------------------- | --------------------------------------------- |
-| `prod` | https://thaivisaexperts.com/ | Seeded automatically when CI passes on `main` |
+| Ring   | URL                          | How it gets there                                                            |
+| ------ | ---------------------------- | ---------------------------------------------------------------------------- |
+| `prod` | https://thaivisaexperts.com/ | Seeded from the RP UI with the production password after CI passes on `main` |
 
 `www.thaivisaexperts.com` redirects to the apex (GitHub Pages does this because
 `apps/web/public/CNAME` names the apex).
@@ -68,7 +68,9 @@ Keep both records grey-clouded (unproxied), or GitHub Pages cannot issue the TLS
 
 ## Day to day
 
-- **Ship:** merge to `main`. CI passes, then RP deploys and checks the version.
+- **Ship:** merge to `main`. When CI passes, the _Seed Ring Promoter_ run summary says
+  "Awaiting production approval". In https://rp.workstation.co.uk/?app=thaivisaexperts seed ring
+  **prod** with that commit SHA and enter the production password. RP deploys and checks the version.
 - **Roll back:** Rollback on the `prod` ring in the RP UI (redeploys the previous SHA).
 - **Manual deploy of a specific commit:** Actions → _Seed Ring Promoter_ → Run workflow → `VERSION=<sha>`.
 - **Check what's live:** `curl -s https://thaivisaexperts.com/version.json`

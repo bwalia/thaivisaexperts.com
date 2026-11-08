@@ -4,6 +4,10 @@ name: Seed Ring Promoter
 # with the commit SHA. RP dispatches pages.yml and waits until
 # https://thaivisaexperts.com/version.json reports that SHA.
 #
+# The prod ring requires the RP production password. CI does not hold it, so
+# RP answers 403 and this job ends with an "awaiting production approval"
+# summary; a human then seeds prod in the RP UI with the password.
+#
 # If RP_API_TOKEN is not set, or the app is not registered in Ring Promoter yet
 # (HTTP 404), this falls back to dispatching pages.yml directly so a green main
 # still goes live.
@@ -64,6 +68,13 @@ jobs:
           case "${code}" in
             200|202) ;;
             404) fallback "${APP} is not registered in Ring Promoter." ;;
+            # The prod ring is password-gated on purpose (RP_PROD_PASSWORD): a
+            # human approves each production deploy in the Ring Promoter UI.
+            403)
+              echo "::notice::Production is gated. Approve ${VERSION} in ${RP}/?app=${APP} (Seed → ring prod → enter the production password)."
+              echo "### Awaiting production approval" >> "$GITHUB_STEP_SUMMARY"
+              echo "Deploy \`${VERSION}\` from [Ring Promoter](${RP}/?app=${APP}): seed ring **prod** and enter the production password." >> "$GITHUB_STEP_SUMMARY"
+              exit 0 ;;
             *) echo "::error::Ring Promoter seed failed (HTTP ${code})"; exit 1 ;;
           esac
 
