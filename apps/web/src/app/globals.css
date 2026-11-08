@@ -35,7 +35,7 @@
   --shadow-lg: var(--tve-shadow-lg);
   --shadow-xl: var(--tve-shadow-xl);
 
-  --font-sans: var(--font-noto-thai), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Noto Sans Thai Variable", ui-sans-serif, system-ui, sans-serif;
   --ease-standard: var(--tve-easing);
 }
 

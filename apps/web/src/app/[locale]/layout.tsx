@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
-import { Noto_Sans_Thai } from "next/font/google";
+import "@fontsource-variable/noto-sans-thai/wght.css";
 import { hasLocale } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getAnnouncements, type Locale } from "@tve/content";
@@ -15,12 +15,8 @@ import { ClientMessages } from "@/components/ClientMessages";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
 
 // Noto Sans Thai includes Latin, so one family serves en/fr/nl/th (see design-system MASTER.md).
-const noto = Noto_Sans_Thai({
-  subsets: ["thai", "latin"],
-  weight: ["400", "500", "600", "700"],
-  display: "swap",
-  variable: "--font-noto-thai",
-});
+// Self-hosted from npm (variable weight, thai + latin subsets via unicode-range) so builds
+// never depend on fetching Google Fonts.
 
 export const dynamicParams = false;
 
@@ -71,7 +67,7 @@ export default async function LocaleLayout({
   const announcement = getAnnouncements().find((a) => a.active);
 
   return (
-    <html lang={locale} className={noto.variable} suppressHydrationWarning>
+    <html lang={locale} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
