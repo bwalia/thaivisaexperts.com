@@ -16,3 +16,4 @@ packages/content/src/generated/
 apps/web/public/images/_w/
 apps/web/public/images/_og/
 .serena/
+apps/web/public/version.json

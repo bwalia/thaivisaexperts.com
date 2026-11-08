@@ -1,0 +1,90 @@
+name: Deploy to GitHub Pages
+
+# Builds the static export (apps/web/out) and publishes it to GitHub Pages at
+# https://thaivisaexperts.com/. Ring Promoter (app thaivisaexperts, github
+# deployer) dispatches this workflow; see deploy/ring-promoter/README.md.
+# seed-ring-promoter.yml seeds RP after CI passes on main, and falls back to
+# dispatching this workflow directly if Ring Promoter is unavailable.
+
+on:
+  workflow_dispatch:
+    inputs:
+      ENV:
+        description: "Ring target_env from Ring Promoter (informational: single live site)"
+        required: true
+        default: "prod"
+        type: string
+      DEPLOY_BRANCH:
+        description: "Git ref (branch, tag, or SHA) to build and publish"
+        required: true
+        default: "main"
+        type: string
+      DEPLOY_MODE:
+        description: "Deploy mode (accepted for Ring Promoter compatibility)"
+        required: false
+        default: "full"
+        type: string
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ inputs.DEPLOY_BRANCH }}
+
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Stamp version.json
+        env:
+          # Ring Promoter's health check compares health_version_field against
+          # the seeded version, which is exactly DEPLOY_BRANCH (a commit SHA).
+          RP_VERSION: ${{ inputs.DEPLOY_BRANCH }}
+          ENV_NAME: ${{ inputs.ENV }}
+        run: |
+          set -euo pipefail
+          LABEL=$(git describe --tags --always HEAD)
+          printf '{"version":"%s","label":"%s","env":"%s","sha":"%s","built_at":"%s"}\n' \
+            "$RP_VERSION" "$LABEL" "$ENV_NAME" "$(git rev-parse HEAD)" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            > apps/web/public/version.json
+          cat apps/web/public/version.json
+
+      - name: Build static export
+        env:
+          NEXT_PUBLIC_SITE_URL: https://thaivisaexperts.com
+        run: pnpm build
+
+      # Without this, Pages runs Jekyll, which drops the _next/ directory.
+      - run: touch apps/web/out/.nojekyll
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: apps/web/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

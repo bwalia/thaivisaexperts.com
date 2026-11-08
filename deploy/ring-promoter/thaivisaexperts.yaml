@@ -1,0 +1,36 @@
+# Ring Promoter app — https://thaivisaexperts.com/ (GitHub Pages)
+#
+# deployer: github — each seed/promote/rollback workflow-dispatches
+# .github/workflows/pages.yml on bwalia/thaivisaexperts.com with
+# DEPLOY_BRANCH=<version> (a commit SHA). There is one live site, so one ring.
+# Health is version-verified: /version.json reports the deployed SHA.
+#
+# Lives in workstation-ring-promoter/ring-promoter-config (data.config.yaml)
+# under `apps:`. RP_GITHUB_TOKEN on Secret ring-promoter needs actions:write +
+# contents:read on bwalia/thaivisaexperts.com.
+apps:
+  # thaivisaexperts.com — Thai visa guide, static Next.js on GitHub Pages (source: bwalia/thaivisaexperts.com deploy/ring-promoter/thaivisaexperts.yaml)
+  - name: thaivisaexperts
+    display_name: "Thai Visa Experts (thaivisaexperts.com)"
+    location: { lat: 51.5074, lng: -0.1278, city: London, region: GB }
+    deployer: github
+    github:
+      owner: bwalia
+      repo: thaivisaexperts.com
+      workflow: pages.yml
+      ref: main
+      deploy_mode: full
+      token_env: RP_GITHUB_TOKEN
+      poll_interval: 15s
+      run_lookup_timeout: 90s
+    rings:
+      prod:
+        target_env: prod
+        health_url: "https://thaivisaexperts.com/version.json"
+        health_version_field: version
+        links:
+          - { label: "thaivisaexperts.com", url: "https://thaivisaexperts.com/" }
+          - {
+              label: "GitHub Actions",
+              url: "https://github.com/bwalia/thaivisaexperts.com/actions/workflows/pages.yml",
+            }
