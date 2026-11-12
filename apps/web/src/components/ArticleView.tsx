@@ -66,7 +66,7 @@ export async function ArticleView({ article, locale, path, crumbs, toc = false }
             <h2 id="toc" className="text-sm font-semibold text-muted-foreground">
               {t("onThisPage")}
             </h2>
-            <ol className="mt-2 space-y-1 border-l-2 border-border pl-3 text-sm">
+            <ol className="mt-2 space-y-1 border-s-2 border-border ps-3 text-sm">
               {article.sections.map((s, i) => (
                 <li key={i}>
                   <a

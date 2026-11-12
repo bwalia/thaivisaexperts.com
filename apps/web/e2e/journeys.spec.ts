@@ -1,6 +1,6 @@
 import { expect, test, type Page } from "@playwright/test";
 
-const LOCALES = ["en", "fr", "nl", "th"] as const;
+const LOCALES = ["en", "fr", "nl", "th", "es", "de", "pt", "ru", "zh", "ja", "ko", "hi", "pa", "ar", "ms", "vi"] as const;
 
 async function completeFinder(page: Page) {
   await page.selectOption("#nationality", "GB");

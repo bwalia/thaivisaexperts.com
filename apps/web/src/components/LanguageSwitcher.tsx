@@ -32,14 +32,14 @@ export function LanguageSwitcher({ id = "lang-switcher" }: { id?: string }) {
         {t("switchTo")}
       </label>
       <Languages
-        className="pointer-events-none absolute left-2.5 size-4 text-muted-foreground"
+        className="pointer-events-none absolute start-2.5 size-4 text-muted-foreground"
         aria-hidden="true"
       />
       <select
         id={id}
         value={locale}
         onChange={(e) => change(e.target.value as Locale)}
-        className="min-h-11 cursor-pointer appearance-none rounded-md border border-border bg-surface py-1 pl-8 pr-3 text-sm font-medium text-foreground hover:bg-muted"
+        className="min-h-11 cursor-pointer appearance-none rounded-md border border-border bg-surface py-1 ps-8 pe-3 text-sm font-medium text-foreground hover:bg-muted"
       >
         {LOCALES.map((l) => (
           <option key={l} value={l} lang={l}>

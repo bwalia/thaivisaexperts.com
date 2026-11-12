@@ -58,7 +58,7 @@ export async function VisaCard({
         className="mt-4 inline-flex items-center gap-1 font-semibold text-primary-strong"
         aria-hidden="true"
       >
-        {t("common.viewVisa")} <ArrowRight className="size-4" />
+        {t("common.viewVisa")} <ArrowRight className="size-4 rtl:-scale-x-100" />
       </span>
     </article>
   );
