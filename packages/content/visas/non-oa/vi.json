@@ -1,0 +1,102 @@
+{
+  "name": "Visa Non-Immigrant O-A (lưu trú dài hạn)",
+  "shortName": "Non-O-A",
+  "summary": "Visa lưu trú dài hạn 1 năm, nhập cảnh nhiều lần, dành cho người từ 50 tuổi trở lên, nộp hồ sơ từ nước bạn. Bạn cần 800.000 THB hoặc 65.000 THB mỗi tháng, lý lịch tư pháp, giấy khám sức khỏe và bảo hiểm y tế. Mỗi lần nhập cảnh bạn được ở Thái Lan tối đa một năm.",
+  "seoTitle": "Visa O-A Thái Lan: bảo hiểm, tài chính, lý lịch tư pháp",
+  "seoDescription": "Visa Non-Immigrant O-A cho người trên 50 tuổi: 800.000 THB hoặc 65.000 THB/tháng, bảo hiểm y tế bắt buộc, lý lịch tư pháp, giấy khám sức khỏe, lệ phí và cách nộp.",
+  "validity": "Visa có hiệu lực 1 năm, nhập cảnh nhiều lần. Mỗi lần nhập cảnh được ở tối đa 1 năm, nên nhập cảnh ngay trước khi visa hết hạn có thể cho bạn gần 2 năm.",
+  "extendableDetail": "Có. Bạn có thể gia hạn lưu trú 1 năm mỗi lần tại văn phòng xuất nhập cảnh Thái Lan, diện hưu trí (mẫu TM7, lệ phí 1.900 THB). Bạn vẫn phải đáp ứng quy định tài chính, và người có O-A còn được yêu cầu bảo hiểm y tế Thái Lan.",
+  "feeNote": "5.000 THB theo biểu phí Thái Lan cho visa Non-Immigrant nhiều lần nhập cảnh. Đại sứ quán thu bằng tiền tệ địa phương. Mỗi lần gia hạn tại Thái Lan tốn 1.900 THB.",
+  "financialRequirement": "Ít nhất 800.000 THB trong tài khoản ngân hàng, thu nhập hằng tháng ít nhất 65.000 THB, hoặc (tại một số đại sứ quán) tiền tiết kiệm cộng thu nhập hằng năm đạt 800.000 THB. Thường cần sao kê ngân hàng 3 tháng gần nhất.",
+  "processingTime": "Tùy đại sứ quán. Một số nêu ít nhất 15 ngày làm việc. Hãy dành thêm thời gian để chuẩn bị trước lý lịch tư pháp, giấy khám sức khỏe và mẫu bảo hiểm.",
+  "keyRequirements": [
+    "Bạn từ 50 tuổi trở lên vào ngày nộp hồ sơ.",
+    "Bạn nộp hồ sơ tại quốc gia bạn mang quốc tịch hoặc thường trú.",
+    "Bạn có 800.000 THB tiền tiết kiệm hoặc thu nhập 65.000 THB mỗi tháng.",
+    "Bạn có bảo hiểm y tế đáp ứng quy định của Thái Lan (trang e-Visa yêu cầu mức chi trả ít nhất 100.000 USD hoặc 3.000.000 THB).",
+    "Bạn có lý lịch tư pháp sạch và không mắc bệnh thuộc danh mục cấm.",
+    "Bạn không làm việc tại Thái Lan. Không được phép làm bất kỳ hình thức việc làm nào."
+  ],
+  "documents": [
+    "Hộ chiếu còn hạn đủ cho thời gian lưu trú (một số đại sứ quán yêu cầu 18 tháng)",
+    "Ảnh kiểu hộ chiếu gần đây (chụp trong vòng 6 tháng)",
+    "Bằng chứng thường trú tại quốc gia nơi bạn nộp hồ sơ",
+    "Sao kê ngân hàng 3 tháng gần nhất cho thấy ít nhất 800.000 THB, hoặc bằng chứng thu nhập 65.000 THB mỗi tháng",
+    "Giấy xác nhận lý lịch tư pháp từ quốc gia bạn mang quốc tịch hoặc cư trú",
+    "Giấy khám sức khỏe cấp trong vòng 3 tháng cho thấy không mắc bệnh thuộc danh mục cấm",
+    "Mẫu Foreign Insurance Certificate do công ty bảo hiểm điền và đóng dấu (lấy từ longstay.tgia.org)",
+    "Hợp đồng bảo hiểm y tế bao trọn thời gian lưu trú"
+  ],
+  "howToApply": [
+    {
+      "step": "Xin lý lịch tư pháp",
+      "detail": "Xin giấy xác nhận lý lịch tư pháp từ quốc gia bạn mang quốc tịch hoặc cư trú. Một số đại sứ quán yêu cầu công chứng, nên hãy kiểm tra trước."
+    },
+    {
+      "step": "Đi khám bác sĩ",
+      "detail": "Xin giấy khám sức khỏe cho thấy không mắc bệnh nào trong danh mục của Quy định Bộ trưởng số 14 của Thái Lan. Giấy này nên được cấp chưa đầy 3 tháng khi bạn nộp hồ sơ."
+    },
+    {
+      "step": "Mua bảo hiểm y tế",
+      "detail": "Mua hợp đồng đáp ứng quy định Thái Lan và nhờ công ty bảo hiểm điền và đóng dấu mẫu Foreign Insurance Certificate từ longstay.tgia.org."
+    },
+    {
+      "step": "Nộp hồ sơ trên trang e-Visa",
+      "detail": "Nộp trên thaievisa.go.th, chọn Long-stay (O-A). Tải lên tất cả giấy tờ và thanh toán lệ phí."
+    },
+    {
+      "step": "Nhập cảnh Thái Lan",
+      "detail": "Điền TDAC miễn phí trong 3 ngày trước khi đến. Mỗi lần nhập cảnh bạn được ở tối đa 1 năm."
+    },
+    {
+      "step": "Tuân thủ quy định",
+      "detail": "Báo cáo mỗi 90 ngày, xin giấy phép tái nhập cảnh trước khi rời đi nếu muốn giữ thời hạn lưu trú, và gia hạn tại cơ quan xuất nhập cảnh trước khi thời hạn được phép kết thúc."
+    }
+  ],
+  "bestFor": [
+    "Người hưu trí từ 50 tuổi muốn có trọn một năm ngay từ ngày đến",
+    "Người thường xuyên ra vào Thái Lan (nhập cảnh nhiều lần)",
+    "Người muốn hoàn tất giấy tờ tại nước mình trước khi chuyển đến"
+  ],
+  "notFor": [
+    "Người dưới 50 tuổi",
+    "Người không mua được bảo hiểm y tế với giá hợp lý, ví dụ do tuổi tác hoặc bệnh có sẵn",
+    "Người muốn làm việc tại Thái Lan",
+    "Người không sống tại quốc gia nơi họ định nộp hồ sơ"
+  ],
+  "commonMistakes": [
+    "Mua bảo hiểm không đạt mức chi trả yêu cầu, hoặc không đóng dấu mẫu Foreign Insurance Certificate",
+    "Để giấy khám sức khỏe hoặc lý lịch tư pháp cũ hơn mức đại sứ quán cho phép",
+    "Nộp hồ sơ ngoài quốc gia bạn mang quốc tịch hoặc thường trú",
+    "Rời Thái Lan mà không có giấy phép tái nhập cảnh sau khi gia hạn, làm hủy gia hạn",
+    "Quên báo cáo địa chỉ 90 ngày"
+  ],
+  "faqs": [
+    {
+      "q": "O-A khác visa hưu trí Non-O như thế nào?",
+      "a": "O-A cho bạn tối đa một năm ngay lập tức và cho phép nhập cảnh nhiều lần, nhưng bạn phải nộp từ nước ngoài kèm lý lịch tư pháp, giấy khám sức khỏe và bảo hiểm y tế. Non-O cho bạn 90 ngày, sau đó bạn gia hạn lên một năm khi ở Thái Lan, và không bắt buộc bảo hiểm y tế."
+    },
+    {
+      "q": "Tôi cần bảo hiểm y tế mức bao nhiêu?",
+      "a": "Trang e-Visa chính thức yêu cầu bảo hiểm y tế từ công ty bảo hiểm Thái hoặc nước ngoài với mức chi trả ít nhất 100.000 USD hoặc 3.000.000 THB. Một số lãnh sự quán vẫn ghi mức 40.000 THB ngoại trú và 400.000 THB nội trú. Hãy kiểm tra với đại sứ quán xử lý hồ sơ của bạn."
+    },
+    {
+      "q": "Tôi có thể dùng công ty bảo hiểm nước ngoài không?",
+      "a": "Có, đối với visa, miễn là công ty bảo hiểm điền và đóng dấu mẫu Foreign Insurance Certificate. Với gia hạn tại Thái Lan, cơ quan xuất nhập cảnh thường yêu cầu hợp đồng từ công ty bảo hiểm Thái."
+    },
+    {
+      "q": "Tôi có thể ở lâu hơn một năm không?",
+      "a": "Có. Nhập cảnh lại trước khi visa hết hạn để được thêm một năm, hoặc gia hạn lưu trú tại văn phòng xuất nhập cảnh 1 năm mỗi lần."
+    },
+    {
+      "q": "Tiền có cần nằm ở Thái Lan không?",
+      "a": "Không cần cho bản thân visa. Sao kê từ ngân hàng ở nước bạn là được. Với gia hạn tại Thái Lan, tiền phải nằm trong tài khoản ngân hàng Thái."
+    },
+    {
+      "q": "Tôi có thể làm việc không?",
+      "a": "Không. Visa O-A cấm mọi hình thức việc làm."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

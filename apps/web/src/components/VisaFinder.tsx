@@ -147,7 +147,7 @@ export function VisaFinder({ visas, countries, countryNames, visaText, purposes 
               setStep(0);
             }}
           >
-            <ArrowLeft className="size-4" aria-hidden="true" />
+            <ArrowLeft className="size-4 rtl:-scale-x-100" aria-hidden="true" />
             {t("editAnswers")}
           </button>
           <button
@@ -237,7 +237,8 @@ export function VisaFinder({ visas, countries, countryNames, visaText, purposes 
                     </>
                   )}
                   <Link href={`/visas/${r.slug}`} className="btn btn-secondary mt-4">
-                    {c("viewVisa")} <ArrowRight className="size-4" aria-hidden="true" />
+                    {c("viewVisa")}{" "}
+                    <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
                   </Link>
                 </li>
               );
@@ -416,7 +417,7 @@ export function VisaFinder({ visas, countries, countryNames, visaText, purposes 
           disabled={step === 0}
           aria-disabled={step === 0}
         >
-          <ArrowLeft className="size-4" aria-hidden="true" />
+          <ArrowLeft className="size-4 rtl:-scale-x-100" aria-hidden="true" />
           {c("back")}
         </button>
         <button type="submit" className="btn btn-primary">
@@ -427,7 +428,7 @@ export function VisaFinder({ visas, countries, countryNames, visaText, purposes 
             </>
           ) : (
             <>
-              {c("next")} <ArrowRight className="size-4" aria-hidden="true" />
+              {c("next")} <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
             </>
           )}
         </button>

@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import { LOCALES } from "@tve/content";
-import { LOCALE_NAMES, SITE_URL } from "@/lib/site";
+import { HREFLANG, LOCALE_NAMES, SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Thai Visa Experts",
   alternates: {
     canonical: `${SITE_URL}/en/`,
     languages: {
-      ...Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/`])),
+      ...Object.fromEntries(LOCALES.map((l) => [HREFLANG[l], `${SITE_URL}/${l}/`])),
       "x-default": `${SITE_URL}/en/`,
     },
   },

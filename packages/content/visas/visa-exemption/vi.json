@@ -1,0 +1,101 @@
+{
+  "name": "Miễn thị thực (nhập cảnh không cần visa)",
+  "shortName": "Miễn thị thực",
+  "summary": "Nếu hộ chiếu của bạn có trong danh sách miễn thị thực của Thái Lan, bạn có thể bay đến mà không cần visa và ở tối đa 30 ngày để du lịch. Từ ngày 15 tháng 9 năm 2026, diện miễn thị thực 60 ngày cũ đã chấm dứt với tất cả mọi người. Một số quốc gia có thời hạn khác theo hiệp định song phương: 90 ngày cho Argentina, Brazil, Chile, Peru và Hàn Quốc, 30 ngày cho Trung Quốc, Nga, Việt Nam và một số nước khác, 14 ngày cho Campuchia và Myanmar, và 15 ngày cho Mauritius và Seychelles. Bạn thường có thể gia hạn thêm một lần 30 ngày tại văn phòng xuất nhập cảnh.",
+  "seoTitle": "Miễn thị thực Thái Lan 2026: 30 ngày (hết diện 60 ngày)",
+  "seoDescription": "Thái Lan giảm thời gian miễn thị thực từ 60 xuống 30 ngày từ 15/9/2026. Kiểm tra hộ chiếu của bạn, cách gia hạn 30 ngày, giới hạn cửa khẩu đường bộ và TDAC.",
+  "validity": "Không cấp visa. Bạn được đóng dấu cho phép lưu trú khi đến: 30 ngày với hầu hết các nước đủ điều kiện (chỉ để du lịch), 90 ngày cho Argentina, Brazil, Chile, Peru và Hàn Quốc, 14 ngày cho Campuchia và Myanmar, và 15 ngày cho Mauritius và Seychelles. Ngày đến được tính là ngày thứ 1.",
+  "extendableDetail": "Bạn có thể xin gia hạn một lần tối đa 30 ngày tại văn phòng xuất nhập cảnh ở Thái Lan (mẫu TM.7, lệ phí 1.900 THB). Hãy nộp trước khi dấu nhập cảnh hết hạn. Việc gia hạn tùy quyết định của cán bộ, không phải là quyền.",
+  "feeNote": "Nhập cảnh miễn phí. Gia hạn tại cơ quan xuất nhập cảnh tốn 1.900 THB.",
+  "financialRequirement": "Chưa có số tiền cố định được công bố cho chương trình năm 2026, nhưng cán bộ xuất nhập cảnh có thể yêu cầu bạn chứng minh đủ tiền cho thời gian lưu trú. Hãy mang theo bằng chứng khoảng 20.000 THB mỗi người (40.000 THB mỗi gia đình) bằng tiền mặt hoặc thẻ, theo hướng dẫn đã áp dụng lâu nay.",
+  "processingTime": "Không cần nộp gì trước ngoài TDAC, mất khoảng 10 phút trực tuyến và phải nộp trong vòng 3 ngày trước khi đến.",
+  "keyRequirements": [
+    "Hộ chiếu của quốc gia trong danh sách miễn thị thực hoặc có hiệp định song phương, còn hạn ít nhất 6 tháng khi đến",
+    "Chỉ để du lịch: từ ngày 15 tháng 9 năm 2026, diện miễn thị thực 30 ngày không bao gồm họp công việc hay làm việc",
+    "Thẻ nhập cảnh điện tử Thái Lan (TDAC) đã điền, nộp trực tuyến trong vòng 3 ngày trước khi đến",
+    "Vé khứ hồi hoặc vé đi tiếp rời Thái Lan trong thời gian được phép lưu trú",
+    "Nhập cảnh miễn thị thực qua cửa khẩu đường bộ thường giới hạn hai lần mỗi năm dương lịch (không áp dụng cho hộ chiếu Malaysia, Brunei, Indonesia hoặc Singapore)"
+  ],
+  "documents": [
+    "Hộ chiếu còn hạn ít nhất 6 tháng, còn một trang trống để đóng dấu nhập cảnh",
+    "Xác nhận TDAC có mã QR (ảnh chụp màn hình hoặc bản in)",
+    "Đặt vé máy bay khứ hồi hoặc đi tiếp trong thời gian được phép lưu trú",
+    "Đặt phòng khách sạn hoặc địa chỉ nơi bạn sẽ ở",
+    "Bằng chứng tài chính để trình khi được hỏi (tiền mặt, thẻ ngân hàng hoặc sao kê gần đây)",
+    "Khi gia hạn: mẫu TM.7, một ảnh hộ chiếu (4 x 6 cm), bản sao hộ chiếu và 1.900 THB tiền mặt",
+    "Khi gia hạn: bằng chứng địa chỉ tại Thái Lan (đặt phòng khách sạn hoặc biên nhận TM30, tức thông báo địa chỉ do chủ nhà nộp)"
+  ],
+  "howToApply": [
+    {
+      "step": "Kiểm tra hộ chiếu của bạn có trong danh sách",
+      "detail": "Tra quốc tịch của bạn trong công cụ kiểm tra quốc gia của chúng tôi. Nếu bạn không có trong danh sách miễn thị thực hoặc song phương, bạn cần visa trước khi bay."
+    },
+    {
+      "step": "Đặt vé rời Thái Lan",
+      "detail": "Hãng bay và cơ quan xuất nhập cảnh có thể yêu cầu vé khứ hồi hoặc đi tiếp trong vòng 30 ngày (hoặc thời hạn song phương của bạn). Việc gia hạn không được đảm bảo, nên hãy lên kế hoạch rời đi trong đợt lưu trú đầu tiên."
+    },
+    {
+      "step": "Điền TDAC",
+      "detail": "Điền Thẻ nhập cảnh điện tử Thái Lan tại tdac.immigration.go.th trong vòng 3 ngày trước khi đến. Hoàn toàn miễn phí. Lưu mã QR."
+    },
+    {
+      "step": "Đến nơi và được đóng dấu",
+      "detail": "Xuất trình hộ chiếu, TDAC và, nếu được hỏi, vé đi tiếp và bằng chứng tài chính. Kiểm tra ngày trên dấu nhập cảnh trước khi rời quầy."
+    },
+    {
+      "step": "Gia hạn nếu cần thêm thời gian",
+      "detail": "Trước khi dấu nhập cảnh hết hạn, đến văn phòng xuất nhập cảnh khu vực của bạn với mẫu TM.7, ảnh, bản sao hộ chiếu và 1.900 THB. Bạn có thể được thêm tối đa 30 ngày."
+    }
+  ],
+  "bestFor": [
+    "Kỳ nghỉ tối đa một tháng",
+    "Chuyến đi ngắn tối đa 60 ngày nếu bạn gia hạn một lần tại cơ quan xuất nhập cảnh",
+    "Du khách từ Argentina, Brazil, Chile, Peru hoặc Hàn Quốc (90 ngày theo hiệp định song phương)"
+  ],
+  "notFor": [
+    "Bất kỳ hình thức làm việc nào, kể cả họp công việc (dùng visa Non-Immigrant B)",
+    "Làm việc từ xa hoặc lưu trú dài (hãy xem DTV)",
+    "Người định 'visa run' nhiều lần qua cửa khẩu đường bộ",
+    "Công dân không có trong danh sách miễn thị thực, những người cần visa du lịch"
+  ],
+  "commonMistakes": [
+    "Nghĩ rằng bạn vẫn được 60 ngày. Diện 60 ngày đã kết thúc vào ngày 15 tháng 9 năm 2026; hầu hết mọi người nay được 30 ngày.",
+    "Quên TDAC. Bạn có thể bị chậm trễ tại sân bay nếu không có.",
+    "Đặt chuyến bay rời đi sau ngày thứ 30 và hy vọng được gia hạn. Hãng bay có thể từ chối cho lên máy bay nếu không có vé đi tiếp trong thời gian được phép lưu trú.",
+    "Dùng diện miễn thị thực để họp công việc. Từ tháng 9 năm 2026, diện này chỉ dành cho du lịch.",
+    "Đếm sai ngày. Ngày đến là ngày thứ 1, và ở quá hạn bị phạt 500 THB mỗi ngày và có thể bị cấm nhập cảnh.",
+    "Đi 'border run' bằng đường bộ. Nhập cảnh miễn thị thực qua đường bộ bị giới hạn hai lần mỗi năm dương lịch với hầu hết các quốc tịch."
+  ],
+  "faqs": [
+    {
+      "q": "Diện miễn thị thực 60 ngày còn không?",
+      "a": "Không. Chương trình 60 ngày bắt đầu từ tháng 7 năm 2024 đã kết thúc vào ngày 15 tháng 9 năm 2026. Nếu bạn nhập cảnh trước ngày đó, bạn có thể ở đến ngày ghi trên dấu nhập cảnh. Người nhập cảnh từ ngày 15 tháng 9 năm 2026 trở đi được thời hạn mới theo quốc tịch, thường là 30 ngày."
+    },
+    {
+      "q": "Tôi có thể gia hạn diện miễn thị thực 30 ngày không?",
+      "a": "Có, thường là một lần, tối đa 30 ngày tại văn phòng xuất nhập cảnh Thái Lan. Lệ phí là 1.900 THB và quyết định tùy cán bộ. Hãy nộp vài ngày trước khi dấu nhập cảnh hết hạn."
+    },
+    {
+      "q": "Những nước nào được 90 ngày?",
+      "a": "Argentina, Brazil, Chile, Peru và Hàn Quốc, theo hiệp định song phương với Thái Lan. Các hiệp định này không bị thay đổi bởi cải cách năm 2026."
+    },
+    {
+      "q": "Tôi có vẫn phải điền TDAC nếu không cần visa không?",
+      "a": "Có. Mọi du khách nước ngoài, kể cả người được miễn thị thực, phải nộp Thẻ nhập cảnh điện tử Thái Lan trực tuyến trong vòng 3 ngày trước khi đến. Thẻ miễn phí trên trang chính thức tdac.immigration.go.th; tránh các trang giả mạo thu phí."
+    },
+    {
+      "q": "Tôi có thể nhập cảnh miễn thị thực bao nhiêu lần tùy thích không?",
+      "a": "Không, nếu qua đường bộ. Nhập cảnh miễn thị thực qua cửa khẩu đường bộ thường giới hạn hai lần mỗi năm dương lịch (công dân Malaysia, Brunei, Indonesia và Singapore không bị giới hạn). Cán bộ cũng có thể từ chối nhập cảnh với người có vẻ đang sống ở Thái Lan bằng cách nối tiếp các đợt miễn thị thực. Nếu bạn đến thường xuyên, hãy xin visa du lịch hoặc DTV."
+    },
+    {
+      "q": "Tôi có thể làm việc từ xa khi được miễn thị thực không?",
+      "a": "Không. Diện miễn thị thực chỉ dành cho du lịch. Nếu bạn muốn làm việc từ xa từ Thái Lan cho khách hàng hoặc chủ lao động nước ngoài, Destination Thailand Visa (DTV) được thiết kế cho mục đích đó."
+    },
+    {
+      "q": "Nước tôi đã mất quyền miễn thị thực. Giờ phải làm gì?",
+      "a": "Ngày 15 tháng 9 năm 2026, 21 quốc tịch, bao gồm Mexico, Colombia, Maroc, Sri Lanka, Uzbekistan, Monaco và Andorra, đã mất quyền nhập cảnh miễn thị thực. Hãy xin visa du lịch (TR) trực tuyến qua hệ thống e-Visa của Thái Lan trước khi đi, ít nhất 2 đến 4 tuần trước."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

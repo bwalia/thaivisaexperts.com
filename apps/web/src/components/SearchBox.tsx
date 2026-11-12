@@ -58,13 +58,13 @@ export function SearchBox({ items }: { items: SearchItem[] }) {
           {t("label")}
         </label>
         <Search
-          className="pointer-events-none absolute bottom-3 left-3 size-5 text-muted-foreground"
+          className="pointer-events-none absolute bottom-3 start-3 size-5 text-muted-foreground"
           aria-hidden="true"
         />
         <input
           id="q"
           type="search"
-          className="input mt-1 !pl-10"
+          className="input mt-1 !ps-10"
           placeholder={t("placeholder")}
           value={q}
           autoFocus

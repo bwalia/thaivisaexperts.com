@@ -8,7 +8,19 @@
         "en": "EU General Data Protection Regulation (GDPR), official text",
         "fr": "Règlement général sur la protection des données (RGPD), texte officiel",
         "nl": "Algemene verordening gegevensbescherming (AVG), officiële tekst",
-        "th": "กฎหมายคุ้มครองข้อมูลส่วนบุคคลของสหภาพยุโรป (GDPR) ฉบับทางการ"
+        "th": "กฎหมายคุ้มครองข้อมูลส่วนบุคคลของสหภาพยุโรป (GDPR) ฉบับทางการ",
+        "es": "Reglamento General de Protección de Datos de la UE (RGPD), texto oficial",
+        "de": "EU-Datenschutz-Grundverordnung (DSGVO), offizieller Text",
+        "pt": "Regulamento Geral sobre a Proteção de Dados da UE (GDPR), texto oficial",
+        "ru": "Общий регламент ЕС по защите данных (GDPR), официальный текст",
+        "zh": "欧盟《通用数据保护条例》（GDPR）官方文本",
+        "ja": "EU一般データ保護規則（GDPR）公式テキスト",
+        "ko": "EU 일반 개인정보 보호법(GDPR) 공식 원문",
+        "hi": "EU General Data Protection Regulation (GDPR), आधिकारिक पाठ",
+        "ar": "اللائحة العامة لحماية البيانات في الاتحاد الأوروبي (GDPR)، النص الرسمي",
+        "ms": "Peraturan Perlindungan Data Am EU (GDPR), teks rasmi",
+        "vi": "Quy định Chung về Bảo vệ Dữ liệu của EU (GDPR), văn bản chính thức",
+        "pa": "EU General Data Protection Regulation (GDPR), ਅਧਿਕਾਰਤ ਟੈਕਸਟ"
       },
       "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
     },
@@ -17,7 +29,19 @@
         "en": "Personal Data Protection Committee (Thailand PDPA)",
         "fr": "Personal Data Protection Committee (PDPA thaïlandaise)",
         "nl": "Personal Data Protection Committee (Thaise PDPA)",
-        "th": "สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (PDPA)"
+        "th": "สำนักงานคณะกรรมการคุ้มครองข้อมูลส่วนบุคคล (PDPA)",
+        "es": "Personal Data Protection Committee (PDPA de Tailandia)",
+        "de": "Personal Data Protection Committee (thailändisches PDPA)",
+        "pt": "Personal Data Protection Committee (PDPA da Tailândia)",
+        "ru": "Комитет по защите персональных данных (PDPA Таиланда)",
+        "zh": "个人数据保护委员会（泰国 PDPA）",
+        "ja": "個人情報保護委員会（タイPDPA）",
+        "ko": "태국 개인정보보호위원회(PDPA)",
+        "hi": "Personal Data Protection Committee (थाईलैंड PDPA)",
+        "ar": "لجنة حماية البيانات الشخصية (قانون PDPA التايلاندي)",
+        "ms": "Jawatankuasa Perlindungan Data Peribadi (PDPA Thailand)",
+        "vi": "Ủy ban Bảo vệ Dữ liệu Cá nhân (PDPA Thái Lan)",
+        "pa": "Personal Data Protection Committee (ਥਾਈਲੈਂਡ PDPA)"
       },
       "url": "https://www.pdpc.or.th/"
     }

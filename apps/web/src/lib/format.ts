@@ -6,6 +6,19 @@ export const intlLocale: Record<Locale, string> = {
   fr: "fr-FR",
   nl: "nl-NL",
   th: "th-TH",
+  es: "es-ES",
+  de: "de-DE",
+  pt: "pt-BR",
+  ru: "ru-RU",
+  zh: "zh-CN",
+  ja: "ja-JP",
+  ko: "ko-KR",
+  hi: "hi-IN",
+  pa: "pa-Guru-IN",
+  // Western digits: fees and dates must match the THB amounts on official sites.
+  ar: "ar-u-nu-latn",
+  ms: "ms-MY",
+  vi: "vi-VN",
 };
 
 export function formatNumber(locale: Locale, n: number): string {

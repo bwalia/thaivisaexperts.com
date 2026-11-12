@@ -29,7 +29,7 @@ export async function Breadcrumbs({
         <ol className="flex flex-wrap items-center gap-1 text-muted-foreground">
           {all.map((c, i) => (
             <li key={i} className="flex items-center gap-1">
-              {i > 0 && <ChevronRight className="size-3.5" aria-hidden="true" />}
+              {i > 0 && <ChevronRight className="size-3.5 rtl:-scale-x-100" aria-hidden="true" />}
               {c.href ? (
                 <Link href={c.href} className="text-muted-foreground hover:text-primary-strong">
                   {c.label}

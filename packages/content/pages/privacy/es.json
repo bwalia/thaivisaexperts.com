@@ -1,0 +1,97 @@
+{
+  "title": "Política de privacidad",
+  "summary": "Thai Visa Experts es una web informativa estática. No necesitas cuenta, no vendemos datos y recopilamos lo mínimo posible. Esta política explica la pequeña cantidad de datos que intervienen cuando lees el sitio, guardas preferencias o nos escribes, y tus derechos según el RGPD y la PDPA de Tailandia.",
+  "seoTitle": "Política de privacidad",
+  "seoDescription": "Cómo trata tus datos Thai Visa Experts: sin cuentas, sin cookies de seguimiento, preferencias guardadas solo en tu dispositivo y tus derechos según el RGPD y la PDPA.",
+  "sections": [
+    {
+      "heading": "Quiénes somos y cómo contactarnos",
+      "paragraphs": [
+        "Esta política cubre thaivisaexperts.com, una web informativa independiente sobre visados de Tailandia (\"nosotros\"). Somos responsables de los datos personales descritos aquí. Para cualquier pregunta o solicitud sobre privacidad, escribe a hello@thaivisaexperts.com.",
+        "No vendemos, alquilamos ni intercambiamos datos personales, y no los usamos con fines publicitarios."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Qué recopilamos y por qué",
+      "paragraphs": [
+        "El sitio está construido con páginas estáticas. No hay cuentas de usuario, inicios de sesión, comentarios ni pagos, y nunca pedimos datos del pasaporte."
+      ],
+      "list": [
+        "Registros del servidor y de la CDN: cuando cargas una página o una imagen, nuestro proveedor de alojamiento y nuestra red de distribución de imágenes (CDN) registran automáticamente datos técnicos como tu dirección IP, el tipo de navegador, la página solicitada y la hora. Estos registros mantienen el sitio seguro y en funcionamiento, esos proveedores los conservan solo durante un periodo breve y no se usan para elaborar tu perfil.",
+        "Formulario de contacto (si está activado): si nos escribes a través del formulario de contacto, tu nombre, tu correo electrónico y tu mensaje se envían a través de Formspree, un procesador de formularios externo, y llegan a nuestra bandeja de entrada. Solo los usamos para responderte. También puedes escribirnos directamente por correo.",
+        "Correos que nos envías: conservamos tu mensaje solo el tiempo necesario para responderte y gestionar cualquier seguimiento, y después lo eliminamos.",
+        "Analítica (si está activada): podemos usar un servicio de analítica respetuoso con la privacidad, como Plausible o Umami. Estas herramientas no usan cookies, no te rastrean entre webs y no almacenan datos personales; cuentan visitas, páginas y países de forma agregada para que sepamos qué guías resultan útiles."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Datos guardados solo en tu dispositivo",
+      "paragraphs": [
+        "Algunas funciones recuerdan tus elecciones mediante el localStorage de tu navegador. Estos datos se quedan en tu dispositivo. Nunca se nos envían y puedes borrarlos en cualquier momento desde los ajustes de tu navegador."
+      ],
+      "list": [
+        "Marcas de las listas: qué elementos has marcado en las listas de documentos.",
+        "Idioma: el último idioma que elegiste.",
+        "Tema: si prefieres el diseño claro u oscuro."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "No usamos cookies publicitarias ni de seguimiento y, si la analítica está activada, funciona sin cookies. Como solo guardamos en tu dispositivo preferencias estrictamente necesarias, no mostramos un banner de cookies. Si esto cambia algún día, actualizaremos esta política y te pediremos el consentimiento cuando la ley lo exija."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Base jurídica, cesión de datos y transferencias internacionales",
+      "paragraphs": [
+        "Tratamos los registros del servidor y la analítica agregada sobre la base de nuestro interés legítimo en mantener una web segura y útil. Tratamos los mensajes de contacto para responder a tu solicitud, lo que también es un interés legítimo, o una medida que nos has pedido que tomemos.",
+        "Solo compartimos datos con los proveedores de servicios que hacen funcionar el sitio: nuestro proveedor de alojamiento y la CDN, el procesador de formularios (Formspree) si el formulario de contacto está activado y el proveedor de analítica si la analítica está activada. Actúan en nuestro nombre y pueden tratar datos fuera de tu país, incluido en Estados Unidos. Cuando se aplica el RGPD, estas transferencias se basan en garantías adecuadas, como las cláusulas contractuales tipo de la Comisión Europea o una decisión de adecuación.",
+        "Podemos revelar datos si la ley lo exige, por ejemplo en respuesta a una orden judicial válida."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Tus derechos según el RGPD (UE, EEE y Reino Unido)",
+      "paragraphs": [
+        "Si estás en la Unión Europea, el Espacio Económico Europeo o el Reino Unido, el Reglamento General de Protección de Datos (RGPD, o UK GDPR) te da los siguientes derechos sobre los datos personales que tengamos sobre ti. Para ejercer cualquiera de ellos, escribe a hello@thaivisaexperts.com. Te responderemos en el plazo de un mes."
+      ],
+      "list": [
+        "Acceso: pedir una copia de los datos personales que tenemos sobre ti.",
+        "Rectificación: pedirnos que corrijamos datos inexactos.",
+        "Supresión: pedirnos que eliminemos tus datos.",
+        "Limitación: pedirnos que limitemos el uso de tus datos.",
+        "Oposición: oponerte al tratamiento basado en nuestros intereses legítimos.",
+        "Portabilidad: recibir los datos que nos diste en un formato común y legible por máquina.",
+        "Reclamación: presentar una reclamación ante tu autoridad nacional de protección de datos. Te agradeceríamos que nos dieras antes la oportunidad de resolver el problema."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Tus derechos según la PDPA de Tailandia",
+      "paragraphs": [
+        "Si estás en Tailandia, la Personal Data Protection Act B.E. 2562 (2019) (PDPA, ley de protección de datos personales) te da derechos similares: acceder a tus datos y obtener una copia, que se corrijan, eliminen o limiten, oponerte a su tratamiento, la portabilidad de los datos y retirar tu consentimiento cuando el tratamiento se base en él. También puedes presentar una reclamación ante el Personal Data Protection Committee (PDPC). Escríbenos a hello@thaivisaexperts.com para ejercer estos derechos."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Seguridad, menores y cambios",
+      "paragraphs": [
+        "El sitio se sirve por HTTPS y mantenemos al mínimo los datos que conservamos. Ningún sistema es totalmente seguro, así que no nos envíes documentos sensibles como escaneos del pasaporte o extractos bancarios. No los necesitamos y no te los pediremos.",
+        "El sitio no está dirigido a menores de 16 años y no recopilamos sus datos a sabiendas.",
+        "Podemos actualizar esta política cuando cambien nuestros servicios. La fecha de \"última verificación\" de la parte superior de la página indica cuándo se revisó por última vez."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

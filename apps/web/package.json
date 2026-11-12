@@ -28,6 +28,10 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "@fontsource-variable/noto-sans": "^5.3.0",
+    "@fontsource-variable/noto-sans-arabic": "^5.3.0",
+    "@fontsource-variable/noto-sans-devanagari": "^5.3.0",
+    "@fontsource-variable/noto-sans-gurmukhi": "^5.3.0",
     "@fontsource-variable/noto-sans-thai": "^5.3.0",
     "@tve/content": "workspace:*",
     "@tve/ui-tokens": "workspace:*",

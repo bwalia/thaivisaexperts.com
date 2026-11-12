@@ -1,0 +1,107 @@
+{
+  "name": "Visado Non-Immigrant ED (estudios)",
+  "shortName": "Non-Immigrant ED",
+  "summary": "El visado Non-Immigrant ED es para estudiar en Tailandia: en una universidad, en un colegio internacional o tailandés, en una escuela de tailandés autorizada o en una escuela de Muay Thai habilitada para patrocinar estudiantes. La escuela te patrocina, entras por 90 días y prorrogas en Tailandia mientras dure tu curso. Tienes que estudiar de verdad: se controla la asistencia.",
+  "seoTitle": "Visado ED de Tailandia 2026: estudios, tailandés y Muay Thai",
+  "seoDescription": "Cómo funciona el visado de estudiante Non-Immigrant ED para universidades, escuelas de tailandés y campamentos de Muay Thai: tasas, documentos, prórrogas y el DTV.",
+  "validity": "Entrada única, válido 3 meses desde su expedición, con una estancia de hasta 90 días a la llegada. Algunas embajadas también expiden un visado ED de entradas múltiples válido 1 año.",
+  "extendableDetail": "Prorrogas en la oficina de inmigración con una carta de tu escuela. En escuelas de idiomas, de Muay Thai y otros centros no reglados, cada prórroga es de hasta 90 días y el total suele limitarse a un año. Los estudiantes universitarios y de centros reglados pueden prorrogar por el periodo que certifique la institución, hasta un año cada vez.",
+  "feeNote": "Las páginas de las embajadas indican 2.000 THB para un visado ED de entrada única (válido 3 meses) y 5.000 THB para uno de entradas múltiples (válido 1 año), cobrados en moneda local y pagados con tarjeta en el sistema e-Visa. Cada prórroga en Tailandia cuesta 1.900 THB. Las cuotas de la escuela van aparte y a menudo son el mayor gasto.",
+  "financialRequirement": "No hay una cifra nacional única. Las embajadas piden extractos bancarios que demuestren que puedes pagar la matrícula y los gastos de vida; por ejemplo, la embajada en Tokio pide al menos 30.000 THB mantenidos durante los tres últimos meses. Consulta la página de la embajada o del país de e-Visa en el que lo solicitas.",
+  "processingTime": "Los plazos varían según la embajada y aparecen en la página de e-Visa de cada una. Tu escuela también necesita tiempo, a menudo un par de semanas, para obtener sus documentos del Ministerio de Educación u otra autoridad, así que empieza pronto.",
+  "keyRequirements": [
+    "Matrícula en un centro autorizado y habilitado para patrocinar visados ED",
+    "Una carta de patrocinio de la escuela y una carta de la autoridad competente (Ministerio de Educación o, para el Muay Thai, la Sports Authority of Thailand u otro organismo competente)",
+    "Un pasaporte con al menos 6 meses de validez",
+    "Prueba de fondos para la matrícula y los gastos de vida, según lo que fije tu embajada",
+    "Asistencia regular: inmigración comprueba tus estudios cuando prorrogas"
+  ],
+  "documents": [
+    "Página de datos personales del pasaporte (al menos 6 meses de validez)",
+    "Foto de pasaporte reciente (de los últimos 6 meses)",
+    "Carta de confirmación de matrícula firmada por una persona autorizada de la escuela, con copia de su documento de identidad o pasaporte",
+    "Carta de la autoridad competente: Ministerio de Educación (escuelas), la propia universidad (estudios de grado) o, para entrenar Muay Thai, un organismo como la Sports Authority of Thailand",
+    "Extractos bancarios que muestren fondos suficientes, normalmente de los tres últimos meses",
+    "Prueba de tu domicilio actual o residencia legal en el país donde lo solicitas",
+    "Reserva de vuelo o itinerario (algunas embajadas)",
+    "Para estudios de grado: tu título académico anterior",
+    "Para monjes, monjas y sacerdotes que estudian el Dharma: una carta de la National Office of Buddhism"
+  ],
+  "howToApply": [
+    {
+      "step": "Elige una escuela que pueda patrocinarte",
+      "detail": "Pregunta directamente a la escuela si tiene una licencia vigente y puede emitir la documentación del visado ED. Muchos gimnasios y escuelas de idiomas no pueden. Paga el curso solo cuando te lo confirmen por escrito."
+    },
+    {
+      "step": "Consigue los documentos de patrocinio",
+      "detail": "La escuela te envía una carta de matrícula y la carta de la autoridad competente. Comprueba que el nombre, el número de pasaporte y las fechas del curso coincidan exactamente con tu pasaporte."
+    },
+    {
+      "step": "Solicita el visado ED en línea",
+      "detail": "Solicítalo en thaievisa.go.th (o en la embajada si tu país aún no está en el sistema e-Visa), sube tus documentos y paga con tarjeta. Imprime el e-Visa aprobado y llévalo en el vuelo."
+    },
+    {
+      "step": "Empieza las clases y comunica tu domicilio",
+      "detail": "Tu alojamiento debe presentar por ti la notificación de domicilio TM30. Asiste a clase desde el principio: las escuelas llevan registros de asistencia y pueden informar a las autoridades."
+    },
+    {
+      "step": "Prorroga en inmigración antes del día 90",
+      "detail": "Lleva a tu oficina de inmigración local la carta de prórroga de la escuela, el registro de asistencia, el pasaporte, una foto, el formulario TM7 y la tasa de 1.900 THB. A veces los funcionarios hacen algunas preguntas sobre tu curso, o unas palabras en tailandés si estudias el idioma."
+    },
+    {
+      "step": "Mantén los informes al día",
+      "detail": "Comunica tu domicilio cada 90 días si te quedas ese tiempo con una misma prórroga, y consigue un permiso de reentrada antes de salir de Tailandia durante tu curso."
+    }
+  ],
+  "bestFor": [
+    "Estudiantes de universidades tailandesas y de colegios internacionales o tailandeses",
+    "Personas que hacen un curso estructurado de tailandés",
+    "Estudiantes de Muay Thai que quieren entrenar en un solo campamento autorizado con un horario fijo",
+    "Becarios y estudiantes de intercambio en un programa vinculado a un curso"
+  ],
+  "notFor": [
+    "Quien quiera trabajar, incluido el trabajo a tiempo parcial o en remoto",
+    "Personas que quieren entrenar en varios gimnasios o viajar mucho (el DTV es más flexible)",
+    "Viajes cortos de entrenamiento de unas semanas (puede bastar con la exención de visado)",
+    "Quien use una escuela solo como vía sobre el papel para quedarse en Tailandia. Inmigración lo comprueba activamente y anula estos visados."
+  ],
+  "commonMistakes": [
+    "Pagar un curso antes de comprobar que la escuela puede patrocinar legalmente un visado ED.",
+    "Faltar a clase. Una asistencia baja puede hacer que te denieguen la prórroga o te anulen el visado.",
+    "Trabajar, aunque sea en línea, con un visado ED.",
+    "Salir de Tailandia sin permiso de reentrada, lo que anula tu prórroga.",
+    "Esperar prórrogas ilimitadas en una escuela de idiomas o de Muay Thai. El total suele ser de un año."
+  ],
+  "faqs": [
+    {
+      "q": "¿Puedo obtener un visado ED para entrenar Muay Thai?",
+      "a": "Sí, si el campamento está preparado para patrocinar estudiantes. El Ministerio de Asuntos Exteriores incluye el entrenamiento de Muay Thai como motivo del visado ED, con el respaldo de una carta de un organismo competente como la Sports Authority of Thailand. Muchos gimnasios no tienen la licencia adecuada, así que pregunta antes de pagar."
+    },
+    {
+      "q": "Visado ED de Muay Thai o DTV: ¿cuál es mejor?",
+      "a": "El visado ED te vincula a una escuela: 90 días a la entrada y después prórrogas de 90 días, normalmente hasta un año, con control de asistencia. El Destination Thailand Visa (DTV) es un visado de entradas múltiples de 5 años con estancias de hasta 180 días, te permite entrenar en cualquier campamento y teletrabajar para clientes extranjeros, pero exige 500.000 THB de ahorros y cuesta más. Si tienes los ahorros y quieres flexibilidad, el DTV suele encajar mejor. Si te comprometes con un solo campamento durante un año y no tienes los ahorros, el ED es la vía habitual."
+    },
+    {
+      "q": "¿Puedo estudiar tailandés con el DTV?",
+      "a": "Las escuelas de tailandés no están en la lista de actividades de Soft Power aprobadas para el DTV. Si vienes a estudiar tailandés, el visado ED es la opción adecuada."
+    },
+    {
+      "q": "¿Cuánto tiempo puedo quedarme con un visado ED de escuela de idiomas?",
+      "a": "Hasta 90 días por prórroga, con un total que suele limitarse a un año desde tu entrada. Los estudiantes universitarios y de centros reglados pueden quedarse lo que dure su curso, con prórrogas de hasta un año cada vez."
+    },
+    {
+      "q": "¿Puedo trabajar a tiempo parcial o en línea con un visado ED?",
+      "a": "No. El visado ED no permite ningún tipo de trabajo. Si quieres teletrabajar para clientes extranjeros mientras entrenas, el DTV lo permite."
+    },
+    {
+      "q": "¿De verdad controla inmigración la asistencia?",
+      "a": "Sí. Las escuelas llevan registros de asistencia e inmigración puede preguntarte por tu curso cuando prorrogas. Desde 2025 las autoridades han intensificado los controles sobre los visados ED usados sin estudiar realmente, y se han anulado visados."
+    },
+    {
+      "q": "¿Puedo cambiar a un visado ED dentro de Tailandia?",
+      "a": "Algunas oficinas de inmigración permiten cambiar de tipo de visado en Tailandia si entraste con exención de visado o con visado de turista, pero es discrecional y las normas varían según la oficina. Solicitarlo desde el extranjero a través del sistema e-Visa es la vía más segura."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

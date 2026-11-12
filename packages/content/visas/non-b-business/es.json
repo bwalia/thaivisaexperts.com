@@ -1,0 +1,112 @@
+{
+  "name": "Visado Non-Immigrant B (negocios y empleo)",
+  "shortName": "Non-Immigrant B",
+  "summary": "El visado Non-Immigrant B es el visado estándar para trabajar para una empresa tailandesa o hacer negocios en Tailandia. Entras por un máximo de 90 días, tu empleador solicita tu permiso de trabajo y después prorrogas tu estancia hasta un año cada vez. No hace falta para reuniones de negocios cortas, pero sí lo necesitas (junto con un permiso de trabajo) para aceptar un empleo en Tailandia.",
+  "seoTitle": "Visado de negocios Non-B y permiso de trabajo en Tailandia (2026)",
+  "seoDescription": "Cómo funcionan el visado Non-Immigrant B y el permiso de trabajo: tasas, documentos, papel del empleador, regla de 4:1, capital de 2 millones de THB y reuniones o trabajo.",
+  "validity": "Entrada única: válido 3 meses desde su expedición, con una estancia de hasta 90 días. Entradas múltiples: válido 1 año, con hasta 90 días por entrada.",
+  "extendableDetail": "Una vez aprobado tu permiso de trabajo, tu empleador respalda una prórroga de estancia de un año en la oficina de inmigración, renovable cada año mientras mantengas el empleo. La empresa debe cumplir los criterios de inmigración (ver más abajo). Sin permiso de trabajo no puedes prorrogar por motivos de negocios.",
+  "feeNote": "El Ministerio de Asuntos Exteriores indica 2.000 THB para un visado de entrada única (válido 3 meses) y 5.000 THB para uno de entradas múltiples (válido 1 año). Las embajadas en el extranjero cobran el equivalente en moneda local, pagado en línea con tarjeta a través del sistema e-Visa. La tasa no es reembolsable. Las tasas del permiso de trabajo y de la prórroga van aparte.",
+  "financialRequirement": "El Ministerio de Asuntos Exteriores pide prueba de fondos suficientes de 20.000 THB por persona o 40.000 THB por familia. Algunas embajadas también piden extractos bancarios recientes de tu país. Para la prórroga de un año, tu salario debe alcanzar el mínimo de inmigración para tu nacionalidad: 50.000 THB al mes para Europa (salvo Rusia), Australia, Canadá, Japón y EE. UU.",
+  "processingTime": "Los plazos varían según la embajada y aparecen en la página de e-Visa de cada una. Solicítalo con mucha antelación al viaje. La aprobación del permiso de trabajo (WP3) debe estar lista antes de solicitar un visado de empleo, y ese paso por sí solo puede tardar semanas.",
+  "keyRequirements": [
+    "Un pasaporte con al menos 6 meses de validez",
+    "Un empleador o socio comercial tailandés que te invite y aporte los documentos de la empresa",
+    "Para empleo: la carta de aprobación WP3 del Ministerio de Trabajo, obtenida por tu empleador",
+    "Prueba de fondos: 20.000 THB por persona o 40.000 THB por familia",
+    "Para la prórroga de un año: un permiso de trabajo, un salario igual o superior al mínimo de inmigración y una empresa que cumpla las normas de capital y de personal tailandés"
+  ],
+  "documents": [
+    "Página de datos personales del pasaporte (al menos 6 meses de validez)",
+    "Foto de pasaporte reciente (4 x 6 cm, de los últimos 6 meses)",
+    "Formulario de solicitud del e-Visa cumplimentado",
+    "Prueba de fondos, como extractos bancarios recientes",
+    "Empleo: carta de aprobación WP3 del Ministerio de Trabajo",
+    "Empleo: contrato de trabajo o carta del empleador tailandés",
+    "Documentos de la empresa tailandesa: certificado de registro mercantil, lista de accionistas, licencia de actividad, estados financieros recientes y declaraciones de impuestos",
+    "Viajes de negocios: carta de tu propia empresa que explique el viaje y tu función",
+    "Viajes de negocios: invitación y correspondencia de tu socio comercial tailandés",
+    "Prueba de que resides legalmente en el país donde lo solicitas (algunas embajadas)"
+  ],
+  "howToApply": [
+    {
+      "step": "Consigue una oferta de empleo o una invitación de negocios",
+      "detail": "Una empresa tailandesa tiene que contratarte o invitarte. Para un empleo, acuerda antes tu puesto y tu salario: inmigración comprueba el salario frente a un mínimo para tu nacionalidad cuando prorrogas."
+    },
+    {
+      "step": "Tu empleador obtiene la aprobación WP3",
+      "detail": "El empleador solicita al Department of Employment la aprobación para contratarte. Desde el 13 de octubre de 2025 se tramita a través del sistema en línea e-WorkPermit. La carta de aprobación (WP3) es lo que quiere ver la embajada."
+    },
+    {
+      "step": "Solicita el visado Non-B en línea",
+      "detail": "Solicítalo a través de thaievisa.go.th (o en la embajada si tu país aún no está en el sistema e-Visa). Sube los documentos, paga con tarjeta y espera el correo de aprobación. Imprime el e-Visa aprobado."
+    },
+    {
+      "step": "Entra en Tailandia y recoge el permiso de trabajo",
+      "detail": "Entras con una estancia de hasta 90 días. No empieces a trabajar hasta que se expida el permiso de trabajo. Para empleadores no BOI que usan e-WorkPermit, desde el 1 de julio de 2026 se emite un documento de permiso de trabajo provisional mientras se produce la tarjeta."
+    },
+    {
+      "step": "Prorroga tu estancia un año",
+      "detail": "Antes de que se acaben tus 90 días, preséntate en la oficina de inmigración con tu permiso de trabajo y los documentos de la empresa. La tasa estándar de prórroga es de 1.900 THB. Tu empleador se encarga de la notificación de domicilio TM30, el informe que presenta tu casero o tu hotel."
+    },
+    {
+      "step": "Mantén tu estatus en regla",
+      "detail": "Comunica tu domicilio cada 90 días, consigue un permiso de reentrada antes de viajar al extranjero y renueva cada año la prórroga y el permiso de trabajo. Si dejas el empleo, tu permiso de estancia termina."
+    }
+  ],
+  "bestFor": [
+    "Empleados contratados por una empresa tailandesa",
+    "Empresarios y directores de una empresa tailandesa",
+    "Personal extranjero desplazado a una sucursal, oficina regional u oficina de representación tailandesa",
+    "Viajeros de negocios que necesitan viajes repetidos y prefieren un visado a la exención"
+  ],
+  "notFor": [
+    "Teletrabajadores con un empleador o clientes extranjeros (mira el DTV o el LTR)",
+    "Personas que asisten a una sola reunión, congreso o feria comercial (la exención de visado suele cubrirlo)",
+    "Fundadores de startups o profesionales muy cualificados que cumplen los requisitos del visado SMART o LTR, con normas más ligeras",
+    "Quien quiera trabajar antes de que se expida el permiso de trabajo"
+  ],
+  "commonMistakes": [
+    "Empezar a trabajar antes de que se expida el permiso de trabajo. Trabajar sin permiso puede acarrear una multa, la deportación y una prohibición de entrada.",
+    "Pensar que un visado de negocios te permite trabajar. No es así; lo que autoriza el trabajo es el permiso de trabajo.",
+    "Entrar en una pequeña empresa que no puede cumplir la norma de 2 millones de THB de capital o de 4 empleados tailandeses, con lo que se deniega la prórroga de un año.",
+    "Salir de Tailandia sin permiso de reentrada, lo que anula tu prórroga de estancia.",
+    "Hacer un trabajo remunerado para un cliente tailandés con un visado de turista o una exención de visado."
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito un visado Non-B para asistir a reuniones de negocios en Tailandia?",
+      "a": "Normalmente no. Con la reforma de 2018 de la ley de trabajadores extranjeros, organizar o asistir a una reunión, congreso, formación, taller o seminario no se considera trabajo que requiera permiso, y la mayoría de los visitantes lo hacen con la exención de visado. Vender a clientes, ejecutar un proyecto o hacer trabajo práctico para una empresa tailandesa sí es trabajo y requiere un permiso de trabajo."
+    },
+    {
+      "q": "¿Qué diferencia hay entre el visado y el permiso de trabajo?",
+      "a": "El visado Non-B te permite entrar y quedarte. El permiso de trabajo, expedido por el Department of Employment, te permite trabajar en un puesto concreto para un empleador concreto. Necesitas ambos. El visado por sí solo no te permite trabajar."
+    },
+    {
+      "q": "¿Qué tiene que hacer mi empleador?",
+      "a": "El empleador solicita la aprobación para contratarte (WP3), aporta los documentos de la empresa para tu visado y tu prórroga, solicita tu permiso de trabajo, te da de alta a efectos fiscales y de seguridad social y presenta las notificaciones ante las autoridades. También tiene que cumplir las normas de inmigración sobre capital y personal tailandés."
+    },
+    {
+      "q": "¿Qué es la regla de 4:1 de personal tailandés?",
+      "a": "Para una prórroga de un año por empleo, la Immigration Bureau Order 327/2557 exige que la empresa tenga cuatro empleados tailandeses fijos por cada empleado extranjero y al menos 2 millones de THB de capital desembolsado por cada extranjero. Las oficinas de representación, oficinas regionales y sucursales de empresas extranjeras tienen normas más ligeras (1 tailandés por extranjero). Las empresas promovidas por la BOI y los titulares del LTR quedan fuera de esta proporción."
+    },
+    {
+      "q": "¿Hay un salario mínimo?",
+      "a": "Sí, para la prórroga. La tabla de inmigración fija 50.000 THB al mes para Europa (salvo Rusia), Australia, Canadá, Japón y EE. UU.; 45.000 THB para Corea del Sur, Singapur, Taiwán y Hong Kong; 35.000 THB para la mayoría de los demás países asiáticos, Sudamérica, Europa del Este, Rusia y Sudáfrica, y 25.000 THB para África (salvo Sudáfrica), Camboya, Laos, Myanmar y Vietnam."
+    },
+    {
+      "q": "¿Puedo teletrabajar para mi empresa de origen con un visado Non-B?",
+      "a": "El Non-B está vinculado a un empleador o negocio tailandés. Si solo teletrabajas para una empresa o clientes extranjeros, el Destination Thailand Visa (DTV) o la categoría Work-from-Thailand del LTR encajan mejor."
+    },
+    {
+      "q": "¿Puede venir mi familia conmigo?",
+      "a": "Tu cónyuge y tus hijos normalmente pueden solicitar un visado Non-Immigrant O como dependientes tuyos, en función de tu permiso de trabajo y tu prórroga. Los dependientes no pueden trabajar salvo que obtengan su propio permiso de trabajo."
+    },
+    {
+      "q": "¿Qué pasa si pierdo o dejo mi empleo?",
+      "a": "Tu permiso de trabajo se anula y tu prórroga de estancia termina. Inmigración suele darte un breve plazo para salir o cambiar de estatus, así que habla con inmigración de inmediato."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

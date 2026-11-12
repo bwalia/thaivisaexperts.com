@@ -22,7 +22,19 @@
         "en": "BOI Announcement Por 5/2568: SMART Visa criteria (Feb 2025)",
         "fr": "Annonce BOI Por 5/2568 : critères du visa SMART (févr. 2025)",
         "nl": "BOI-bekendmaking Por 5/2568: criteria SMART-visum (feb. 2025)",
-        "th": "ประกาศ BOI ที่ ป. 5/2568: หลักเกณฑ์วีซ่า SMART (ก.พ. 2568)"
+        "th": "ประกาศ BOI ที่ ป. 5/2568: หลักเกณฑ์วีซ่า SMART (ก.พ. 2568)",
+        "es": "Anuncio de la BOI Por 5/2568: criterios del visado SMART (febrero de 2025)",
+        "de": "BOI-Bekanntmachung Por 5/2568: Kriterien für das SMART-Visum (Feb. 2025)",
+        "pt": "Anúncio do BOI Por 5/2568: critérios do visto SMART (fev. 2025)",
+        "ru": "Объявление BOI Por 5/2568: критерии визы SMART (февраль 2025 года)",
+        "zh": "BOI 公告 Por 5/2568：SMART 签证标准（2025 年 2 月）",
+        "ja": "BOI告示Por 5/2568：SMARTビザの基準（2025年2月）",
+        "ko": "BOI 공고 Por 5/2568: SMART 비자 기준(2025년 2월)",
+        "hi": "BOI घोषणा Por 5/2568: SMART वीज़ा मानदंड (फ़रवरी 2025)",
+        "ar": "إعلان مجلس الاستثمار Por 5/2568: معايير تأشيرة SMART (فبراير 2025)",
+        "ms": "Pengumuman BOI Por 5/2568: kriteria Visa SMART (Feb 2025)",
+        "vi": "Thông báo BOI Por 5/2568: tiêu chí visa SMART (tháng 2 năm 2025)",
+        "pa": "BOI ਐਲਾਨ Por 5/2568: SMART ਵੀਜ਼ਾ ਮਾਪਦੰਡ (ਫ਼ਰਵਰੀ 2025)"
       },
       "url": "https://smart-visa.boi.go.th/smart/document/related/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_5_2568_EN.pdf"
     },
@@ -31,7 +43,19 @@
         "en": "BOI SMART Visa: frequently asked questions",
         "fr": "BOI visa SMART : questions fréquentes",
         "nl": "BOI SMART-visum: veelgestelde vragen",
-        "th": "BOI วีซ่า SMART: คำถามที่พบบ่อย"
+        "th": "BOI วีซ่า SMART: คำถามที่พบบ่อย",
+        "es": "BOI SMART Visa: preguntas frecuentes",
+        "de": "BOI SMART-Visum: häufig gestellte Fragen",
+        "pt": "BOI SMART Visa: perguntas frequentes",
+        "ru": "BOI SMART Visa: частые вопросы",
+        "zh": "BOI SMART 签证：常见问题",
+        "ja": "BOI SMARTビザ：よくある質問",
+        "ko": "BOI SMART 비자: 자주 묻는 질문",
+        "hi": "BOI SMART वीज़ा: अक्सर पूछे जाने वाले प्रश्न",
+        "ar": "تأشيرة SMART من مجلس الاستثمار: الأسئلة الشائعة",
+        "ms": "Visa SMART BOI: soalan lazim",
+        "vi": "BOI SMART Visa: câu hỏi thường gặp",
+        "pa": "BOI SMART ਵੀਜ਼ਾ: ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ"
       },
       "url": "https://smart-visa.boi.go.th/smart/pages/faq-en.html"
     },
@@ -40,7 +64,19 @@
         "en": "BOI SMART Visa: managing your visa",
         "fr": "BOI visa SMART : gérer votre visa",
         "nl": "BOI SMART-visum: je visum beheren",
-        "th": "BOI วีซ่า SMART: การดูแลสถานะวีซ่า"
+        "th": "BOI วีซ่า SMART: การดูแลสถานะวีซ่า",
+        "es": "BOI SMART Visa: gestión de tu visado",
+        "de": "BOI SMART-Visum: Ihr Visum verwalten",
+        "pt": "BOI SMART Visa: como gerenciar seu visto",
+        "ru": "BOI SMART Visa: управление визой",
+        "zh": "BOI SMART 签证：签证管理",
+        "ja": "BOI SMARTビザ：ビザの管理",
+        "ko": "BOI SMART 비자: 비자 관리",
+        "hi": "BOI SMART वीज़ा: अपने वीज़ा का प्रबंधन",
+        "ar": "تأشيرة SMART من مجلس الاستثمار: إدارة تأشيرتك",
+        "ms": "Visa SMART BOI: menguruskan visa anda",
+        "vi": "BOI SMART Visa: quản lý visa của bạn",
+        "pa": "BOI SMART ਵੀਜ਼ਾ: ਆਪਣੇ ਵੀਜ਼ੇ ਦਾ ਪ੍ਰਬੰਧ"
       },
       "url": "https://smart-visa.boi.go.th/smart/pages/how-to-manage.html"
     },
@@ -49,7 +85,19 @@
         "en": "BOI: LTR Visa (replaces SMART T, I and E)",
         "fr": "BOI : visa LTR (remplace SMART T, I et E)",
         "nl": "BOI: LTR-visum (vervangt SMART T, I en E)",
-        "th": "BOI: วีซ่า LTR (แทน SMART T, I และ E)"
+        "th": "BOI: วีซ่า LTR (แทน SMART T, I และ E)",
+        "es": "BOI: visado LTR (sustituye a SMART T, I y E)",
+        "de": "BOI: LTR-Visum (ersetzt SMART T, I und E)",
+        "pt": "BOI: visto LTR (substitui SMART T, I e E)",
+        "ru": "BOI: виза LTR (заменяет SMART T, I и E)",
+        "zh": "BOI：LTR 签证（取代 SMART T、I 和 E）",
+        "ja": "BOI：LTRビザ（SMART T・I・Eに代わるもの）",
+        "ko": "BOI: LTR 비자(SMART T, I, E 대체)",
+        "hi": "BOI: LTR वीज़ा (SMART T, I और E की जगह)",
+        "ar": "مجلس الاستثمار (BOI): تأشيرة LTR (بديلة SMART T وI وE)",
+        "ms": "BOI: Visa LTR (menggantikan SMART T, I dan E)",
+        "vi": "BOI: visa LTR (thay thế SMART T, I và E)",
+        "pa": "BOI: LTR ਵੀਜ਼ਾ (SMART T, I ਅਤੇ E ਦੀ ਥਾਂ)"
       },
       "url": "https://ltr.boi.go.th/"
     }

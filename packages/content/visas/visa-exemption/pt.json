@@ -1,0 +1,101 @@
+{
+  "name": "Isenção de visto (entrada sem visto)",
+  "shortName": "Isenção de visto",
+  "summary": "Se o seu passaporte está na lista de isenção da Tailândia, você pode chegar de avião sem visto e ficar até 30 dias para turismo. Desde 15 de setembro de 2026, a antiga estadia de 60 dias sem visto acabou para todos. Alguns países recebem uma estadia diferente por acordo bilateral: 90 dias para Argentina, Brasil, Chile, Peru e Coreia do Sul, 30 dias para China, Rússia, Vietnã e outros, 14 dias para Camboja e Mianmar, e 15 dias para Maurício e Seicheles. Geralmente é possível acrescentar uma prorrogação de 30 dias em um escritório de imigração.",
+  "seoTitle": "Isenção de visto na Tailândia 2026: 30 dias (fim dos 60 dias)",
+  "seoDescription": "A Tailândia reduziu a estadia sem visto de 60 para 30 dias em 15/09/2026. Veja se seu passaporte se qualifica, como prorrogar por 30 dias, o limite por terra e o TDAC.",
+  "validity": "Nenhum visto é emitido. Você recebe um carimbo de permissão de estadia na chegada: 30 dias para a maioria dos países elegíveis (somente turismo), 90 dias para Argentina, Brasil, Chile, Peru e Coreia do Sul, 14 dias para Camboja e Mianmar, e 15 dias para Maurício e Seicheles. O dia da chegada conta como dia 1.",
+  "extendableDetail": "Você pode pedir uma vez uma prorrogação de até 30 dias em um escritório de imigração na Tailândia (formulário TM.7, taxa de 1.900 THB). Faça o pedido antes de o carimbo vencer. A prorrogação fica a critério do agente, não é um direito.",
+  "feeNote": "A entrada é gratuita. Uma prorrogação na imigração custa 1.900 THB.",
+  "financialRequirement": "Não há valor fixo publicado para o regime de 2026, mas os agentes de imigração podem pedir que você comprove ter dinheiro suficiente para a estadia. Leve comprovação de cerca de 20.000 THB por pessoa (40.000 THB por família) em dinheiro ou cartões, que é a referência de longa data.",
+  "processingTime": "Não há nada a solicitar com antecedência, exceto o TDAC, que leva cerca de 10 minutos online e deve ser enviado nos 3 dias anteriores à chegada.",
+  "keyRequirements": [
+    "Passaporte de um país da lista de isenção ou com acordo bilateral, válido por pelo menos 6 meses na chegada",
+    "Somente turismo: desde 15 de setembro de 2026, a isenção de 30 dias não cobre reuniões de negócios nem trabalho",
+    "Thailand Digital Arrival Card (TDAC) preenchido, enviado online nos 3 dias anteriores à chegada",
+    "Passagem de volta ou de saída da Tailândia dentro da estadia permitida",
+    "As entradas por fronteira terrestre com isenção são geralmente limitadas a duas por ano civil (não se aplica a passaportes da Malásia, Brunei, Indonésia ou Singapura)"
+  ],
+  "documents": [
+    "Passaporte válido por pelo menos 6 meses, com uma página em branco para o carimbo de entrada",
+    "Confirmação do TDAC com QR code (captura de tela ou impressão)",
+    "Reserva de voo de volta ou de saída dentro da estadia permitida",
+    "Reserva de hotel ou endereço onde você vai ficar",
+    "Comprovação de recursos para mostrar se pedirem (dinheiro, cartão bancário ou extrato recente)",
+    "Para uma prorrogação: formulário TM.7, uma foto tipo passaporte (4 x 6 cm), cópias do passaporte e 1.900 THB em dinheiro",
+    "Para uma prorrogação: comprovante do seu endereço na Tailândia (reserva de hotel ou recibo do TM30, a notificação de endereço feita por quem hospeda você)"
+  ],
+  "howToApply": [
+    {
+      "step": "Verifique se seu passaporte está na lista",
+      "detail": "Procure sua nacionalidade no nosso verificador de países. Se você não estiver na lista de isenção ou de acordos bilaterais, precisa de visto antes de viajar."
+    },
+    {
+      "step": "Reserve uma passagem de saída",
+      "detail": "Companhias aéreas e a imigração podem pedir uma passagem de volta ou de saída dentro de 30 dias (ou da sua estadia bilateral). A prorrogação não é garantida, então planeje sua saída dentro da primeira estadia."
+    },
+    {
+      "step": "Preencha o TDAC",
+      "detail": "Preencha o Thailand Digital Arrival Card em tdac.immigration.go.th nos 3 dias anteriores à chegada. É gratuito. Salve o QR code."
+    },
+    {
+      "step": "Chegue e receba o carimbo",
+      "detail": "Mostre o passaporte, o TDAC e, se pedirem, a passagem de saída e os recursos. Confira a data no carimbo antes de sair do guichê."
+    },
+    {
+      "step": "Prorrogue se precisar de mais tempo",
+      "detail": "Antes de o carimbo vencer, vá ao escritório de imigração da sua região com o formulário TM.7, foto, cópias do passaporte e 1.900 THB. Você pode obter até mais 30 dias."
+    }
+  ],
+  "bestFor": [
+    "Férias de até um mês",
+    "Viagens curtas de até 60 dias, se você prorrogar uma vez na imigração",
+    "Viajantes da Argentina, Brasil, Chile, Peru ou Coreia do Sul (90 dias por acordos bilaterais)"
+  ],
+  "notFor": [
+    "Qualquer tipo de trabalho, incluindo reuniões de negócios (use um visto Non-Immigrant B)",
+    "Trabalho remoto ou estadias longas (veja o DTV)",
+    "Quem planeja \"visa runs\" repetidos por fronteira terrestre",
+    "Cidadãos que não estão na lista de isenção e precisam de visto de turista"
+  ],
+  "commonMistakes": [
+    "Achar que ainda recebe 60 dias. O regime de 60 dias terminou em 15 de setembro de 2026; a maioria agora recebe 30.",
+    "Esquecer o TDAC. Sem ele, você pode ser retido no aeroporto.",
+    "Reservar um voo de saída depois do 30º dia contando com uma prorrogação. As companhias aéreas podem negar o embarque sem uma passagem de saída dentro da estadia permitida.",
+    "Usar a isenção para reuniões de negócios. Desde setembro de 2026, ela é só para turismo.",
+    "Contar os dias errado. O dia da chegada é o dia 1, e o overstay custa 500 THB por dia e pode levar a uma proibição de entrada.",
+    "Fazer \"border runs\" por terra. As entradas por terra com isenção são limitadas a duas por ano civil para a maioria das nacionalidades."
+  ],
+  "faqs": [
+    {
+      "q": "A estadia de 60 dias sem visto ainda existe?",
+      "a": "Não. O regime de 60 dias iniciado em julho de 2024 terminou em 15 de setembro de 2026. Se você entrou antes dessa data, pode ficar até a data do seu carimbo. Quem entra a partir de 15 de setembro de 2026 recebe a nova estadia da sua nacionalidade, geralmente 30 dias."
+    },
+    {
+      "q": "Posso prorrogar a isenção de visto de 30 dias?",
+      "a": "Sim, geralmente uma vez, por até 30 dias, em um escritório de imigração tailandês. A taxa é de 1.900 THB e a decisão fica a critério do agente. Faça o pedido alguns dias antes de o carimbo vencer."
+    },
+    {
+      "q": "Quais países recebem 90 dias?",
+      "a": "Argentina, Brasil, Chile, Peru e Coreia do Sul, por acordos bilaterais com a Tailândia. Esses acordos não foram alterados pela reforma de 2026."
+    },
+    {
+      "q": "Ainda preciso preencher o TDAC se não preciso de visto?",
+      "a": "Sim. Todo visitante estrangeiro, incluindo quem é isento de visto, deve enviar o Thailand Digital Arrival Card online nos 3 dias anteriores à chegada. Ele é gratuito no site oficial tdac.immigration.go.th; evite sites pagos que imitam o oficial."
+    },
+    {
+      "q": "Posso entrar sem visto quantas vezes quiser?",
+      "a": "Não por terra. As entradas com isenção de visto por fronteiras terrestres são geralmente limitadas a duas por ano civil (cidadãos da Malásia, Brunei, Indonésia e Singapura não têm limite). Os agentes também podem recusar a entrada de quem parece estar morando na Tailândia com isenções seguidas. Se você visita com frequência, obtenha um visto de turista ou um DTV."
+    },
+    {
+      "q": "Posso trabalhar remotamente com isenção de visto?",
+      "a": "Não. A isenção é só para turismo. Se você quer trabalhar remotamente da Tailândia para clientes ou um empregador estrangeiros, o Destination Thailand Visa (DTV) foi criado para isso."
+    },
+    {
+      "q": "Meu país perdeu a entrada sem visto. E agora?",
+      "a": "Em 15 de setembro de 2026, 21 nacionalidades, incluindo México, Colômbia, Marrocos, Sri Lanka, Uzbequistão, Mônaco e Andorra, perderam a entrada sem visto. Solicite um visto de turista (TR) online pelo sistema de e-Visa da Tailândia antes de viajar, com pelo menos 2 a 4 semanas de antecedência."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Visado de turista (TR)",
+  "shortName": "Visado de turista",
+  "summary": "El visado de turista estándar, que se solicita en línea a través del sistema oficial e-Visa de Tailandia antes de viajar. El TR de entrada única te permite quedarte hasta 60 días, más una prórroga de 30 días en inmigración, es decir, hasta 90 días en total. Desde que las estancias sin visado bajaron a 30 días en septiembre de 2026, es la forma más sencilla de conseguir dos o tres meses. El visado de turista de entradas múltiples (METV) sigue existiendo en muchas embajadas: válido 6 meses, con hasta 60 días por entrada.",
+  "seoTitle": "Visado de turista Tailandia (TR) 2026: 60 + 30 días, tasa, METV",
+  "seoDescription": "Cómo conseguir el visado de turista de Tailandia por e-Visa: 60 días, prórroga de 30, tasas por embajada, 20.000 THB de fondos, documentos, METV y errores frecuentes.",
+  "validity": "Entrada única (TR): válido 3 meses desde su expedición, por lo que debes entrar en ese plazo. Cada entrada permite hasta 60 días. METV: válido 6 meses, entradas ilimitadas, hasta 60 días por entrada.",
+  "extendableDetail": "Una vez en Tailandia, puedes prorrogar cada estancia de 60 días hasta 30 días más en una oficina de inmigración (formulario TM.7, 1.900 THB), a discreción del funcionario. Con un METV también puedes salir y volver a entrar antes de que caduque el visado para una nueva estancia de 60 días.",
+  "feeNote": "La tasa base es de 1.000 THB para una entrada única y 5.000 THB para un METV, pero pagas en la moneda local de la embajada que tramita tu e-Visa, por ejemplo 40 USD / 200 USD en EE. UU., 30 GBP en el Reino Unido y 400 NOK / 2.000 NOK en Noruega. Las tasas no son reembolsables.",
+  "financialRequirement": "Demuestra al menos 20.000 THB por persona o 40.000 THB por familia. Algunas embajadas solo piden el saldo actual; otras (por ejemplo, Washington) piden 3 meses de extractos. El METV exige más pruebas económicas (y a menudo prueba de empleo o ingresos); la cantidad la fija cada embajada, así que consulta su página.",
+  "processingTime": "Depende de la embajada. Muchas recomiendan contar con hasta 14 días hábiles, y la embajada en Washington aconseja solicitarlo al menos 30 días antes de la salida. No lo solicites con más de 3 meses de antelación, porque la validez del visado empieza el día en que se expide.",
+  "keyRequirements": [
+    "Solicitarlo en línea en thaievisa.go.th antes de viajar, a través de la embajada que cubre el país donde vives",
+    "Pasaporte con al menos 6 meses de validez y dos páginas en blanco",
+    "Prueba de fondos de al menos 20.000 THB por persona (40.000 THB por familia)",
+    "Reserva de vuelo de salida o de regreso y alojamiento para tu estancia",
+    "Solo turismo, visitas familiares o tratamiento médico; prohibido cualquier tipo de trabajo",
+    "Enviar la TDAC en los 3 días anteriores a cada llegada"
+  ],
+  "documents": [
+    "Escaneo de la página de datos del pasaporte (validez de 6 meses o más)",
+    "Foto reciente tipo pasaporte, de los últimos 6 meses",
+    "Reserva de vuelo a Tailandia (y de salida o continuación del viaje)",
+    "Reservas de hotel o una carta de invitación con tu dirección en Tailandia",
+    "Extracto bancario reciente a tu nombre que muestre el equivalente a al menos 20.000 THB",
+    "Prueba de residencia en el país donde lo solicitas (p. ej., tarjeta de residencia, visado o factura de suministros) si no eres ciudadano de ese país",
+    "Para menores: certificado de nacimiento y carta de consentimiento de los padres",
+    "Para el METV: prueba de empleo o ingresos según lo que pida tu embajada"
+  ],
+  "howToApply": [
+    {
+      "step": "Elige la embajada correcta",
+      "detail": "En thaievisa.go.th, elige el país donde vives. El e-Visa lo tramita la embajada o el consulado tailandés responsable de ese país."
+    },
+    {
+      "step": "Crea una cuenta y elige el visado",
+      "detail": "Selecciona 'Tourist Visa' y después entrada única o entradas múltiples (METV), según lo que ofrezca tu embajada."
+    },
+    {
+      "step": "Sube los documentos",
+      "detail": "Sube archivos PDF o JPG nítidos de tu pasaporte, foto, reservas y extracto bancario. Los archivos borrosos o recortados son el motivo más habitual de retrasos."
+    },
+    {
+      "step": "Paga la tasa",
+      "detail": "Paga en línea en moneda local. Algunas embajadas solo empiezan a tramitar cuando el pago se ha confirmado."
+    },
+    {
+      "step": "Espera la aprobación",
+      "detail": "Recibirás un correo electrónico cuando se apruebe el e-Visa. Imprímelo o guárdalo; las aerolíneas e inmigración pueden pedir verlo."
+    },
+    {
+      "step": "Viaja y rellena la TDAC",
+      "detail": "Envía la Thailand Digital Arrival Card en los 3 días anteriores a tu llegada. Entra en Tailandia antes de la fecha 'enter before' del visado."
+    }
+  ],
+  "bestFor": [
+    "Vacaciones de 1 a 3 meses",
+    "Nacionalidades que no pueden entrar sin visado",
+    "Viajeros que antes contaban con la exención de 60 días",
+    "Visitantes frecuentes durante seis meses (METV)"
+  ],
+  "notFor": [
+    "Teletrabajo o estancias largas de 6 meses o más (mira el DTV)",
+    "Reuniones de negocios o cualquier trabajo (usa un visado Non-Immigrant B)",
+    "Viajes cortos de menos de 30 días si tu pasaporte está exento de visado"
+  ],
+  "commonMistakes": [
+    "Solicitarlo demasiado pronto. Los 3 meses de validez del visado empiezan el día en que se expide, no el día en que llegas.",
+    "Solicitarlo a través de la embajada equivocada. Debes hacerlo donde resides legalmente, no donde estás de paso.",
+    "Subir un extracto bancario sin nombre ni fecha.",
+    "Creer que el visado da 90 días a la llegada. Te dan 60 días; los 30 adicionales requieren una prórroga en inmigración.",
+    "Usar webs de 'agentes de visados' de terceros que parecen oficiales. La única web oficial es thaievisa.go.th.",
+    "Dejar que un METV caduque estando en el extranjero, contando con volver a entrar con él."
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuánto tiempo puedo quedarme con un visado de turista para Tailandia?",
+      "a": "Hasta 60 días por entrada. Después puedes solicitar una vez una prórroga de 30 días en una oficina de inmigración de Tailandia por 1.900 THB, es decir, hasta 90 días en total por entrada."
+    },
+    {
+      "q": "¿Se ha suprimido el visado de turista de entradas múltiples (METV)?",
+      "a": "No. El METV sigue existiendo: es válido durante 6 meses y permite hasta 60 días por entrada. No todas las embajadas lo ofrecen a través del sistema e-Visa, y suele exigir más pruebas económicas que el visado de entrada única, así que consulta la página de tu embajada."
+    },
+    {
+      "q": "¿Necesito un visado de turista si mi pasaporte está exento de visado?",
+      "a": "Solo si quieres quedarte más tiempo del que permite tu exención. Desde el 15 de septiembre de 2026, la mayoría de los viajeros exentos de visado obtienen 30 días, prorrogables 30 más. Si quieres 60 días desde el principio, o hasta 90 días, el visado de turista es la opción más limpia."
+    },
+    {
+      "q": "¿Puedo solicitar el visado de turista en el aeropuerto o mientras estoy en otro país?",
+      "a": "No. Se solicita en línea antes de viajar, a través de la embajada tailandesa que cubre el país donde vives. Si estás de visita temporal en otro país, esa embajada puede rechazar tu solicitud."
+    },
+    {
+      "q": "¿Cuánto dinero tengo que demostrar?",
+      "a": "Al menos 20.000 THB por persona o 40.000 THB por familia para un visado de entrada única. Cuántos meses de extractos necesitas depende de la embajada, y el METV exige más."
+    },
+    {
+      "q": "¿Puedo teletrabajar con un visado de turista?",
+      "a": "No. Los visados de turista no permiten ningún tipo de trabajo. El Destination Thailand Visa (DTV) es el visado pensado para teletrabajadores."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

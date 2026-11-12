@@ -1,0 +1,102 @@
+{
+  "name": "Visa Non-Immigrant O-A (Tinggal Lama)",
+  "shortName": "Non-O-A",
+  "summary": "Visa tinggal lama kemasukan berganda selama 1 tahun untuk mereka yang berumur 50 tahun ke atas, dipohon dari negara asal anda. Anda memerlukan 800,000 THB atau 65,000 THB sebulan, semakan polis, sijil perubatan dan insurans kesihatan. Setiap kemasukan memberi anda sehingga setahun di Thailand.",
+  "seoTitle": "Visa Tinggal Lama O-A Thailand: Insurans, Dana, Semakan Polis",
+  "seoDescription": "Visa Non-Immigrant O-A untuk mereka berumur lebih 50 tahun: 800,000 THB atau 65,000 THB sebulan, insurans kesihatan wajib, sijil polis dan perubatan, yuran dan cara memohon.",
+  "validity": "Visa ini sah selama 1 tahun, dengan kemasukan berganda. Setiap kemasukan memberi anda tempoh tinggal sehingga 1 tahun, jadi masuk sejurus sebelum visa tamat tempoh boleh memberi anda hampir 2 tahun.",
+  "extendableDetail": "Ya. Anda boleh melanjutkan tempoh tinggal 1 tahun pada satu masa di pejabat imigresen Thailand, berdasarkan persaraan (borang TM7, yuran 1,900 THB). Anda mesti masih memenuhi peraturan kewangan, dan pemegang O-A juga diminta insurans kesihatan Thailand.",
+  "feeNote": "5,000 THB mengikut jadual yuran Thailand untuk visa Non-Immigrant kemasukan berganda. Kedutaan mengenakannya dalam mata wang tempatan. Setiap lanjutan di Thailand berharga 1,900 THB.",
+  "financialRequirement": "Sekurang-kurangnya 800,000 THB dalam akaun bank, pendapatan bulanan sekurang-kurangnya 65,000 THB, atau (di sesetengah kedutaan) simpanan serta pendapatan tahunan yang berjumlah 800,000 THB. Penyata bank bagi 3 bulan lepas biasanya diminta.",
+  "processingTime": "Ia bergantung pada kedutaan. Sesetengahnya menyatakan sekurang-kurangnya 15 hari bekerja. Peruntukkan masa tambahan untuk menyediakan semakan polis, sijil perubatan dan borang insurans terlebih dahulu.",
+  "keyRequirements": [
+    "Anda berumur 50 tahun ke atas pada hari anda memohon.",
+    "Anda memohon di negara kewarganegaraan anda atau di tempat anda mempunyai pemastautin tetap.",
+    "Anda mempunyai simpanan 800,000 THB atau pendapatan 65,000 THB sebulan.",
+    "Anda mempunyai insurans kesihatan yang memenuhi peraturan Thailand (laman e-Visa meminta perlindungan sekurang-kurangnya USD 100,000 atau 3,000,000 THB).",
+    "Anda mempunyai rekod jenayah yang bersih dan tiada penyakit yang dilarang.",
+    "Anda tidak bekerja di Thailand. Sebarang jenis pekerjaan tidak dibenarkan."
+  ],
+  "documents": [
+    "Pasport yang sah cukup lama untuk meliputi tempoh tinggal anda (sesetengah kedutaan meminta 18 bulan)",
+    "Foto gaya pasport terkini (diambil dalam tempoh 6 bulan lepas)",
+    "Bukti pemastautin tetap di negara tempat anda memohon",
+    "Penyata bank bagi 3 bulan lepas yang menunjukkan sekurang-kurangnya 800,000 THB, atau bukti pendapatan bulanan 65,000 THB",
+    "Sijil rekod jenayah dari negara kewarganegaraan atau pemastautin anda",
+    "Sijil perubatan yang dikeluarkan dalam tempoh 3 bulan lepas yang menunjukkan tiada penyakit yang dilarang",
+    "Borang Foreign Insurance Certificate, dilengkapkan dan dicop oleh syarikat insurans anda (dari longstay.tgia.org)",
+    "Polisi insurans kesihatan yang meliputi keseluruhan tempoh tinggal anda"
+  ],
+  "howToApply": [
+    {
+      "step": "Dapatkan semakan polis anda",
+      "detail": "Mohon sijil rekod jenayah dari negara kewarganegaraan atau pemastautin anda. Sesetengah kedutaan mahu ia dinotarikan, jadi semak dahulu."
+    },
+    {
+      "step": "Jumpa doktor",
+      "detail": "Dapatkan sijil perubatan yang menunjukkan tiada penyakit yang disenaraikan dalam Peraturan Menteri Thailand No. 14. Ia sepatutnya berusia kurang daripada 3 bulan semasa anda memohon."
+    },
+    {
+      "step": "Uruskan insurans kesihatan",
+      "detail": "Beli polisi yang memenuhi peraturan Thailand dan minta syarikat insurans anda melengkapkan dan mengecop borang Foreign Insurance Certificate dari longstay.tgia.org."
+    },
+    {
+      "step": "Mohon di laman e-Visa",
+      "detail": "Mohon di thaievisa.go.th, dengan memilih Long-stay (O-A). Muat naik semua dokumen dan bayar yuran."
+    },
+    {
+      "step": "Masuk ke Thailand",
+      "detail": "Isi TDAC percuma dalam tempoh 3 hari sebelum anda tiba. Setiap kemasukan memberi anda sehingga 1 tahun."
+    },
+    {
+      "step": "Patuhi peraturan",
+      "detail": "Buat laporan setiap 90 hari, dapatkan permit masuk semula sebelum keluar jika anda mahu mengekalkan tempoh tinggal anda, dan lanjutkan di imigresen sebelum kebenaran anda tamat."
+    }
+  ],
+  "bestFor": [
+    "Pesara berumur 50 tahun ke atas yang mahukan setahun penuh dari hari mereka tiba",
+    "Mereka yang kerap keluar masuk Thailand (kemasukan berganda)",
+    "Sesiapa yang lebih suka menyelesaikan urusan dokumen di negara asal sebelum berpindah"
+  ],
+  "notFor": [
+    "Sesiapa yang berumur bawah 50 tahun",
+    "Mereka yang tidak dapat memperoleh insurans kesihatan yang mampu dibayar, contohnya kerana faktor umur atau penyakit sedia ada",
+    "Mereka yang mahu bekerja di Thailand",
+    "Sesiapa yang tidak tinggal di negara tempat mereka akan memohon"
+  ],
+  "commonMistakes": [
+    "Membeli insurans yang tidak memenuhi perlindungan yang diperlukan, atau tidak mendapatkan cop pada borang Foreign Insurance Certificate",
+    "Membiarkan sijil perubatan atau polis melebihi had usia yang dibenarkan oleh kedutaan",
+    "Memohon di luar negara kewarganegaraan atau pemastautin tetap anda",
+    "Keluar dari Thailand tanpa permit masuk semula selepas lanjutan, yang membatalkannya",
+    "Terlupa laporan alamat 90 hari"
+  ],
+  "faqs": [
+    {
+      "q": "Apakah perbezaan O-A dengan visa persaraan Non-O?",
+      "a": "O-A memberi anda sehingga setahun serta-merta dan membenarkan kemasukan berganda, tetapi anda mesti memohon dari luar negara dengan semakan polis, sijil perubatan dan insurans kesihatan. Non-O memberi anda 90 hari, kemudian anda melanjutkannya kepada setahun di dalam Thailand, dan insurans kesihatan tidak diperlukan."
+    },
+    {
+      "q": "Berapa banyak insurans kesihatan yang saya perlukan?",
+      "a": "Laman rasmi e-Visa meminta insurans kesihatan daripada syarikat insurans Thailand atau asing dengan perlindungan sekurang-kurangnya USD 100,000 atau 3,000,000 THB. Sesetengah konsulat masih menyenaraikan perlindungan pesakit luar 40,000 THB dan pesakit dalam 400,000 THB. Semak dengan kedutaan yang mengendalikan permohonan anda."
+    },
+    {
+      "q": "Bolehkah saya menggunakan syarikat insurans asing?",
+      "a": "Ya, untuk visa, asalkan syarikat insurans mengisi dan mengecop borang Foreign Insurance Certificate. Untuk lanjutan di dalam Thailand, imigresen biasanya meminta polisi daripada syarikat insurans Thailand."
+    },
+    {
+      "q": "Bolehkah saya tinggal lebih lama daripada setahun?",
+      "a": "Ya. Masuk semula sebelum visa tamat tempoh untuk setahun lagi, atau lanjutkan tempoh tinggal anda di pejabat imigresen 1 tahun pada satu masa."
+    },
+    {
+      "q": "Adakah wang perlu berada di Thailand?",
+      "a": "Tidak untuk visa itu sendiri. Penyata bank daripada bank di negara asal anda sudah memadai. Untuk lanjutan di dalam Thailand, wang mesti berada dalam akaun bank Thailand."
+    },
+    {
+      "q": "Bolehkah saya bekerja?",
+      "a": "Tidak. Sebarang jenis pekerjaan dilarang dengan O-A."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

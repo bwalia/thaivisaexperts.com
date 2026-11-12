@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { LOCALES, getImage, type Locale } from "@tve/content";
-import { OG_LOCALES, SITE_URL, absoluteUrl } from "./site";
+import { HREFLANG, OG_LOCALES, SITE_URL, absoluteUrl } from "./site";
 
 interface Input {
   locale: Locale;
@@ -23,7 +23,7 @@ export function buildMetadata({
   absoluteTitle,
 }: Input): Metadata {
   const languages: Record<string, string> = Object.fromEntries(
-    LOCALES.map((l) => [l, absoluteUrl(l, path)]),
+    LOCALES.map((l) => [HREFLANG[l], absoluteUrl(l, path)]),
   );
   languages["x-default"] = absoluteUrl("en", path);
   const image = getImage(imageId);

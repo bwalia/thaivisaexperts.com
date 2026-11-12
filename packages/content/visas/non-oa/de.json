@@ -1,0 +1,102 @@
+{
+  "name": "Non-Immigrant O-A Visa (Langzeitaufenthalt)",
+  "shortName": "Non-O-A",
+  "summary": "Ein einjähriges Langzeitvisum mit mehrfacher Einreise für Menschen ab 50 Jahren, das Sie in Ihrem Heimatland beantragen. Sie benötigen 800.000 THB oder 65.000 THB Monatseinkommen, ein Führungszeugnis, ein ärztliches Attest und eine Krankenversicherung. Jede Einreise gibt Ihnen bis zu ein Jahr in Thailand.",
+  "seoTitle": "Thailand O-A-Langzeitvisum: Versicherung, Finanzen, Zeugnis",
+  "seoDescription": "Das Non-Immigrant O-A Visum ab 50: 800.000 THB oder 65.000 THB monatlich, Pflicht-Krankenversicherung, Führungszeugnis und Attest, Gebühren und Antrag.",
+  "validity": "Das Visum ist 1 Jahr gültig, mit mehrfacher Einreise. Jede Einreise gibt Ihnen bis zu 1 Jahr Aufenthalt, sodass eine Einreise kurz vor Ablauf des Visums Ihnen fast 2 Jahre verschaffen kann.",
+  "extendableDetail": "Ja. Sie können Ihren Aufenthalt bei einer thailändischen Einwanderungsbehörde aufgrund des Ruhestands jeweils um 1 Jahr verlängern (Formular TM.7, Gebühr 1.900 THB). Sie müssen die finanziellen Regeln weiterhin erfüllen, und von O-A-Inhabern wird zusätzlich eine thailändische Krankenversicherung verlangt.",
+  "feeNote": "5.000 THB laut thailändischer Gebührenordnung für ein Non-Immigrant-Visum mit mehrfacher Einreise. Botschaften berechnen den Betrag in Landeswährung. Verlängerungen in Thailand kosten jeweils 1.900 THB.",
+  "financialRequirement": "Mindestens 800.000 THB auf einem Bankkonto, ein Monatseinkommen von mindestens 65.000 THB oder (bei einigen Botschaften) Ersparnisse plus Jahreseinkommen von zusammen 800.000 THB. In der Regel werden Kontoauszüge der letzten 3 Monate verlangt.",
+  "processingTime": "Das hängt von der Botschaft ab. Manche nennen mindestens 15 Arbeitstage. Planen Sie zusätzlich Zeit ein, um zuerst Führungszeugnis, ärztliches Attest und Versicherungsformular vorzubereiten.",
+  "keyRequirements": [
+    "Sie sind am Tag der Antragstellung mindestens 50 Jahre alt.",
+    "Sie beantragen im Land Ihrer Staatsangehörigkeit oder Ihres ständigen Wohnsitzes.",
+    "Sie haben 800.000 THB an Ersparnissen oder 65.000 THB Monatseinkommen.",
+    "Sie haben eine Krankenversicherung, die den thailändischen Regeln entspricht (die e-Visa-Website verlangt eine Deckung von mindestens 100.000 USD oder 3.000.000 THB).",
+    "Sie haben ein einwandfreies Führungszeugnis und keine der verbotenen Krankheiten.",
+    "Sie arbeiten nicht in Thailand. Beschäftigung jeglicher Art ist nicht erlaubt."
+  ],
+  "documents": [
+    "Reisepass, der lange genug gültig ist, um Ihren Aufenthalt abzudecken (manche Botschaften verlangen 18 Monate)",
+    "Aktuelles Passfoto (höchstens 6 Monate alt)",
+    "Nachweis des ständigen Wohnsitzes im Antragsland",
+    "Kontoauszüge der letzten 3 Monate mit mindestens 800.000 THB oder Nachweis von 65.000 THB Monatseinkommen",
+    "Führungszeugnis aus dem Land Ihrer Staatsangehörigkeit oder Ihres Wohnsitzes",
+    "Ärztliches Attest, höchstens 3 Monate alt, das keine verbotenen Krankheiten ausweist",
+    "Formular Foreign Insurance Certificate, von Ihrem Versicherer ausgefüllt und gestempelt (von longstay.tgia.org)",
+    "Krankenversicherungspolice, die Ihren gesamten Aufenthalt abdeckt"
+  ],
+  "howToApply": [
+    {
+      "step": "Führungszeugnis besorgen",
+      "detail": "Beantragen Sie ein Führungszeugnis im Land Ihrer Staatsangehörigkeit oder Ihres Wohnsitzes. Manche Botschaften wollen es notariell beglaubigt, prüfen Sie das vorher."
+    },
+    {
+      "step": "Zum Arzt gehen",
+      "detail": "Lassen Sie sich ein ärztliches Attest ausstellen, das keine der in der thailändischen Ministerialverordnung Nr. 14 aufgeführten Krankheiten ausweist. Es sollte bei Antragstellung weniger als 3 Monate alt sein."
+    },
+    {
+      "step": "Krankenversicherung abschließen",
+      "detail": "Schließen Sie eine Police ab, die den thailändischen Regeln entspricht, und bitten Sie Ihren Versicherer, das Formular Foreign Insurance Certificate von longstay.tgia.org auszufüllen und zu stempeln."
+    },
+    {
+      "step": "Auf der e-Visa-Website beantragen",
+      "detail": "Beantragen Sie auf thaievisa.go.th und wählen Sie Long-stay (O-A). Laden Sie alle Dokumente hoch und zahlen Sie die Gebühr."
+    },
+    {
+      "step": "Nach Thailand einreisen",
+      "detail": "Füllen Sie die kostenlose TDAC in den 3 Tagen vor Ihrer Ankunft aus. Jede Einreise gibt Ihnen bis zu 1 Jahr."
+    },
+    {
+      "step": "Regeln einhalten",
+      "detail": "Melden Sie sich alle 90 Tage, besorgen Sie vor der Ausreise ein Re-Entry Permit, wenn Sie Ihren Aufenthalt behalten möchten, und verlängern Sie bei der Einwanderungsbehörde, bevor Ihre Erlaubnis abläuft."
+    }
+  ],
+  "bestFor": [
+    "Ruheständler ab 50, die ab dem Tag der Landung ein volles Jahr möchten",
+    "Menschen, die oft nach Thailand ein- und ausreisen (mehrfache Einreise)",
+    "Alle, die den Papierkram lieber vor dem Umzug zu Hause erledigen"
+  ],
+  "notFor": [
+    "Alle unter 50",
+    "Menschen, die keine bezahlbare Krankenversicherung bekommen, etwa wegen Alter oder Vorerkrankungen",
+    "Menschen, die in Thailand arbeiten möchten",
+    "Alle, die nicht in dem Land leben, in dem sie beantragen würden"
+  ],
+  "commonMistakes": [
+    "Eine Versicherung abschließen, die die geforderte Deckung nicht erfüllt, oder das Formular Foreign Insurance Certificate nicht stempeln lassen",
+    "Ärztliches Attest oder Führungszeugnis älter werden lassen, als die Botschaft erlaubt",
+    "Außerhalb des Landes Ihrer Staatsangehörigkeit oder Ihres ständigen Wohnsitzes beantragen",
+    "Thailand nach einer Verlängerung ohne Re-Entry Permit verlassen, wodurch sie erlischt",
+    "Die 90-Tage-Adressmeldung vergessen"
+  ],
+  "faqs": [
+    {
+      "q": "Worin unterscheidet sich das O-A von einem Non-O-Ruhestandsvisum?",
+      "a": "Das O-A gibt Ihnen sofort bis zu ein Jahr und erlaubt mehrfache Einreise, aber Sie müssen es aus dem Ausland mit Führungszeugnis, ärztlichem Attest und Krankenversicherung beantragen. Das Non-O gibt Ihnen 90 Tage, dann verlängern Sie in Thailand auf ein Jahr, und eine Krankenversicherung ist nicht vorgeschrieben."
+    },
+    {
+      "q": "Wie viel Krankenversicherung brauche ich?",
+      "a": "Die offizielle e-Visa-Website verlangt eine Krankenversicherung eines thailändischen oder ausländischen Versicherers mit einer Deckung von mindestens 100.000 USD oder 3.000.000 THB. Einige Konsulate nennen noch 40.000 THB ambulante und 400.000 THB stationäre Deckung. Fragen Sie bei der Botschaft nach, die Ihren Antrag bearbeitet."
+    },
+    {
+      "q": "Kann ich einen ausländischen Versicherer nutzen?",
+      "a": "Ja, für das Visum, solange der Versicherer das Formular Foreign Insurance Certificate ausfüllt und stempelt. Für Verlängerungen in Thailand verlangt die Einwanderungsbehörde in der Regel eine Police eines thailändischen Versicherers."
+    },
+    {
+      "q": "Kann ich länger als ein Jahr bleiben?",
+      "a": "Ja. Reisen Sie vor Ablauf des Visums erneut ein, um ein weiteres Jahr zu erhalten, oder verlängern Sie Ihren Aufenthalt bei einer Einwanderungsbehörde jeweils um 1 Jahr."
+    },
+    {
+      "q": "Muss das Geld in Thailand liegen?",
+      "a": "Nicht für das Visum selbst. Kontoauszüge Ihrer Bank im Heimatland genügen. Für Verlängerungen in Thailand muss das Geld auf einem thailändischen Bankkonto liegen."
+    },
+    {
+      "q": "Darf ich arbeiten?",
+      "a": "Nein. Beschäftigung jeglicher Art ist mit dem O-A verboten."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}
