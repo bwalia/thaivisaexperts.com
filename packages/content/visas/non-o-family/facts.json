@@ -22,7 +22,19 @@
         "en": "Thailand e-Visa (Ministry of Foreign Affairs): Staying with Family visas (Non-Immigrant O)",
         "fr": "e-Visa Thaïlande (ministère des Affaires étrangères) : visas pour séjourner en famille (Non-Immigrant O)",
         "nl": "Thailand e-Visa (ministerie van Buitenlandse Zaken): visa om bij familie te verblijven (Non-Immigrant O)",
-        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าเพื่อพำนักกับครอบครัว (Non-Immigrant O)"
+        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าเพื่อพำนักกับครอบครัว (Non-Immigrant O)",
+        "es": "Thailand e-Visa (Ministerio de Asuntos Exteriores): visados para vivir con la familia (Non-Immigrant O)",
+        "de": "Thailand e-Visa (Außenministerium): Visa für den Aufenthalt bei der Familie (Non-Immigrant O)",
+        "pt": "Thailand e-Visa (Ministério das Relações Exteriores): vistos para ficar com a família (Non-Immigrant O)",
+        "ru": "Thailand e-Visa (МИД): визы для проживания с семьёй (Non-Immigrant O)",
+        "zh": "泰国 e-Visa（外交部）：家庭团聚签证（Non-Immigrant O）",
+        "ja": "タイe-Visa（外務省）：家族と暮らすためのビザ（Non-Immigrant O）",
+        "ko": "태국 e-Visa(외교부): 가족 동반 체류 비자(Non-Immigrant O)",
+        "hi": "थाईलैंड e-Visa (विदेश मंत्रालय): परिवार के साथ रहने के वीज़ा (Non-Immigrant O)",
+        "ar": "التأشيرة الإلكترونية التايلاندية (وزارة الخارجية): تأشيرات الإقامة مع العائلة (Non-Immigrant O)",
+        "ms": "e-Visa Thailand (Kementerian Luar Negeri): visa tinggal bersama keluarga (Non-Immigrant O)",
+        "vi": "Thailand e-Visa (Bộ Ngoại giao): visa đoàn tụ gia đình (Non-Immigrant O)",
+        "pa": "ਥਾਈਲੈਂਡ e-Visa (ਵਿਦੇਸ਼ ਮੰਤਰਾਲਾ): ਪਰਿਵਾਰ ਨਾਲ ਰਹਿਣ ਲਈ ਵੀਜ਼ੇ (Non-Immigrant O)"
       },
       "url": "https://www.thaievisa.go.th/visa/non-immigrant-o"
     },
@@ -31,7 +43,19 @@
         "en": "Samut Prakan Immigration: documents for an extension to support a Thai wife",
         "fr": "Immigration de Samut Prakan : documents pour une prolongation avec une épouse thaïlandaise",
         "nl": "Immigratie Samut Prakan: documenten voor een verlenging bij een Thaise echtgenote",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอุปการะภรรยาไทย"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอุปการะภรรยาไทย",
+        "es": "Inmigración de Samut Prakan: documentos para una prórroga por mantener a una esposa tailandesa",
+        "de": "Einwanderungsbehörde Samut Prakan: Unterlagen für eine Verlängerung zur Unterstützung einer thailändischen Ehefrau",
+        "pt": "Imigração de Samut Prakan: documentos para prorrogação para sustentar esposa tailandesa",
+        "ru": "Иммиграционная служба Самутпракана: документы для продления на содержание тайской жены",
+        "zh": "北榄府移民局：以扶养泰籍妻子为由延期所需材料",
+        "ja": "サムットプラーカーン入国管理局：タイ人の妻を扶養するための延長の必要書類",
+        "ko": "사뭇쁘라깐 이민국: 태국인 아내 부양을 위한 체류 연장 서류",
+        "hi": "Samut Prakan इमिग्रेशन: थाई पत्नी के भरण-पोषण के लिए एक्सटेंशन के दस्तावेज़",
+        "ar": "هجرة ساموت براكان: مستندات التمديد لإعالة زوجة تايلاندية",
+        "ms": "Imigresen Samut Prakan: dokumen untuk lanjutan bagi menyara isteri warga Thailand",
+        "vi": "Xuất nhập cảnh Samut Prakan: giấy tờ gia hạn để nuôi vợ người Thái",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: ਥਾਈ ਪਤਨੀ ਦੀ ਸਹਾਇਤਾ ਲਈ ਵਾਧੇ ਦੇ ਦਸਤਾਵੇਜ਼"
       },
       "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-support-thai-wife/"
     },
@@ -40,7 +64,19 @@
         "en": "Samut Prakan Immigration: documents for an extension to stay with a Thai husband",
         "fr": "Immigration de Samut Prakan : documents pour une prolongation avec un époux thaïlandais",
         "nl": "Immigratie Samut Prakan: documenten voor een verlenging bij een Thaise echtgenoot",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอยู่กับสามีไทย"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: เอกสารขออยู่ต่อกรณีอยู่กับสามีไทย",
+        "es": "Inmigración de Samut Prakan: documentos para una prórroga para vivir con un marido tailandés",
+        "de": "Einwanderungsbehörde Samut Prakan: Unterlagen für eine Verlängerung zum Aufenthalt bei einem thailändischen Ehemann",
+        "pt": "Imigração de Samut Prakan: documentos para prorrogação para ficar com marido tailandês",
+        "ru": "Иммиграционная служба Самутпракана: документы для продления для проживания с тайским мужем",
+        "zh": "北榄府移民局：以与泰籍丈夫同住为由延期所需材料",
+        "ja": "サムットプラーカーン入国管理局：タイ人の夫と暮らすための延長の必要書類",
+        "ko": "사뭇쁘라깐 이민국: 태국인 남편과 함께 체류하기 위한 연장 서류",
+        "hi": "Samut Prakan इमिग्रेशन: थाई पति के साथ रहने के लिए एक्सटेंशन के दस्तावेज़",
+        "ar": "هجرة ساموت براكان: مستندات التمديد للإقامة مع زوج تايلاندي",
+        "ms": "Imigresen Samut Prakan: dokumen untuk lanjutan bagi tinggal bersama suami warga Thailand",
+        "vi": "Xuất nhập cảnh Samut Prakan: giấy tờ gia hạn để ở cùng chồng người Thái",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: ਥਾਈ ਪਤੀ ਨਾਲ ਰਹਿਣ ਲਈ ਵਾਧੇ ਦੇ ਦਸਤਾਵੇਜ਼"
       },
       "url": "https://www.samutprakanimmigration.go.th/list-of-documents-for-stay-with-thai-husband/"
     },
@@ -49,7 +85,19 @@
         "en": "Samut Prakan Immigration: immigration fees",
         "fr": "Immigration de Samut Prakan : frais d'immigration",
         "nl": "Immigratie Samut Prakan: immigratiekosten",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม",
+        "es": "Inmigración de Samut Prakan: tasas de inmigración",
+        "de": "Einwanderungsbehörde Samut Prakan: Gebühren",
+        "pt": "Imigração de Samut Prakan: taxas de imigração",
+        "ru": "Иммиграционная служба Самутпракана: иммиграционные сборы",
+        "zh": "北榄府移民局：移民局收费标准",
+        "ja": "サムットプラーカーン入国管理局：入国管理手数料",
+        "ko": "사뭇쁘라깐 이민국: 이민 수수료",
+        "hi": "Samut Prakan इमिग्रेशन: इमिग्रेशन फ़ीस",
+        "ar": "هجرة ساموت براكان: رسوم الهجرة",
+        "ms": "Imigresen Samut Prakan: yuran imigresen",
+        "vi": "Xuất nhập cảnh Samut Prakan: lệ phí xuất nhập cảnh",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: ਇਮੀਗ੍ਰੇਸ਼ਨ ਫ਼ੀਸਾਂ"
       },
       "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
     }

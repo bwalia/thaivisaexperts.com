@@ -1,0 +1,101 @@
+{
+  "name": "Exención de visado (entrada sin visado)",
+  "shortName": "Exención de visado",
+  "summary": "Si tu pasaporte está en la lista de exención de Tailandia, puedes llegar en avión sin visado y quedarte hasta 30 días por turismo. Desde el 15 de septiembre de 2026 ha terminado para todos la antigua estancia sin visado de 60 días. Algunos países tienen una estancia distinta por un acuerdo bilateral: 90 días para Argentina, Brasil, Chile, Perú y Corea del Sur; 30 días para China, Rusia, Vietnam y otros; 14 días para Camboya y Myanmar, y 15 días para Mauricio y Seychelles. Normalmente puedes añadir una prórroga de 30 días en una oficina de inmigración.",
+  "seoTitle": "Exención de visado Tailandia 2026: 30 días (adiós a los 60)",
+  "seoDescription": "Tailandia redujo la estancia sin visado de 60 a 30 días el 15 de septiembre de 2026. Comprueba si tu pasaporte califica, cómo prorrogar 30 días, el límite terrestre y la TDAC.",
+  "validity": "No se expide ningún visado. A la llegada recibes un sello de permiso de estancia: 30 días para la mayoría de los países con derecho (solo turismo), 90 días para Argentina, Brasil, Chile, Perú y Corea del Sur, 14 días para Camboya y Myanmar, y 15 días para Mauricio y Seychelles. El día de llegada cuenta como día 1.",
+  "extendableDetail": "Puedes solicitar una vez una prórroga de hasta 30 días en una oficina de inmigración de Tailandia (formulario TM.7, tasa de 1.900 THB). Solicítala antes de que venza tu sello. La prórroga queda a discreción del funcionario; no es un derecho.",
+  "feeNote": "La entrada es gratuita. Una prórroga en inmigración cuesta 1.900 THB.",
+  "financialRequirement": "No se ha publicado una cantidad fija para el régimen de 2026, pero los agentes de inmigración pueden pedirte que demuestres que tienes dinero suficiente para tu estancia. Lleva prueba de unos 20.000 THB por persona (40.000 THB por familia) en efectivo o tarjetas, que es la referencia habitual desde hace años.",
+  "processingTime": "No hay que solicitar nada por adelantado salvo la TDAC, que lleva unos 10 minutos en línea y debe enviarse en los 3 días anteriores a tu llegada.",
+  "keyRequirements": [
+    "Un pasaporte de un país de la lista de exención o con acuerdo bilateral, con al menos 6 meses de validez a la llegada",
+    "Solo turismo: desde el 15 de septiembre de 2026, la exención de 30 días no cubre reuniones de negocios ni trabajo",
+    "La Thailand Digital Arrival Card (TDAC) completada y enviada en línea en los 3 días anteriores a la llegada",
+    "Un billete de regreso o de continuación del viaje que salga de Tailandia dentro de tu estancia permitida",
+    "Las entradas por frontera terrestre con exención suelen limitarse a dos por año natural (no para pasaportes de Malasia, Brunéi, Indonesia o Singapur)"
+  ],
+  "documents": [
+    "Pasaporte con al menos 6 meses de validez y una página en blanco para el sello de entrada",
+    "Confirmación de la TDAC con código QR (captura de pantalla o impresa)",
+    "Reserva de vuelo de regreso o de continuación dentro de tu estancia permitida",
+    "Reserva de hotel o dirección donde te alojarás",
+    "Prueba de fondos que puedas mostrar si te la piden (efectivo, tarjeta bancaria o extracto bancario reciente)",
+    "Para una prórroga: formulario TM.7, una foto de pasaporte (4 x 6 cm), copias del pasaporte y 1.900 THB en efectivo",
+    "Para una prórroga: prueba de tu dirección en Tailandia (reserva de hotel o recibo del TM30, la notificación de domicilio que presenta tu anfitrión)"
+  ],
+  "howToApply": [
+    {
+      "step": "Comprueba que tu pasaporte está en la lista",
+      "detail": "Busca tu nacionalidad en nuestro buscador por países. Si no estás en la lista de exención ni en la de acuerdos bilaterales, necesitas un visado antes de volar."
+    },
+    {
+      "step": "Reserva un billete de salida",
+      "detail": "Las aerolíneas e inmigración pueden pedirte un billete de regreso o de continuación en un plazo de 30 días (o de tu estancia bilateral). La prórroga no está garantizada, así que planifica tu salida dentro de la primera estancia."
+    },
+    {
+      "step": "Rellena la TDAC",
+      "detail": "Completa la Thailand Digital Arrival Card en tdac.immigration.go.th en los 3 días anteriores a la llegada. Es gratuita. Guarda el código QR."
+    },
+    {
+      "step": "Llega y recibe el sello",
+      "detail": "Muestra tu pasaporte, la TDAC y, si te lo piden, el billete de salida y los fondos. Comprueba la fecha de tu sello antes de dejar el mostrador."
+    },
+    {
+      "step": "Prorroga si necesitas más tiempo",
+      "detail": "Antes de que venza tu sello, ve a la oficina de inmigración de tu zona con el formulario TM.7, una foto, copias del pasaporte y 1.900 THB. Puedes conseguir hasta 30 días más."
+    }
+  ],
+  "bestFor": [
+    "Vacaciones de hasta un mes",
+    "Viajes cortos de hasta 60 días si prorrogas una vez en inmigración",
+    "Viajeros de Argentina, Brasil, Chile, Perú o Corea del Sur (90 días por acuerdos bilaterales)"
+  ],
+  "notFor": [
+    "Cualquier tipo de trabajo, incluidas las reuniones de negocios (usa un visado Non-Immigrant B)",
+    "Teletrabajo o estancias largas (mira el DTV)",
+    "Quien piense hacer 'visa runs' repetidos por frontera terrestre",
+    "Nacionales que no están en la lista de exención y necesitan un visado de turista"
+  ],
+  "commonMistakes": [
+    "Dar por hecho que sigues teniendo 60 días. El régimen de 60 días terminó el 15 de septiembre de 2026; la mayoría obtiene ahora 30.",
+    "Olvidar la TDAC. Sin ella pueden retrasarte en el aeropuerto.",
+    "Reservar un vuelo de salida después del día 30 contando con una prórroga. Las aerolíneas pueden denegar el embarque sin un billete de salida dentro de tu estancia permitida.",
+    "Usar la exención para reuniones de negocios. Desde septiembre de 2026 es solo para turismo.",
+    "Contar mal los días. El día de llegada es el día 1, y quedarte más tiempo del permitido cuesta 500 THB al día y puede conllevar una prohibición de entrada.",
+    "Hacer 'border runs' por tierra. Las entradas terrestres con exención están limitadas a dos por año natural para la mayoría de las nacionalidades."
+  ],
+  "faqs": [
+    {
+      "q": "¿Sigue existiendo la estancia sin visado de 60 días?",
+      "a": "No. El régimen de 60 días que empezó en julio de 2024 terminó el 15 de septiembre de 2026. Si entraste antes de esa fecha, puedes quedarte hasta la fecha de tu sello. Quien entre el 15 de septiembre de 2026 o después obtiene la nueva estancia de su nacionalidad, normalmente 30 días."
+    },
+    {
+      "q": "¿Puedo prorrogar la exención de visado de 30 días?",
+      "a": "Sí, normalmente una vez, hasta 30 días, en una oficina de inmigración tailandesa. La tasa es de 1.900 THB y la decisión queda a discreción del funcionario. Solicítala unos días antes de que venza tu sello."
+    },
+    {
+      "q": "¿Qué países obtienen 90 días?",
+      "a": "Argentina, Brasil, Chile, Perú y Corea del Sur, por acuerdos bilaterales con Tailandia. La reforma de 2026 no modificó estos acuerdos."
+    },
+    {
+      "q": "¿Tengo que rellenar la TDAC aunque no necesite visado?",
+      "a": "Sí. Todos los visitantes extranjeros, incluidos los exentos de visado, deben enviar la Thailand Digital Arrival Card en línea en los 3 días anteriores a su llegada. Es gratuita en la web oficial tdac.immigration.go.th; evita las webs de pago que la imitan."
+    },
+    {
+      "q": "¿Puedo entrar sin visado tantas veces como quiera?",
+      "a": "Por tierra, no. Las entradas exentas de visado por fronteras terrestres suelen limitarse a dos por año natural (los nacionales de Malasia, Brunéi, Indonesia y Singapur no tienen límite). Los agentes también pueden denegar la entrada a quien parezca vivir en Tailandia encadenando exenciones. Si vienes a menudo, consigue un visado de turista o un DTV."
+    },
+    {
+      "q": "¿Puedo teletrabajar con una exención de visado?",
+      "a": "No. La exención es solo para turismo. Si quieres teletrabajar desde Tailandia para clientes o un empleador extranjeros, el Destination Thailand Visa (DTV) está pensado para eso."
+    },
+    {
+      "q": "Mi país ha perdido la entrada sin visado. ¿Y ahora qué?",
+      "a": "El 15 de septiembre de 2026, 21 nacionalidades, entre ellas México, Colombia, Marruecos, Sri Lanka, Uzbekistán, Mónaco y Andorra, perdieron la entrada sin visado. Solicita un visado de turista (TR) en línea a través del sistema e-Visa tailandés antes de viajar, con al menos 2 a 4 semanas de antelación."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

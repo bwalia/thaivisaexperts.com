@@ -1,0 +1,101 @@
+{
+  "name": "Visumbefreiung (visumfreie Einreise)",
+  "shortName": "Visumbefreiung",
+  "summary": "Steht Ihr Reisepass auf Thailands Befreiungsliste, können Sie ohne Visum einreisen und bis zu 30 Tage für touristische Zwecke bleiben. Seit dem 15. September 2026 ist der frühere 60-tägige visumfreie Aufenthalt für alle beendet. Einige Länder erhalten aufgrund eines bilateralen Abkommens eine andere Aufenthaltsdauer: 90 Tage für Argentinien, Brasilien, Chile, Peru und Südkorea, 30 Tage für China, Russland, Vietnam und andere, 14 Tage für Kambodscha und Myanmar sowie 15 Tage für Mauritius und die Seychellen. In der Regel können Sie bei einer Einwanderungsbehörde einmal um 30 Tage verlängern.",
+  "seoTitle": "Thailand Visumbefreiung 2026: 30 Tage visumfrei (statt 60)",
+  "seoDescription": "Thailand hat den visumfreien Aufenthalt am 15. September 2026 von 60 auf 30 Tage gekürzt. Prüfen Sie Ihren Pass, die 30-Tage-Verlängerung, das Landgrenzen-Limit und die TDAC.",
+  "validity": "Es wird kein Visum ausgestellt. Sie erhalten bei der Ankunft einen Stempel mit der Aufenthaltserlaubnis: 30 Tage für die meisten berechtigten Länder (nur Tourismus), 90 Tage für Argentinien, Brasilien, Chile, Peru und Südkorea, 14 Tage für Kambodscha und Myanmar sowie 15 Tage für Mauritius und die Seychellen. Der Ankunftstag zählt als Tag 1.",
+  "extendableDetail": "Sie können einmal bei einer Einwanderungsbehörde in Thailand eine Verlängerung um bis zu 30 Tage beantragen (Formular TM.7, Gebühr 1.900 THB). Beantragen Sie sie, bevor Ihr Stempel abläuft. Die Verlängerung liegt im Ermessen des Beamten und ist kein Anspruch.",
+  "feeNote": "Die Einreise ist kostenlos. Eine Verlängerung bei der Einwanderungsbehörde kostet 1.900 THB.",
+  "financialRequirement": "Für die Regelung von 2026 ist kein fester Betrag veröffentlicht, doch Beamte der Einwanderungsbehörde können verlangen, dass Sie ausreichende Mittel für Ihren Aufenthalt nachweisen. Führen Sie einen Nachweis über etwa 20.000 THB pro Person (40.000 THB pro Familie) in bar oder per Karte mit; das ist die seit Langem geltende Richtlinie.",
+  "processingTime": "Vorab ist nichts zu beantragen außer der TDAC, die online etwa 10 Minuten dauert und innerhalb von 3 Tagen vor Ihrer Ankunft eingereicht werden muss.",
+  "keyRequirements": [
+    "Ein Reisepass eines Landes auf der Befreiungsliste oder mit bilateralem Abkommen, bei Ankunft mindestens 6 Monate gültig",
+    "Nur Tourismus: Seit dem 15. September 2026 deckt die 30-tägige Befreiung weder Geschäftstermine noch Arbeit ab",
+    "Eine ausgefüllte Thailand Digital Arrival Card (TDAC), online innerhalb von 3 Tagen vor der Ankunft eingereicht",
+    "Ein Rück- oder Weiterreiseticket mit Ausreise aus Thailand innerhalb Ihres erlaubten Aufenthalts",
+    "Einreisen über Landgrenzen mit Befreiung sind in der Regel auf zwei pro Kalenderjahr begrenzt (nicht für Reisepässe aus Malaysia, Brunei, Indonesien oder Singapur)"
+  ],
+  "documents": [
+    "Reisepass mit mindestens 6 Monaten Gültigkeit und einer leeren Seite für den Einreisestempel",
+    "TDAC-Bestätigung mit QR-Code (Screenshot oder Ausdruck)",
+    "Buchung eines Rück- oder Weiterflugs innerhalb Ihres erlaubten Aufenthalts",
+    "Hotelbuchung oder Adresse, an der Sie wohnen werden",
+    "Finanznachweis, den Sie auf Nachfrage vorzeigen können (Bargeld, Bankkarte oder aktueller Kontoauszug)",
+    "Für eine Verlängerung: Formular TM.7, ein Passfoto (4 x 6 cm), Passkopien und 1.900 THB in bar",
+    "Für eine Verlängerung: Nachweis Ihrer Adresse in Thailand (Hotelbuchung oder TM30-Bestätigung, die Adressmeldung Ihres Gastgebers)"
+  ],
+  "howToApply": [
+    {
+      "step": "Prüfen, ob Ihr Reisepass auf der Liste steht",
+      "detail": "Schlagen Sie Ihre Staatsangehörigkeit in unserem Länder-Check nach. Stehen Sie weder auf der Befreiungs- noch auf der bilateralen Liste, brauchen Sie vor dem Flug ein Visum."
+    },
+    {
+      "step": "Ein Ausreiseticket buchen",
+      "detail": "Fluggesellschaften und Einwanderungsbehörde können ein Rück- oder Weiterreiseticket innerhalb von 30 Tagen (bzw. Ihrer bilateralen Aufenthaltsdauer) verlangen. Eine Verlängerung ist nicht garantiert, planen Sie Ihre Ausreise also innerhalb des ersten Aufenthalts."
+    },
+    {
+      "step": "Die TDAC ausfüllen",
+      "detail": "Füllen Sie die Thailand Digital Arrival Card auf tdac.immigration.go.th innerhalb von 3 Tagen vor der Ankunft aus. Sie ist kostenlos. Speichern Sie den QR-Code."
+    },
+    {
+      "step": "Ankommen und Stempel erhalten",
+      "detail": "Zeigen Sie Reisepass, TDAC und auf Nachfrage Ihr Weiterreiseticket und Ihre Mittel vor. Prüfen Sie das Datum auf Ihrem Stempel, bevor Sie den Schalter verlassen."
+    },
+    {
+      "step": "Verlängern, wenn Sie mehr Zeit brauchen",
+      "detail": "Gehen Sie vor Ablauf Ihres Stempels mit Formular TM.7, Foto, Passkopien und 1.900 THB zur Einwanderungsbehörde Ihrer Gegend. Sie können bis zu 30 weitere Tage erhalten."
+    }
+  ],
+  "bestFor": [
+    "Urlaub von bis zu einem Monat",
+    "Kurze Reisen von bis zu 60 Tagen, wenn Sie einmal bei der Einwanderungsbehörde verlängern",
+    "Reisende aus Argentinien, Brasilien, Chile, Peru oder Südkorea (90 Tage aufgrund bilateraler Abkommen)"
+  ],
+  "notFor": [
+    "Jede Art von Arbeit, einschließlich Geschäftsterminen (nutzen Sie ein Non-Immigrant-B-Visum)",
+    "Remote-Arbeit oder lange Aufenthalte (sehen Sie sich das DTV an)",
+    "Alle, die wiederholte „Visa Runs“ über Landgrenzen planen",
+    "Staatsangehörige, die nicht auf der Befreiungsliste stehen und ein Touristenvisum brauchen"
+  ],
+  "commonMistakes": [
+    "Annehmen, man bekomme noch 60 Tage. Die 60-Tage-Regelung endete am 15. September 2026; die meisten erhalten jetzt 30.",
+    "Die TDAC vergessen. Ohne sie kann es am Flughafen zu Verzögerungen kommen.",
+    "Einen Ausreiseflug nach Tag 30 buchen und auf eine Verlängerung hoffen. Fluggesellschaften können die Beförderung ohne Weiterreiseticket innerhalb Ihres erlaubten Aufenthalts verweigern.",
+    "Die Befreiung für Geschäftstermine nutzen. Seit September 2026 gilt sie nur für Tourismus.",
+    "Tage falsch zählen. Ihr Ankunftstag ist Tag 1, und ein Overstay kostet 500 THB pro Tag und kann zu einer Einreisesperre führen.",
+    "Border Runs auf dem Landweg machen. Einreisen über Land mit Befreiung sind für die meisten Nationalitäten auf zwei pro Kalenderjahr begrenzt."
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es den 60-tägigen visumfreien Aufenthalt noch?",
+      "a": "Nein. Die 60-Tage-Regelung, die im Juli 2024 begann, endete am 15. September 2026. Wenn Sie vor diesem Datum eingereist sind, können Sie bis zum Datum auf Ihrem Stempel bleiben. Wer am oder nach dem 15. September 2026 einreist, erhält die neue Aufenthaltsdauer für seine Staatsangehörigkeit, meist 30 Tage."
+    },
+    {
+      "q": "Kann ich die 30-tägige Visumbefreiung verlängern?",
+      "a": "Ja, in der Regel einmal um bis zu 30 Tage bei einer thailändischen Einwanderungsbehörde. Die Gebühr beträgt 1.900 THB, und die Entscheidung liegt im Ermessen des Beamten. Beantragen Sie die Verlängerung ein paar Tage vor Ablauf Ihres Stempels."
+    },
+    {
+      "q": "Welche Länder erhalten 90 Tage?",
+      "a": "Argentinien, Brasilien, Chile, Peru und Südkorea aufgrund bilateraler Abkommen mit Thailand. Diese Abkommen wurden durch die Reform von 2026 nicht geändert."
+    },
+    {
+      "q": "Muss ich die TDAC ausfüllen, auch wenn ich kein Visum brauche?",
+      "a": "Ja. Jeder ausländische Besucher, auch visumbefreite Reisende, muss die Thailand Digital Arrival Card innerhalb von 3 Tagen vor der Ankunft online einreichen. Sie ist auf der offiziellen Website tdac.immigration.go.th kostenlos; meiden Sie kostenpflichtige Nachahmer-Websites."
+    },
+    {
+      "q": "Kann ich beliebig oft visumfrei einreisen?",
+      "a": "Nicht auf dem Landweg. Visumfreie Einreisen über Landgrenzen sind in der Regel auf zwei pro Kalenderjahr begrenzt (für Staatsangehörige aus Malaysia, Brunei, Indonesien und Singapur gilt keine Begrenzung). Beamte können außerdem Personen die Einreise verweigern, die mit aufeinanderfolgenden Befreiungen offenbar in Thailand leben. Wenn Sie oft kommen, besorgen Sie sich ein Touristenvisum oder ein DTV."
+    },
+    {
+      "q": "Darf ich mit Visumbefreiung remote arbeiten?",
+      "a": "Nein. Die Befreiung gilt nur für Tourismus. Wenn Sie von Thailand aus remote für ausländische Kunden oder einen Arbeitgeber arbeiten möchten, ist die Destination Thailand Visa (DTV) dafür gedacht."
+    },
+    {
+      "q": "Mein Land hat die visumfreie Einreise verloren. Was nun?",
+      "a": "Am 15. September 2026 haben 21 Nationalitäten die visumfreie Einreise verloren, darunter Mexiko, Kolumbien, Marokko, Sri Lanka, Usbekistan, Monaco und Andorra. Beantragen Sie vor der Reise online über das thailändische e-Visa-System ein Touristenvisum (TR), mindestens 2 bis 4 Wochen im Voraus."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

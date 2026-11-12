@@ -22,7 +22,19 @@
         "en": "BOI: LTR Visa official website",
         "fr": "BOI : site officiel du visa LTR",
         "nl": "BOI: officiële website LTR-visum",
-        "th": "BOI: เว็บไซต์ทางการวีซ่า LTR"
+        "th": "BOI: เว็บไซต์ทางการวีซ่า LTR",
+        "es": "BOI: web oficial del visado LTR",
+        "de": "BOI: offizielle Website zum LTR-Visum",
+        "pt": "BOI: site oficial do visto LTR",
+        "ru": "BOI: официальный сайт визы LTR",
+        "zh": "BOI：LTR 签证官方网站",
+        "ja": "BOI：LTRビザ公式サイト",
+        "ko": "BOI: LTR 비자 공식 웹사이트",
+        "hi": "BOI: LTR वीज़ा की आधिकारिक वेबसाइट",
+        "ar": "مجلس الاستثمار (BOI): الموقع الرسمي لتأشيرة LTR",
+        "ms": "BOI: laman web rasmi Visa LTR",
+        "vi": "BOI: trang chính thức của visa LTR",
+        "pa": "BOI: LTR ਵੀਜ਼ਾ ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ"
       },
       "url": "https://ltr.boi.go.th/"
     },
@@ -31,7 +43,19 @@
         "en": "BOI: LTR application timeline",
         "fr": "BOI : délais de la demande LTR",
         "nl": "BOI: tijdlijn LTR-aanvraag",
-        "th": "BOI: ขั้นตอนและระยะเวลาการยื่นขอ LTR"
+        "th": "BOI: ขั้นตอนและระยะเวลาการยื่นขอ LTR",
+        "es": "BOI: plazos de la solicitud del LTR",
+        "de": "BOI: Zeitplan des LTR-Antrags",
+        "pt": "BOI: prazos do pedido de LTR",
+        "ru": "BOI: сроки рассмотрения заявки на LTR",
+        "zh": "BOI：LTR 申请流程时间表",
+        "ja": "BOI：LTR申請のスケジュール",
+        "ko": "BOI: LTR 신청 일정",
+        "hi": "BOI: LTR आवेदन की समय-सारणी",
+        "ar": "مجلس الاستثمار (BOI): الجدول الزمني لطلب LTR",
+        "ms": "BOI: garis masa permohonan LTR",
+        "vi": "BOI: tiến trình xét duyệt LTR",
+        "pa": "BOI: LTR ਅਰਜ਼ੀ ਦੀ ਸਮਾਂ-ਸੀਮਾ"
       },
       "url": "https://ltr.boi.go.th/page/application-timeline.html"
     },
@@ -40,7 +64,19 @@
         "en": "BOI: LTR required documents",
         "fr": "BOI : documents requis pour le LTR",
         "nl": "BOI: benodigde documenten LTR",
-        "th": "BOI: เอกสารที่ต้องใช้สำหรับ LTR"
+        "th": "BOI: เอกสารที่ต้องใช้สำหรับ LTR",
+        "es": "BOI: documentos exigidos para el LTR",
+        "de": "BOI: erforderliche Unterlagen für das LTR",
+        "pt": "BOI: documentos exigidos para o LTR",
+        "ru": "BOI: необходимые документы для LTR",
+        "zh": "BOI：LTR 所需材料",
+        "ja": "BOI：LTRの必要書類",
+        "ko": "BOI: LTR 필요 서류",
+        "hi": "BOI: LTR के लिए आवश्यक दस्तावेज़",
+        "ar": "مجلس الاستثمار (BOI): المستندات المطلوبة لتأشيرة LTR",
+        "ms": "BOI: dokumen yang diperlukan untuk LTR",
+        "vi": "BOI: giấy tờ cần thiết cho LTR",
+        "pa": "BOI: LTR ਲਈ ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼"
       },
       "url": "https://ltr.boi.go.th/page/required-documents.html"
     },
@@ -49,7 +85,19 @@
         "en": "BOI: LTR online application system",
         "fr": "BOI : système de demande en ligne LTR",
         "nl": "BOI: online aanvraagsysteem LTR",
-        "th": "BOI: ระบบยื่นคำขอ LTR ออนไลน์"
+        "th": "BOI: ระบบยื่นคำขอ LTR ออนไลน์",
+        "es": "BOI: sistema de solicitud en línea del LTR",
+        "de": "BOI: Online-Antragssystem für das LTR",
+        "pt": "BOI: sistema de pedido online do LTR",
+        "ru": "BOI: система онлайн-подачи на LTR",
+        "zh": "BOI：LTR 在线申请系统",
+        "ja": "BOI：LTRオンライン申請システム",
+        "ko": "BOI: LTR 온라인 신청 시스템",
+        "hi": "BOI: LTR ऑनलाइन आवेदन सिस्टम",
+        "ar": "مجلس الاستثمار (BOI): نظام التقديم الإلكتروني لتأشيرة LTR",
+        "ms": "BOI: sistem permohonan dalam talian LTR",
+        "vi": "BOI: hệ thống nộp hồ sơ LTR trực tuyến",
+        "pa": "BOI: LTR ਔਨਲਾਈਨ ਅਰਜ਼ੀ ਸਿਸਟਮ"
       },
       "url": "https://visa.boi.go.th/login"
     }

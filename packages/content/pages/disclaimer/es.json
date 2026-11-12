@@ -1,0 +1,59 @@
+{
+  "title": "Aviso legal",
+  "summary": "Thai Visa Experts es una web informativa independiente. No somos el gobierno tailandés, la Oficina de Inmigración ni una embajada, y nuestras páginas son orientación general, no asesoramiento legal. Confirma siempre las normas con las fuentes oficiales antes de viajar.",
+  "seoTitle": "Aviso legal: independiente, no oficial",
+  "seoDescription": "Thai Visa Experts no está vinculado al Gobierno Real de Tailandia, a la Oficina de Inmigración ni a ninguna embajada. Nuestra información es orientativa, no asesoramiento legal.",
+  "sections": [
+    {
+      "heading": "No somos una web del gobierno",
+      "paragraphs": [
+        "Thai Visa Experts es independiente. No estamos vinculados al Gobierno Real de Tailandia, el Ministerio de Asuntos Exteriores, la Oficina de Inmigración, la Junta de Inversiones, Thailand Privilege ni ninguna Real Embajada o Consulado de Tailandia, ni contamos con su respaldo ni actuamos en su nombre.",
+        "Solo las autoridades tailandesas pueden expedir visados y decidir quién puede entrar o quedarse en Tailandia. Los agentes de inmigración tienen margen de decisión en la frontera, y tener el visado adecuado no garantiza la entrada."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Orientación general, no asesoramiento legal",
+      "paragraphs": [
+        "Nuestras páginas explican las normas en términos generales para ayudarte a entender tus opciones. No constituyen asesoramiento legal, migratorio ni fiscal, y no pueden cubrir todas las situaciones personales. Si tu caso es complicado, por ejemplo por una estancia excedida en el pasado, antecedentes penales, un cambio de estatus o una cuestión fiscal, habla con un abogado o un asesor fiscal cualificado, o contacta directamente con la autoridad competente."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Confirma siempre con las fuentes oficiales",
+      "paragraphs": [
+        "Antes de solicitar, pagar o reservar un viaje, comprueba las normas vigentes en las webs oficiales. Cada una de nuestras páginas enlaza a las fuentes que hemos usado."
+      ],
+      "list": [
+        "Portal del e-Visa tailandés: thaievisa.go.th",
+        "Ministerio de Asuntos Exteriores, Departamento de Asuntos Consulares: consular.mfa.go.th",
+        "Oficina de Inmigración: immigration.go.th",
+        "Thailand Digital Arrival Card: tdac.immigration.go.th",
+        "La web de la Real Embajada o Consulado de Tailandia que tramita tu solicitud"
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Las normas cambian",
+      "paragraphs": [
+        "Las normas, las tasas y los regímenes de entrada de Tailandia cambian a menudo, a veces con poco aviso. Por ejemplo, la estancia sin visado para muchas nacionalidades pasó de 60 a 30 días el 15 de septiembre de 2026. Cada página muestra una fecha de \"última verificación\". La información correcta en esa fecha puede estar desactualizada cuando la leas, y las embajadas pueden fijar sus propios requisitos."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Nunca pedimos datos del pasaporte ni pagos de visados",
+      "paragraphs": [
+        "No tramitamos solicitudes de visado. Nunca te pediremos tu número de pasaporte, escaneos del pasaporte, extractos bancarios ni pagos por un visado, la TDAC o cualquier otro servicio del gobierno. Quien se ponga en contacto contigo diciendo ser de Thai Visa Experts y te pida estas cosas no somos nosotros. Denúncialo en hello@thaivisaexperts.com.",
+        "Paga las tasas de visado solo a través de thaievisa.go.th o según te indique tu embajada tailandesa. La TDAC es gratuita."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -22,7 +22,19 @@
         "en": "Thailand e-Visa (Ministry of Foreign Affairs): Long Stay Visas (O-A, O-X)",
         "fr": "e-Visa Thaïlande (ministère des Affaires étrangères) : visas long séjour (O-A, O-X)",
         "nl": "Thailand e-Visa (ministerie van Buitenlandse Zaken): long-stayvisa (O-A, O-X)",
-        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าพำนักระยะยาว (O-A, O-X)"
+        "th": "Thailand e-Visa (กระทรวงการต่างประเทศ): วีซ่าพำนักระยะยาว (O-A, O-X)",
+        "es": "Thailand e-Visa (Ministerio de Asuntos Exteriores): visados de estancia larga (O-A, O-X)",
+        "de": "Thailand e-Visa (Außenministerium): Langzeitvisa (O-A, O-X)",
+        "pt": "Thailand e-Visa (Ministério das Relações Exteriores): vistos de longa estadia (O-A, O-X)",
+        "ru": "Thailand e-Visa (МИД): визы долгосрочного пребывания (O-A, O-X)",
+        "zh": "泰国 e-Visa（外交部）：长期居留签证（O-A、O-X）",
+        "ja": "タイe-Visa（外務省）：長期滞在ビザ（O-A、O-X）",
+        "ko": "태국 e-Visa(외교부): 장기 체류 비자(O-A, O-X)",
+        "hi": "थाईलैंड e-Visa (विदेश मंत्रालय): लॉन्ग स्टे वीज़ा (O-A, O-X)",
+        "ar": "التأشيرة الإلكترونية التايلاندية (وزارة الخارجية): تأشيرات الإقامة الطويلة (O-A وO-X)",
+        "ms": "e-Visa Thailand (Kementerian Luar Negeri): visa tinggal lama (O-A, O-X)",
+        "vi": "Thailand e-Visa (Bộ Ngoại giao): visa lưu trú dài hạn (O-A, O-X)",
+        "pa": "ਥਾਈਲੈਂਡ e-Visa (ਵਿਦੇਸ਼ ਮੰਤਰਾਲਾ): ਲੰਬੀ ਠਹਿਰ ਵਾਲੇ ਵੀਜ਼ੇ (O-A, O-X)"
       },
       "url": "https://www.thaievisa.go.th/visa/long-stay-visa"
     },
@@ -31,7 +43,19 @@
         "en": "Ministry of Foreign Affairs of Thailand: Non-Immigrant Visa O-A",
         "fr": "Ministère des Affaires étrangères de Thaïlande : visa Non-Immigrant O-A",
         "nl": "Ministerie van Buitenlandse Zaken van Thailand: Non-Immigrant visum O-A",
-        "th": "กระทรวงการต่างประเทศ: การตรวจลงตราประเภทคนอยู่ชั่วคราว O-A"
+        "th": "กระทรวงการต่างประเทศ: การตรวจลงตราประเภทคนอยู่ชั่วคราว O-A",
+        "es": "Ministerio de Asuntos Exteriores de Tailandia: visado Non-Immigrant O-A",
+        "de": "Thailändisches Außenministerium: Non-Immigrant-Visum O-A",
+        "pt": "Ministério das Relações Exteriores da Tailândia: visto Non-Immigrant O-A",
+        "ru": "МИД Таиланда: виза Non-Immigrant O-A",
+        "zh": "泰国外交部：Non-Immigrant O-A 签证",
+        "ja": "タイ外務省：Non-Immigrant O-Aビザ",
+        "ko": "태국 외교부: Non-Immigrant O-A 비자",
+        "hi": "थाईलैंड का विदेश मंत्रालय: Non-Immigrant वीज़ा O-A",
+        "ar": "وزارة الخارجية التايلاندية: تأشيرة Non-Immigrant O-A",
+        "ms": "Kementerian Luar Negeri Thailand: Visa Non-Immigrant O-A",
+        "vi": "Bộ Ngoại giao Thái Lan: visa Non-Immigrant O-A",
+        "pa": "ਥਾਈਲੈਂਡ ਦਾ ਵਿਦੇਸ਼ ਮੰਤਰਾਲਾ: Non-Immigrant Visa O-A"
       },
       "url": "https://www.mfa.go.th/en/page/non-immigrant-visa-o-a?menu=5e1ff71bc4281a00c812e8e2"
     },
@@ -40,7 +64,19 @@
         "en": "Royal Thai Consulate-General, Los Angeles: Non-Immigrant O retirement, O-A and O-X",
         "fr": "Consulat général royal de Thaïlande à Los Angeles : Non-Immigrant O retraite, O-A et O-X",
         "nl": "Koninklijk Thais Consulaat-Generaal Los Angeles: Non-Immigrant O pensioen, O-A en O-X",
-        "th": "สถานกงสุลใหญ่ ณ นครลอสแอนเจลิส: วีซ่า Non-Immigrant O เพื่อการเกษียณ, O-A และ O-X"
+        "th": "สถานกงสุลใหญ่ ณ นครลอสแอนเจลิส: วีซ่า Non-Immigrant O เพื่อการเกษียณ, O-A และ O-X",
+        "es": "Real Consulado General de Tailandia en Los Ángeles: Non-Immigrant O de jubilación, O-A y O-X",
+        "de": "Königlich Thailändisches Generalkonsulat Los Angeles: Non-Immigrant O (Ruhestand), O-A und O-X",
+        "pt": "Consulado-Geral Real da Tailândia em Los Angeles: Non-Immigrant O aposentadoria, O-A e O-X",
+        "ru": "Генеральное консульство Таиланда в Лос-Анджелесе: Non-Immigrant O пенсионная, O-A и O-X",
+        "zh": "泰国驻洛杉矶总领事馆：Non-Immigrant O 退休签证、O-A 和 O-X",
+        "ja": "在ロサンゼルス・タイ王国総領事館：Non-Immigrant Oリタイアメント、O-A、O-X",
+        "ko": "주로스앤젤레스 태국 총영사관: Non-Immigrant O 은퇴, O-A 및 O-X",
+        "hi": "रॉयल थाई महावाणिज्य दूतावास, लॉस एंजेलिस: Non-Immigrant O रिटायरमेंट, O-A और O-X",
+        "ar": "القنصلية العامة التايلاندية الملكية في لوس أنجلوس: Non-Immigrant O للتقاعد وO-A وO-X",
+        "ms": "Konsulat Jeneral Diraja Thailand, Los Angeles: Non-Immigrant O persaraan, O-A dan O-X",
+        "vi": "Tổng Lãnh sự quán Hoàng gia Thái Lan tại Los Angeles: Non-Immigrant O hưu trí, O-A và O-X",
+        "pa": "ਰਾਇਲ ਥਾਈ ਕੌਂਸਲੇਟ-ਜਨਰਲ, ਲਾਸ ਏਂਜਲਸ: Non-Immigrant O ਰਿਟਾਇਰਮੈਂਟ, O-A ਅਤੇ O-X"
       },
       "url": "https://thaiconsulatela.thaiembassy.org/en/publicservice/non-immigrant-type-o-retirement"
     },
@@ -49,7 +85,19 @@
         "en": "Royal Thai Consulate-General, Chicago: Non-Immigrant Long Stay Visa (O-A/O-X)",
         "fr": "Consulat général royal de Thaïlande à Chicago : visa long séjour Non-Immigrant (O-A/O-X)",
         "nl": "Koninklijk Thais Consulaat-Generaal Chicago: Non-Immigrant long-stayvisum (O-A/O-X)",
-        "th": "สถานกงสุลใหญ่ ณ นครชิคาโก: วีซ่าพำนักระยะยาว Non-Immigrant (O-A/O-X)"
+        "th": "สถานกงสุลใหญ่ ณ นครชิคาโก: วีซ่าพำนักระยะยาว Non-Immigrant (O-A/O-X)",
+        "es": "Real Consulado General de Tailandia en Chicago: visado de estancia larga Non-Immigrant (O-A/O-X)",
+        "de": "Königlich Thailändisches Generalkonsulat Chicago: Non-Immigrant-Langzeitvisum (O-A/O-X)",
+        "pt": "Consulado-Geral Real da Tailândia em Chicago: visto Non-Immigrant de longa estadia (O-A/O-X)",
+        "ru": "Генеральное консульство Таиланда в Чикаго: виза долгосрочного пребывания Non-Immigrant (O-A/O-X)",
+        "zh": "泰国驻芝加哥总领事馆：Non-Immigrant 长期居留签证（O-A／O-X）",
+        "ja": "在シカゴ・タイ王国総領事館：Non-Immigrant長期滞在ビザ（O-A/O-X）",
+        "ko": "주시카고 태국 총영사관: Non-Immigrant 장기 체류 비자(O-A/O-X)",
+        "hi": "रॉयल थाई महावाणिज्य दूतावास, शिकागो: Non-Immigrant लॉन्ग स्टे वीज़ा (O-A/O-X)",
+        "ar": "القنصلية العامة التايلاندية الملكية في شيكاغو: تأشيرة الإقامة الطويلة Non-Immigrant (O-A/O-X)",
+        "ms": "Konsulat Jeneral Diraja Thailand, Chicago: visa tinggal lama Non-Immigrant (O-A/O-X)",
+        "vi": "Tổng Lãnh sự quán Hoàng gia Thái Lan tại Chicago: visa lưu trú dài hạn Non-Immigrant (O-A/O-X)",
+        "pa": "ਰਾਇਲ ਥਾਈ ਕੌਂਸਲੇਟ-ਜਨਰਲ, ਸ਼ਿਕਾਗੋ: Non-Immigrant ਲੰਬੀ ਠਹਿਰ ਵੀਜ਼ਾ (O-A/O-X)"
       },
       "url": "https://cgchicago.thaiembassy.org/en/page/visa-oaox"
     },
@@ -58,7 +106,19 @@
         "en": "Thai General Insurance Association: O-A long-stay health insurance guidelines",
         "fr": "Association thaïlandaise des assureurs : règles d'assurance santé pour le visa O-A",
         "nl": "Thai General Insurance Association: richtlijnen zorgverzekering voor het O-A-visum",
-        "th": "สมาคมประกันวินาศภัยไทย: แนวทางประกันสุขภาพสำหรับวีซ่า O-A"
+        "th": "สมาคมประกันวินาศภัยไทย: แนวทางประกันสุขภาพสำหรับวีซ่า O-A",
+        "es": "Thai General Insurance Association: directrices del seguro médico para la estancia larga O-A",
+        "de": "Thai General Insurance Association: Richtlinien zur Krankenversicherung für das O-A",
+        "pt": "Thai General Insurance Association: diretrizes do seguro-saúde para longa estadia O-A",
+        "ru": "Тайская ассоциация общего страхования: требования к медстраховке для долгосрочной визы O-A",
+        "zh": "泰国一般保险协会：O-A 长期居留健康保险指引",
+        "ja": "タイ損害保険協会：O-A長期滞在向け医療保険のガイドライン",
+        "ko": "태국 일반보험협회: O-A 장기 체류 건강보험 지침",
+        "hi": "Thai General Insurance Association: O-A लॉन्ग-स्टे हेल्थ इंश्योरेंस दिशानिर्देश",
+        "ar": "جمعية التأمين العام التايلاندية: إرشادات التأمين الصحي للإقامة الطويلة O-A",
+        "ms": "Persatuan Insurans Am Thailand: garis panduan insurans kesihatan tinggal lama O-A",
+        "vi": "Hiệp hội Bảo hiểm Phi nhân thọ Thái Lan: hướng dẫn bảo hiểm y tế lưu trú dài hạn O-A",
+        "pa": "Thai General Insurance Association: O-A ਲੰਬੀ ਠਹਿਰ ਸਿਹਤ ਬੀਮਾ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼"
       },
       "url": "https://longstay.tgia.org/guidelineoa"
     },
@@ -67,7 +127,19 @@
         "en": "Samut Prakan Immigration: immigration fees",
         "fr": "Immigration de Samut Prakan : frais d'immigration",
         "nl": "Immigratie Samut Prakan: immigratiekosten",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: ค่าธรรมเนียม",
+        "es": "Inmigración de Samut Prakan: tasas de inmigración",
+        "de": "Einwanderungsbehörde Samut Prakan: Gebühren",
+        "pt": "Imigração de Samut Prakan: taxas de imigração",
+        "ru": "Иммиграционная служба Самутпракана: иммиграционные сборы",
+        "zh": "北榄府移民局：移民局收费标准",
+        "ja": "サムットプラーカーン入国管理局：入国管理手数料",
+        "ko": "사뭇쁘라깐 이민국: 이민 수수료",
+        "hi": "Samut Prakan इमिग्रेशन: इमिग्रेशन फ़ीस",
+        "ar": "هجرة ساموت براكان: رسوم الهجرة",
+        "ms": "Imigresen Samut Prakan: yuran imigresen",
+        "vi": "Xuất nhập cảnh Samut Prakan: lệ phí xuất nhập cảnh",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: ਇਮੀਗ੍ਰੇਸ਼ਨ ਫ਼ੀਸਾਂ"
       },
       "url": "https://www.samutprakanimmigration.go.th/immigration-fees/"
     }

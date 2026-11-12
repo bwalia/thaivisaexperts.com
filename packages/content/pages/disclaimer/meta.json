@@ -8,7 +8,19 @@
         "en": "Ministry of Foreign Affairs, Department of Consular Affairs",
         "fr": "Ministère des Affaires étrangères, département des affaires consulaires",
         "nl": "Ministerie van Buitenlandse Zaken, afdeling Consulaire Zaken",
-        "th": "กรมการกงสุล กระทรวงการต่างประเทศ"
+        "th": "กรมการกงสุล กระทรวงการต่างประเทศ",
+        "es": "Ministerio de Asuntos Exteriores, Departamento de Asuntos Consulares",
+        "de": "Außenministerium, Department of Consular Affairs",
+        "pt": "Ministério das Relações Exteriores, Departamento de Assuntos Consulares",
+        "ru": "МИД, Департамент консульских дел",
+        "zh": "泰国外交部领事司",
+        "ja": "タイ外務省領事局",
+        "ko": "태국 외교부 영사국",
+        "hi": "विदेश मंत्रालय, कांसुलर मामलों का विभाग",
+        "ar": "وزارة الخارجية، إدارة الشؤون القنصلية",
+        "ms": "Kementerian Luar Negeri, Jabatan Hal Ehwal Konsular",
+        "vi": "Bộ Ngoại giao, Cục Lãnh sự",
+        "pa": "ਵਿਦੇਸ਼ ਮੰਤਰਾਲਾ, ਕੌਂਸਲਰ ਮਾਮਲਿਆਂ ਦਾ ਵਿਭਾਗ"
       },
       "url": "https://consular.mfa.go.th/"
     },
@@ -17,7 +29,19 @@
         "en": "Thailand e-Visa official website (Ministry of Foreign Affairs)",
         "fr": "Site officiel de l'e-Visa thaïlandais (ministère des Affaires étrangères)",
         "nl": "Officiële website Thailand e-Visa (ministerie van Buitenlandse Zaken)",
-        "th": "เว็บไซต์ทางการ Thailand e-Visa (กระทรวงการต่างประเทศ)"
+        "th": "เว็บไซต์ทางการ Thailand e-Visa (กระทรวงการต่างประเทศ)",
+        "es": "Web oficial del e-Visa de Tailandia (Ministerio de Asuntos Exteriores)",
+        "de": "Offizielle Thailand-e-Visa-Website (Außenministerium)",
+        "pt": "Site oficial do e-Visa da Tailândia (Ministério das Relações Exteriores)",
+        "ru": "Официальный сайт Thailand e-Visa (МИД)",
+        "zh": "泰国 e-Visa 官方网站（外交部）",
+        "ja": "タイe-Visa公式サイト（外務省）",
+        "ko": "태국 e-Visa 공식 웹사이트(외교부)",
+        "hi": "थाईलैंड e-Visa आधिकारिक वेबसाइट (विदेश मंत्रालय)",
+        "ar": "الموقع الرسمي للتأشيرة الإلكترونية التايلاندية (وزارة الخارجية)",
+        "ms": "Laman web rasmi e-Visa Thailand (Kementerian Luar Negeri)",
+        "vi": "Trang e-Visa chính thức của Thái Lan (Bộ Ngoại giao)",
+        "pa": "ਥਾਈਲੈਂਡ e-Visa ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ (ਵਿਦੇਸ਼ ਮੰਤਰਾਲਾ)"
       },
       "url": "https://www.thaievisa.go.th/"
     },
@@ -26,7 +50,19 @@
         "en": "Immigration Bureau of Thailand",
         "fr": "Bureau de l'immigration de Thaïlande",
         "nl": "Immigratiedienst van Thailand",
-        "th": "สำนักงานตรวจคนเข้าเมือง"
+        "th": "สำนักงานตรวจคนเข้าเมือง",
+        "es": "Oficina de Inmigración de Tailandia",
+        "de": "Immigration Bureau of Thailand",
+        "pt": "Immigration Bureau da Tailândia",
+        "ru": "Иммиграционное бюро Таиланда",
+        "zh": "泰国移民局",
+        "ja": "タイ入国管理局",
+        "ko": "태국 이민국",
+        "hi": "थाईलैंड का इमिग्रेशन ब्यूरो",
+        "ar": "مكتب الهجرة التايلاندي",
+        "ms": "Biro Imigresen Thailand",
+        "vi": "Cục Xuất nhập cảnh Thái Lan",
+        "pa": "ਥਾਈਲੈਂਡ ਦਾ ਇਮੀਗ੍ਰੇਸ਼ਨ ਬਿਊਰੋ"
       },
       "url": "https://www.immigration.go.th/"
     },
@@ -35,7 +71,19 @@
         "en": "Thailand Digital Arrival Card (TDAC), official and free",
         "fr": "Thailand Digital Arrival Card (TDAC), site officiel et gratuit",
         "nl": "Thailand Digital Arrival Card (TDAC), officieel en gratis",
-        "th": "บัตรขาเข้าดิจิทัล (TDAC) เว็บไซต์ทางการ ไม่มีค่าใช้จ่าย"
+        "th": "บัตรขาเข้าดิจิทัล (TDAC) เว็บไซต์ทางการ ไม่มีค่าใช้จ่าย",
+        "es": "Thailand Digital Arrival Card (TDAC), oficial y gratuita",
+        "de": "Thailand Digital Arrival Card (TDAC), offiziell und kostenlos",
+        "pt": "Thailand Digital Arrival Card (TDAC), oficial e gratuito",
+        "ru": "Thailand Digital Arrival Card (TDAC), официально и бесплатно",
+        "zh": "泰国数字入境卡（TDAC），官方且免费",
+        "ja": "Thailand Digital Arrival Card（TDAC）公式・無料",
+        "ko": "Thailand Digital Arrival Card(TDAC), 공식 및 무료",
+        "hi": "Thailand Digital Arrival Card (TDAC), आधिकारिक और मुफ़्त",
+        "ar": "بطاقة الوصول الرقمية التايلاندية (TDAC)، رسمية ومجانية",
+        "ms": "Thailand Digital Arrival Card (TDAC), rasmi dan percuma",
+        "vi": "Thẻ nhập cảnh điện tử Thái Lan (TDAC), chính thức và miễn phí",
+        "pa": "Thailand Digital Arrival Card (TDAC), ਅਧਿਕਾਰਤ ਅਤੇ ਮੁਫ਼ਤ"
       },
       "url": "https://tdac.immigration.go.th/"
     }
