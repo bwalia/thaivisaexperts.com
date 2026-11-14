@@ -1,0 +1,103 @@
+{
+  "name": "Visa pelancong (TR)",
+  "shortName": "Visa pelancong",
+  "summary": "Visa pelancong standard yang anda mohon secara dalam talian melalui sistem e-Visa rasmi Thailand sebelum anda melancong. TR kemasukan tunggal membenarkan anda tinggal sehingga 60 hari, serta satu lanjutan 30 hari di imigresen, jadi sehingga 90 hari kesemuanya. Sejak tempoh tinggal tanpa visa dikurangkan kepada 30 hari pada September 2026, ia ialah cara paling mudah untuk mendapat dua atau tiga bulan. Visa pelancong kemasukan berganda (METV) masih ditawarkan di banyak kedutaan: sah 6 bulan, dengan sehingga 60 hari bagi setiap kemasukan.",
+  "seoTitle": "Visa pelancong Thailand (TR) 2026: 60 hari + 30, yuran e-Visa, METV",
+  "seoDescription": "Cara mendapatkan visa pelancong Thailand melalui sistem e-Visa: tinggal 60 hari, lanjutan 30 hari, yuran mengikut kedutaan, dana 20,000 THB, dokumen, METV dan kesilapan biasa.",
+  "validity": "Kemasukan tunggal (TR): sah 3 bulan dari tarikh dikeluarkan, jadi anda mesti masuk dalam tempoh itu. Setiap kemasukan membenarkan sehingga 60 hari. METV: sah 6 bulan, kemasukan tanpa had, sehingga 60 hari bagi setiap kemasukan.",
+  "extendableDetail": "Setelah berada di Thailand, anda boleh melanjutkan setiap tempoh tinggal 60 hari sehingga 30 hari di pejabat imigresen (borang TM.7, 1,900 THB), atas budi bicara pegawai. Dengan METV, anda juga boleh keluar dan masuk semula sebelum visa tamat tempoh untuk tempoh tinggal 60 hari yang baharu.",
+  "feeNote": "Yuran asas ialah 1,000 THB untuk kemasukan tunggal dan 5,000 THB untuk METV, tetapi anda membayar dalam mata wang tempatan kedutaan yang mengendalikan e-Visa anda, contohnya USD 40 / USD 200 di Amerika Syarikat, GBP 30 di UK dan NOK 400 / NOK 2,000 di Norway. Yuran tidak dikembalikan.",
+  "financialRequirement": "Tunjukkan sekurang-kurangnya 20,000 THB setiap orang atau 40,000 THB setiap keluarga. Sesetengah kedutaan hanya meminta baki semasa; yang lain (contohnya Washington) mahukan penyata 3 bulan. METV meminta bukti kewangan yang lebih banyak (dan selalunya bukti pekerjaan atau pendapatan); jumlahnya ditetapkan oleh setiap kedutaan, jadi semak halamannya.",
+  "processingTime": "Berbeza mengikut kedutaan. Banyak kedutaan menyarankan anda memperuntukkan sehingga 14 hari bekerja, dan kedutaan di Washington menasihatkan permohonan dibuat sekurang-kurangnya 30 hari sebelum berlepas. Jangan memohon lebih daripada 3 bulan lebih awal, kerana tempoh sah visa bermula pada hari ia dikeluarkan.",
+  "keyRequirements": [
+    "Mohon secara dalam talian di thaievisa.go.th sebelum anda melancong, melalui kedutaan yang meliputi negara tempat anda tinggal",
+    "Pasport yang sah sekurang-kurangnya 6 bulan dengan dua halaman kosong",
+    "Bukti dana sekurang-kurangnya 20,000 THB setiap orang (40,000 THB setiap keluarga)",
+    "Tempahan penerbangan seterusnya atau pulang dan penginapan sepanjang tempoh tinggal anda",
+    "Untuk pelancongan, lawatan keluarga atau rawatan perubatan sahaja; sebarang jenis kerja tidak dibenarkan",
+    "Hantar TDAC dalam tempoh 3 hari sebelum setiap ketibaan"
+  ],
+  "documents": [
+    "Imbasan halaman biodata pasport (sah 6 bulan atau lebih)",
+    "Foto gaya pasport terkini yang diambil dalam tempoh 6 bulan lepas",
+    "Tempahan penerbangan ke Thailand (dan keluar, atau ke destinasi seterusnya)",
+    "Tempahan hotel atau surat jemputan dengan alamat anda di Thailand",
+    "Penyata bank terkini atas nama anda yang menunjukkan sekurang-kurangnya nilai setara 20,000 THB",
+    "Bukti pemastautin di negara tempat anda memohon (cth. kad pemastautin, visa atau bil utiliti) jika anda bukan warganegara",
+    "Untuk kanak-kanak bawah umur: sijil kelahiran dan surat kebenaran ibu bapa",
+    "Untuk METV: bukti pekerjaan atau pendapatan seperti yang dikehendaki oleh kedutaan anda"
+  ],
+  "howToApply": [
+    {
+      "step": "Pilih kedutaan yang betul",
+      "detail": "Di thaievisa.go.th, pilih negara tempat anda tinggal. e-Visa dikendalikan oleh kedutaan atau konsulat Thailand yang bertanggungjawab bagi negara itu."
+    },
+    {
+      "step": "Buat akaun dan pilih visa",
+      "detail": "Pilih 'Tourist Visa' dan kemudian kemasukan tunggal atau kemasukan berganda (METV), bergantung pada apa yang ditawarkan oleh kedutaan anda."
+    },
+    {
+      "step": "Muat naik dokumen",
+      "detail": "Muat naik PDF atau JPG yang jelas bagi pasport, foto, tempahan dan penyata bank anda. Fail yang kabur atau terpotong ialah sebab paling biasa berlakunya kelewatan."
+    },
+    {
+      "step": "Bayar yuran",
+      "detail": "Bayar secara dalam talian dalam mata wang tempatan. Sesetengah kedutaan hanya mula memproses selepas pembayaran diterima."
+    },
+    {
+      "step": "Tunggu kelulusan",
+      "detail": "Anda akan menerima e-mel apabila e-Visa diluluskan. Cetak atau simpan; syarikat penerbangan dan imigresen mungkin meminta untuk melihatnya."
+    },
+    {
+      "step": "Melancong dan isi TDAC",
+      "detail": "Hantar Thailand Digital Arrival Card dalam tempoh 3 hari sebelum ketibaan. Masuk ke Thailand sebelum tarikh 'masuk sebelum' pada visa."
+    }
+  ],
+  "bestFor": [
+    "Percutian selama 1 hingga 3 bulan",
+    "Warganegara yang tidak boleh masuk tanpa visa",
+    "Pelancong yang dahulunya bergantung pada pengecualian 60 hari",
+    "Pelawat kerap dalam tempoh enam bulan (METV)"
+  ],
+  "notFor": [
+    "Kerja jarak jauh atau tinggal lama selama 6 bulan atau lebih (lihat DTV)",
+    "Mesyuarat perniagaan atau sebarang kerja (gunakan visa Non-Immigrant B)",
+    "Perjalanan singkat bawah 30 hari jika pasport anda dikecualikan visa"
+  ],
+  "commonMistakes": [
+    "Memohon terlalu awal. Tempoh sah 3 bulan visa bermula pada hari ia dikeluarkan, bukan pada hari anda tiba.",
+    "Memohon melalui kedutaan yang salah. Anda mesti memohon di tempat anda tinggal secara sah, bukan di tempat anda sekadar transit.",
+    "Memuat naik penyata bank tanpa nama atau tarikh.",
+    "Menyangka visa memberi 90 hari semasa ketibaan. Anda mendapat 60 hari; 30 hari tambahan memerlukan lanjutan di imigresen.",
+    "Menggunakan laman 'ejen visa' pihak ketiga yang kelihatan rasmi. Satu-satunya laman rasmi ialah thaievisa.go.th.",
+    "Membiarkan METV tamat tempoh semasa berada di luar negara, dengan harapan dapat masuk semula menggunakannya."
+  ],
+  "faqs": [
+    {
+      "q": "Berapa lama saya boleh tinggal dengan visa pelancong Thailand?",
+      "a": "Sehingga 60 hari bagi setiap kemasukan. Anda kemudian boleh memohon sekali untuk lanjutan 30 hari di pejabat imigresen di Thailand dengan bayaran 1,900 THB, jadi sehingga 90 hari kesemuanya bagi setiap kemasukan."
+    },
+    {
+      "q": "Adakah visa pelancong kemasukan berganda (METV) telah dihentikan?",
+      "a": "Tidak. METV masih ada: ia sah selama 6 bulan dan membenarkan sehingga 60 hari bagi setiap kemasukan. Bukan setiap kedutaan menawarkannya melalui sistem e-Visa, dan ia biasanya meminta bukti kewangan lebih banyak berbanding visa kemasukan tunggal, jadi semak halaman kedutaan anda."
+    },
+    {
+      "q": "Adakah saya memerlukan visa pelancong jika pasport saya dikecualikan visa?",
+      "a": "Hanya jika anda mahu tinggal lebih lama daripada yang dibenarkan oleh pengecualian anda. Sejak 15 September 2026, kebanyakan pelancong yang dikecualikan visa mendapat 30 hari, boleh dilanjutkan 30 hari. Jika anda mahu 60 hari dari awal, atau sehingga 90 hari, visa pelancong ialah pilihan yang lebih mudah."
+    },
+    {
+      "q": "Bolehkah saya memohon visa pelancong di lapangan terbang atau semasa berada di negara lain?",
+      "a": "Tidak. Anda memohon secara dalam talian sebelum melancong, melalui kedutaan Thailand yang meliputi negara tempat anda tinggal. Jika anda hanya pelawat sementara di tempat lain, kedutaan itu mungkin menolak permohonan anda."
+    },
+    {
+      "q": "Berapa banyak wang yang perlu saya tunjukkan?",
+      "a": "Sekurang-kurangnya 20,000 THB setiap orang atau 40,000 THB setiap keluarga untuk visa kemasukan tunggal. Bilangan bulan penyata yang diperlukan berbeza mengikut kedutaan, dan METV meminta lebih banyak."
+    },
+    {
+      "q": "Bolehkah saya bekerja dari jauh dengan visa pelancong?",
+      "a": "Tidak. Visa pelancong tidak membenarkan sebarang kerja. Destination Thailand Visa (DTV) ialah visa yang direka untuk pekerja jarak jauh."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Política de privacidade",
+  "summary": "O Thai Visa Experts é um site de informação estático. Você não precisa de conta, não vendemos dados e coletamos o mínimo possível. Esta política explica a pequena quantidade de dados envolvida quando você lê o site, salva preferências ou entra em contato conosco, e seus direitos pelo GDPR e pela PDPA da Tailândia.",
+  "seoTitle": "Política de privacidade",
+  "seoDescription": "Como o Thai Visa Experts trata seus dados: sem contas, sem cookies de rastreamento, preferências salvas só no seu dispositivo e seus direitos pelo GDPR e pela PDPA da Tailândia.",
+  "sections": [
+    {
+      "heading": "Quem somos e como falar conosco",
+      "paragraphs": [
+        "Esta política abrange o thaivisaexperts.com, um site de informação independente sobre vistos tailandeses (\"nós\"). Somos responsáveis pelos dados pessoais descritos aqui. Para qualquer dúvida ou solicitação sobre privacidade, envie um e-mail para hello@thaivisaexperts.com.",
+        "Não vendemos, alugamos nem trocamos dados pessoais, e não os usamos para publicidade."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "O que coletamos e por quê",
+      "paragraphs": [
+        "O site é feito de páginas estáticas. Não há contas de usuário, logins, comentários ou pagamentos, e nunca pedimos dados do passaporte."
+      ],
+      "list": [
+        "Logs do servidor e da CDN: quando você carrega uma página ou imagem, nosso provedor de hospedagem e a rede de entrega de imagens (CDN) registram automaticamente dados técnicos como seu endereço IP, tipo de navegador, a página solicitada e o horário. Esses logs mantêm o site seguro e funcionando, são guardados apenas por um curto período por esses provedores e não são usados para traçar seu perfil.",
+        "Formulário de contato (se ativado): se você nos escrever pelo formulário de contato, seu nome, endereço de e-mail e mensagem são enviados pelo Formspree, um processador de formulários de terceiros, e entregues à nossa caixa de entrada. Usamos esses dados apenas para responder. Você também pode nos enviar um e-mail diretamente.",
+        "E-mails que você nos envia: guardamos sua mensagem apenas pelo tempo necessário para responder e tratar de qualquer acompanhamento, e depois a apagamos.",
+        "Análise de acesso (se ativada): podemos usar um serviço de análise que respeita a privacidade, como Plausible ou Umami. Essas ferramentas não usam cookies, não rastreiam você entre sites e não armazenam dados pessoais; elas contam visitas, páginas e países de forma agregada para sabermos quais guias são úteis."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Dados armazenados apenas no seu dispositivo",
+      "paragraphs": [
+        "Alguns recursos lembram suas escolhas usando o localStorage do seu navegador. Esses dados ficam no seu dispositivo. Nunca são enviados para nós, e você pode apagá-los a qualquer momento nas configurações do navegador."
+      ],
+      "list": [
+        "Itens marcados nos checklists: quais itens você marcou nos checklists de documentos.",
+        "Idioma: o último idioma que você escolheu.",
+        "Tema: se você prefere o visual claro ou escuro."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Não usamos cookies de publicidade ou rastreamento, e a análise de acesso, se ativada, funciona sem cookies. Como só armazenamos preferências estritamente necessárias no seu dispositivo, não exibimos um banner de cookies. Se isso mudar, atualizaremos esta política e pediremos seu consentimento quando a lei exigir."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Base legal, compartilhamento e transferências internacionais",
+      "paragraphs": [
+        "Tratamos os logs do servidor e a análise agregada com base no nosso interesse legítimo em manter um site seguro e útil. Tratamos as mensagens de contato para responder à sua solicitação, o que também é um interesse legítimo, ou uma etapa que você nos pediu para realizar.",
+        "Compartilhamos dados apenas com os prestadores de serviço que fazem o site funcionar: nosso provedor de hospedagem e CDN, o processador de formulários (Formspree), se o formulário de contato estiver ativado, e o provedor de análise, se a análise estiver ativada. Eles agem em nosso nome e podem tratar dados fora do seu país, inclusive nos Estados Unidos. Quando o GDPR se aplica, essas transferências se apoiam em salvaguardas adequadas, como as Cláusulas Contratuais Padrão da Comissão Europeia ou uma decisão de adequação.",
+        "Podemos divulgar dados se a lei exigir, por exemplo em resposta a uma ordem judicial válida."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Seus direitos pelo GDPR (UE, EEE e Reino Unido)",
+      "paragraphs": [
+        "Se você está na União Europeia, no Espaço Econômico Europeu ou no Reino Unido, o Regulamento Geral sobre a Proteção de Dados (GDPR, ou UK GDPR) garante os seguintes direitos sobre os dados pessoais que mantemos sobre você. Para exercer qualquer um deles, envie um e-mail para hello@thaivisaexperts.com. Responderemos em até um mês."
+      ],
+      "list": [
+        "Acesso: pedir uma cópia dos dados pessoais que mantemos sobre você.",
+        "Retificação: pedir que corrijamos dados incorretos.",
+        "Exclusão: pedir que apaguemos seus dados.",
+        "Limitação: pedir que limitemos o uso dos seus dados.",
+        "Oposição: opor-se ao tratamento baseado em nossos interesses legítimos.",
+        "Portabilidade: receber os dados que você nos forneceu em um formato comum e legível por máquina.",
+        "Reclamação: apresentar uma reclamação à autoridade nacional de proteção de dados. Gostaríamos de ter a chance de resolver o problema antes."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Seus direitos pela PDPA da Tailândia",
+      "paragraphs": [
+        "Se você está na Tailândia, a Personal Data Protection Act B.E. 2562 (2019) (PDPA) garante direitos semelhantes: acessar e obter uma cópia dos seus dados, pedir sua correção, exclusão ou limitação, opor-se ao tratamento, à portabilidade dos dados e a retirar o consentimento quando o tratamento se basear nele. Você também pode reclamar ao Personal Data Protection Committee (PDPC). Fale conosco em hello@thaivisaexperts.com para exercer esses direitos."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Segurança, crianças e alterações",
+      "paragraphs": [
+        "O site é servido por HTTPS, e mantemos ao mínimo os dados que guardamos. Nenhum sistema é perfeitamente seguro, então não nos envie documentos sensíveis como cópias do passaporte ou extratos bancários. Não precisamos deles e não vamos pedi-los.",
+        "O site não é voltado para menores de 16 anos, e não coletamos seus dados de forma consciente.",
+        "Podemos atualizar esta política quando nossos serviços mudarem. A data de \"última verificação\" no topo da página mostra quando ela foi revisada pela última vez."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

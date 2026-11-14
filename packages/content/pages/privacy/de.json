@@ -1,0 +1,97 @@
+{
+  "title": "Datenschutzerklärung",
+  "summary": "Thai Visa Experts ist eine statische Informationswebsite. Sie brauchen kein Konto, wir verkaufen keine Daten und erheben so wenig wie möglich. Diese Erklärung beschreibt die geringe Menge an Daten, die anfällt, wenn Sie die Website lesen, Einstellungen speichern oder uns kontaktieren, sowie Ihre Rechte nach der DSGVO und dem thailändischen PDPA.",
+  "seoTitle": "Datenschutzerklärung",
+  "seoDescription": "Wie Thai Visa Experts mit Ihren Daten umgeht: keine Konten, keine Tracking-Cookies, Einstellungen nur lokal auf Ihrem Gerät und Ihre Rechte nach DSGVO und thailändischem PDPA.",
+  "sections": [
+    {
+      "heading": "Wer wir sind und wie Sie uns erreichen",
+      "paragraphs": [
+        "Diese Erklärung gilt für thaivisaexperts.com, eine unabhängige Informationswebsite über thailändische Visa („wir“, „uns“). Wir sind für die hier beschriebenen personenbezogenen Daten verantwortlich. Für Fragen oder Anliegen zum Datenschutz schreiben Sie an hello@thaivisaexperts.com.",
+        "Wir verkaufen, vermieten oder tauschen keine personenbezogenen Daten und nutzen sie nicht für Werbung."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Was wir erheben und warum",
+      "paragraphs": [
+        "Die Website besteht aus statischen Seiten. Es gibt keine Benutzerkonten, Logins, Kommentare oder Zahlungen, und wir fragen niemals nach Passdaten."
+      ],
+      "list": [
+        "Server- und CDN-Logs: Wenn Sie eine Seite oder ein Bild laden, erfassen unser Hosting-Anbieter und unser Bildauslieferungsnetz (CDN) automatisch technische Daten wie Ihre IP-Adresse, den Browsertyp, die aufgerufene Seite und die Uhrzeit. Diese Logs halten die Website sicher und funktionsfähig, werden von diesen Anbietern nur kurze Zeit aufbewahrt und nicht zur Profilbildung verwendet.",
+        "Kontaktformular (falls aktiviert): Wenn Sie uns über das Kontaktformular schreiben, werden Ihr Name, Ihre E-Mail-Adresse und Ihre Nachricht über Formspree, einen externen Formulardienst, an unser Postfach übermittelt. Wir nutzen sie nur, um Ihnen zu antworten. Sie können uns stattdessen auch direkt eine E-Mail schreiben.",
+        "E-Mails an uns: Wir bewahren Ihre Nachricht nur so lange auf, wie wir sie zur Beantwortung und für etwaige Rückfragen benötigen, und löschen sie dann.",
+        "Analyse (falls aktiviert): Wir nutzen möglicherweise einen datenschutzfreundlichen Analysedienst wie Plausible oder Umami. Diese Tools verwenden keine Cookies, verfolgen Sie nicht über Websites hinweg und speichern keine personenbezogenen Daten; sie zählen Besuche, Seiten und Länder in aggregierter Form, damit wir wissen, welche Ratgeber nützlich sind."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Nur auf Ihrem Gerät gespeicherte Daten",
+      "paragraphs": [
+        "Einige Funktionen merken sich Ihre Auswahl über den localStorage Ihres Browsers. Diese Daten bleiben auf Ihrem Gerät. Sie werden nie an uns gesendet, und Sie können sie jederzeit über die Browsereinstellungen löschen."
+      ],
+      "list": [
+        "Checklisten-Haken: welche Punkte Sie auf Dokumenten-Checklisten abgehakt haben.",
+        "Sprache: die zuletzt gewählte Sprache.",
+        "Design: ob Sie das helle oder dunkle Design bevorzugen."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Cookies",
+      "paragraphs": [
+        "Wir verwenden keine Werbe- oder Tracking-Cookies, und eine etwaige Analyse funktioniert ohne Cookies. Da wir nur unbedingt erforderliche Einstellungen auf Ihrem Gerät speichern, zeigen wir kein Cookie-Banner. Sollte sich das ändern, aktualisieren wir diese Erklärung und holen, wo gesetzlich erforderlich, Ihre Einwilligung ein."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Rechtsgrundlage, Weitergabe und internationale Übermittlungen",
+      "paragraphs": [
+        "Wir verarbeiten Server-Logs und aggregierte Analysedaten auf Grundlage unseres berechtigten Interesses am Betrieb einer sicheren, nützlichen Website. Kontaktnachrichten verarbeiten wir, um Ihre Anfrage zu beantworten, was ebenfalls ein berechtigtes Interesse oder ein von Ihnen gewünschter Schritt ist.",
+        "Wir geben Daten nur an die Dienstleister weiter, die den Betrieb der Website ermöglichen: unseren Hosting-Anbieter und das CDN, den Formulardienst (Formspree), falls das Kontaktformular aktiviert ist, und den Analyseanbieter, falls die Analyse aktiviert ist. Sie handeln in unserem Auftrag und können Daten außerhalb Ihres Landes verarbeiten, auch in den Vereinigten Staaten. Soweit die DSGVO gilt, stützen sich solche Übermittlungen auf geeignete Garantien, etwa die Standardvertragsklauseln der Europäischen Kommission oder einen Angemessenheitsbeschluss.",
+        "Wir können Daten offenlegen, wenn das Gesetz es verlangt, zum Beispiel aufgrund eines gültigen Gerichtsbeschlusses."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Ihre Rechte nach der DSGVO (EU, EWR und Vereinigtes Königreich)",
+      "paragraphs": [
+        "Wenn Sie sich in der Europäischen Union, im Europäischen Wirtschaftsraum oder im Vereinigten Königreich befinden, gibt Ihnen die Datenschutz-Grundverordnung (DSGVO bzw. UK GDPR) die folgenden Rechte an den personenbezogenen Daten, die wir über Sie speichern. Um eines davon auszuüben, schreiben Sie an hello@thaivisaexperts.com. Wir antworten innerhalb eines Monats."
+      ],
+      "list": [
+        "Auskunft: eine Kopie der personenbezogenen Daten verlangen, die wir über Sie speichern.",
+        "Berichtigung: verlangen, dass wir unrichtige Daten korrigieren.",
+        "Löschung: verlangen, dass wir Ihre Daten löschen.",
+        "Einschränkung: verlangen, dass wir die Nutzung Ihrer Daten einschränken.",
+        "Widerspruch: der Verarbeitung auf Grundlage unserer berechtigten Interessen widersprechen.",
+        "Datenübertragbarkeit: Daten, die Sie uns gegeben haben, in einem gängigen, maschinenlesbaren Format erhalten.",
+        "Beschwerde: bei Ihrer nationalen Datenschutzbehörde Beschwerde einlegen. Wir würden uns freuen, wenn wir das Problem zuerst selbst beheben dürfen."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Ihre Rechte nach dem thailändischen PDPA",
+      "paragraphs": [
+        "Wenn Sie sich in Thailand befinden, gibt Ihnen der Personal Data Protection Act B.E. 2562 (2019) (PDPA) ähnliche Rechte: Auskunft über Ihre Daten und Erhalt einer Kopie, Berichtigung, Löschung oder Einschränkung, Widerspruch gegen die Verarbeitung, Datenübertragbarkeit und Widerruf der Einwilligung, wenn die Verarbeitung auf Einwilligung beruht. Sie können sich außerdem beim Personal Data Protection Committee (PDPC) beschweren. Wenden Sie sich an hello@thaivisaexperts.com, um diese Rechte auszuüben."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Sicherheit, Kinder und Änderungen",
+      "paragraphs": [
+        "Die Website wird über HTTPS ausgeliefert, und wir halten die gespeicherten Daten so gering wie möglich. Kein System ist absolut sicher; senden Sie uns daher bitte keine sensiblen Dokumente wie Passscans oder Kontoauszüge. Wir brauchen sie nicht und werden nicht danach fragen.",
+        "Die Website richtet sich nicht an Kinder unter 16 Jahren, und wir erheben nicht wissentlich deren Daten.",
+        "Wir können diese Erklärung aktualisieren, wenn sich unsere Dienste ändern. Das Datum „zuletzt geprüft“ oben auf der Seite zeigt, wann sie zuletzt überprüft wurde."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

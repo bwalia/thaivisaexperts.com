@@ -101,7 +101,7 @@ export async function LandingView({
             href="/compare"
             className="mt-4 inline-flex min-h-11 items-center gap-1 font-semibold"
           >
-            {t("nav.compare")} <ArrowRight className="size-4" aria-hidden="true" />
+            {t("nav.compare")} <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
           </Link>
         </section>
       </div>

@@ -1,0 +1,103 @@
+{
+  "name": "Visa du lịch (TR)",
+  "shortName": "Visa du lịch",
+  "summary": "Visa du lịch tiêu chuẩn mà bạn xin trực tuyến qua hệ thống e-Visa chính thức của Thái Lan trước khi đi. Visa TR một lần nhập cảnh cho phép ở tối đa 60 ngày, cộng một lần gia hạn 30 ngày tại cơ quan xuất nhập cảnh, tức tổng cộng tối đa 90 ngày. Kể từ khi thời gian miễn thị thực giảm xuống 30 ngày vào tháng 9 năm 2026, đây là cách đơn giản nhất để ở hai hoặc ba tháng. Visa du lịch nhiều lần nhập cảnh (METV) vẫn có ở nhiều đại sứ quán: hiệu lực 6 tháng, tối đa 60 ngày mỗi lần nhập cảnh.",
+  "seoTitle": "Visa du lịch Thái Lan (TR) 2026: 60 + 30 ngày, lệ phí e-Visa, METV",
+  "seoDescription": "Cách xin visa du lịch Thái Lan qua e-Visa: lưu trú 60 ngày, gia hạn 30 ngày, lệ phí theo đại sứ quán, tài chính 20.000 THB, giấy tờ, METV và lỗi thường gặp.",
+  "validity": "Một lần nhập cảnh (TR): hiệu lực 3 tháng kể từ ngày cấp, nên bạn phải nhập cảnh trong thời gian đó. Mỗi lần nhập cảnh được ở tối đa 60 ngày. METV: hiệu lực 6 tháng, nhập cảnh không giới hạn, tối đa 60 ngày mỗi lần.",
+  "extendableDetail": "Khi đã ở Thái Lan, bạn có thể gia hạn mỗi đợt 60 ngày thêm tối đa 30 ngày tại văn phòng xuất nhập cảnh (mẫu TM.7, 1.900 THB), tùy quyết định của cán bộ. Với METV, bạn cũng có thể xuất cảnh rồi nhập cảnh lại trước khi visa hết hạn để được 60 ngày mới.",
+  "feeNote": "Lệ phí cơ bản là 1.000 THB cho một lần nhập cảnh và 5.000 THB cho METV, nhưng bạn trả bằng tiền tệ địa phương của đại sứ quán xử lý e-Visa, ví dụ 40 USD / 200 USD ở Mỹ, 30 GBP ở Anh và 400 NOK / 2.000 NOK ở Na Uy. Lệ phí không được hoàn lại.",
+  "financialRequirement": "Chứng minh ít nhất 20.000 THB mỗi người hoặc 40.000 THB mỗi gia đình. Một số đại sứ quán chỉ yêu cầu số dư hiện tại; số khác (ví dụ Washington) yêu cầu sao kê 3 tháng. METV yêu cầu nhiều bằng chứng tài chính hơn (và thường cả bằng chứng việc làm hoặc thu nhập); số tiền do từng đại sứ quán quy định, nên hãy xem trang của đại sứ quán.",
+  "processingTime": "Tùy đại sứ quán. Nhiều nơi khuyên dành tối đa 14 ngày làm việc, và đại sứ quán ở Washington khuyên nộp ít nhất 30 ngày trước khi khởi hành. Đừng nộp sớm hơn 3 tháng, vì hiệu lực của visa bắt đầu từ ngày cấp.",
+  "keyRequirements": [
+    "Nộp trực tuyến tại thaievisa.go.th trước khi đi, qua đại sứ quán phụ trách quốc gia nơi bạn sống",
+    "Hộ chiếu còn hạn ít nhất 6 tháng và còn hai trang trống",
+    "Bằng chứng tài chính ít nhất 20.000 THB mỗi người (40.000 THB mỗi gia đình)",
+    "Đặt vé máy bay đi tiếp hoặc khứ hồi và chỗ ở cho thời gian lưu trú",
+    "Chỉ dành cho du lịch, thăm gia đình hoặc điều trị y tế; không được làm bất kỳ công việc nào",
+    "Nộp TDAC trong vòng 3 ngày trước mỗi lần đến"
+  ],
+  "documents": [
+    "Bản scan trang thông tin hộ chiếu (còn hạn trên 6 tháng)",
+    "Ảnh kiểu hộ chiếu chụp trong vòng 6 tháng",
+    "Đặt vé máy bay đến Thái Lan (và chiều về hoặc đi tiếp)",
+    "Đặt phòng khách sạn hoặc thư mời có địa chỉ tại Thái Lan",
+    "Sao kê ngân hàng gần đây đứng tên bạn cho thấy ít nhất số tiền tương đương 20.000 THB",
+    "Bằng chứng cư trú tại quốc gia nơi bạn nộp hồ sơ (ví dụ thẻ cư trú, visa hoặc hóa đơn tiện ích) nếu bạn không phải công dân nước đó",
+    "Với trẻ vị thành niên: giấy khai sinh và thư đồng ý của cha mẹ",
+    "Với METV: bằng chứng việc làm hoặc thu nhập theo yêu cầu của đại sứ quán"
+  ],
+  "howToApply": [
+    {
+      "step": "Chọn đúng đại sứ quán",
+      "detail": "Trên thaievisa.go.th, chọn quốc gia nơi bạn sống. e-Visa do đại sứ quán hoặc lãnh sự quán Thái Lan phụ trách quốc gia đó xử lý."
+    },
+    {
+      "step": "Tạo tài khoản và chọn visa",
+      "detail": "Chọn 'Tourist Visa' rồi chọn một lần nhập cảnh hoặc nhiều lần nhập cảnh (METV), tùy những gì đại sứ quán của bạn cung cấp."
+    },
+    {
+      "step": "Tải lên giấy tờ",
+      "detail": "Tải lên file PDF hoặc JPG rõ nét của hộ chiếu, ảnh, các đặt chỗ và sao kê ngân hàng. File mờ hoặc bị cắt xén là lý do phổ biến nhất gây chậm trễ."
+    },
+    {
+      "step": "Thanh toán lệ phí",
+      "detail": "Thanh toán trực tuyến bằng tiền tệ địa phương. Một số đại sứ quán chỉ bắt đầu xử lý sau khi thanh toán được xác nhận."
+    },
+    {
+      "step": "Chờ phê duyệt",
+      "detail": "Bạn sẽ nhận email khi e-Visa được duyệt. Hãy in hoặc lưu lại; hãng bay và cơ quan xuất nhập cảnh có thể yêu cầu xem."
+    },
+    {
+      "step": "Lên đường và điền TDAC",
+      "detail": "Nộp Thẻ nhập cảnh điện tử Thái Lan (Thailand Digital Arrival Card) trong vòng 3 ngày trước khi đến. Nhập cảnh Thái Lan trước ngày 'enter before' ghi trên visa."
+    }
+  ],
+  "bestFor": [
+    "Kỳ nghỉ từ 1 đến 3 tháng",
+    "Công dân các nước không được miễn thị thực",
+    "Du khách trước đây dựa vào diện miễn thị thực 60 ngày",
+    "Người thường xuyên đến trong vòng sáu tháng (METV)"
+  ],
+  "notFor": [
+    "Làm việc từ xa hoặc lưu trú dài từ 6 tháng trở lên (hãy xem DTV)",
+    "Họp công việc hoặc bất kỳ công việc nào (dùng visa Non-Immigrant B)",
+    "Chuyến đi ngắn dưới 30 ngày nếu hộ chiếu của bạn được miễn thị thực"
+  ],
+  "commonMistakes": [
+    "Nộp quá sớm. Hiệu lực 3 tháng của visa bắt đầu từ ngày cấp, không phải ngày bạn đến.",
+    "Nộp qua sai đại sứ quán. Bạn phải nộp nơi bạn cư trú hợp pháp, không phải nơi bạn chỉ đi qua.",
+    "Tải lên sao kê ngân hàng không có tên hoặc ngày.",
+    "Tin rằng visa cho 90 ngày khi đến. Bạn được 60 ngày; 30 ngày thêm cần gia hạn tại cơ quan xuất nhập cảnh.",
+    "Dùng các trang 'đại lý visa' bên thứ ba trông giống trang chính thức. Trang chính thức duy nhất là thaievisa.go.th.",
+    "Để METV hết hạn khi đang ở nước ngoài mà vẫn mong nhập cảnh lại bằng nó."
+  ],
+  "faqs": [
+    {
+      "q": "Tôi được ở bao lâu với visa du lịch Thái Lan?",
+      "a": "Tối đa 60 ngày mỗi lần nhập cảnh. Sau đó bạn có thể xin gia hạn một lần 30 ngày tại văn phòng xuất nhập cảnh ở Thái Lan với lệ phí 1.900 THB, tức tổng cộng tối đa 90 ngày mỗi lần nhập cảnh."
+    },
+    {
+      "q": "Visa du lịch nhiều lần nhập cảnh (METV) đã bị bãi bỏ chưa?",
+      "a": "Chưa. METV vẫn còn: hiệu lực 6 tháng và cho phép tối đa 60 ngày mỗi lần nhập cảnh. Không phải đại sứ quán nào cũng cấp qua hệ thống e-Visa, và METV thường yêu cầu nhiều bằng chứng tài chính hơn visa một lần, nên hãy xem trang của đại sứ quán."
+    },
+    {
+      "q": "Tôi có cần visa du lịch nếu hộ chiếu được miễn thị thực không?",
+      "a": "Chỉ khi bạn muốn ở lâu hơn thời gian miễn thị thực cho phép. Từ ngày 15 tháng 9 năm 2026, hầu hết du khách được miễn thị thực được 30 ngày, gia hạn thêm 30. Nếu bạn muốn 60 ngày ngay từ đầu, hoặc tối đa 90 ngày, visa du lịch là lựa chọn gọn gàng hơn."
+    },
+    {
+      "q": "Tôi có thể xin visa du lịch tại sân bay hoặc khi đang ở nước khác không?",
+      "a": "Không. Bạn nộp trực tuyến trước khi đi, qua đại sứ quán Thái Lan phụ trách quốc gia nơi bạn sống. Nếu bạn chỉ là khách tạm thời ở nơi khác, đại sứ quán ở đó có thể từ chối hồ sơ."
+    },
+    {
+      "q": "Tôi cần chứng minh bao nhiêu tiền?",
+      "a": "Ít nhất 20.000 THB mỗi người hoặc 40.000 THB mỗi gia đình với visa một lần nhập cảnh. Số tháng sao kê cần thiết tùy đại sứ quán, và METV yêu cầu nhiều hơn."
+    },
+    {
+      "q": "Tôi có thể làm việc từ xa bằng visa du lịch không?",
+      "a": "Không. Visa du lịch không cho phép bất kỳ công việc nào. Destination Thailand Visa (DTV) là visa được thiết kế cho người làm việc từ xa."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

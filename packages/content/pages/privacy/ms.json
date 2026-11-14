@@ -1,0 +1,97 @@
+{
+  "title": "Dasar privasi",
+  "summary": "Thai Visa Experts ialah laman web maklumat statik. Anda tidak memerlukan akaun, kami tidak menjual data, dan kami mengumpul sesedikit mungkin. Dasar ini menerangkan sejumlah kecil data yang terlibat apabila anda membaca laman ini, menyimpan pilihan atau menghubungi kami, serta hak anda di bawah GDPR dan PDPA Thailand.",
+  "seoTitle": "Dasar Privasi",
+  "seoDescription": "Cara Thai Visa Experts mengendalikan data anda: tiada akaun, tiada kuki penjejakan, pilihan tempatan hanya di peranti anda, dan hak anda di bawah GDPR dan PDPA Thailand.",
+  "sections": [
+    {
+      "heading": "Siapa kami dan cara menghubungi kami",
+      "paragraphs": [
+        "Dasar ini meliputi thaivisaexperts.com, laman web maklumat bebas tentang visa Thailand (\"kami\"). Kami bertanggungjawab atas data peribadi yang diterangkan di sini. Untuk sebarang soalan atau permintaan berkaitan privasi, e-mel hello@thaivisaexperts.com.",
+        "Kami tidak menjual, menyewakan atau memperdagangkan data peribadi, dan kami tidak menggunakannya untuk pengiklanan."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Apa yang kami kumpul, dan mengapa",
+      "paragraphs": [
+        "Laman ini dibina sebagai halaman statik. Tiada akaun pengguna, log masuk, komen atau pembayaran, dan kami tidak pernah meminta butiran pasport."
+      ],
+      "list": [
+        "Log pelayan dan CDN: apabila anda memuatkan halaman atau imej, penyedia hosting dan rangkaian penghantaran imej (CDN) kami secara automatik merekodkan data teknikal seperti alamat IP, jenis pelayar, halaman yang diminta dan masa. Log ini memastikan laman ini selamat dan berfungsi, disimpan hanya untuk tempoh singkat oleh penyedia tersebut, dan tidak digunakan untuk memprofilkan anda.",
+        "Borang hubungan (jika diaktifkan): jika anda menulis kepada kami melalui borang hubungan, nama, alamat e-mel dan mesej anda dihantar melalui Formspree, pemproses borang pihak ketiga, dan disampaikan ke peti masuk kami. Kami menggunakannya hanya untuk membalas anda. Anda juga boleh e-mel kami secara terus.",
+        "E-mel yang anda hantar kepada kami: kami menyimpan mesej anda hanya selama yang kami perlukan untuk menjawab anda dan menguruskan sebarang tindakan susulan, kemudian memadamkannya.",
+        "Analitik (jika diaktifkan): kami mungkin menggunakan perkhidmatan analitik yang mesra privasi seperti Plausible atau Umami. Alat ini tidak menggunakan kuki, tidak menjejak anda merentasi laman web dan tidak menyimpan data peribadi; ia mengira lawatan, halaman dan negara secara agregat supaya kami tahu panduan mana yang berguna."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Data yang disimpan hanya di peranti anda",
+      "paragraphs": [
+        "Sesetengah ciri mengingati pilihan anda menggunakan localStorage pelayar anda. Data ini kekal di peranti anda. Ia tidak pernah dihantar kepada kami, dan anda boleh memadamkannya pada bila-bila masa melalui tetapan pelayar anda."
+      ],
+      "list": [
+        "Tanda senarai semak: item yang telah anda tandakan dalam senarai semak dokumen.",
+        "Bahasa: bahasa yang terakhir anda pilih.",
+        "Tema: sama ada anda lebih suka reka bentuk cerah atau gelap."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Kuki",
+      "paragraphs": [
+        "Kami tidak menggunakan kuki pengiklanan atau penjejakan, dan jika analitik diaktifkan, ia berfungsi tanpa kuki. Oleh kerana kami hanya menyimpan pilihan yang benar-benar perlu di peranti anda, kami tidak memaparkan sepanduk kuki. Jika ini berubah, kami akan mengemas kini dasar ini dan meminta persetujuan anda jika dikehendaki oleh undang-undang."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Asas undang-undang, perkongsian dan pemindahan antarabangsa",
+      "paragraphs": [
+        "Kami memproses log pelayan dan analitik agregat atas dasar kepentingan sah kami untuk mengendalikan laman web yang selamat dan berguna. Kami memproses mesej hubungan untuk menjawab permintaan anda, yang juga merupakan kepentingan sah, atau langkah yang anda minta kami ambil.",
+        "Kami berkongsi data hanya dengan penyedia perkhidmatan yang membolehkan laman ini berfungsi: penyedia hosting dan CDN kami, pemproses borang (Formspree) jika borang hubungan diaktifkan, dan penyedia analitik jika analitik diaktifkan. Mereka bertindak bagi pihak kami dan mungkin memproses data di luar negara anda, termasuk di Amerika Syarikat. Jika GDPR terpakai, pemindahan sedemikian bergantung pada perlindungan yang sesuai, seperti Fasal Kontrak Standard Suruhanjaya Eropah atau keputusan kecukupan.",
+        "Kami mungkin mendedahkan data jika dikehendaki oleh undang-undang, contohnya sebagai respons kepada perintah mahkamah yang sah."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Hak anda di bawah GDPR (EU, EEA dan UK)",
+      "paragraphs": [
+        "Jika anda berada di Kesatuan Eropah, Kawasan Ekonomi Eropah atau United Kingdom, Peraturan Perlindungan Data Am (GDPR, atau UK GDPR) memberi anda hak berikut ke atas data peribadi yang kami simpan tentang anda. Untuk menggunakan mana-mana hak ini, e-mel hello@thaivisaexperts.com. Kami akan membalas dalam tempoh satu bulan."
+      ],
+      "list": [
+        "Akses: minta salinan data peribadi yang kami simpan tentang anda.",
+        "Pembetulan: minta kami membetulkan data yang tidak tepat.",
+        "Pemadaman: minta kami memadamkan data anda.",
+        "Sekatan: minta kami mengehadkan cara kami menggunakan data anda.",
+        "Bantahan: membantah pemprosesan berdasarkan kepentingan sah kami.",
+        "Kemudahalihan: menerima data yang anda berikan kepada kami dalam format biasa yang boleh dibaca oleh mesin.",
+        "Aduan: membuat aduan kepada pihak berkuasa perlindungan data negara anda. Kami amat menghargai peluang untuk membetulkan masalah itu terlebih dahulu."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Hak anda di bawah PDPA Thailand",
+      "paragraphs": [
+        "Jika anda berada di Thailand, Akta Perlindungan Data Peribadi B.E. 2562 (2019) (PDPA) memberi anda hak yang serupa: untuk mengakses dan mendapatkan salinan data anda, untuk membetulkan, memadamkan atau menyekatnya, untuk membantah pemprosesannya, untuk kemudahalihan data, dan untuk menarik balik persetujuan jika pemprosesan berdasarkan persetujuan. Anda juga boleh membuat aduan kepada Jawatankuasa Perlindungan Data Peribadi (PDPC). Hubungi kami di hello@thaivisaexperts.com untuk menggunakan hak ini."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Keselamatan, kanak-kanak dan perubahan",
+      "paragraphs": [
+        "Laman ini disampaikan melalui HTTPS, dan kami menyimpan data seminimum mungkin. Tiada sistem yang selamat sepenuhnya, jadi sila jangan hantar dokumen sensitif seperti imbasan pasport atau penyata bank kepada kami. Kami tidak memerlukannya dan tidak akan memintanya.",
+        "Laman ini tidak ditujukan kepada kanak-kanak bawah 16 tahun, dan kami tidak mengumpul data mereka secara sengaja.",
+        "Kami mungkin mengemas kini dasar ini apabila perkhidmatan kami berubah. Tarikh \"kali terakhir disemak\" di bahagian atas halaman menunjukkan bila ia kali terakhir disemak."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

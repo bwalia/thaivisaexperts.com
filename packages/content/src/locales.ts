@@ -4,9 +4,33 @@
  */
 
 /** Supported locales. English is the source of truth. */
-export const LOCALES = ["en", "fr", "nl", "th"] as const;
+export const LOCALES = [
+  "en",
+  "fr",
+  "nl",
+  "th",
+  "es",
+  "de",
+  "pt",
+  "ru",
+  "zh",
+  "ja",
+  "ko",
+  "hi",
+  "pa",
+  "ar",
+  "ms",
+  "vi",
+] as const;
 export type Locale = (typeof LOCALES)[number];
 export const DEFAULT_LOCALE: Locale = "en";
+
+/** Locales written right-to-left. */
+export const RTL_LOCALES: readonly Locale[] = ["ar"];
+
+export function isRtl(locale: Locale): boolean {
+  return RTL_LOCALES.includes(locale);
+}
 
 export const VISA_CATEGORIES = [
   "short-stay",

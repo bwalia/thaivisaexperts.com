@@ -26,7 +26,7 @@ export async function SiteHeader({ locale }: { locale: Locale }) {
   return (
     <header className="sticky top-0 z-40 border-b border-border bg-surface/95 backdrop-blur supports-[backdrop-filter]:bg-surface/85">
       <div className="container-page flex h-16 items-center gap-2">
-        <Link href="/" className="mr-auto rounded-md no-underline" aria-label={tm("siteName")}>
+        <Link href="/" className="me-auto rounded-md no-underline" aria-label={tm("siteName")}>
           <Logo name={tm("siteName")} />
         </Link>
         <nav aria-label={ta("mainNav")} className="hidden xl:block">

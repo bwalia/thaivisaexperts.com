@@ -1,0 +1,101 @@
+{
+  "name": "Pengecualian visa (masuk tanpa visa)",
+  "shortName": "Pengecualian visa",
+  "summary": "Jika pasport anda tersenarai dalam senarai pengecualian Thailand, anda boleh terbang masuk tanpa visa dan tinggal sehingga 30 hari untuk pelancongan. Sejak 15 September 2026, tempoh tinggal tanpa visa 60 hari yang lama telah tamat untuk semua orang. Sesetengah negara mendapat tempoh tinggal berbeza di bawah perjanjian dua hala: 90 hari untuk Argentina, Brazil, Chile, Peru dan Korea Selatan, 30 hari untuk China, Rusia, Vietnam dan lain-lain, 14 hari untuk Kemboja dan Myanmar, dan 15 hari untuk Mauritius dan Seychelles. Anda biasanya boleh menambah satu lanjutan 30 hari di pejabat imigresen.",
+  "seoTitle": "Pengecualian visa Thailand 2026: 30 hari tanpa visa (60 hari tamat)",
+  "seoDescription": "Thailand mengurangkan tempoh tinggal tanpa visa daripada 60 kepada 30 hari pada 15 September 2026. Semak sama ada pasport anda layak, cara melanjutkan 30 hari, had sempadan darat dan TDAC.",
+  "validity": "Tiada visa dikeluarkan. Anda mendapat cop kebenaran tinggal semasa ketibaan: 30 hari bagi kebanyakan negara yang layak (pelancongan sahaja), 90 hari untuk Argentina, Brazil, Chile, Peru dan Korea Selatan, 14 hari untuk Kemboja dan Myanmar, dan 15 hari untuk Mauritius dan Seychelles. Hari anda tiba dikira sebagai hari pertama.",
+  "extendableDetail": "Anda boleh memohon sekali untuk lanjutan sehingga 30 hari di pejabat imigresen di Thailand (borang TM.7, yuran 1,900 THB). Mohon sebelum cop anda tamat tempoh. Lanjutan adalah atas budi bicara pegawai, bukan hak.",
+  "feeNote": "Kemasukan adalah percuma. Lanjutan di imigresen berharga 1,900 THB.",
+  "financialRequirement": "Tiada jumlah tetap diterbitkan untuk skim 2026, tetapi pegawai imigresen boleh meminta anda menunjukkan bahawa anda mempunyai wang yang mencukupi untuk tempoh tinggal anda. Bawa bukti kira-kira 20,000 THB setiap orang (40,000 THB setiap keluarga) dalam bentuk tunai atau kad, iaitu garis panduan yang telah lama digunakan.",
+  "processingTime": "Tiada apa yang perlu dimohon lebih awal kecuali TDAC, yang mengambil masa kira-kira 10 minit secara dalam talian dan mesti dihantar dalam tempoh 3 hari sebelum anda tiba.",
+  "keyRequirements": [
+    "Pasport dari negara dalam senarai pengecualian atau yang mempunyai perjanjian dua hala, sah sekurang-kurangnya 6 bulan semasa ketibaan",
+    "Pelancongan sahaja: sejak 15 September 2026, pengecualian 30 hari tidak meliputi mesyuarat perniagaan atau kerja",
+    "Thailand Digital Arrival Card (TDAC) yang lengkap, dihantar secara dalam talian dalam tempoh 3 hari sebelum ketibaan",
+    "Tiket pulang atau ke destinasi seterusnya yang meninggalkan Thailand dalam tempoh tinggal yang dibenarkan",
+    "Kemasukan melalui sempadan darat dengan pengecualian biasanya dihadkan kepada dua kali setahun kalendar (tidak terpakai kepada pasport Malaysia, Brunei, Indonesia atau Singapura)"
+  ],
+  "documents": [
+    "Pasport yang sah sekurang-kurangnya 6 bulan, dengan satu halaman kosong untuk cop kemasukan",
+    "Pengesahan TDAC dengan kod QR (tangkapan skrin atau cetakan)",
+    "Tempahan penerbangan pulang atau ke destinasi seterusnya dalam tempoh tinggal yang dibenarkan",
+    "Tempahan hotel atau alamat tempat anda akan tinggal",
+    "Bukti dana yang boleh anda tunjukkan jika diminta (tunai, kad bank atau penyata bank terkini)",
+    "Untuk lanjutan: borang TM.7, satu foto pasport (4 x 6 cm), salinan pasport dan 1,900 THB dalam bentuk tunai",
+    "Untuk lanjutan: bukti alamat anda di Thailand (tempahan hotel atau resit TM30, iaitu pemberitahuan alamat yang dihantar oleh tuan rumah anda)"
+  ],
+  "howToApply": [
+    {
+      "step": "Semak sama ada pasport anda tersenarai",
+      "detail": "Cari kewarganegaraan anda dalam penyemak negara kami. Jika anda tidak tersenarai dalam senarai pengecualian atau dua hala, anda memerlukan visa sebelum terbang."
+    },
+    {
+      "step": "Tempah tiket keluar",
+      "detail": "Syarikat penerbangan dan imigresen boleh meminta tiket pulang atau ke destinasi seterusnya dalam tempoh 30 hari (atau tempoh tinggal dua hala anda). Lanjutan tidak dijamin, jadi rancang untuk keluar dalam tempoh tinggal pertama."
+    },
+    {
+      "step": "Isi TDAC",
+      "detail": "Lengkapkan Thailand Digital Arrival Card di tdac.immigration.go.th dalam tempoh 3 hari sebelum ketibaan. Ia percuma. Simpan kod QR."
+    },
+    {
+      "step": "Tiba dan dapatkan cop",
+      "detail": "Tunjukkan pasport, TDAC dan, jika diminta, tiket seterusnya dan dana anda. Semak tarikh pada cop anda sebelum meninggalkan kaunter."
+    },
+    {
+      "step": "Lanjutkan jika anda memerlukan lebih masa",
+      "detail": "Sebelum cop anda tamat tempoh, pergi ke pejabat imigresen bagi kawasan anda dengan borang TM.7, foto, salinan pasport dan 1,900 THB. Anda boleh mendapat sehingga 30 hari lagi."
+    }
+  ],
+  "bestFor": [
+    "Percutian sehingga sebulan",
+    "Perjalanan singkat sehingga 60 hari jika anda melanjutkan sekali di imigresen",
+    "Pelancong dari Argentina, Brazil, Chile, Peru atau Korea Selatan (90 hari di bawah perjanjian dua hala)"
+  ],
+  "notFor": [
+    "Sebarang jenis kerja, termasuk mesyuarat perniagaan (gunakan visa Non-Immigrant B)",
+    "Kerja jarak jauh atau tinggal lama (lihat DTV)",
+    "Sesiapa yang merancang 'visa run' berulang melalui sempadan darat",
+    "Warganegara yang tidak tersenarai dalam senarai pengecualian, yang memerlukan visa pelancong"
+  ],
+  "commonMistakes": [
+    "Menyangka anda masih mendapat 60 hari. Skim 60 hari tamat pada 15 September 2026; kebanyakan orang kini mendapat 30 hari.",
+    "Terlupa TDAC. Anda boleh tertangguh di lapangan terbang tanpanya.",
+    "Menempah penerbangan keluar selepas hari ke-30 dengan harapan mendapat lanjutan. Syarikat penerbangan mungkin enggan membenarkan anda menaiki pesawat tanpa tiket seterusnya dalam tempoh tinggal yang dibenarkan.",
+    "Menggunakan pengecualian untuk mesyuarat perniagaan. Sejak September 2026 ia untuk pelancongan sahaja.",
+    "Salah mengira hari. Hari ketibaan anda ialah hari pertama, dan tinggal lebih masa dikenakan 500 THB sehari serta boleh membawa kepada larangan masuk.",
+    "Membuat border run melalui darat. Kemasukan darat dengan pengecualian dihadkan kepada dua kali setahun kalendar bagi kebanyakan warganegara."
+  ],
+  "faqs": [
+    {
+      "q": "Adakah tempoh tinggal tanpa visa 60 hari masih ada?",
+      "a": "Tidak. Skim 60 hari yang bermula pada Julai 2024 tamat pada 15 September 2026. Jika anda masuk sebelum tarikh itu, anda boleh tinggal sehingga tarikh pada cop anda. Sesiapa yang masuk pada atau selepas 15 September 2026 mendapat tempoh tinggal baharu bagi kewarganegaraan mereka, biasanya 30 hari."
+    },
+    {
+      "q": "Bolehkah saya melanjutkan pengecualian visa 30 hari?",
+      "a": "Ya, biasanya sekali, sehingga 30 hari di pejabat imigresen Thailand. Yurannya ialah 1,900 THB dan keputusan adalah atas budi bicara pegawai. Mohon beberapa hari sebelum cop anda tamat tempoh."
+    },
+    {
+      "q": "Negara manakah yang mendapat 90 hari?",
+      "a": "Argentina, Brazil, Chile, Peru dan Korea Selatan, di bawah perjanjian dua hala dengan Thailand. Perjanjian ini tidak diubah oleh pembaharuan 2026."
+    },
+    {
+      "q": "Adakah saya masih perlu mengisi TDAC jika saya tidak memerlukan visa?",
+      "a": "Ya. Setiap pelawat asing, termasuk pelancong yang dikecualikan visa, mesti menghantar Thailand Digital Arrival Card secara dalam talian dalam tempoh 3 hari sebelum ketibaan. Ia percuma di laman rasmi tdac.immigration.go.th; elakkan laman tiruan berbayar."
+    },
+    {
+      "q": "Bolehkah saya masuk tanpa visa seberapa kerap yang saya mahu?",
+      "a": "Tidak melalui darat. Kemasukan tanpa visa melalui sempadan darat biasanya dihadkan kepada dua kali setahun kalendar (warganegara Malaysia, Brunei, Indonesia dan Singapura tidak dihadkan). Pegawai juga boleh menolak kemasukan orang yang kelihatan tinggal di Thailand dengan pengecualian berturut-turut. Jika anda kerap berkunjung, dapatkan visa pelancong atau DTV."
+    },
+    {
+      "q": "Bolehkah saya bekerja dari jauh dengan pengecualian visa?",
+      "a": "Tidak. Pengecualian ini untuk pelancongan sahaja. Jika anda mahu bekerja dari jauh dari Thailand untuk pelanggan atau majikan asing, Destination Thailand Visa (DTV) direka untuk tujuan itu."
+    },
+    {
+      "q": "Negara saya kehilangan kemasukan tanpa visa. Apa yang perlu dilakukan?",
+      "a": "Pada 15 September 2026, 21 kewarganegaraan, termasuk Mexico, Colombia, Maghribi, Sri Lanka, Uzbekistan, Monaco dan Andorra, kehilangan kemasukan tanpa visa. Mohon visa pelancong (TR) secara dalam talian melalui sistem e-Visa Thailand sebelum anda melancong, sekurang-kurangnya 2 hingga 4 minggu lebih awal."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

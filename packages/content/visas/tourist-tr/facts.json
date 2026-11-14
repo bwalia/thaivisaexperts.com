@@ -22,7 +22,19 @@
         "en": "Thai e-Visa official website",
         "fr": "Site officiel e-Visa thaïlandais",
         "nl": "Officiële Thaise e-Visa-website",
-        "th": "เว็บไซต์ e-Visa ทางการของไทย"
+        "th": "เว็บไซต์ e-Visa ทางการของไทย",
+        "es": "Web oficial del e-Visa tailandés",
+        "de": "Offizielle Thai-e-Visa-Website",
+        "pt": "Site oficial do e-Visa da Tailândia",
+        "ru": "Официальный сайт тайской e-Visa",
+        "zh": "泰国 e-Visa 官方网站",
+        "ja": "タイe-Visa公式サイト",
+        "ko": "태국 e-Visa 공식 웹사이트",
+        "hi": "थाई e-Visa आधिकारिक वेबसाइट",
+        "ar": "الموقع الرسمي للتأشيرة الإلكترونية التايلاندية",
+        "ms": "Laman web rasmi e-Visa Thailand",
+        "vi": "Trang e-Visa chính thức của Thái Lan",
+        "pa": "ਥਾਈ e-Visa ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ"
       },
       "url": "https://www.thaievisa.go.th/"
     },
@@ -31,7 +43,19 @@
         "en": "Royal Thai Embassy Washington: tourist visa",
         "fr": "Ambassade royale de Thaïlande à Washington : visa touristique",
         "nl": "Koninklijke Thaise ambassade Washington: toeristenvisum",
-        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: วีซ่าท่องเที่ยว"
+        "th": "สถานเอกอัครราชทูต ณ กรุงวอชิงตัน: วีซ่าท่องเที่ยว",
+        "es": "Real Embajada de Tailandia en Washington: visado de turista",
+        "de": "Königlich Thailändische Botschaft Washington: Touristenvisum",
+        "pt": "Embaixada Real da Tailândia em Washington: visto de turista",
+        "ru": "Посольство Таиланда в Вашингтоне: туристическая виза",
+        "zh": "泰国驻华盛顿大使馆：旅游签证",
+        "ja": "在ワシントン・タイ王国大使館：観光ビザ",
+        "ko": "주미국 태국 대사관(워싱턴): 관광 비자",
+        "hi": "रॉयल थाई दूतावास वॉशिंगटन: टूरिस्ट वीज़ा",
+        "ar": "السفارة التايلاندية الملكية في واشنطن: التأشيرة السياحية",
+        "ms": "Kedutaan Diraja Thailand Washington: visa pelancong",
+        "vi": "Đại sứ quán Hoàng gia Thái Lan tại Washington: visa du lịch",
+        "pa": "ਰਾਇਲ ਥਾਈ ਦੂਤਾਵਾਸ ਵਾਸ਼ਿੰਗਟਨ: ਟੂਰਿਸਟ ਵੀਜ਼ਾ"
       },
       "url": "https://washingtondc.thaiembassy.org/en/page/trsingle-entry"
     },
@@ -40,7 +64,19 @@
         "en": "Royal Thai Embassy London: multiple-entry tourist visa (METV)",
         "fr": "Ambassade royale de Thaïlande à Londres : visa touristique à entrées multiples (METV)",
         "nl": "Koninklijke Thaise ambassade Londen: toeristenvisum voor meerdere binnenkomsten (METV)",
-        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: วีซ่าท่องเที่ยวหลายครั้ง (METV)"
+        "th": "สถานเอกอัครราชทูต ณ กรุงลอนดอน: วีซ่าท่องเที่ยวหลายครั้ง (METV)",
+        "es": "Real Embajada de Tailandia en Londres: visado de turista de entradas múltiples (METV)",
+        "de": "Königlich Thailändische Botschaft London: Touristenvisum für mehrfache Einreise (METV)",
+        "pt": "Embaixada Real da Tailândia em Londres: visto de turista de entradas múltiplas (METV)",
+        "ru": "Посольство Таиланда в Лондоне: многократная туристическая виза (METV)",
+        "zh": "泰国驻伦敦大使馆：多次入境旅游签证（METV）",
+        "ja": "在ロンドン・タイ王国大使館：マルチプルエントリー観光ビザ（METV）",
+        "ko": "주영국 태국 대사관(런던): 복수 입국 관광 비자(METV)",
+        "hi": "रॉयल थाई दूतावास लंदन: मल्टीपल-एंट्री टूरिस्ट वीज़ा (METV)",
+        "ar": "السفارة التايلاندية الملكية في لندن: التأشيرة السياحية متعددة الدخول (METV)",
+        "ms": "Kedutaan Diraja Thailand London: visa pelancong kemasukan berganda (METV)",
+        "vi": "Đại sứ quán Hoàng gia Thái Lan tại London: visa du lịch nhiều lần nhập cảnh (METV)",
+        "pa": "ਰਾਇਲ ਥਾਈ ਦੂਤਾਵਾਸ ਲੰਡਨ: ਕਈ ਵਾਰ ਦਾਖ਼ਲੇ ਵਾਲਾ ਟੂਰਿਸਟ ਵੀਜ਼ਾ (METV)"
       },
       "url": "https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa"
     },
@@ -49,7 +85,19 @@
         "en": "Royal Thai Embassy Oslo: tourist visa",
         "fr": "Ambassade royale de Thaïlande à Oslo : visa touristique",
         "nl": "Koninklijke Thaise ambassade Oslo: toeristenvisum",
-        "th": "สถานเอกอัครราชทูต ณ กรุงออสโล: วีซ่าท่องเที่ยว"
+        "th": "สถานเอกอัครราชทูต ณ กรุงออสโล: วีซ่าท่องเที่ยว",
+        "es": "Real Embajada de Tailandia en Oslo: visado de turista",
+        "de": "Königlich Thailändische Botschaft Oslo: Touristenvisum",
+        "pt": "Embaixada Real da Tailândia em Oslo: visto de turista",
+        "ru": "Посольство Таиланда в Осло: туристическая виза",
+        "zh": "泰国驻奥斯陆大使馆：旅游签证",
+        "ja": "在オスロ・タイ王国大使館：観光ビザ",
+        "ko": "주노르웨이 태국 대사관(오슬로): 관광 비자",
+        "hi": "रॉयल थाई दूतावास ओस्लो: टूरिस्ट वीज़ा",
+        "ar": "السفارة التايلاندية الملكية في أوسلو: التأشيرة السياحية",
+        "ms": "Kedutaan Diraja Thailand Oslo: visa pelancong",
+        "vi": "Đại sứ quán Hoàng gia Thái Lan tại Oslo: visa du lịch",
+        "pa": "ਰਾਇਲ ਥਾਈ ਦੂਤਾਵਾਸ ਓਸਲੋ: ਟੂਰਿਸਟ ਵੀਜ਼ਾ"
       },
       "url": "https://oslo.thaiembassy.org/en/page/tourist-visa?menu=60b4c9c5ba2e442f78688be2"
     },
@@ -58,7 +106,19 @@
         "en": "Thailand Digital Arrival Card (TDAC) official website",
         "fr": "Site officiel de la Thailand Digital Arrival Card (TDAC)",
         "nl": "Officiële website Thailand Digital Arrival Card (TDAC)",
-        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)"
+        "th": "เว็บไซต์ทางการบัตรขาเข้าดิจิทัล (TDAC)",
+        "es": "Web oficial de la Thailand Digital Arrival Card (TDAC)",
+        "de": "Offizielle Website der Thailand Digital Arrival Card (TDAC)",
+        "pt": "Site oficial do Thailand Digital Arrival Card (TDAC)",
+        "ru": "Официальный сайт Thailand Digital Arrival Card (TDAC)",
+        "zh": "泰国数字入境卡（TDAC）官方网站",
+        "ja": "Thailand Digital Arrival Card（TDAC）公式サイト",
+        "ko": "Thailand Digital Arrival Card(TDAC) 공식 웹사이트",
+        "hi": "Thailand Digital Arrival Card (TDAC) आधिकारिक वेबसाइट",
+        "ar": "الموقع الرسمي لبطاقة الوصول الرقمية التايلاندية (TDAC)",
+        "ms": "Laman web rasmi Thailand Digital Arrival Card (TDAC)",
+        "vi": "Trang chính thức của Thẻ nhập cảnh điện tử Thái Lan (TDAC)",
+        "pa": "Thailand Digital Arrival Card (TDAC) ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ"
       },
       "url": "https://tdac.immigration.go.th/"
     }

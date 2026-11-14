@@ -1,9 +1,10 @@
-import type { Country, VisaFacts } from "@tve/content/schema";
+import type { Country, LocalizedString, VisaFacts } from "@tve/content/schema";
+import { LOCALES } from "@tve/content/locales";
+
+const label = Object.fromEntries(LOCALES.map((l) => [l, "x"])) as LocalizedString;
 
 const base = {
-  officialSources: [
-    { label: { en: "x", fr: "x", nl: "x", th: "x" }, url: "https://www.thaievisa.go.th/" },
-  ],
+  officialSources: [{ label, url: "https://www.thaievisa.go.th/" }],
   relatedVisas: [],
   todo: [],
   lastVerified: "2026-09-28",

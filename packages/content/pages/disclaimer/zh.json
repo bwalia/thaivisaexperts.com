@@ -1,0 +1,59 @@
+{
+  "title": "免责声明",
+  "summary": "Thai Visa Experts 是一个独立的信息网站。我们不是泰国政府、移民局或使领馆，本站页面仅为一般性指引，不构成法律意见。出行前请务必通过官方渠道确认相关规定。",
+  "seoTitle": "免责声明：独立网站，非官方",
+  "seoDescription": "Thai Visa Experts 与泰国王国政府、移民局或任何使领馆均无关联。本站信息仅为一般性指引，不构成法律意见。",
+  "sections": [
+    {
+      "heading": "我们不是政府网站",
+      "paragraphs": [
+        "Thai Visa Experts 是独立网站。我们与泰国王国政府、外交部、移民局、投资促进委员会、Thailand Privilege 或任何泰国驻外使领馆均无关联，未获其认可，也不代表其行事。",
+        "只有泰国当局才能签发签证，并决定谁可以入境或停留泰国。移民官员在边境拥有自由裁量权，持有正确的签证也不能保证一定获准入境。"
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "一般性指引，而非法律意见",
+      "paragraphs": [
+        "本站页面以概括的方式解释相关规定，帮助您了解自己的选择。这些内容并非法律、移民或税务意见，也无法涵盖所有个人情况。如果您的情况较为复杂，例如曾经逾期停留、有犯罪记录、需要变更身份或涉及税务问题，请咨询合格的律师或税务顾问，或直接联系相关部门。"
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "请务必通过官方来源确认",
+      "paragraphs": [
+        "在申请、付款或预订行程之前，请在官方网站上核实现行规定。我们的每个页面都链接了所使用的来源。"
+      ],
+      "list": [
+        "泰国 e-Visa 网站：thaievisa.go.th",
+        "外交部领事司：consular.mfa.go.th",
+        "移民局：immigration.go.th",
+        "泰国数字入境卡（Thailand Digital Arrival Card）：tdac.immigration.go.th",
+        "受理您申请的泰国驻外使领馆网站"
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "规定会变化",
+      "paragraphs": [
+        "泰国的签证规定、费用和入境政策经常变化，有时通知期很短。例如，2026 年 9 月 15 日起，许多国籍的免签停留期由 60 天改为 30 天。每个页面都会显示“最后核实”日期。在该日期正确的信息，到您阅读时可能已经过时，而且各使领馆可以自行设定要求。"
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "我们绝不索取护照信息或签证费用",
+      "paragraphs": [
+        "我们不办理签证申请。我们绝不会向您索取护照号码、护照扫描件、银行流水，也不会收取签证、TDAC 或任何其他政府服务的费用。任何自称来自 Thai Visa Experts 并索要上述信息的人都不是我们。请向 hello@thaivisaexperts.com 举报。",
+        "签证费用请仅通过 thaievisa.go.th 或按泰国使领馆的指示支付。TDAC 是免费的。"
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

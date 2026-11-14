@@ -8,7 +8,19 @@
         "en": "Immigration Bureau: online residence notification (TM30)",
         "fr": "Bureau de l'immigration : déclaration de résidence en ligne (TM30)",
         "nl": "Immigratiebureau: online verblijfsmelding (TM30)",
-        "th": "สำนักงานตรวจคนเข้าเมือง: การแจ้งที่พักออนไลน์ (ตม.30)"
+        "th": "สำนักงานตรวจคนเข้าเมือง: การแจ้งที่พักออนไลน์ (ตม.30)",
+        "es": "Oficina de Inmigración: notificación de residencia en línea (TM30)",
+        "de": "Immigration Bureau: Online-Wohnsitzmeldung (TM30)",
+        "pt": "Immigration Bureau: notificação de residência online (TM30)",
+        "ru": "Иммиграционное бюро: онлайн-уведомление о месте проживания (TM30)",
+        "zh": "移民局：在线住址报告（TM30）",
+        "ja": "入国管理局：居住届け出のオンライン提出（TM30）",
+        "ko": "태국 이민국: 온라인 거주지 신고(TM30)",
+        "hi": "इमिग्रेशन ब्यूरो: ऑनलाइन निवास सूचना (TM30)",
+        "ar": "مكتب الهجرة: الإشعار الإلكتروني بالإقامة (TM30)",
+        "ms": "Biro Imigresen: pemberitahuan kediaman dalam talian (TM30)",
+        "vi": "Cục Xuất nhập cảnh: thông báo cư trú trực tuyến (TM30)",
+        "pa": "ਇਮੀਗ੍ਰੇਸ਼ਨ ਬਿਊਰੋ: ਔਨਲਾਈਨ ਨਿਵਾਸ ਸੂਚਨਾ (TM30)"
       },
       "url": "https://tm30.immigration.go.th/"
     },
@@ -17,7 +29,19 @@
         "en": "Samut Prakan Immigration: frequently asked questions",
         "fr": "Immigration de Samut Prakan : questions fréquentes",
         "nl": "Immigratie Samut Prakan: veelgestelde vragen",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: คำถามที่พบบ่อย",
+        "es": "Inmigración de Samut Prakan: preguntas frecuentes",
+        "de": "Einwanderungsbehörde Samut Prakan: häufig gestellte Fragen",
+        "pt": "Imigração de Samut Prakan: perguntas frequentes",
+        "ru": "Иммиграционная служба Самутпракана: частые вопросы",
+        "zh": "北榄府移民局：常见问题",
+        "ja": "サムットプラーカーン入国管理局：よくある質問",
+        "ko": "사뭇쁘라깐 이민국: 자주 묻는 질문",
+        "hi": "Samut Prakan इमिग्रेशन: अक्सर पूछे जाने वाले प्रश्न",
+        "ar": "هجرة ساموت براكان: الأسئلة الشائعة",
+        "ms": "Imigresen Samut Prakan: soalan lazim",
+        "vi": "Xuất nhập cảnh Samut Prakan: câu hỏi thường gặp",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ"
       },
       "url": "https://www.samutprakanimmigration.go.th/frequently-asked-questions/"
     },
@@ -26,7 +50,19 @@
         "en": "Samut Prakan Immigration: notification of staying over 90 days",
         "fr": "Immigration de Samut Prakan : déclaration de séjour de plus de 90 jours",
         "nl": "Immigratie Samut Prakan: melding van verblijf langer dan 90 dagen",
-        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: การแจ้งอยู่เกิน 90 วัน"
+        "th": "ตรวจคนเข้าเมืองจังหวัดสมุทรปราการ: การแจ้งอยู่เกิน 90 วัน",
+        "es": "Inmigración de Samut Prakan: notificación de estancia superior a 90 días",
+        "de": "Einwanderungsbehörde Samut Prakan: Meldung bei Aufenthalt über 90 Tage",
+        "pt": "Imigração de Samut Prakan: notificação de estadia superior a 90 dias",
+        "ru": "Иммиграционная служба Самутпракана: уведомление о пребывании свыше 90 дней",
+        "zh": "北榄府移民局：停留超过 90 天的报告",
+        "ja": "サムットプラーカーン入国管理局：90日を超える滞在の届け出",
+        "ko": "사뭇쁘라깐 이민국: 90일 이상 체류 신고",
+        "hi": "Samut Prakan इमिग्रेशन: 90 दिन से ज़्यादा रहने की सूचना",
+        "ar": "هجرة ساموت براكان: الإبلاغ عن الإقامة لأكثر من 90 يومًا",
+        "ms": "Imigresen Samut Prakan: pemberitahuan tinggal melebihi 90 hari",
+        "vi": "Xuất nhập cảnh Samut Prakan: thông báo lưu trú quá 90 ngày",
+        "pa": "ਸਮੁਤ ਪ੍ਰਾਕਾਨ ਇਮੀਗ੍ਰੇਸ਼ਨ: 90 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਠਹਿਰ ਦੀ ਸੂਚਨਾ"
       },
       "url": "https://www.samutprakanimmigration.go.th/notification-of-staying-in-the-kingdom-over-90-days/"
     }

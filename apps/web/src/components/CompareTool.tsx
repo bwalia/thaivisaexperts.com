@@ -91,7 +91,7 @@ export function CompareTool({
         <>
           {/* Desktop: table */}
           <div className="mt-6 hidden overflow-x-auto md:block">
-            <table className="card w-full border-collapse text-left">
+            <table className="card w-full border-collapse text-start">
               <caption className="sr-only">{t("title")}</caption>
               <thead>
                 <tr className="border-b border-border">

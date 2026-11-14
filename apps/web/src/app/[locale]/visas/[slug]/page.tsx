@@ -291,7 +291,8 @@ export default async function VisaPage({ params }: Params) {
       {/* Sticky mobile CTA */}
       <div className="no-print fixed inset-x-0 bottom-0 z-30 border-t border-border bg-surface/95 p-3 backdrop-blur lg:hidden">
         <Link href="/visa-finder" className="btn btn-primary w-full">
-          {t("common.startFinder")} <ArrowRight className="size-4" aria-hidden="true" />
+          {t("common.startFinder")}{" "}
+          <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
         </Link>
       </div>
       <div className="h-20 lg:hidden" aria-hidden="true" />

@@ -35,7 +35,11 @@
   --shadow-lg: var(--tve-shadow-lg);
   --shadow-xl: var(--tve-shadow-xl);
 
-  --font-sans: "Noto Sans Thai Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-sans:
+    "Noto Sans Thai Variable", "Noto Sans Variable", "Noto Sans Devanagari Variable",
+    "Noto Sans Gurmukhi Variable", "Noto Sans Arabic Variable", ui-sans-serif, system-ui,
+    "PingFang SC", "Hiragino Sans", "Apple SD Gothic Neo", "Microsoft YaHei", "Noto Sans CJK SC",
+    sans-serif;
   --ease-standard: var(--tve-easing);
 }
 
@@ -67,6 +71,50 @@
     line-height: 1.45;
   }
   :lang(th) * {
+    letter-spacing: normal !important;
+    text-transform: none !important;
+  }
+
+  /* Per-language font stacks: the script's own Noto family first, so Latin digits and
+     punctuation match the text around them. CJK lists the right regional fonts first,
+     because Chinese, Japanese and Korean draw the same characters differently. */
+  :lang(ru) body,
+  :lang(vi) body {
+    font-family: "Noto Sans Variable", ui-sans-serif, system-ui, sans-serif;
+  }
+  :lang(hi) body {
+    font-family: "Noto Sans Devanagari Variable", "Noto Sans Variable", system-ui, sans-serif;
+  }
+  :lang(pa) body {
+    font-family: "Noto Sans Gurmukhi Variable", "Noto Sans Variable", system-ui, sans-serif;
+  }
+  :lang(ar) body {
+    font-family: "Noto Sans Arabic Variable", "Noto Sans Variable", system-ui, sans-serif;
+  }
+  :lang(zh) body {
+    font-family:
+      "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC",
+      "Noto Sans Variable", system-ui, sans-serif;
+  }
+  :lang(ja) body {
+    font-family:
+      "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", "Noto Sans CJK JP",
+      "Noto Sans JP", "Noto Sans Variable", system-ui, sans-serif;
+  }
+  :lang(ko) body {
+    font-family:
+      "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR",
+      "Noto Sans Variable", system-ui, sans-serif;
+  }
+  /* Scripts with marks above/below the line, and CJK, need taller lines; none of them
+     use capital letters, and letter-spacing breaks joined (Arabic) or clustered scripts. */
+  :is(:lang(hi), :lang(pa), :lang(ar), :lang(zh), :lang(ja), :lang(ko)) body {
+    line-height: 1.8;
+  }
+  :is(:lang(hi), :lang(pa), :lang(ar), :lang(zh), :lang(ja), :lang(ko)) :is(h1, h2, h3, h4) {
+    line-height: 1.45;
+  }
+  :is(:lang(hi), :lang(pa), :lang(ar), :lang(zh), :lang(ja), :lang(ko)) * {
     letter-spacing: normal !important;
     text-transform: none !important;
   }

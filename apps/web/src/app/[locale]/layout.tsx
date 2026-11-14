@@ -2,9 +2,14 @@ import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import "@fontsource-variable/noto-sans-thai/wght.css";
+import "@fontsource-variable/noto-sans/wght.css";
+import "@fontsource-variable/noto-sans-devanagari/wght.css";
+import "@fontsource-variable/noto-sans-gurmukhi/wght.css";
+import "@fontsource-variable/noto-sans-arabic/wght.css";
 import { hasLocale } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getAnnouncements, type Locale } from "@tve/content";
+import { isRtl } from "@tve/content/locales";
 import { routing } from "@/i18n/routing";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -14,9 +19,10 @@ import { JsonLd } from "@/components/JsonLd";
 import { ClientMessages } from "@/components/ClientMessages";
 import { SITE_URL, absoluteUrl } from "@/lib/site";
 
-// Noto Sans Thai includes Latin, so one family serves en/fr/nl/th (see design-system MASTER.md).
-// Self-hosted from npm (variable weight, thai + latin subsets via unicode-range) so builds
-// never depend on fetching Google Fonts.
+// Noto Sans Thai includes Latin, so it leads for en/fr/nl/th (see design-system MASTER.md).
+// Other scripts use the matching Noto family (globals.css picks the stack per language).
+// All self-hosted from npm and split by unicode-range, so a page only downloads the
+// scripts it uses and builds never fetch Google Fonts. CJK uses system fonts (too large).
 
 export const dynamicParams = false;
 
@@ -67,7 +73,7 @@ export default async function LocaleLayout({
   const announcement = getAnnouncements().find((a) => a.active);
 
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html lang={locale} dir={isRtl(locale as Locale) ? "rtl" : "ltr"} suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
@@ -75,7 +81,7 @@ export default async function LocaleLayout({
         <ClientMessages locale={locale as Locale}>
           <a
             href="#main"
-            className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-surface focus:px-4 focus:py-2 focus:shadow-lg"
+            className="sr-only focus:not-sr-only focus:fixed focus:start-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-surface focus:px-4 focus:py-2 focus:shadow-lg"
           >
             {ta("skipToContent")}
           </a>

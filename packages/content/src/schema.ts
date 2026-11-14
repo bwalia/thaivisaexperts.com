@@ -1,18 +1,15 @@
 import { z } from "zod";
 
-import { PURPOSES, VISA_CATEGORIES, type Locale } from "./locales";
+import { LOCALES, PURPOSES, VISA_CATEGORIES, type Locale } from "./locales";
 
 export { LOCALES, DEFAULT_LOCALE, PURPOSES, VISA_CATEGORIES, type Locale } from "./locales";
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "Expected YYYY-MM-DD");
 
 /** A string in every supported locale. */
-export const LocalizedString = z.object({
-  en: z.string().min(1),
-  fr: z.string().min(1),
-  nl: z.string().min(1),
-  th: z.string().min(1),
-});
+export const LocalizedString = z.object(
+  Object.fromEntries(LOCALES.map((l) => [l, z.string().min(1)])) as Record<Locale, z.ZodString>,
+);
 export type LocalizedString = z.infer<typeof LocalizedString>;
 
 export const VisaCategory = z.enum(VISA_CATEGORIES);

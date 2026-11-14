@@ -150,7 +150,8 @@ export default async function HomePage({ params }: LocaleParams) {
               <p className="mt-2 text-muted-foreground">{t("popularText")}</p>
             </div>
             <Link href="/visas" className="inline-flex min-h-11 items-center gap-1 font-semibold">
-              {c("browseVisas")} <ArrowRight className="size-4" aria-hidden="true" />
+              {c("browseVisas")}{" "}
+              <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
             </Link>
           </div>
           <ul className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -242,7 +243,7 @@ export default async function HomePage({ params }: LocaleParams) {
         <div className="container-page py-14">
           <FaqList faqs={faqs} title={t("faqTitle")} jsonLd={false} />
           <Link href="/faq" className="mt-4 inline-flex min-h-11 items-center gap-1 font-semibold">
-            {t("faqMore")} <ArrowRight className="size-4" aria-hidden="true" />
+            {t("faqMore")} <ArrowRight className="size-4 rtl:-scale-x-100" aria-hidden="true" />
           </Link>
         </div>
       )}

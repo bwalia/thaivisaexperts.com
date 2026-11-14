@@ -178,6 +178,18 @@ importers:
 
   apps/web:
     dependencies:
+      '@fontsource-variable/noto-sans':
+        specifier: ^5.3.0
+        version: 5.3.0
+      '@fontsource-variable/noto-sans-arabic':
+        specifier: ^5.3.0
+        version: 5.3.0
+      '@fontsource-variable/noto-sans-devanagari':
+        specifier: ^5.3.0
+        version: 5.3.0
+      '@fontsource-variable/noto-sans-gurmukhi':
+        specifier: ^5.3.0
+        version: 5.3.0
       '@fontsource-variable/noto-sans-thai':
         specifier: ^5.3.0
         version: 5.3.0
@@ -584,8 +596,20 @@ packages:
     resolution: {integrity: sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
+  '@fontsource-variable/noto-sans-arabic@5.3.0':
+    resolution: {integrity: sha512-Rz8+DBzza3//cmN+DBQajJhx3x+Dx12eUgnQsTOgPWbOT0+In6APmE8z4I/QQnUWfAx+s8l93+60qDT5vJH1sA==}
+
+  '@fontsource-variable/noto-sans-devanagari@5.3.0':
+    resolution: {integrity: sha512-52XBcJS3jRvZ5ugFXJvdKgffXPYnN08LeodXkgCbepOdMKVRVTQu1yj071cq8S3zmUwT6w6XKKXRSQlQkwwNNg==}
+
+  '@fontsource-variable/noto-sans-gurmukhi@5.3.0':
+    resolution: {integrity: sha512-JNLyLBtmTUzNwRlnkYqliOHTOMt0PCGXWf5sWRShoki/ADGdjPDVEFPwe/Y7KnjG8ijCQZrMuqvj/jHkYd3Ptg==}
+
   '@fontsource-variable/noto-sans-thai@5.3.0':
     resolution: {integrity: sha512-jHEC1vo8gD09GKf8jtH1IMoPqWmQQSKH3gkyD3ibCIMEkVpEqJ9NJ2c181VHKbTHXc7Wu9CbuBU3yjQNvpbEbw==}
+
+  '@fontsource-variable/noto-sans@5.3.0':
+    resolution: {integrity: sha512-e3ZuxzY9AL2psXPZlhwhnYrHUHv6PMoyK9MQ7croF0CUgURLqu9EMjW7q2FgVLwij1tjLsIHQrnwQ8aUcg4BiA==}
 
   '@formatjs/fast-memoize@3.1.7':
     resolution: {integrity: sha512-zXfhLpvA6T7+efdt9JLbBwZ00tT7NsBMDVnDu8rpHeNNv8KfRZAMo2gkG0k9lK/Nzc//3kJ9pImsfuJxk3KhUA==}
@@ -3577,7 +3601,15 @@ snapshots:
       '@eslint/core': 0.17.0
       levn: 0.4.1
 
+  '@fontsource-variable/noto-sans-arabic@5.3.0': {}
+
+  '@fontsource-variable/noto-sans-devanagari@5.3.0': {}
+
+  '@fontsource-variable/noto-sans-gurmukhi@5.3.0': {}
+
   '@fontsource-variable/noto-sans-thai@5.3.0': {}
+
+  '@fontsource-variable/noto-sans@5.3.0': {}
 
   '@formatjs/fast-memoize@3.1.7': {}
 

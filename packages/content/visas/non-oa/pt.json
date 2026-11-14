@@ -1,0 +1,102 @@
+{
+  "name": "Visto Non-Immigrant O-A (longa estadia)",
+  "shortName": "Non-O-A",
+  "summary": "Um visto de longa estadia de 1 ano com entradas múltiplas para pessoas com 50 anos ou mais, solicitado no seu país. Você precisa de 800.000 THB ou 65.000 THB por mês, atestado de antecedentes criminais, atestado médico e seguro-saúde. Cada entrada dá até um ano na Tailândia.",
+  "seoTitle": "Visto O-A de longa estadia na Tailândia: seguro, recursos e antecedentes",
+  "seoDescription": "O visto Non-Immigrant O-A para maiores de 50: 800.000 THB ou 65.000 THB por mês, seguro-saúde obrigatório, atestados médico e de antecedentes, taxas e como solicitar.",
+  "validity": "O visto vale por 1 ano, com entradas múltiplas. Cada entrada dá até 1 ano de estadia, então entrar pouco antes de o visto expirar pode render quase 2 anos.",
+  "extendableDetail": "Sim. Você pode prorrogar sua estadia por 1 ano de cada vez em um escritório de imigração tailandês, com base na aposentadoria (formulário TM7, taxa de 1.900 THB). É preciso continuar cumprindo as regras financeiras, e dos titulares de O-A também se exige seguro-saúde tailandês.",
+  "feeNote": "5.000 THB na tabela de taxas tailandesa para um visto Non-Immigrant de entradas múltiplas. As embaixadas cobram em moeda local. Cada prorrogação na Tailândia custa 1.900 THB.",
+  "financialRequirement": "Pelo menos 800.000 THB em uma conta bancária, renda mensal de pelo menos 65.000 THB ou (em algumas embaixadas) economias mais renda anual que somem 800.000 THB. Geralmente são pedidos extratos bancários dos últimos 3 meses.",
+  "processingTime": "Depende da embaixada. Algumas informam pelo menos 15 dias úteis. Reserve tempo extra para preparar antes o atestado de antecedentes, o atestado médico e o formulário do seguro.",
+  "keyRequirements": [
+    "Você tem 50 anos ou mais no dia do pedido.",
+    "Você faz o pedido no seu país de nacionalidade ou onde tem residência permanente.",
+    "Você tem 800.000 THB em economias ou renda de 65.000 THB por mês.",
+    "Você tem seguro-saúde que cumpre as regras tailandesas (o site de e-Visa pede cobertura de pelo menos USD 100.000 ou 3.000.000 THB).",
+    "Você não tem antecedentes criminais nem doenças proibidas.",
+    "Você não trabalha na Tailândia. Nenhum tipo de emprego é permitido."
+  ],
+  "documents": [
+    "Passaporte com validade suficiente para cobrir sua estadia (algumas embaixadas pedem 18 meses)",
+    "Foto recente tipo passaporte (tirada nos últimos 6 meses)",
+    "Comprovante de residência permanente no país onde você faz o pedido",
+    "Extratos bancários dos últimos 3 meses mostrando pelo menos 800.000 THB, ou comprovante de renda mensal de 65.000 THB",
+    "Atestado de antecedentes criminais do seu país de nacionalidade ou residência",
+    "Atestado médico emitido nos últimos 3 meses mostrando ausência de doenças proibidas",
+    "Formulário Foreign Insurance Certificate, preenchido e carimbado pela sua seguradora (disponível em longstay.tgia.org)",
+    "Apólice de seguro-saúde que cubra toda a sua estadia"
+  ],
+  "howToApply": [
+    {
+      "step": "Obtenha o atestado de antecedentes",
+      "detail": "Peça um atestado de antecedentes criminais ao seu país de nacionalidade ou residência. Algumas embaixadas exigem reconhecimento em cartório, então confirme antes."
+    },
+    {
+      "step": "Vá ao médico",
+      "detail": "Obtenha um atestado médico que mostre que você não tem nenhuma das doenças listadas no Regulamento Ministerial tailandês nº 14. Ele deve ter menos de 3 meses na data do pedido."
+    },
+    {
+      "step": "Contrate o seguro-saúde",
+      "detail": "Contrate uma apólice que cumpra as regras tailandesas e peça à sua seguradora que preencha e carimbe o formulário Foreign Insurance Certificate de longstay.tgia.org."
+    },
+    {
+      "step": "Faça o pedido no site de e-Visa",
+      "detail": "Solicite em thaievisa.go.th, escolhendo Long-stay (O-A). Envie todos os documentos e pague a taxa."
+    },
+    {
+      "step": "Entre na Tailândia",
+      "detail": "Preencha o TDAC gratuito nos 3 dias anteriores à chegada. Cada entrada dá até 1 ano."
+    },
+    {
+      "step": "Mantenha-se em dia",
+      "detail": "Faça o relatório a cada 90 dias, obtenha uma permissão de reentrada antes de sair se quiser manter sua estadia e prorrogue na imigração antes que sua permissão termine."
+    }
+  ],
+  "bestFor": [
+    "Aposentados com 50+ anos que querem um ano inteiro desde o dia em que chegam",
+    "Quem entra e sai da Tailândia com frequência (entradas múltiplas)",
+    "Quem prefere resolver a papelada no seu país antes da mudança"
+  ],
+  "notFor": [
+    "Menores de 50 anos",
+    "Quem não consegue um seguro-saúde acessível, por exemplo por causa da idade ou de doenças preexistentes",
+    "Quem quer trabalhar na Tailândia",
+    "Quem não mora no país onde faria o pedido"
+  ],
+  "commonMistakes": [
+    "Contratar um seguro que não tem a cobertura exigida, ou não carimbar o formulário Foreign Insurance Certificate",
+    "Deixar o atestado médico ou de antecedentes ficar mais antigo do que a embaixada permite",
+    "Solicitar fora do seu país de nacionalidade ou residência permanente",
+    "Sair da Tailândia sem permissão de reentrada após uma prorrogação, o que a cancela",
+    "Esquecer o relatório de endereço de 90 dias"
+  ],
+  "faqs": [
+    {
+      "q": "Qual a diferença entre o O-A e o visto de aposentadoria Non-O?",
+      "a": "O O-A dá até um ano logo de início e permite entradas múltiplas, mas você precisa solicitá-lo do exterior com atestado de antecedentes, atestado médico e seguro-saúde. O Non-O dá 90 dias, depois você prorroga para um ano dentro da Tailândia, e o seguro-saúde não é exigido."
+    },
+    {
+      "q": "De quanto seguro-saúde eu preciso?",
+      "a": "O site oficial de e-Visa pede seguro-saúde de uma seguradora tailandesa ou estrangeira com cobertura de pelo menos USD 100.000 ou 3.000.000 THB. Alguns consulados ainda informam cobertura de 40.000 THB ambulatorial e 400.000 THB hospitalar. Confirme com a embaixada que vai processar seu pedido."
+    },
+    {
+      "q": "Posso usar uma seguradora estrangeira?",
+      "a": "Sim, para o visto, desde que a seguradora preencha e carimbe o formulário Foreign Insurance Certificate. Para prorrogações dentro da Tailândia, a imigração geralmente pede uma apólice de seguradora tailandesa."
+    },
+    {
+      "q": "Posso ficar mais de um ano?",
+      "a": "Sim. Entre novamente antes de o visto expirar para mais um ano, ou prorrogue sua estadia em um escritório de imigração por 1 ano de cada vez."
+    },
+    {
+      "q": "O dinheiro precisa estar na Tailândia?",
+      "a": "Não para o visto em si. Extratos do banco do seu país servem. Para prorrogações dentro da Tailândia, o dinheiro precisa estar em uma conta em banco tailandês."
+    },
+    {
+      "q": "Posso trabalhar?",
+      "a": "Não. Qualquer tipo de emprego é proibido com o O-A."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}

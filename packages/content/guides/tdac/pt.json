@@ -1,0 +1,98 @@
+{
+  "title": "Thailand Digital Arrival Card (TDAC): como preencher gratuitamente",
+  "summary": "Todo estrangeiro que entra na Tailândia deve enviar o Thailand Digital Arrival Card (TDAC, cartão digital de chegada) online nos 3 dias anteriores à chegada. Ele substituiu o cartão de papel TM6 em 1º de maio de 2025. É gratuito no site oficial, tdac.immigration.go.th. Sites que cobram não são do governo.",
+  "seoTitle": "TDAC Tailândia: cartão de chegada gratuito, regra dos 3 dias e golpes",
+  "seoDescription": "Quem precisa do Thailand Digital Arrival Card, quando enviá-lo, o único site oficial (tdac.immigration.go.th) e como evitar sites pagos que imitam o oficial.",
+  "sections": [
+    {
+      "heading": "O que é o TDAC",
+      "paragraphs": [
+        "O TDAC é um formulário de chegada online administrado pelo Immigration Bureau da Tailândia junto com o Ministério da Saúde Pública. Ele substituiu o cartão de chegada de papel TM6 a partir de 1º de maio de 2025.",
+        "Não é um visto. Ele só registra quem você é, como chega e onde vai ficar. Você continua precisando do visto certo ou da isenção de visto para entrar."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Quem precisa",
+      "paragraphs": [
+        "Todos os estrangeiros que entram na Tailândia precisam de um TDAC, seja por via aérea, terrestre ou marítima. Isso inclui titulares de vistos de longa estadia e prorrogações."
+      ],
+      "list": [
+        "Não precisam: passageiros em trânsito ou conexão que não passam pelo controle de imigração tailandês.",
+        "Não precisam: pessoas que entram com um Border Pass.",
+        "Não precisam: cidadãos tailandeses."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Quando enviar",
+      "paragraphs": [
+        "Envie nos 3 dias anteriores à data de chegada. Se enviar cedo demais, o sistema não aceita. Enviar um ou dois dias antes do voo é o mais fácil.",
+        "Se seus planos mudarem, você pode editar o TDAC no site oficial antes de chegar."
+      ],
+      "list": [],
+      "ordered": false
+    },
+    {
+      "heading": "Como preencher",
+      "paragraphs": [],
+      "list": [
+        "Acesse tdac.immigration.go.th. Confira o endereço com cuidado: ele termina em .go.th.",
+        "Informe os dados do passaporte exatamente como impressos, em inglês.",
+        "Acrescente o número do voo ou do veículo, a data de chegada e onde você embarcou.",
+        "Informe seu primeiro endereço na Tailândia, como o hotel.",
+        "Preencha a breve declaração de saúde sobre os países que visitou recentemente.",
+        "Envie e depois salve ou faça uma captura de tela da confirmação com o QR code e o número. A imigração pode pedir para vê-la."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Cuidado com sites de golpe",
+      "paragraphs": [
+        "Muitos sites e anúncios pagos em buscadores copiam o visual do site oficial e cobram uma taxa, às vezes chamando-a de processamento \"urgente\" ou \"expresso\". O TDAC oficial é gratuito. Não existe via rápida paga.",
+        "Antes de digitar qualquer dado, confira se o endereço é exatamente tdac.immigration.go.th. Se o site pedir pagamento com cartão, feche-o."
+      ],
+      "list": [
+        "Gratuito: tdac.immigration.go.th, o único site oficial.",
+        "Sinal de alerta: qualquer taxa, \"taxa de serviço\" ou \"processamento urgente\".",
+        "Sinal de alerta: um domínio que não termina em .go.th.",
+        "Sinal de alerta: nenhum nome de empresa ou endereço claro no site."
+      ],
+      "ordered": false
+    },
+    {
+      "heading": "Se algo der errado",
+      "paragraphs": [
+        "Se você esqueceu de enviar, geralmente ainda dá para fazer pelo celular antes de chegar ao controle de passaportes. Tenha à mão o passaporte, os dados do voo e o primeiro endereço.",
+        "Se você já pagou a um site imitador, fale com o emissor do seu cartão sobre um reembolso. Depois confira se você tem um número de TDAC verdadeiro do site oficial."
+      ],
+      "list": [],
+      "ordered": false
+    }
+  ],
+  "faqs": [
+    {
+      "q": "O TDAC custa alguma coisa?",
+      "a": "Não. Ele é gratuito no site oficial. Quem cobrar de você é uma empresa privada, não o governo tailandês."
+    },
+    {
+      "q": "O TDAC é um visto?",
+      "a": "Não. É apenas um cartão de chegada. Você continua precisando de visto ou de isenção de visto."
+    },
+    {
+      "q": "Moro na Tailândia. Ainda preciso dele?",
+      "a": "O aviso oficial diz que todos os estrangeiros precisam enviá-lo, então preencha a cada retorno, mesmo com visto de longa estadia e permissão de reentrada."
+    },
+    {
+      "q": "Crianças precisam do próprio TDAC?",
+      "a": "Sim. Cada viajante precisa de um. O site oficial permite incluir acompanhantes em um único envio em grupo."
+    },
+    {
+      "q": "Só vou trocar de avião em Bangkok. Preciso de um?",
+      "a": "Não, se você permanecer na área de trânsito e não passar pela imigração tailandesa."
+    }
+  ],
+  "translatedFrom": "2026-09-28",
+  "reviewStatus": "machine"
+}
